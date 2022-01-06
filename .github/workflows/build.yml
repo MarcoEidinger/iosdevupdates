@@ -15,8 +15,9 @@ jobs:
     - uses: actions/checkout@v2
     - run: node -v
     - run: brew install mint
-    - run: mint run MarcoEidinger/iDDBlockChecker
+    - run: mint run MarcoEidinger/iDDBlockChecker@main --force
     - run: idd-blog-checker --save-as-file --yello
+    - run: cp updated.json src/
     - name: Push to gh-pages
       run: |
           git config --global user.email "${GITHUB_ACTOR}"
