@@ -9,7 +9,9 @@ on:
 jobs:
   build:
 
-    runs-on: macos-latest
+    runs-on: 	macos-11
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_13.2.1.app/Contents/Developer
 
     steps:
     - uses: actions/checkout@v2
