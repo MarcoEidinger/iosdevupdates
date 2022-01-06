@@ -17,3 +17,19 @@ jobs:
     - run: brew install mint
     - run: mint run MarcoEidinger/iDDBlockChecker
     - run: idd-blog-checker --save-as-file --yello
+    - name: Push to gh-pages
+      run: |
+          git config --global user.email "${GITHUB_ACTOR}"
+          git config --global user.name "${GITHUB_ACTOR}@users.noreply.github.com"
+          git clone "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" out
+          cd out
+          git checkout gh-pages-alt
+          git rm -rf .
+          cd ..
+          cp -a docs/. out/.
+          cd out
+          git add -A
+          git commit -m "Automated deployment to GitHub Pages: ${GITHUB_SHA}" --allow-empty
+          git push origin gh-pages-alt
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
