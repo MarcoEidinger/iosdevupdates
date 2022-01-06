@@ -18,6 +18,7 @@ jobs:
     - run: mint run MarcoEidinger/iDDBlockChecker@main --force
     - run: idd-blog-checker --save-as-file --yello
     - run: cp updated.json src/
+    - run: npm run build
     - name: Push to gh-pages
       run: |
           git config --global user.email "${GITHUB_ACTOR}"
@@ -27,7 +28,7 @@ jobs:
           git checkout gh-pages-alt
           git rm -rf .
           cd ..
-          cp -a docs/. out/.
+          cp -a build/. out/.
           cd out
           git add -A
           git commit -m "Automated deployment to GitHub Pages: ${GITHUB_SHA}" --allow-empty
