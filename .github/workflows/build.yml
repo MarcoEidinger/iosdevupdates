@@ -17,8 +17,7 @@ jobs:
     - uses: actions/checkout@v2
     - run: node -v
     - run: brew install mint
-    - run: mint run MarcoEidinger/iDDBlockChecker@main --force
-    - run: idd-blog-checker --save-as-file --yello
+    - run: mint run MarcoEidinger/iDDBlockChecker@main --save-as-file --yello
     - run: cp updated.json src/
     - run: npm run build
     - name: Push to gh-pages
