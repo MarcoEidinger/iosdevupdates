@@ -23,13 +23,6 @@ module.exports = {
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
         'roboto': ['Roboto', 'sans-serif']
-      },
-      backgroundImage: {
-        'wave-top': "url('./assets/img/waveTop.svg')",
-        'wave-bottom': "url('./assets/img/waveBottom.svg')",
-        'virus': "url('./assets/img/uml-inverted.png')",
-        'to-do': "url('./assets/img/cai.svg')",
-        'blog-post': "url('./assets/img/blog.png')",
       }
     },
   },
@@ -45,6 +38,8 @@ module.exports = {
     utils: true,
     logs: true,
     rtl: false,
-    themes: [],
+    themes: [
+      'halloween'
+    ],
   },
 };
