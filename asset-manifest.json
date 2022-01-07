@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/css/main.34aecde9.css",
-    "main.js": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/main.4cf2cd15.js",
+    "main.css": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/css/main.b927bc6f.css",
+    "main.js": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/main.f299f336.js",
     "static/js/787.d184e0ab.chunk.js": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/787.d184e0ab.chunk.js",
     "index.html": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/index.html",
-    "main.34aecde9.css.map": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/css/main.34aecde9.css.map",
-    "main.4cf2cd15.js.map": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/main.4cf2cd15.js.map",
+    "main.b927bc6f.css.map": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/css/main.b927bc6f.css.map",
+    "main.f299f336.js.map": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/main.f299f336.js.map",
     "787.d184e0ab.chunk.js.map": "https://marcoeidinger.github.io/iOSDevDirectoryBlogsRecentlyPosting/static/js/787.d184e0ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34aecde9.css",
-    "static/js/main.4cf2cd15.js"
+    "static/css/main.b927bc6f.css",
+    "static/js/main.f299f336.js"
   ]
 }
