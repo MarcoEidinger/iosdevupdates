@@ -6,7 +6,15 @@ class App extends React.Component {
 
 	constructor(props) {
 		super(props);
-		this.state = { startElement: 0, endElement: 30 };
+		this.state = { startElement: 0, endElement: 30, showInfoBar: true };
+	}
+
+	hideInfoBar = () => {
+		this.setState(prevState => ({
+			startElement: prevState.startElement,
+			endElement: prevState.endElement,
+			showInfoBar: false
+		}));
 	}
 
 	previousPage = () => {
@@ -15,7 +23,8 @@ class App extends React.Component {
 		}
 		this.setState(prevState => ({
 			startElement: prevState.startElement - 30,
-			endElement: prevState.endElement - 30
+			endElement: prevState.endElement - 30,
+			showInfoBar: prevState.hideInfoBar
 		}));
 		window.scrollTo(0, 0)
 	}
@@ -26,7 +35,8 @@ class App extends React.Component {
 		}
 		this.setState(prevState => ({
 			startElement: prevState.startElement + 30,
-			endElement: prevState.endElement + 30
+			endElement: prevState.endElement + 30,
+			showInfoBar: prevState.hideInfoBar
 		}));
 		window.scrollTo(0, 0)
 	}
@@ -34,14 +44,23 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className="App">
-				<div class="alert">
-					<div class="flex-1">
-						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#2196f3" class="w-6 h-6 mx-2">
-							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-						</svg>
-						<label>Site refresh occurs every 3h --- CHECK-AGAIN</label>
+				{this.state.showInfoBar === true &&
+					<div class="alert">
+						<div class="flex-1">
+							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#2196f3" class="w-6 h-6 mx-2">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+							</svg>
+							<label>Site refresh occurs every 3h </label>
+						</div>
+						<div class="flex-none">
+							<button class="btn btn-xs" onClick={this.hideInfoBar}>
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="inline-block w-4 h-4 stroke-current">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+								</svg>
+							</button>
+						</div>
 					</div>
-				</div>
+				}
 				<header className="text-2xl p-4">
 					<p>
 						Latest updates for development sites (🇬🇧) listed on the <a class="link text-primary" href="https://iosdevdirectory.com/" target="_blank" rel="noreferrer">iOS Dev Directory</a>
