@@ -45,12 +45,12 @@ class App extends React.Component {
 		return (
 			<div className="App">
 				{this.state.showInfoBar === true &&
-					<div class="alert">
+					<div class="alert hidden lg:flex">
 						<div class="flex-1">
 							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#2196f3" class="w-6 h-6 mx-2">
 								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
 							</svg>
-							<label>Site refresh occurs every 3h </label>
+							<label>Site refresh occurs every 3h</label>
 						</div>
 						<div class="flex-none">
 							<button class="btn btn-xs" onClick={this.hideInfoBar}>
@@ -61,31 +61,36 @@ class App extends React.Component {
 						</div>
 					</div>
 				}
-				<header className="text-2xl p-4">
-					<p>
-						Latest updates for development sites (🇬🇧) listed on the <a class="link text-primary" href="https://iosdevdirectory.com/" target="_blank" rel="noreferrer">iOS Dev Directory</a>
-					</p>
+				<header className="p-4">
+<h1 class="text-2xl font-extrabold pb-2">Active iOS Dev Blogs</h1>
+					<h2 class="text pb-2">
+						The slightly different feed aggregator powered by the <a class="link text-primary" href="https://iosdevdirectory.com/" target="_blank" rel="noreferrer">iOS Dev Directory</a>
+					</h2>
+<p class="text-xs">Each blog, written in the English language, will be listed only once with its most recent article.</p>
 				</header>
 				<br></br>
 				{this.state.startElement === 0 &&
-					<div class="grid grid-cols-1 gap-1 md:grid-cols-3">
-						<div class="stat">
-							<div class="stat-figure text-primary">
+					<div>
+						<div class="grid grid-cols-1 gap-1 md:grid-cols-3">
+							<div class="stat">
+								<div class="stat-figure text-primary">
+								</div>
+								<div class="stat-title">Total Blogs</div>
+								<div class="stat-value text-primary">{blogs.stats.sites_total}</div>
+								<div class="stat-desc">accessible through RSS</div>
 							</div>
-							<div class="stat-title">Total Blogs</div>
-							<div class="stat-value text-primary">{blogs.stats.sites_total}</div>
-							<div class="stat-desc">accessible through RSS</div>
+							<div class="stat">
+								<div class="stat-title">Most Recent Blogs</div>
+								<div class="stat-value text-success">{blogs.stats.sites_active_30d}</div>
+								<div class="stat-desc">posted within the last 30 days</div>
+							</div>
+							<div class="stat">
+								<div class="stat-title">Active Blogs</div>
+								<div class="stat-value">{blogs.stats.sites_active_90d_in_percentage}%</div>
+								<div class="stat-desc">in the last 90 days</div>
+							</div>
 						</div>
-						<div class="stat">
-							<div class="stat-title">Most Recent Blogs</div>
-							<div class="stat-value text-success">{blogs.stats.sites_active_30d}</div>
-							<div class="stat-desc">posted within the last 30 days</div>
-						</div>
-						<div class="stat">
-							<div class="stat-title">Active Blogs</div>
-							<div class="stat-value">{blogs.stats.sites_active_90d_in_percentage}%</div>
-							<div class="stat-desc">in the last 90 days</div>
-						</div>
+						<div class="divider px-16"></div>
 					</div>
 				}
 				{this.state.startElement !== 0 &&
@@ -95,14 +100,14 @@ class App extends React.Component {
 					</div>
 				}
 				<br></br>
-				<div class="grid grid-cols-1 gap-1 md:grid-cols-1 justify-start px-16">
+				<div class="grid grid-cols-1 gap-1 md:grid-cols-1 justify-start px-16 text-left">
 					{
 						blogs.sites.slice(this.state.startElement, this.state.endElement).map(site => (
-							<div class="card">
-								<div class="card-body text-left">
-									<h2 class="card-title"><div class="badge mx-2 badge-primary">{site.most_recent_article.published_date}</div><div data-tip="RSS feed" class="tooltip"><a class="link link-hover" href={site.feed_url} target="_blank" rel="noreferrer">{site.title}</a></div>
-									</h2>
-									<p><div data-tip="Read" class="tooltip tooltip-accent text-left"><a class="link link-hover" href={site.most_recent_article.url} target="_blank" rel="noreferrer">{site.most_recent_article.title}</a></div></p>
+							<div>
+								<div >
+									<h3 class="text-xl pb-4"><div data-tip="Read" class="tooltip tooltip-accent text-left"><a class="link link-hover" href={site.most_recent_article.url} target="_blank" rel="noreferrer">{site.most_recent_article.title}</a></div></h3>
+									<p class="text-sm"><div data-tip="RSS feed" class="tooltip"><a class="link link-hover" href={site.feed_url} target="_blank" rel="noreferrer">{site.title}</a> - Published {new Date(site.most_recent_article.published_date).toLocaleDateString("en-US", { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric' })}</div>
+									</p>
 								</div>
 								<div class="divider"></div>
 							</div>
