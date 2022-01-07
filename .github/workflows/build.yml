@@ -1,13 +1,10 @@
-# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: FetchRSSandDeploy
+name: Aggregate and Deploy
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs "At minute 0 past every 3rd hour." (see https://crontab.guru)
-    - cron: '0 */3 * * *'
+    # Runs "At minute 0 past every 2nd hour." (see https://crontab.guru)
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
