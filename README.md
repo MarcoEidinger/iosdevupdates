@@ -9,6 +9,8 @@
 
 </h1>
 
+<img width="1195" alt="Screen Shot of iosdevupdates.com on 2022-01-09 at 7:16:53 AM PST" src="https://user-images.githubusercontent.com/4176826/148688514-f1068880-dc42-4f25-b415-e3677078da2d.png">
+
 ## About
 
 **Each blog, written in the English language, will be listed only once with its most recent article.**
