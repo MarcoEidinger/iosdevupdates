@@ -3,8 +3,9 @@ module.exports = {
 		url: "https://www.iosdevupdates.com",
 		siteUrl: "https://www.iosdevupdates.com",
 		title: "iOS Dev Updates",
-		description: "The slightly different feed aggregator powered by the iOS Dev Directory",
-		twitterUsername: "@MarcoEidinger"
+		description: "The slightly different feed aggregator powered by the iOS Dev Directory. Read the most recent post for each blog with ease.",
+		twitterUsername: "@MarcoEidinger",
+        keywords: `"ios blogs, swift blogs, swift news, newest ios articles, feed aggregator, iOS Dev Directory`
 	},
 	plugins: [
 		"gatsby-plugin-postcss",

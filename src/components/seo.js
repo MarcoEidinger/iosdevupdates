@@ -13,12 +13,14 @@ const SEO = ({ title, description, article }) => {
     defaultDescription,
     siteUrl,
     twitterUsername,
+	keywords
   } = site.siteMetadata
 
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
     url: `${siteUrl}${pathname}`,
+	keywords: keywords || []
   }
 
   return (
@@ -46,6 +48,9 @@ const SEO = ({ title, description, article }) => {
       {seo.description && (
         <meta name="twitter:description" content={seo.description} />
       )}
+
+	  <meta name="keywords" content={seo.keywords} />
+
     </Helmet>
   )
 }
@@ -70,6 +75,7 @@ const query = graphql`
       siteMetadata {
         defaultTitle: title
         defaultDescription: description
+        keywords
         siteUrl: url
         twitterUsername
       }
