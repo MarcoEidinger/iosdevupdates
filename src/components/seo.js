@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
 
-const SEO = ({ title, description, article }) => {
+const SEO = ({ title, description, image, article }) => {
   const { pathname } = useLocation()
   const { site } = useStaticQuery(query)
 
@@ -12,13 +12,15 @@ const SEO = ({ title, description, article }) => {
     defaultTitle,
     defaultDescription,
     siteUrl,
+    defaultImage,
     twitterUsername,
-	keywords
+	keywords,
   } = site.siteMetadata
 
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
+    image: `${siteUrl}${image || defaultImage}`,
     url: `${siteUrl}${pathname}`,
 	keywords: keywords || []
   }
@@ -26,6 +28,7 @@ const SEO = ({ title, description, article }) => {
   return (
     <Helmet title={seo.title}>
       <meta name="description" content={seo.description} />
+	  <meta name="image" content={seo.image} />
 
       {seo.url && <meta property="og:url" content={seo.url} />}
 
@@ -37,7 +40,9 @@ const SEO = ({ title, description, article }) => {
         <meta property="og:description" content={seo.description} />
       )}
 
-      <meta name="twitter:card" content="summary" />
+	  {seo.image && <meta property="og:image" content={seo.image} />}
+
+      <meta name="twitter:card" content="summary_large_image" />
 
       {twitterUsername && (
         <meta name="twitter:creator" content={twitterUsername} />
@@ -51,6 +56,8 @@ const SEO = ({ title, description, article }) => {
 
 	  <meta name="keywords" content={seo.keywords} />
 
+	  {seo.image && <meta name="twitter:image" content={seo.image} />}
+
     </Helmet>
   )
 }
@@ -60,12 +67,14 @@ export default SEO
 SEO.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
+  image: PropTypes.string,
   article: PropTypes.bool,
 }
 
 SEO.defaultProps = {
   title: null,
   description: null,
+  image: null,
   article: false,
 }
 
@@ -77,6 +86,7 @@ const query = graphql`
         defaultDescription: description
         keywords
         siteUrl: url
+        defaultImage: image
         twitterUsername
       }
     }
