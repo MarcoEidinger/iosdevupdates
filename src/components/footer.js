@@ -1,9 +1,19 @@
 import React from "react";
+import { useStaticQuery, graphql } from "gatsby"
 
 const Footer = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      site {
+        buildTimeZone
+      }
+    }
+  `)
+
   return (
     <footer id="footer" class="p-4 footer bg-neutral footer-center">
       <div>
+        <p>Last updated at {data.site.buildTimeZone}</p>
         <p>
           Site designed and built by{" "}
           <a

@@ -5,8 +5,8 @@ module.exports = {
 		title: "iOS Dev Updates",
 		description: "The slightly different feed aggregator powered by the iOS Dev Directory. Read the most recent post for each blog with ease.",
 		image: "/logo.png",
-        twitterUsername: "@MarcoEidinger",
-        keywords: `"ios blogs, swift blogs, swift news, newest ios articles, feed aggregator, iOS Dev Directory`
+		twitterUsername: "@MarcoEidinger",
+		keywords: `"ios blogs, swift blogs, swift news, newest ios articles, feed aggregator, iOS Dev Directory`
 	},
 	plugins: [
 		"gatsby-plugin-postcss",
@@ -27,5 +27,12 @@ module.exports = {
 			}
 		},
 		'gatsby-plugin-cname',
+		{
+			resolve: 'gatsby-plugin-buildtime-timezone',
+			options: {
+				tz: 'America/Los_Angeles',
+				format: 'h:mm a zz',
+			},
+		},
 	],
 };

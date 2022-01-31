@@ -19,6 +19,7 @@
     "autoprefixer": "^10.4.2",
     "daisyui": "^1.21.0",
     "gatsby": "^4.4.0",
+    "gatsby-plugin-buildtime-timezone": "^1.0.3",
     "gatsby-plugin-cname": "^1.0.0",
     "gatsby-plugin-manifest": "^4.4.0",
     "gatsby-plugin-postcss": "^5.4.0",
