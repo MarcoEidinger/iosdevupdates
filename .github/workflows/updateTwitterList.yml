@@ -1,0 +1,42 @@
+name: Update Twitter List
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs "At 00:00 on Monday." (see https://crontab.guru)
+    - cron: '0 0 * * 1'
+
+jobs:
+  build:
+
+    runs-on: macos-11
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Cache/Restore Mint packages
+      id: mint-cache
+      uses: actions/cache@v2
+      with:
+          path: ${{ github.workspace }}/mint
+          key: ${{ runner.os }}-mint-${{ hashFiles('**/Mintfile') }}
+          restore-keys: ${{ runner.os }}-mint-
+    - name: Install package manager "Mint" to install and run Swift command line tool packages
+      run: |
+          brew upgrade mint || brew install mint || true
+    - name: Install command line tool (if not yet cached)
+      if: steps.mint-cache.outputs.cache-hit != 'true'
+      run: mint bootstrap
+    - name: Run command line tool
+      run: mint run --silent OsmiumAtlas update-twitterlist ${{ secrets.CONSUMERKEY }} ${{ secrets.CONSUMERSECRET }} ${{ secrets.OAUTHTOKEN }} ${{ secrets.OAUTHTOKENSECRET }} --debug
+      env:
+        DEVELOPER_DIR: /Applications/Xcode_13.2.1.app/Contents/Developer
+    - name: Cache node modules
+      uses: actions/cache@v2
+      with:
+        # npm cache files are stored in `~/.npm` on Linux/macOS
+        path: ~/.npm
+        key: ${{ runner.os }}-build-cache-node-modules-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-build-cache-node-modules-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
