@@ -32,6 +32,10 @@ jobs:
         DEVELOPER_DIR: /Applications/Xcode_13.2.1.app/Contents/Developer
     - name: Copy blogs.json to content folder
       run: cp blogs.json content/
+    - uses: actions/upload-artifact@v3
+      with:
+        name: blogs.json
+        path: content/blogs.json
     - name: Cache node modules
       uses: actions/cache@v2
       with:
