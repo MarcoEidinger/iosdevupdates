@@ -27,8 +27,9 @@ const SEO = ({ title, description, image, article }) => {
 
   return (
     <Helmet title={seo.title}>
+      <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml"/>
       <meta name="description" content={seo.description} />
-	  <meta name="image" content={seo.image} />
+	    <meta name="image" content={seo.image} />
 
       {seo.url && <meta property="og:url" content={seo.url} />}
 
@@ -40,7 +41,7 @@ const SEO = ({ title, description, image, article }) => {
         <meta property="og:description" content={seo.description} />
       )}
 
-	  {seo.image && <meta property="og:image" content={seo.image} />}
+	    {seo.image && <meta property="og:image" content={seo.image} />}
 
       <meta name="twitter:card" content="summary_large_image" />
 
@@ -54,9 +55,9 @@ const SEO = ({ title, description, image, article }) => {
         <meta name="twitter:description" content={seo.description} />
       )}
 
-	  <meta name="keywords" content={seo.keywords} />
+	    <meta name="keywords" content={seo.keywords} />
 
-	  {seo.image && <meta name="twitter:image" content={seo.image} />}
+	    {seo.image && <meta name="twitter:image" content={seo.image} />}
 
     </Helmet>
   )
