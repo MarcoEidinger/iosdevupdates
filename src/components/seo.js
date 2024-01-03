@@ -27,6 +27,7 @@ const SEO = ({ title, description, image, article }) => {
 
   return (
     <Helmet title={seo.title}>
+      <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml"/>
       <meta name="description" content={seo.description} />
 	  <meta name="image" content={seo.image} />
 
