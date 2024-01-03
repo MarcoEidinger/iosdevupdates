@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jan 2024 10:09:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jan 2024 12:09:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Learn Swift from Apple]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/how-to-learn-swift-from-apple-4020f30ff47c?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/how-to-learn-swift-from-apple-4020f30ff47c?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sunsetting the Pickup, Prank &amp; Quote Deck Apps]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/01/03/sunsetting-deck-based-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/01/03/sunsetting-deck-based-apps]]></guid>
+    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Awesome newsletters for iOS and Swift developers in 2024]]></title>
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://martinmitrevski.com/]]></description>
     <link><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></link>
     <guid isPermaLink="true"><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></guid>
-    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unleashing Creativity in Coding - How Adobe Express Empowers Programmers]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/01/02/adobe-express-unleashing-creativity-in-coding]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/01/02/adobe-express-unleashing-creativity-in-coding]]></guid>
     <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -105,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using Swift Signpost to Measure Performance of a Specific Function]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/using-swift-signpost-to-measure-performance-of-a-specific-function-6779c920d0f4?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-swift-signpost-to-measure-performance-of-a-specific-function-6779c920d0f4?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftData Fetching Pending Changes]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></link>
@@ -134,6 +134,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://objective-see.org/blog/blog_0x77.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x77.html]]></guid>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Indie Diary #5 — A year in review.]]></title>
+    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
+    <link><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/integrating-haptic-feedback-in-swiftui-projects/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/integrating-haptic-feedback-in-swiftui-projects/]]></guid>
-    <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Launching news.digitalbunker.dev 🚀]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/launching-news-digitalbunker-dev/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/launching-news-digitalbunker-dev/]]></guid>
     <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
