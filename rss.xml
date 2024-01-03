@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title><![CDATA[iOSDevUpdates]]></title>
+<description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
+<link>https://www.iosdevupdates.com/</link>
+<lastBuildDate>Wed, 03 Jan 2024 01:23:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Awesome newsletters for iOS and Swift developers in 2024]]></title>
+    <description><![CDATA[https://blog.eidinger.info/]]></description>
+    <link><![CDATA[https://marcoeidinger.hashnode.dev/awesome-newsletters-for-ios-and-swift-developers-in-2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://marcoeidinger.hashnode.dev/awesome-newsletters-for-ios-and-swift-developers-in-2024]]></guid>
+    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Where is the Info.plist file?]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></guid>
+    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AnyView’s impact on SwiftUI performance]]></title>
+    <description><![CDATA[https://martinmitrevski.com/]]></description>
+    <link><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></guid>
+    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unleashing Creativity in Coding - How Adobe Express Empowers Programmers]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/01/02/adobe-express-unleashing-creativity-in-coding]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/01/02/adobe-express-unleashing-creativity-in-coding]]></guid>
+    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Newsletters: How to stay up to date as an app developer]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/optimization/swift-newsletters/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/swift-newsletters/]]></guid>
+    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Improving Zsh Performance]]></title>
+    <description><![CDATA[https://www.dribin.org/dave/blog/]]></description>
+    <link><![CDATA[https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mobile App Architectural Best Practices in Action [User Story 2]]]></title>
+    <description><![CDATA[https://vinodhswamy.medium.com/]]></description>
+    <link><![CDATA[https://levelup.gitconnected.com/mobile-app-architectural-best-practices-in-action-user-story-2-4a3ffaca92bc?source=rss-507a15c0b921------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/mobile-app-architectural-best-practices-in-action-user-story-2-4a3ffaca92bc?source=rss-507a15c0b921------2]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Modular Architecture for Apps]]></title>
+    <description><![CDATA[https://jacobbartlett.substack.com]]></description>
+    <link><![CDATA[https://jacobbartlett.substack.com/p/modular-architecture-for-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jacobbartlett.substack.com/p/modular-architecture-for-apps]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[December 2023 Review]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2024/1/december-2023-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/1/december-2023-review/]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Opening a photo in Apple Photos from Swift on macOS]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/swift/2024/01/01/opening-a-photo-in-apple-photos-from-swift-on-macos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2024/01/01/opening-a-photo-in-apple-photos-from-swift-on-macos]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2024: Daha iyi Bir Ege]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/2024-daha-iyi-bir-ege-8cb218464594?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/2024-daha-iyi-bir-ege-8cb218464594?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dejal year in review: 2023]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejal-year-in-review-2023/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejal-year-in-review-2023/]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Swift Signpost to Measure Performance of a Specific Function]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/using-swift-signpost-to-measure-performance-of-a-specific-function-6779c920d0f4?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-swift-signpost-to-measure-performance-of-a-specific-function-6779c920d0f4?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftData Fetching Pending Changes]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue #64: Retrocomputing]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Mac Malware of 2023]]></title>
+    <description><![CDATA[https://objective-see.org/blog.html]]></description>
+    <link><![CDATA[https://objective-see.org/blog/blog_0x77.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x77.html]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Indie Diary #5 — A year in review.]]></title>
+    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
+    <link><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building an iOS camera calculator with Core ML’s Vision and Tesseract OCR]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/building-an-ios-camera-calculator-with-core-mls-vision-and-tesseract-ocr/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/building-an-ios-camera-calculator-with-core-mls-vision-and-tesseract-ocr/]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Most visited blog posts in 2023]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2023 in review]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/2023-in-review]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/2023-in-review]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using @Binding with @Environment(Object.self)]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></guid>
+    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 51-52]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2023-52]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2023-52]]></guid>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My App Defaults for 2024]]></title>
+    <description><![CDATA[https://zmknox.com/]]></description>
+    <link><![CDATA[https://zmknox.com/2023/12/30/app-defaults-2024.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2023/12/30/app-defaults-2024.html]]></guid>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring visionOS Fundaments: Creating the App Icon]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/vision-os-fundamentals-creating-app-icon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/vision-os-fundamentals-creating-app-icon/]]></guid>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Books I read in 2023]]></title>
+    <description><![CDATA[https://pietrorea.com/]]></description>
+    <link><![CDATA[https://pietrorea.com/2023/12/30/books-i-read-in-2023?utm_source=rss&utm_medium=rss]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2023/12/30/books-i-read-in-2023?utm_source=rss&utm_medium=rss]]></guid>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A list of books I read in 2023]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2023/12/29/reading-list-2023/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2023/12/29/reading-list-2023/]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple’s Ferret MLLM]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2023/12/29/apples-ferret-mllm/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2023/12/29/apples-ferret-mllm/]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A year of Ice Cubes]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/a-year-of-ice-cubes-a199ee296cff?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/a-year-of-ice-cubes-a199ee296cff?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting started with Swiftlint to enforce Swift style]]></title>
+    <description><![CDATA[https://gurjit.co/]]></description>
+    <link><![CDATA[https://gurjit.co/blogs/2023/getting-started-with-swiftlint.php]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gurjit.co/blogs/2023/getting-started-with-swiftlint.php]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Jacó, Costa Rica]]></title>
+    <description><![CDATA[https://byla.lt/tags/apple/]]></description>
+    <link><![CDATA[https://byla.lt/posts/jaco-costa-rica]]></link>
+    <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/jaco-costa-rica]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Rust API Bindings: CFStringGetBytes Is Hard (Part 1 of 2)]]></title>
+    <description><![CDATA[https://alwaysprocessing.blog/]]></description>
+    <link><![CDATA[https://alwaysprocessing.blog/2023/12/29/rust-ffi-cfstr-getbytes-1]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alwaysprocessing.blog/2023/12/29/rust-ffi-cfstr-getbytes-1]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unxippity - fast Xcode unxipping, is open source]]></title>
+    <description><![CDATA[https://trycombine.com/]]></description>
+    <link><![CDATA[https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/]]></guid>
+    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bad practice: using "YYYY" to format a Date]]></title>
+    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
+    <link><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-using-yyyy-to-format-a-date]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-using-yyyy-to-format-a-date]]></guid>
+    <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Lock-Free in Swift: Memory model and Peterson’s algorithm]]></title>
+    <description><![CDATA[https://shchukin-alex.medium.com/]]></description>
+    <link><![CDATA[https://shchukin-alex.medium.com/lock-free-in-swift-memory-model-and-petersons-algorithm-f070581c2d75?source=rss-dac92733704c------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shchukin-alex.medium.com/lock-free-in-swift-memory-model-and-petersons-algorithm-f070581c2d75?source=rss-dac92733704c------2]]></guid>
+    <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[There is no right or wrong in software engineering]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering]]></guid>
+    <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2023]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2023/12/28/best_of_2023]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2023/12/28/best_of_2023]]></guid>
+    <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Blog Update Chronicle: Welcoming 2024 with a New Blog]]></title>
+    <description><![CDATA[https://fatbobman.medium.com]]></description>
+    <link><![CDATA[https://fatbobman.medium.com/blog-update-chronicle-welcoming-2024-with-a-new-blog-2e643d603539?source=rss-b8c3000741------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.medium.com/blog-update-chronicle-welcoming-2024-with-a-new-blog-2e643d603539?source=rss-b8c3000741------2]]></guid>
+    <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[10 Best iOS app ideas for beginners]]></title>
+    <description><![CDATA[https://iosapptemplates.com/blog]]></description>
+    <link><![CDATA[https://iosapptemplates.com/blog/online-businesses/10-best-ios-app-ideas-for-beginners]]></link>
+    <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/online-businesses/10-best-ios-app-ideas-for-beginners]]></guid>
+    <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[StopTheMadness Pro postmortem: crApp Store still crappy]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2023/12/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2023/12/4.html]]></guid>
+    <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Marching Age]]></title>
+    <description><![CDATA[https://cabel.com/]]></description>
+    <link><![CDATA[https://cabel.com/2023/12/26/marching-age/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cabel.com/2023/12/26/marching-age/]]></guid>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mea culpa]]></title>
+    <description><![CDATA[https://irace.me/]]></description>
+    <link><![CDATA[http://irace.me/mea-culpa]]></link>
+    <guid isPermaLink="true"><![CDATA[http://irace.me/mea-culpa]]></guid>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Looking back at my 2023]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/looking-back-at-my-2023/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/looking-back-at-my-2023/]]></guid>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[So you want AI to create your app icon]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/creating-ai-icons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/creating-ai-icons/]]></guid>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Evolution Monthly: December '23]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-december-23/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-december-23/]]></guid>
+    <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[UI Throwback: Creating a Retro Progress Bar for iOS using CALayers]]></title>
+    <description><![CDATA[https://medium.com/@maxkalik]]></description>
+    <link><![CDATA[https://medium.com/@maxkalik/ui-throwback-creating-a-retro-progress-bar-for-ios-using-calayers-9539baf65fc3?source=rss-58757e2cf638------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@maxkalik/ui-throwback-creating-a-retro-progress-bar-for-ios-using-calayers-9539baf65fc3?source=rss-58757e2cf638------2]]></guid>
+    <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A case for exact versioning and ignoring Package.resolved file]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2023/12/24/a-case-for.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2023/12/24/a-case-for.html]]></guid>
+    <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From block party to ’hood party]]></title>
+    <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
+    <link><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></guid>
+    <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build your first app with SwiftUI and SwiftData]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></guid>
+    <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[NSFRC’s sections considered harmful]]></title>
+    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2023/core-data-fetched-results-controller-sections-bug/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2023/core-data-fetched-results-controller-sections-bug/]]></guid>
+    <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pattern matching for custom types in Swift]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/PatternMatchingForCustomTypesInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PatternMatchingForCustomTypesInSwift]]></guid>
+    <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AppKit State Restoration on macOS 14 Sonoma]]></title>
+    <description><![CDATA[https://milen.me/]]></description>
+    <link><![CDATA[https://milen.me/writings/appkit-state-restoration-macos-14-sonoma/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://milen.me/writings/appkit-state-restoration-macos-14-sonoma/]]></guid>
+    <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MVVM in SwiftUI for a Better Architecture [with Example]]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/mvvm-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/mvvm-swiftui/]]></guid>
+    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Preparing your App for VoiceOver: Accessibility Actions]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/accessibility-actions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/accessibility-actions/]]></guid>
+    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI View Models: Lifecycle Quirks]]></title>
+    <description><![CDATA[https://medium.com/@recuenco]]></description>
+    <link><![CDATA[https://medium.com/the-swift-cooperative/swiftui-view-models-lifecycle-quirks-8dd967e84e31?source=rss-c3e9dcf69985------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/swiftui-view-models-lifecycle-quirks-8dd967e84e31?source=rss-c3e9dcf69985------2]]></guid>
+    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering MapKit in SwiftUI. Interactions.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2023/12/19/mastering-mapkit-in-swiftui-interactions]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2023/12/19/mastering-mapkit-in-swiftui-interactions]]></guid>
+    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sequential and Simultaneous Ops With Async Await]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/sequential-and-simultaneous-ops-with-async-await-398341669035?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/sequential-and-simultaneous-ops-with-async-await-398341669035?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Integrating Haptic Feedback In SwiftUI Projects]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/integrating-haptic-feedback-in-swiftui-projects/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/integrating-haptic-feedback-in-swiftui-projects/]]></guid>
+    <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
