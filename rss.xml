@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jan 2024 16:08:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jan 2024 18:10:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Vapor URI Parsing Security Vulnerability]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></guid>
+    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Git basics for iOS developers]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2023/12/19/mastering-mapkit-in-swiftui-interactions]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2023/12/19/mastering-mapkit-in-swiftui-interactions]]></guid>
     <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sequential and Simultaneous Ops With Async Await]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/sequential-and-simultaneous-ops-with-async-await-398341669035?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/sequential-and-simultaneous-ops-with-async-await-398341669035?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
