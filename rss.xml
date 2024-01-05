@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jan 2024 18:08:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jan 2024 20:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[HEY Calendar Rejected From the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/05/hey-calendar-rejected-from-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/05/hey-calendar-rejected-from-the-app-store/]]></guid>
+    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Conferences: First Call for Paper]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/]]></guid>
-    <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Niklaus Wirth, RIP]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/04/niklaus-wirth-rip/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/04/niklaus-wirth-rip/]]></guid>
     <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,6 +261,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></guid>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reading and Writing Spatial Video with AVFoundation]]></title>
+    <description><![CDATA[https://finnvoorhees.com/words]]></description>
+    <link><![CDATA[https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/]]></guid>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></link>
     <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></guid>
     <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build your first app with SwiftUI and SwiftData]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></guid>
-    <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
