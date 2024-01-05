@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jan 2024 10:08:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jan 2024 12:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Notes from Barcelona: Roscón de Reyes]]></title>
+    <description><![CDATA[https://codecookread.com/]]></description>
+    <link><![CDATA[https://codecookread.com/notes-from-barcelona-roscon-de-reyes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codecookread.com/notes-from-barcelona-roscon-de-reyes/]]></guid>
+    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Formatters and Measurements]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2024/01/05/formatters]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2024/01/05/formatters]]></guid>
+    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Workaround: Xcode simctl status_bar is still broken for iOS 17 simulators]]></title>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://milen.me/writings/appkit-state-restoration-macos-14-sonoma/]]></link>
     <guid isPermaLink="true"><![CDATA[https://milen.me/writings/appkit-state-restoration-macos-14-sonoma/]]></guid>
     <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MVVM in SwiftUI for a Better Architecture [with Example]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/mvvm-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/mvvm-swiftui/]]></guid>
-    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preparing your App for VoiceOver: Accessibility Actions]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/accessibility-actions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/accessibility-actions/]]></guid>
-    <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
