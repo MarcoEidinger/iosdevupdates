@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 06 Jan 2024 02:17:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Jan 2024 04:08:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Clicks Hardware Keyboard for iPhone]]></title>
@@ -273,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Indie Diary #5 — A year in review.]]></title>
-    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
-    <link><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></guid>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building an iOS camera calculator with Core ML’s Vision and Tesseract OCR]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/building-an-ios-camera-calculator-with-core-mls-vision-and-tesseract-ocr/]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></link>
     <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/blocks-and-hoods]]></guid>
     <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build your first app with SwiftUI and SwiftData]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata]]></guid>
+    <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
