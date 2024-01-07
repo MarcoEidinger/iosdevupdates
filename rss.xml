@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Jan 2024 18:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jan 2024 20:08:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[2023 in review]]></title>
@@ -14,6 +14,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pietrorea.com/2024/01/07/2023-in-review?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/01/07/2023-in-review?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Binding Tips]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/swiftui-binding-tricks]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-binding-tricks]]></guid>
+    <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -350,14 +358,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></guid>
     <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 51-52]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2023-52]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2023-52]]></guid>
-    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 <item>
