@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Jan 2024 16:12:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jan 2024 18:08:43 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[2023 in review]]></title>
@@ -101,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2024/01/05/formatters]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2024/01/05/formatters]]></guid>
+    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/05/is-mvvm-dead-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/05/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://irace.me/mea-culpa]]></link>
     <guid isPermaLink="true"><![CDATA[http://irace.me/mea-culpa]]></guid>
     <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Evolution Monthly: December '23]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-december-23/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-december-23/]]></guid>
-    <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
