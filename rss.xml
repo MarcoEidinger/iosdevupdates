@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Jan 2024 12:12:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jan 2024 14:09:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Take on visionOS at Unwrap Live 2024]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/264/take-on-visionos-at-unwrap-live-2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/264/take-on-visionos-at-unwrap-live-2024]]></guid>
+    <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using SwiftData to Store Large Files from an API call]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/2023/12/26/marching-age/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2023/12/26/marching-age/]]></guid>
-    <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mea culpa]]></title>
-    <description><![CDATA[https://irace.me/]]></description>
-    <link><![CDATA[http://irace.me/mea-culpa]]></link>
-    <guid isPermaLink="true"><![CDATA[http://irace.me/mea-culpa]]></guid>
     <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
