@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Jan 2024 20:09:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jan 2024 22:08:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Vision Pro Available February 2]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/08/apple-vision-pro-available-february-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/08/apple-vision-pro-available-february-2/]]></guid>
+    <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Sinclair Trails 2023 theme for Time Out]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kristaps.me/blog/txorigin-vs-msgsender]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/txorigin-vs-msgsender]]></guid>
     <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Clicks Hardware Keyboard for iPhone]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/05/clicks-hardware-keyboard-for-iphone/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/05/clicks-hardware-keyboard-for-iphone/]]></guid>
-    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
