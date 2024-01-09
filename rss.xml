@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jan 2024 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jan 2024 12:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring visionOS Accessibility: VoiceOver Gestures]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-visionos-accessibility-voiceover-gestures/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-accessibility-voiceover-gestures/]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[@Observable Macro performance increase over ObservableObject]]></title>
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kristaps.me/blog/txorigin-vs-msgsender]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/txorigin-vs-msgsender]]></guid>
     <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Conferences: First Call for Paper]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-conferences-first-call-for-paper/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-first-call-for-paper/]]></guid>
-    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
