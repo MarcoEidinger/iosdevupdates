@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jan 2024 06:13:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jan 2024 08:11:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[@Observable Macro performance increase over ObservableObject]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/observable-macro-performance-increase-observableobject/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/observable-macro-performance-increase-observableobject/]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Strategic Planning in Engineering Teams]]></title>
+    <description><![CDATA[https://pyartez.github.io]]></description>
+    <link><![CDATA[https://pyartez.github.io/management/strategic-planning-in-engineering-teams.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pyartez.github.io/management/strategic-planning-in-engineering-teams.html]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Modernish UserDefaults Wrapper]]></title>
@@ -305,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Newsletters: How to stay up to date as an app developer]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/optimization/swift-newsletters/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/swift-newsletters/]]></guid>
-    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Improving Zsh Performance]]></title>
     <description><![CDATA[https://www.dribin.org/dave/blog/]]></description>
     <link><![CDATA[https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering]]></guid>
-    <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Best of 2023]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2023/12/28/best_of_2023]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2023/12/28/best_of_2023]]></guid>
     <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
