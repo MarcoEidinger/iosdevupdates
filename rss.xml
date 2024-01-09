@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jan 2024 16:10:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jan 2024 18:09:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to write Unit Tests for Code Performance ⏱️]]></title>
+    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
+    <link><![CDATA[https://www.swiftwithvincent.com/blog/how-to-write-unit-tests-for-code-performance]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/how-to-write-unit-tests-for-code-performance]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why You Get “Productivity” Wrong]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/why-you-get-productivity-wrong-0210b4fa1bc7?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/why-you-get-productivity-wrong-0210b4fa1bc7?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Adapting your App Icon to visionOS]]></title>
@@ -61,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/05/is-mvvm-dead-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/05/is-mvvm-dead-in-swiftui]]></guid>
-    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Workaround: Xcode simctl status_bar is still broken for iOS 17 simulators]]></title>
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/]]></link>
@@ -377,14 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[2024: Daha iyi Bir Ege]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/2024-daha-iyi-bir-ege-8cb218464594?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/2024-daha-iyi-bir-ege-8cb218464594?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftData Fetching Pending Changes]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://gurjit.co/]]></description>
     <link><![CDATA[https://gurjit.co/blogs/2023/getting-started-with-swiftlint.php]]></link>
     <guid isPermaLink="true"><![CDATA[https://gurjit.co/blogs/2023/getting-started-with-swiftlint.php]]></guid>
-    <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unxippity - fast Xcode unxipping, is open source]]></title>
-    <description><![CDATA[https://trycombine.com/]]></description>
-    <link><![CDATA[https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/]]></guid>
     <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
