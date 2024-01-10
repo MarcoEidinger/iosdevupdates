@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Jan 2024 14:09:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jan 2024 16:09:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Understanding and resolving merge conflicts]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/understanding-and-resolving-merge-conflicts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/understanding-and-resolving-merge-conflicts/]]></guid>
+    <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Swift SQLite Wrapper, Part 2: Binding & Fetching Values]]></title>
+    <description><![CDATA[https://jackmorris.xyz]]></description>
+    <link><![CDATA[https://jackmorris.xyz/posts/2024/01/10/swift-sqlite-part-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jackmorris.xyz/posts/2024/01/10/swift-sqlite-part-2]]></guid>
     <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/using-swiftdata-to-store-large-files-from-an-api-call-11ad83404f76?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-swiftdata-to-store-large-files-from-an-api-call-11ad83404f76?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Swift SQLite Wrapper, Part 1: Opening a Connection]]></title>
-    <description><![CDATA[https://jackmorris.xyz]]></description>
-    <link><![CDATA[https://jackmorris.xyz/posts/2024/01/08/swift-sqlite-part-1]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jackmorris.xyz/posts/2024/01/08/swift-sqlite-part-1]]></guid>
     <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
