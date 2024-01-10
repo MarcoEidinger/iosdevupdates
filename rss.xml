@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Jan 2024 20:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jan 2024 22:09:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fixing Continuity Camera]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/10/fixing-continuity-camera/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/10/fixing-continuity-camera/]]></guid>
+    <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to use Published Properties inside a Protocol in SwiftUI?]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/1/1.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/1/1.html]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac Liquid Detection]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/09/mac-liquid-detection/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/09/mac-liquid-detection/]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
