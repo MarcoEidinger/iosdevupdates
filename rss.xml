@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jan 2024 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jan 2024 00:21:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How Safari can improve extensions]]></title>
@@ -85,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/modernish-userdefaults-wrapper]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/modernish-userdefaults-wrapper]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Platform-Specific Release Notes with Xcode Cloud]]></title>
+    <description><![CDATA[https://www.finnvoorhees.com/words]]></description>
+    <link><![CDATA[https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -405,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-64-retrocomputing/]]></guid>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reading and Writing Spatial Video with AVFoundation]]></title>
-    <description><![CDATA[https://www.finnvoorhees.com/words]]></description>
-    <link><![CDATA[https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/]]></guid>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
