@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jan 2024 10:08:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jan 2024 12:10:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Swift SQLite Wrapper, Part 3: Pooling Connections]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/understanding-and-resolving-merge-conflicts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/understanding-and-resolving-merge-conflicts/]]></guid>
+    <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exception Breakpoints]]></title>
+    <description><![CDATA[https://cocoacasts.com/blog]]></description>
+    <link><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-exception-breakpoints]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-exception-breakpoints]]></guid>
     <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -365,14 +373,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></guid>
-    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Error Breakpoints]]></title>
-    <description><![CDATA[https://cocoacasts.com/blog]]></description>
-    <link><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-swift-error-breakpoints]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-swift-error-breakpoints]]></guid>
     <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
