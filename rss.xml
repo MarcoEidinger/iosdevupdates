@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jan 2024 16:08:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jan 2024 18:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to escape characters in json and regex with Swift string]]></title>
@@ -25,10 +25,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hope Refreshed]]></title>
+    <title><![CDATA[The third-party libraries I use in every project]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/deps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/deps]]></guid>
+    <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What's in my Bag - 2024]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/hope-refreshed-wallpaper/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/hope-refreshed-wallpaper/]]></guid>
+    <link><![CDATA[https://thatvirtualboy.com/whats-in-my-bag-2024/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/whats-in-my-bag-2024/]]></guid>
     <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></guid>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2023 in review]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/2023-in-review]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/2023-in-review]]></guid>
     <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
