@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 13 Jan 2024 22:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jan 2024 00:21:49 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Bringing Alexa to the Apple Vision Pro]]></title>
@@ -449,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Indie Diary #5 — A year in review.]]></title>
-    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
-    <link><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/]]></guid>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Most visited blog posts in 2023]]></title>
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></guid>
     <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My App Defaults for 2024]]></title>
+    <description><![CDATA[https://zmknox.com/]]></description>
+    <link><![CDATA[https://zmknox.com/2023/12/30/app-defaults-2024.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2023/12/30/app-defaults-2024.html]]></guid>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
