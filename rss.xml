@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 14 Jan 2024 12:13:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jan 2024 14:08:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What is “No exact matches in call to initializer” error Swift/Swiftui]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/no-exact-matches-in-call-to-initializer?utm_source=rss&utm_medium=rss&utm_campaign=no-exact-matches-in-call-to-initializer]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/no-exact-matches-in-call-to-initializer?utm_source=rss&utm_medium=rss&utm_campaign=no-exact-matches-in-call-to-initializer]]></guid>
+    <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[LLM explorations #1: Running LLaMA 2 locally using llama.cpp]]></title>
+    <description><![CDATA[https://pietrorea.com/]]></description>
+    <link><![CDATA[https://pietrorea.com/2024/01/14/llm-explorations-1-running-llama-2-locally-using-llama-cpp?utm_source=rss&utm_medium=rss]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/01/14/llm-explorations-1-running-llama-2-locally-using-llama-cpp?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.vidugloeck.com]]></description>
     <link><![CDATA[https://www.vidugloeck.com/what-i-learned-from-watching-intro-to-large-language-models-by-andrej-karpathy/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.vidugloeck.com/what-i-learned-from-watching-intro-to-large-language-models-by-andrej-karpathy/]]></guid>
+    <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering Relationships in Core Data: Practical Application]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/mastering-relationships-in-core-data-practical/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/mastering-relationships-in-core-data-practical/]]></guid>
     <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[2023 in review]]></title>
-    <description><![CDATA[https://pietrorea.com/]]></description>
-    <link><![CDATA[https://pietrorea.com/2024/01/07/2023-in-review?utm_source=rss&utm_medium=rss]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/01/07/2023-in-review?utm_source=rss&utm_medium=rss]]></guid>
-    <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Binding Tips]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-binding-tricks]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/]]></guid>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using @Binding with @Environment(Object.self)]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI]]></guid>
     <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
 </item>
 
