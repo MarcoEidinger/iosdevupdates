@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jan 2024 16:08:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jan 2024 18:10:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mobile DevOps for Enterprise that Just Works]]></title>
+    <description><![CDATA[https://jacobbartlett.substack.com]]></description>
+    <link><![CDATA[https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that]]></guid>
+    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to verify a signed xcframework programmatically]]></title>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/sinclair-trails-2023-theme/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/sinclair-trails-2023-theme/]]></guid>
-    <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Case Against [unowned self]]]></title>
-    <description><![CDATA[https://jacobbartlett.substack.com]]></description>
-    <link><![CDATA[https://jacobbartlett.substack.com/p/the-case-against-unowned-self]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jacobbartlett.substack.com/p/the-case-against-unowned-self]]></guid>
     <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
