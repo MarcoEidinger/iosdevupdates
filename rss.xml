@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jan 2024 06:09:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jan 2024 08:11:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SubscriptionStoreView for iOS apps]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/01/15/subscriptionstoreview-for-ios-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/01/15/subscriptionstoreview-for-ios-apps/]]></guid>
+    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Year, New Me]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/1/december-2023-review/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/1/december-2023-review/]]></guid>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftData Fetching Pending Changes]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/]]></guid>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
