@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jan 2024 22:08:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jan 2024 00:21:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Remove background from image in SwiftUI]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Meetup and IAC Apps Acquired]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/01/15/meetup-and-iac-apps-acquired/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/15/meetup-and-iac-apps-acquired/]]></guid>
-    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mobile DevOps for Enterprise that Just Works]]></title>
-    <description><![CDATA[https://jacobbartlett.substack.com]]></description>
-    <link><![CDATA[https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that]]></guid>
     <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[StoreKit testing in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[StoreKit testing in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
