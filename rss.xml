@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jan 2024 18:09:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jan 2024 20:08:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Versioning in iOS/macOS Development]]></title>
+    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
+    <link><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Picking an Image from the Photos Library in a SwiftUI App]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift DSL for HTML]]></title>
+    <description><![CDATA[https://petercammeraat.net]]></description>
+    <link><![CDATA[https://petercammeraat.net/journal/2024/swift-dsl-for-html/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://petercammeraat.net/journal/2024/swift-dsl-for-html/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></guid>
     <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AnyView’s impact on SwiftUI performance]]></title>
-    <description><![CDATA[https://martinmitrevski.com/]]></description>
-    <link><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/]]></guid>
-    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Improving Zsh Performance]]></title>
-    <description><![CDATA[https://www.dribin.org/dave/blog/]]></description>
-    <link><![CDATA[https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance]]></guid>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
