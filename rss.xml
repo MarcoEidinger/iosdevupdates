@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 17 Jan 2024 12:10:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jan 2024 14:10:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Thoughts And Tips After My App Was nominated For A Golden Apple Award From AppleVis]]></title>
@@ -149,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-02]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-02]]></guid>
+    <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Asynchronous SwiftUI buttons]]></title>
+    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
+    <link><![CDATA[https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/]]></guid>
     <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,18 +329,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[StoreKit testing in Swift]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></guid>
     <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is the Info.plist file?]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></guid>
-    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
