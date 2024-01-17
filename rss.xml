@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 17 Jan 2024 18:13:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jan 2024 20:10:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift protocol requirement quirks]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/17/swift-protocol-requirement-quirks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/17/swift-protocol-requirement-quirks/]]></guid>
+    <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Corporations Are Not To Be Loved]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2024/01/17/corporations_are_not_to_be_loved]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/01/17/corporations_are_not_to_be_loved]]></guid>
+    <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Image to image local Stable Diffusion pipelines with ControlNet in Swift]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/]]></guid>
+    <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Thoughts And Tips After My App Was nominated For A Golden Apple Award From AppleVis]]></title>
@@ -29,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store screenshot requirements need to change]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I stay up to date as a software developer]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/stay-up-to-date-as-a-software-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/stay-up-to-date-as-a-software-developer/]]></guid>
-    <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Safari can improve extensions]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/1/1.html]]></link>
@@ -329,18 +337,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[StoreKit testing in Swift]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/]]></guid>
-    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Vapor URI Parsing Security Vulnerability]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></guid>
     <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
