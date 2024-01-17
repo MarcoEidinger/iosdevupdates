@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jan 2024 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jan 2024 00:21:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Thoughts And Tips After My App Was nominated For A Golden Apple Award From AppleVis]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Bluesky Adds RSS]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Store screenshot requirements need to change]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui]]></guid>
+    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bento|Craft will be a part of history]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-history/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-history/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/deps]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/deps]]></guid>
-    <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What's in my Bag - 2024]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/whats-in-my-bag-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/whats-in-my-bag-2024/]]></guid>
     <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -425,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Workaround: Xcode simctl status_bar is still broken for iOS 17 simulators]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/]]></guid>
-    <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Career of a successful software craftsman]]></title>
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/career-of-software-craftsman/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp]]></guid>
     <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is the Info.plist file?]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/where-is-the-info-plist-file/]]></guid>
-    <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
