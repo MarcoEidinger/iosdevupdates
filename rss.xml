@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jan 2024 10:08:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jan 2024 12:12:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Highlighting package funding links]]></title>
+    <description><![CDATA[https://blog.swiftpackageindex.com]]></description>
+    <link><![CDATA[https://blog.swiftpackageindex.com/posts/highlighting-package-funding-links]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.swiftpackageindex.com/posts/highlighting-package-funding-links]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes from Barcelona: Tibidabo]]></title>
+    <description><![CDATA[https://codecookread.com/]]></description>
+    <link><![CDATA[https://codecookread.com/notes-from-barcelona-tibidabo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codecookread.com/notes-from-barcelona-tibidabo/]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Flexible Swift Error Handling]]></title>
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/the-flexible-swift-error-handling/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/the-flexible-swift-error-handling/]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Talk at iOS Conf SG 2024]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/]]></guid>
     <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://damian.fyi]]></description>
     <link><![CDATA[https://damian.fyi/swift/2024/01/15/crash-using-.searchable-bound-to-viewmodel-and-sidebar-placement-on-macos]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2024/01/15/crash-using-.searchable-bound-to-viewmodel-and-sidebar-placement-on-macos]]></guid>
-    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Observable in iOS 17]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/]]></guid>
     <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Notes from Barcelona: Roscón de Reyes]]></title>
-    <description><![CDATA[https://codecookread.com/]]></description>
-    <link><![CDATA[https://codecookread.com/notes-from-barcelona-roscon-de-reyes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codecookread.com/notes-from-barcelona-roscon-de-reyes/]]></guid>
-    <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Career of a successful software craftsman]]></title>
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/career-of-software-craftsman/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://objective-see.org/blog/blog_0x78.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x78.html]]></guid>
     <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Scalable Continuous Integration for iOS]]></title>
-    <description><![CDATA[https://albertodebortoli.com/]]></description>
-    <link><![CDATA[https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/]]></guid>
-    <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
