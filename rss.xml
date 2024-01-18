@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jan 2024 12:12:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jan 2024 14:08:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Crafting better App Icons]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/crafting-better-app-icons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/crafting-better-app-icons/]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[KYNearbyService]]></title>
+    <description><![CDATA[https://www.cocoacontrols.com/]]></description>
+    <link><![CDATA[https://www.cocoacontrols.com/controls/kynearbyservice]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/kynearbyservice]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Grid Tutorial: Neat Rows & Custom Column Alignments]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-grid-tutorial-column-alignments?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-grid-tutorial-column-alignments]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-grid-tutorial-column-alignments?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-grid-tutorial-column-alignments]]></guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Highlighting package funding links]]></title>
@@ -101,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Picking an Image from the Photos Library in a SwiftUI App]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/picking-an-image-from-the-photos-library-in-a-swiftui-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/picking-an-image-from-the-photos-library-in-a-swiftui-app/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/]]></guid>
-    <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is “No exact matches in call to initializer” error Swift/Swiftui]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/no-exact-matches-in-call-to-initializer?utm_source=rss&utm_medium=rss&utm_campaign=no-exact-matches-in-call-to-initializer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/no-exact-matches-in-call-to-initializer?utm_source=rss&utm_medium=rss&utm_campaign=no-exact-matches-in-call-to-initializer]]></guid>
     <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/career-of-software-craftsman/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/career-of-software-craftsman/]]></guid>
-    <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Analyzing DPRK's SpectralBlur]]></title>
-    <description><![CDATA[https://objective-see.org/blog.html]]></description>
-    <link><![CDATA[https://objective-see.org/blog/blog_0x78.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x78.html]]></guid>
     <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
