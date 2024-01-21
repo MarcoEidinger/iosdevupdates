@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 20 Jan 2024 22:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jan 2024 00:22:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Grounded adventures: Four years without flying]]></title>
+    <description><![CDATA[https://douglashill.co]]></description>
+    <link><![CDATA[https://douglashill.co/four-years-without-flying/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://douglashill.co/four-years-without-flying/]]></guid>
+    <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Unicode strings are always harder than you think]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@jpmtech/using-swiftdata-to-store-large-files-from-an-api-call-11ad83404f76?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-swiftdata-to-store-large-files-from-an-api-call-11ad83404f76?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rust API Bindings: CFStringGetBytes Is Hard, Part 2]]></title>
-    <description><![CDATA[https://alwaysprocessing.blog/]]></description>
-    <link><![CDATA[https://alwaysprocessing.blog/2024/01/07/rust-ffi-cfstr-getbytes-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alwaysprocessing.blog/2024/01/07/rust-ffi-cfstr-getbytes-2]]></guid>
-    <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
