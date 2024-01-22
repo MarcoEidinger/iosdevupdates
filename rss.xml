@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jan 2024 18:12:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 20:08:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A simple fastlane setup for solo indie developers]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/22/fastlane-for-indies/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/22/fastlane-for-indies/]]></guid>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creamy3D]]></title>
@@ -150,14 +158,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac menu bar apps for sale]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/18/menu-bar-apps-for-sale/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/18/menu-bar-apps-for-sale/]]></guid>
-    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
