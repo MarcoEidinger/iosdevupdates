@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jan 2024 02:20:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 04:08:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Overall Progress with rsync]]></title>
@@ -449,18 +449,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[StoreKit testing in Swift]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift]]></guid>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
