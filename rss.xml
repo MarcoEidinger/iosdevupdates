@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jan 2024 20:08:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 22:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Runestone Rejected From the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/22/runestone-rejected-from-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/22/runestone-rejected-from-the-app-store/]]></guid>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A simple fastlane setup for solo indie developers]]></title>
@@ -110,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://benscheirman.com/2024/01/swiftui-alignment-guide]]></link>
     <guid isPermaLink="true"><![CDATA[https://benscheirman.com/2024/01/swiftui-alignment-guide]]></guid>
     <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Prompt 3]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/19/prompt-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/19/prompt-3/]]></guid>
-    <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
