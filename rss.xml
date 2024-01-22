@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jan 2024 16:09:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 18:12:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Creamy3D]]></title>
@@ -25,10 +25,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Mark Bookmark As Complete]]></title>
+    <description><![CDATA[https://xcode.tips]]></description>
+    <link><![CDATA[https://xcode.tips/mark-bookmark-as-complete]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xcode.tips/mark-bookmark-as-complete]]></guid>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[A new access modifier in Swift: package]]></title>
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></guid>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop Testing Your Ui Using View Models]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></guid>
     <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,14 +337,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Quickly Open Bookmark]]></title>
-    <description><![CDATA[https://xcode.tips]]></description>
-    <link><![CDATA[https://xcode.tips/quickly-open-bookmark]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xcode.tips/quickly-open-bookmark]]></guid>
-    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[New Year, New Me]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/new-year-new-me/]]></link>
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.finnvoorhees.com/]]></description>
     <link><![CDATA[https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/]]></link>
     <guid isPermaLink="true"><![CDATA[https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/]]></guid>
-    <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Is Mvvm Dead In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
