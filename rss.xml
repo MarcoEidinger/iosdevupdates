@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Jan 2024 10:08:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jan 2024 12:14:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Writing code that makes mistakes harder]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></guid>
+    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI Property Wrappers: @AppStorage, @SceneStorage, @FocusState, @GestureState and @ScaledMetric]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@recuenco]]></description>
     <link><![CDATA[https://medium.com/the-swift-cooperative/swiftui-view-models-a-polymorphic-approach-8911a992892b?source=rss-c3e9dcf69985------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/swiftui-view-models-a-polymorphic-approach-8911a992892b?source=rss-c3e9dcf69985------2]]></guid>
-    <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Connecting your git repository with a remote server]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/connecting-your-git-repository-with-a-remote-server/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/connecting-your-git-repository-with-a-remote-server/]]></guid>
     <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
