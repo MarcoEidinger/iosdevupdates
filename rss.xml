@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 27 Jan 2024 04:12:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jan 2024 06:08:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sign in With Apple No Longer Required]]></title>
@@ -177,18 +177,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing SwiftUI on visionOS]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS]]></guid>
-    <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Happy birthday, Macintosh]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2024/01/23/happy_40th_birthday_mac]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/01/23/happy_40th_birthday_mac]]></guid>
+    <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing SwiftUI on visionOS]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS]]></guid>
     <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
