@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 27 Jan 2024 12:11:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jan 2024 14:08:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[LeavesDiagram]]></title>
+    <description><![CDATA[https://www.cocoacontrols.com/]]></description>
+    <link><![CDATA[https://www.cocoacontrols.com/controls/leavesdiagram]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/leavesdiagram]]></guid>
+    <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Sign in With Apple No Longer Required]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
     <link><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-loading-a-large-image-on-the-main-thread]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-loading-a-large-image-on-the-main-thread]]></guid>
-    <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[BusSeatSelection]]></title>
-    <description><![CDATA[https://www.cocoacontrols.com/]]></description>
-    <link><![CDATA[https://www.cocoacontrols.com/controls/busseatselection]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/busseatselection]]></guid>
     <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
