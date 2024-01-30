@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Jan 2024 10:08:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jan 2024 12:10:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Status bar overrides in the iOS Simulator]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.cocoacontrols.com/]]></description>
     <link><![CDATA[https://www.cocoacontrols.com/controls/tvospicker-c0e95b8b-945b-417e-80e9-521e775eeae6]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/tvospicker-c0e95b8b-945b-417e-80e9-521e775eeae6]]></guid>
+    <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting Started With App Intents]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/getting-started-with-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/getting-started-with-app-intents/]]></guid>
     <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -422,14 +430,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/bento-craft-history/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-history/]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Button Styles And Shapes]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-button-styles-and-shapes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-button-styles-and-shapes/]]></guid>
-    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
