@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Jan 2024 16:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jan 2024 18:09:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to make a completionHandler much safer]]></title>
+    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
+    <link><![CDATA[https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer]]></guid>
+    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[HUGE CrossCraft 2.0 Update: Seven Major New Features!]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/huge-crosscraft-update-seven-major-features/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/huge-crosscraft-update-seven-major-features/]]></guid>
+    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Apps Are More Personal and Websites More Collaborative]]></title>
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/UseCasesForSelfInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/UseCasesForSelfInSwift]]></guid>
     <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bad practice: loading a large image on the main thread]]></title>
-    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
-    <link><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-loading-a-large-image-on-the-main-thread]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-loading-a-large-image-on-the-main-thread]]></guid>
-    <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jackmorris.xyz]]></description>
     <link><![CDATA[https://jackmorris.xyz/posts/2024/01/15/swift-sqlite-part-4]]></link>
     <guid isPermaLink="true"><![CDATA[https://jackmorris.xyz/posts/2024/01/15/swift-sqlite-part-4]]></guid>
-    <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Join The Navy If You Can Be A Pirate?]]></title>
-    <description><![CDATA[https://objective-see.org/blog.html]]></description>
-    <link><![CDATA[https://objective-see.org/blog/blog_0x79.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x79.html]]></guid>
     <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
