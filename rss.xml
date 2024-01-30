@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Jan 2024 20:09:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jan 2024 22:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[IFTTT Killing Legacy Pro Plan]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/]]></guid>
+    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to read image paste from clipboard in React]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></guid>
+    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to make a completionHandler much safer]]></title>
@@ -81,14 +97,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fossil Is Quitting Smartwatches]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/29/fossil-is-quitting-smartwatches/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/29/fossil-is-quitting-smartwatches/]]></guid>
-    <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Next 40]]></title>
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/01/29/the-next-40/]]></link>
@@ -142,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/UseCasesForSelfInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/UseCasesForSelfInSwift]]></guid>
     <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use useCallback in React]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[https://onmyway133.com/posts/how-to-use-usecallback-in-react/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-usecallback-in-react/]]></guid>
-    <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
