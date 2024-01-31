@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jan 2024 18:09:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jan 2024 20:09:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shipping a visionOS app for launch]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch]]></guid>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ocak 2024 Özeti: Fena değil]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/ocak-2024-%C3%B6zeti-fena-de%C4%9Fil-a603042c9bf0?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/ocak-2024-%C3%B6zeti-fena-de%C4%9Fil-a603042c9bf0?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Automating SwiftUI Accessibility Audits in Xcode 15]]></title>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Happy 40th Anniversary, Mac!]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/happy-40th-anniversary-mac/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/happy-40th-anniversary-mac/]]></guid>
-    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A roadmap for building Turbo Native apps]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/turbo-native-app-roadmap]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></guid>
-    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Versioning in iOS/macOS Development]]></title>
-    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
-    <link><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/versioning-in-ios-macos-development-4d03c67b565b?source=rss-63310a0d2b01------2]]></guid>
     <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
