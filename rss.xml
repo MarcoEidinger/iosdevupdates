@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jan 2024 20:09:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jan 2024 22:09:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Vision Pro Reviews]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/01/31/apple-vision-pro-reviews/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/31/apple-vision-pro-reviews/]]></guid>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Shipping a visionOS app for launch]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/montanita-ecuador]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/montanita-ecuador]]></guid>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[IFTTT Killing Legacy Pro Plan]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,6 +281,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Happy 40th Anniversary, Mac!]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/happy-40th-anniversary-mac/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/happy-40th-anniversary-mac/]]></guid>
+    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[A roadmap for building Turbo Native apps]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/turbo-native-app-roadmap]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2024/01/17/how-to-use-apikit-to-model-an-api-and-fetch-data]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/01/17/how-to-use-apikit-to-model-an-api-and-fetch-data]]></guid>
     <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Thoughts And Tips After My App Was nominated For A Golden Apple Award From AppleVis]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/goldenapple/]]></guid>
-    <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
