@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jan 2024 04:09:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jan 2024 06:09:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Quiet 4.2 - new app icon and visionOS support]]></title>
+    <description><![CDATA[https://petercammeraat.net]]></description>
+    <link><![CDATA[https://petercammeraat.net/journal/2024/quiet-4-2-new-app-icon-and-visionos-support/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://petercammeraat.net/journal/2024/quiet-4-2-new-app-icon-and-visionos-support/]]></guid>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Montañita, Ecuador]]></title>
@@ -190,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower]]></guid>
     <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Changes from Apple for the European Union]]></title>
-    <description><![CDATA[https://petercammeraat.net]]></description>
-    <link><![CDATA[https://petercammeraat.net/journal/2024/changes-from-apple-for-the-european-union/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://petercammeraat.net/journal/2024/changes-from-apple-for-the-european-union/]]></guid>
-    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
