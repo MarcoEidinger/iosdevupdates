@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Feb 2024 12:14:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Feb 2024 14:08:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[QRCodeGenerator]]></title>
+    <description><![CDATA[https://www.cocoacontrols.com/]]></description>
+    <link><![CDATA[https://www.cocoacontrols.com/controls/qrcodegenerator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/qrcodegenerator]]></guid>
+    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On whiteboard coding]]></title>
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/xcode-15-new-feature-streamlined-accessibility-audits/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/xcode-15-new-feature-streamlined-accessibility-audits/]]></guid>
-    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[JSRippleEffect]]></title>
-    <description><![CDATA[https://www.cocoacontrols.com/]]></description>
-    <link><![CDATA[https://www.cocoacontrols.com/controls/jsrippleeffect]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/jsrippleeffect]]></guid>
     <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
