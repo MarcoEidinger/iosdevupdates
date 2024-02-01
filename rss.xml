@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jan 2024 22:09:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Feb 2024 00:19:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Vision Pro Reviews]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/montanita-ecuador]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/montanita-ecuador]]></guid>
+    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[7 things I learned about SwiftUI while developing Orbit on visionOS for Apple Vision Pro]]></title>
+    <description><![CDATA[https://trycatchswift.com/]]></description>
+    <link><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></guid>
-    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI Property Wrappers: @AppStorage, @SceneStorage, @FocusState, @GestureState and @ScaledMetric]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-2/]]></guid>
     <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
