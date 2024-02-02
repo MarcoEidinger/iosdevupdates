@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Feb 2024 20:08:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Feb 2024 22:12:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Launch Day Apple Vision Pro Apps]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/]]></guid>
+    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[FrameGen]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://christianselig.com/2024/02/introducing-juno/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/introducing-juno/]]></guid>
     <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Amazon Charging for IPv4 Addresses]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/02/01/amazon-charging-for-ipv4-addresses/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/01/amazon-charging-for-ipv4-addresses/]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
