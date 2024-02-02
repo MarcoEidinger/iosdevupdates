@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Feb 2024 10:10:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Feb 2024 12:11:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Launching Bezel for Apple Vision Pro]]></title>
+    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
+    <link><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></guid>
+    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[EmojiKit goes open-source]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/02/02/emojikit-goes-open-source]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/02/02/emojikit-goes-open-source]]></guid>
+    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Juno for Apple Vision Pro]]></title>
@@ -455,22 +471,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-lazyvgrid-and-lazyhgrid?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-lazyvgrid-and-lazyhgrid]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-lazyvgrid-and-lazyhgrid?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-lazyvgrid-and-lazyhgrid]]></guid>
-    <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Isolated Parameters]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/isolated-parameters]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/isolated-parameters]]></guid>
-    <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The build/operate trade-off in engineering cultures]]></title>
-    <description><![CDATA[https://pietrorea.com/]]></description>
-    <link><![CDATA[https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures?utm_source=rss&utm_medium=rss]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
