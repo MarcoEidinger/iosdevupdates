@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Feb 2024 10:11:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Feb 2024 12:10:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fluent Pattern in Swift]]></title>
@@ -122,7 +122,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 <item>
     <title><![CDATA[ If you are a developer of Apple Vision Pro, then you must pay attention to these points ]]></title>
-    <description><![CDATA[https://xreality.zone/en]]></description>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
