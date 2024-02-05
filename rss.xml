@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Feb 2024 18:09:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Feb 2024 20:09:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[T? and Optional<T> Are Not the Same in Swift]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/02/05/t-and-optionalt-are-not-the-same-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/05/t-and-optionalt-are-not-the-same-in-swift/]]></guid>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Learn SwiftUI to Develop Mac Apps]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://www.swiftdevjournal.com/how-to-learn-swiftui-to-develop-mac-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/how-to-learn-swiftui-to-develop-mac-apps/]]></guid>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Screen vs View in SwiftUI]]></title>
@@ -94,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2024/02/still-no-silver-bullet/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/02/still-no-silver-bullet/]]></guid>
     <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Launch Day Apple Vision Pro Apps]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/]]></guid>
-    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -392,14 +400,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower]]></guid>
     <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deleting an Xcode Project’s Git Repository]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/deleting-an-xcode-projects-git-repository/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/deleting-an-xcode-projects-git-repository/]]></guid>
-    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
