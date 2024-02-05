@@ -6,14 +6,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Feb 2024 06:09:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Feb 2024 08:10:14 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[App Preview Videos Capturing using the Xcode simulator]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/]]></guid>
-    <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+    <title><![CDATA[Why NetNewsWire Isn’t Available for Vision Pro]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro]]></guid>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue #65: Pascal]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></guid>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -105,20 +113,20 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to automatically compile and distribute your iOS SDK as a pre-compiled xcframework]]></title>
+    <description><![CDATA[https://krausefx.com/]]></description>
+    <link><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></link>
+    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></guid>
+    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[
            Swift 101. Convert coordinates to city names and back 
         ]]></title>
     <description><![CDATA[https://www.davidseek.com]]></description>
     <link><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to automatically compile and distribute your iOS SDK as a pre-compiled xcframework]]></title>
-    <description><![CDATA[https://krausefx.com/]]></description>
-    <link><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></link>
-    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -471,14 +479,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/four-years-without-flying/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/four-years-without-flying/]]></guid>
-    <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unicode strings are always harder than you think]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2024/01/20/unicode-strings-are-always-harder-than-you-think/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/01/20/unicode-strings-are-always-harder-than-you-think/]]></guid>
     <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
