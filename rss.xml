@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Feb 2024 18:10:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Feb 2024 20:10:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bad practice: using .lowercased() to compare strings]]></title>
+    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
+    <link><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-using-lowercased-to-compare-strings]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/bad-practice-using-lowercased-to-compare-strings]]></guid>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Tricks]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/02/06/swift-tricks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/06/swift-tricks/]]></guid>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Extra Large Title text styles in visionOS]]></title>
@@ -30,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer]]></guid>
     <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[T? and Optional<T> Are Not the Same in Swift]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/02/05/t-and-optionalt-are-not-the-same-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/05/t-and-optionalt-are-not-the-same-in-swift/]]></guid>
-    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -279,14 +287,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></guid>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to make a completionHandler much safer]]></title>
-    <description><![CDATA[https://www.swiftwithvincent.com/]]></description>
-    <link><![CDATA[https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
