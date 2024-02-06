@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Feb 2024 14:12:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Feb 2024 16:10:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Extra Large Title text styles in visionOS]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/extra-large-title-text-styles-in-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/extra-large-title-text-styles-in-visionos/]]></guid>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Executing a Task Only Once]]></title>
@@ -161,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Embracing Spatial Computing: the Speculative Spatial Design Canvas]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/embracing-spatial-computing-the-speculative-spatial-design-canvas/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/embracing-spatial-computing-the-speculative-spatial-design-canvas/]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ If you are a developer of Apple Vision Pro, then you must pay attention to these points ]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></link>
@@ -185,20 +185,20 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to automatically compile and distribute your iOS SDK as a pre-compiled xcframework]]></title>
-    <description><![CDATA[https://krausefx.com/]]></description>
-    <link><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></link>
-    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[
            Swift 101. Convert coordinates to city names and back 
         ]]></title>
     <description><![CDATA[https://www.davidseek.com]]></description>
     <link><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></guid>
+    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to automatically compile and distribute your iOS SDK as a pre-compiled xcframework]]></title>
+    <description><![CDATA[https://krausefx.com/]]></description>
+    <link><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></link>
+    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
