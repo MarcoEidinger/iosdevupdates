@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Feb 2024 10:08:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Feb 2024 12:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Conferences: Tips for the Debut]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-conferences-tips-for-debut/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-tips-for-debut/]]></guid>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[T? and Optional<T> Are Not the Same in Swift]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
     <link><![CDATA[https://fbernutz.github.io/posts/2024-02-04-thoughts-about-2023]]></link>
     <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2024-02-04-thoughts-about-2023]]></guid>
-    <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring visionOS: hoverEffect]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-visionos-hovereffect/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-hovereffect/]]></guid>
     <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
