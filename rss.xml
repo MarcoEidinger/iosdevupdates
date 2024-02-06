@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Feb 2024 20:10:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Feb 2024 22:08:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Comparing @Observable to ObservableObjects]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/comparing-observable-to-observableobjects/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/comparing-observable-to-observableobjects/]]></guid>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Bad practice: using .lowercased() to compare strings]]></title>
@@ -415,14 +423,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://sowenjub.me/]]></description>
     <link><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></link>
     <guid isPermaLink="true"><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></guid>
-    <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Writing code that makes mistakes harder]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/writing-code-that-makes-mistakes-harder/]]></guid>
     <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
