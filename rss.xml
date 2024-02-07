@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Feb 2024 08:09:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Feb 2024 10:09:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Property Wrappers in SwiftUI: @UIApplicationDelegateAdaptor, @AccessibilityFocusState, @FocusedObject, @FocusedValue, and @FocusedBinding]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></guid>
+    <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Setting up SharePlay on an iOS app]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/setting-up-shareplay-on-an-ios-app-from-scratch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/setting-up-shareplay-on-an-ios-app-from-scratch/]]></guid>
     <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -424,14 +432,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></link>
     <guid isPermaLink="true"><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></guid>
     <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generating beautiful open-graph images dynamically]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/generating-beautiful-open-graph-images-dynamically/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/generating-beautiful-open-graph-images-dynamically/]]></guid>
-    <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
