@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Feb 2024 02:14:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Feb 2024 04:10:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Property Wrappers in SwiftUI: @UIApplicationDelegateAdaptor, @AccessibilityFocusState, @FocusedObject, @FocusedValue, and @FocusedBinding]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></guid>
+    <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Comparing @Observable to ObservableObjects]]></title>
@@ -471,14 +479,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></guid>
-    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stop Testing Your Ui Using View Models]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></guid>
     <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
