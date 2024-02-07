@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Feb 2024 22:08:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Feb 2024 00:19:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Comparing @Observable to ObservableObjects]]></title>
@@ -197,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI Property Wrappers: @FetchRequest, @SectionedFetchRequest, @Query, @Namespace, @Bindable]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-3/]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -479,6 +471,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/a-new-access-modifier-in-swift-package]]></guid>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop Testing Your Ui Using View Models]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models]]></guid>
     <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
