@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 08 Feb 2024 16:08:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Feb 2024 18:12:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reruns]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></guid>
+    <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2023: Year in Review]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/what-is-testable-annotation-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/what-is-testable-annotation-in-swift/]]></guid>
+    <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use OSLog and OSLogStore in Swift]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-use-oslog-and-oslogstore-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-oslog-and-oslogstore-in-swift/]]></guid>
     <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftsenpai.com/]]></description>
     <link><![CDATA[https://swiftsenpai.com/development/ios-conf-sg-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ios-conf-sg-2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftsenpai.com/development/ios-conf-sg-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ios-conf-sg-2024]]></guid>
-    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why NetNewsWire Isn’t Available for Vision Pro]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro]]></guid>
     <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -303,14 +311,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://trycatchswift.com/]]></description>
     <link><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></guid>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to read image paste from clipboard in React]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-read-image-paste-from-clipboard-in-react/]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
