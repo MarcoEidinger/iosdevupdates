@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 09 Feb 2024 18:10:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Feb 2024 20:08:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[vision pro game in progress]]></title>
+    <description><![CDATA[http://chesstris.com/category/apple/]]></description>
+    <link><![CDATA[http://chesstris.com/2024/02/09/vision-pro-game-in-progress/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chesstris.com/2024/02/09/vision-pro-game-in-progress/]]></guid>
+    <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Evolution Monthly: January '24]]></title>
@@ -471,14 +479,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/]]></guid>
-    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mark Bookmark As Complete]]></title>
-    <description><![CDATA[https://xcode.tips]]></description>
-    <link><![CDATA[https://xcode.tips/mark-bookmark-as-complete]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xcode.tips/mark-bookmark-as-complete]]></guid>
     <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
