@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 09 Feb 2024 22:09:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Feb 2024 00:23:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[One Week with Apple Vision Pro]]></title>
+    <description><![CDATA[https://ryanashcraft.com]]></description>
+    <link><![CDATA[https://ryanashcraft.com/one-week-with-apple-vision-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/one-week-with-apple-vision-pro/]]></guid>
+    <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[vision pro game in progress]]></title>
@@ -230,6 +238,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2024/02/still-no-silver-bullet/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/02/still-no-silver-bullet/]]></guid>
     <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Explore SwiftUI animation]]></title>
+    <description><![CDATA[https://wwdcnotes.com]]></description>
+    <link><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/10156]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/10156]]></guid>
+    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -464,22 +480,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chris-mash.medium.com/preparing-for-swift-6-bab0620d52d0?source=rss-ea8ebe82ceec------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://chris-mash.medium.com/preparing-for-swift-6-bab0620d52d0?source=rss-ea8ebe82ceec------2]]></guid>
     <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Happy birthday, Macintosh]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2024/01/23/happy_40th_birthday_mac]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/01/23/happy_40th_birthday_mac]]></guid>
-    <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/]]></guid>
-    <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
