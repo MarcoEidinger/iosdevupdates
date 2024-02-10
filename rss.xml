@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 Feb 2024 20:09:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Feb 2024 22:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[January 2024 Review]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2024/2/january-2024-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/2/january-2024-review/]]></guid>
+    <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Distribution Models Shape the Way We Create Software]]></title>
@@ -471,14 +479,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2024/01/23/independent-as-in-freedom]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2024/01/23/independent-as-in-freedom]]></guid>
-    <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preparing for Swift 6]]></title>
-    <description><![CDATA[https://chris-mash.medium.com/]]></description>
-    <link><![CDATA[https://chris-mash.medium.com/preparing-for-swift-6-bab0620d52d0?source=rss-ea8ebe82ceec------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chris-mash.medium.com/preparing-for-swift-6-bab0620d52d0?source=rss-ea8ebe82ceec------2]]></guid>
     <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
