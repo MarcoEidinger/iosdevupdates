@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 11 Feb 2024 14:08:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Feb 2024 16:12:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Remove a Git tag. Mission impossible]]></title>
+    <description><![CDATA[https://pastey.github.io/]]></description>
+    <link><![CDATA[https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can]]></guid>
+    <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[January 2024 Review]]></title>
@@ -472,14 +480,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></link>
     <guid isPermaLink="true"><![CDATA[https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/]]></guid>
     <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Independent as in Freedom, not Independent as in Alone]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2024/01/23/independent-as-in-freedom]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2024/01/23/independent-as-in-freedom]]></guid>
-    <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
