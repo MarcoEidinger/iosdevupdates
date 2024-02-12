@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Feb 2024 18:09:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Feb 2024 20:09:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[OmniFocus 4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/02/12/omnifocus-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/12/omnifocus-4/]]></guid>
+    <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a UIKit Xcode Project]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://www.swiftdevjournal.com/creating-a-uikit-xcode-project/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/creating-a-uikit-xcode-project/]]></guid>
+    <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode Console and Unified Logging]]></title>
@@ -93,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.vidugloeck.com]]></description>
     <link><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></guid>
-    <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Lobbying Against Right to Repair]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/02/09/apple-lobbying-against-right-to-repair/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/09/apple-lobbying-against-right-to-repair/]]></guid>
     <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -230,14 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer]]></guid>
     <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Learn SwiftUI to Develop Mac Apps]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/how-to-learn-swiftui-to-develop-mac-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/how-to-learn-swiftui-to-develop-mac-apps/]]></guid>
-    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
