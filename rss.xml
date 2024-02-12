@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Feb 2024 16:09:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Feb 2024 18:09:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Console and Unified Logging]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/xcode-console-and-unified-logging/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/xcode-console-and-unified-logging/]]></guid>
+    <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Opening hyperlinks in SwiftUI]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-85-time-out-and-simon-in-bundlehunt-time-out-is-20-mac-is-40-and-time-out-tips/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-85-time-out-and-simon-in-bundlehunt-time-out-is-20-mac-is-40-and-time-out-tips/]]></guid>
-    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Disabling Core Data CloudKit Logging]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/disabling-core-data-cloudkit-logging/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/disabling-core-data-cloudkit-logging/]]></guid>
     <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
