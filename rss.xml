@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Feb 2024 12:11:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Feb 2024 14:09:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Configuring default window and volume size in visionOS]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/configuring-default-window-and-volume-size-in-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/configuring-default-window-and-volume-size-in-visionos/]]></guid>
+    <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftData Previews]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://scottsmithdev.com/]]></description>
     <link><![CDATA[https://scottsmithdev.com/encapsulate-and-generalize-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottsmithdev.com/encapsulate-and-generalize-in-swift]]></guid>
+    <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Custom keyboard extensions disappear in iOS 17]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/02/13/custom-keyboard-extensions-disappear-in-ios17]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/02/13/custom-keyboard-extensions-disappear-in-ios17]]></guid>
     <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-january-24/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-january-24/]]></guid>
-    <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ensuring interface legibility and contrast in visionOS]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/ensuring-interface-legibility-and-contrast-in-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/ensuring-interface-legibility-and-contrast-in-visionos/]]></guid>
     <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -341,14 +349,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></guid>
-    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[EmojiKit goes open-source]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/02/02/emojikit-goes-open-source]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/02/02/emojikit-goes-open-source]]></guid>
     <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
