@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Feb 2024 08:10:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Feb 2024 10:10:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to use @ScaledMetric in SwiftUI for Dynamic Type support]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/scaledmetric-dynamic-type-support/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/scaledmetric-dynamic-type-support/]]></guid>
+    <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Encapsulate and Generalize in Swift]]></title>
@@ -286,14 +294,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></guid>
     <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Preview Videos Capturing using the Xcode simulator]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/]]></guid>
-    <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
