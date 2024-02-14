@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Feb 2024 08:11:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Feb 2024 10:08:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Self vs self in Swift – Find out the differences with practical examples]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/self-vs-self-in-swift-find-out-the-differences-with-practical-examples/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/self-vs-self-in-swift-find-out-the-differences-with-practical-examples/]]></guid>
+    <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[JuxtaCode 1.0.2]]></title>
@@ -463,14 +471,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/01/29/the-next-40/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/01/29/the-next-40/]]></guid>
-    <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Support Swift macros with CocoaPods]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
