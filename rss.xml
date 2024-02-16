@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 16 Feb 2024 02:14:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Feb 2024 04:09:39 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Slack at 10]]></title>
@@ -125,6 +125,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/02/13/custom-keyboard-extensions-disappear-in-ios17]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/02/13/custom-keyboard-extensions-disappear-in-ios17]]></guid>
+    <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Implement the MVVM Design Pattern in Swift]]></title>
+    <description><![CDATA[https://iosapptemplates.com/blog]]></description>
+    <link><![CDATA[https://iosapptemplates.com/blog/ios-development/mvvm-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/ios-development/mvvm-swift]]></guid>
     <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -463,14 +471,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://trycatchswift.com/]]></description>
     <link><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></guid>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Placing important UI elements near the bottom of the screen for better accessibility]]></title>
-    <description><![CDATA[https://peterringset.dev]]></description>
-    <link><![CDATA[https://peterringset.dev/articles/bottom-growing-content]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterringset.dev/articles/bottom-growing-content]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
