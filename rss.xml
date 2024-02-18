@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 Feb 2024 08:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Feb 2024 10:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[User-friendly descriptions and recovery suggestions for custom errors in Swift]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/UserFriendlyDescriptionsAndRecoverySuggestionsForCustomErrorsInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/UserFriendlyDescriptionsAndRecoverySuggestionsForCustomErrorsInSwift]]></guid>
+    <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The SwiftUI Field Guide]]></title>
@@ -463,14 +471,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/montanita-ecuador]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/montanita-ecuador]]></guid>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[7 things I learned about SwiftUI while developing Orbit on visionOS for Apple Vision Pro]]></title>
-    <description><![CDATA[https://trycatchswift.com/]]></description>
-    <link><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://trycatchswift.com/developing-orbit-with-swiftui-visionos-apple-vision-pro/]]></guid>
     <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
