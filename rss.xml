@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Feb 2024 18:09:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Feb 2024 20:08:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Week In The Life Of A Staff Software Engineer]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/day-in-the-life-staff-software-engineer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/day-in-the-life-staff-software-engineer/]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Get the biometric authentication prompt for protected keychain items in the iOS simulator]]></title>
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Happy 10th Birthday GBA4iOS!]]></title>
+    <description><![CDATA[http://rileytestut.com/blog/]]></description>
+    <link><![CDATA[http://rileytestut.com/blog/2024/02/19/happy-10-birthday-gba4ios]]></link>
+    <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/02/19/happy-10-birthday-gba4ios]]></guid>
     <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -448,22 +464,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The secret tool to launch your Rails business in the app stores]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/launch-your-rails-business-in-the-app-store]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/launch-your-rails-business-in-the-app-store]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shipping a visionOS app for launch]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch]]></guid>
-    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
