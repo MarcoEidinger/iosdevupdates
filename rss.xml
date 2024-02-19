@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Feb 2024 14:08:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Feb 2024 16:11:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Get the biometric authentication prompt for protected keychain items in the iOS simulator]]></title>
+    <description><![CDATA[https://blog.eidinger.info/]]></description>
+    <link><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Embedding a privacy manifest into an XCFramework]]></title>
@@ -463,14 +471,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/ocak-2024-%C3%B6zeti-fena-de%C4%9Fil-a603042c9bf0?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/ocak-2024-%C3%B6zeti-fena-de%C4%9Fil-a603042c9bf0?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Runtime Issue Breakpoints]]></title>
-    <description><![CDATA[https://cocoacasts.com/blog]]></description>
-    <link><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-runtime-issue-breakpoints]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/debugging-apps-with-xcode-15-runtime-issue-breakpoints]]></guid>
     <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
 </item>
 
