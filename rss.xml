@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Feb 2024 20:08:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Feb 2024 22:08:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Week In The Life Of A Staff Software Engineer]]></title>
@@ -17,10 +17,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[My little Apple Vision Pro stand]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2024/02/vision-pro-stand/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/vision-pro-stand/]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Get the biometric authentication prompt for protected keychain items in the iOS simulator]]></title>
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Select Next Occurrence]]></title>
+    <description><![CDATA[https://xcode.tips]]></description>
+    <link><![CDATA[https://xcode.tips/select-next-occurrence]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xcode.tips/select-next-occurrence]]></guid>
     <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -110,14 +126,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://holyswift.app/the-basics-of-swiftui-alignment-guides/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/the-basics-of-swiftui-alignment-guides/]]></guid>
     <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Juno 1.1]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/02/juno-1-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/juno-1-1/]]></guid>
-    <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,16 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[
-           Swift 101. Convert coordinates to city names and back 
-        ]]></title>
-    <description><![CDATA[https://www.davidseek.com]]></description>
-    <link><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.davidseek.com/coordinates-to-city-names]]></guid>
     <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
