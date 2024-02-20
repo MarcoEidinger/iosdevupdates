@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Feb 2024 10:08:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Feb 2024 12:09:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fraudulent Rabby Wallet App]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/02/19/fraudulent-rabby-wallet-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/19/fraudulent-rabby-wallet-app/]]></guid>
+    <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Comparing Equatable using Opened Existentials]]></title>
+    <description><![CDATA[https://swiftunwrap.com]]></description>
+    <link><![CDATA[https://swiftunwrap.com/article/comparing-equatable-using-opened-existentials]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/comparing-equatable-using-opened-existentials]]></guid>
     <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.cocoacontrols.com/]]></description>
     <link><![CDATA[https://www.cocoacontrols.com/controls/framegen]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cocoacontrols.com/controls/framegen]]></guid>
-    <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Launching Bezel for Apple Vision Pro]]></title>
-    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
-    <link><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></guid>
     <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
