@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Feb 2024 04:12:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Feb 2024 06:10:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fraudulent Rabby Wallet App]]></title>
@@ -14,6 +14,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mjtsai.com/blog/2024/02/19/fraudulent-rabby-wallet-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/19/fraudulent-rabby-wallet-app/]]></guid>
     <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 5-7]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-07]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-07]]></guid>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/launching-bezel-for-vision]]></guid>
     <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ If you are a developer of Apple Vision Pro, then you must pay attention to these points ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points]]></guid>
-    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
