@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Feb 2024 14:10:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Feb 2024 16:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[LabeledContent in SwiftUI]]></title>
+    <description><![CDATA[https://www.danijelavrzan.com/]]></description>
+    <link><![CDATA[https://www.danijelavrzan.com/posts/2024/02/labeled-content]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/02/labeled-content]]></guid>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Custom Core Data migrations]]></title>
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></guid>
-    <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2023: Year in Review]]></title>
-    <description><![CDATA[https://www.danijelavrzan.com/]]></description>
-    <link><![CDATA[https://www.danijelavrzan.com/posts/2024/02/year-wrap-2023]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/02/year-wrap-2023]]></guid>
     <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
