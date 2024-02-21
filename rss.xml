@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Feb 2024 20:08:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Feb 2024 22:08:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iMessage With PQ3]]></title>
@@ -417,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring Property Wrappers in SwiftUI: @UIApplicationDelegateAdaptor, @AccessibilityFocusState, @FocusedObject, @FocusedValue, and @FocusedBinding]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/exploring-swiftui-property-wrappers-4/]]></guid>
-    <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Automatically build &amp; distribute custom iOS SDK Binaries for each customer]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
     <link><![CDATA[https://fbernutz.github.io/posts/2024-02-04-thoughts-about-2023]]></link>
     <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2024-02-04-thoughts-about-2023]]></guid>
+    <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Explore 3D body pose and person segmentation in Vision]]></title>
+    <description><![CDATA[https://wwdcnotes.com]]></description>
+    <link><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/111241]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/111241]]></guid>
     <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
