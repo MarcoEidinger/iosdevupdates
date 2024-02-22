@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Feb 2024 12:10:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Feb 2024 14:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Designing APIs with typed throws in Swift]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/]]></guid>
+    <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[test]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-visionos-starting-with-model3d/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-starting-with-model3d/]]></guid>
-    <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to determine where tasks and async functions run in Swift?]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/how-to-determine-where-tasks-and-async-functions-run-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-determine-where-tasks-and-async-functions-run-in-swift/]]></guid>
     <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
