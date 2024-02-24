@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 24 Feb 2024 14:08:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Feb 2024 16:08:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Introducing "Posters" – My first Spatial-first app for Vision Pro]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/]]></guid>
+    <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What the hell are passkeys? (Runway)]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://www.runway.team/blog/an-introduction-to-passkeys]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.runway.team/blog/an-introduction-to-passkeys]]></guid>
     <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftsenpai.com/]]></description>
     <link><![CDATA[https://swiftsenpai.com/development/ios-conf-sg-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ios-conf-sg-2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftsenpai.com/development/ios-conf-sg-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ios-conf-sg-2024]]></guid>
-    <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue #65: Pascal]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-65-pascal/]]></guid>
     <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
