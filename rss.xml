@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 25 Feb 2024 18:10:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Feb 2024 20:12:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What’s Changed in UIKit: iOS 13–17]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/whats-changed-in-uikit-ios-13-17-ee349c285202?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/whats-changed-in-uikit-ios-13-17-ee349c285202?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift 6 is coming in September!]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tiagolopes.blog/]]></description>
     <link><![CDATA[https://tiagolopes.blog/2024/02/24/picture-in-picture-cheatsheet-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://tiagolopes.blog/2024/02/24/picture-in-picture-cheatsheet-ios/]]></guid>
+    <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to bundle assets in an iOS app?]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/how-to-bundle-assets-in-ios-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-bundle-assets-in-ios-app/]]></guid>
     <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jackmorris.xyz/posts/2024/02/09/trailpro]]></link>
     <guid isPermaLink="true"><![CDATA[https://jackmorris.xyz/posts/2024/02/09/trailpro]]></guid>
     <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fun Alignment Guide Tricks]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/SwiftUI-Alignment-Guides-Tip-Tricks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/SwiftUI-Alignment-Guides-Tip-Tricks]]></guid>
-    <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reruns]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/02/08/reruns.html]]></guid>
-    <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
