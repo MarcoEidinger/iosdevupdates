@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Feb 2024 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Feb 2024 12:12:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building an Onboarding Flow with SwiftData]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/building-an-onboarding-flow-with-swiftdata-c3c9ee6b39ce?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/building-an-onboarding-flow-with-swiftdata-c3c9ee6b39ce?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Vision Pro Connectivity]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-08]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-08]]></guid>
+    <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to delay an animation in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/20240226-delay-swiftui-animation]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/20240226-delay-swiftui-animation]]></guid>
     <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to define one-to-many relationships in SwiftData]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/20240219-swiftdata-relationships]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/20240219-swiftdata-relationships]]></guid>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Embedding a privacy manifest into an XCFramework]]></title>
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/02/18/embedding-a-privacy-manifest-into-an-xcframework/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/2/january-2024-review/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/2/january-2024-review/]]></guid>
-    <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Distribution Models Shape the Way We Create Software]]></title>
-    <description><![CDATA[https://www.vidugloeck.com]]></description>
-    <link><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></guid>
     <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
