@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Feb 2024 14:08:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Feb 2024 16:13:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Performing accessibility audits with UI tests on iOS]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/02/26/performing-accessibility-audits-with-ui-tests-on-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/02/26/performing-accessibility-audits-with-ui-tests-on-ios/]]></guid>
+    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building an Onboarding Flow with SwiftData]]></title>
@@ -421,14 +429,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/xcode-console-and-unified-logging/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/xcode-console-and-unified-logging/]]></guid>
-    <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Opening hyperlinks in SwiftUI]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/02/12/opening-hyperlinks-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/02/12/opening-hyperlinks-in-swiftui/]]></guid>
     <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
