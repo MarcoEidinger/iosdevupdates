@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Feb 2024 18:08:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Feb 2024 20:08:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Super-Resolution iPhone Panoramas for Vision Pro]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></guid>
+    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Trials and tribulations of 360° video in Juno]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></guid>
     <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/day-in-the-life-staff-software-engineer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/day-in-the-life-staff-software-engineer/]]></guid>
-    <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My little Apple Vision Pro stand]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/02/vision-pro-stand/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/vision-pro-stand/]]></guid>
     <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
