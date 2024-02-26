@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Feb 2024 08:08:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Feb 2024 10:09:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Vision Pro Connectivity]]></title>
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></guid>
+    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing SalaryPig]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/introducing-salarypig]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/introducing-salarypig]]></guid>
     <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.vidugloeck.com/how-distribution-models-shape-the-way-we-create-software/]]></guid>
     <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[One Week with Apple Vision Pro]]></title>
-    <description><![CDATA[https://ryanashcraft.com]]></description>
-    <link><![CDATA[https://ryanashcraft.com/one-week-with-apple-vision-pro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/one-week-with-apple-vision-pro/]]></guid>
-    <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
