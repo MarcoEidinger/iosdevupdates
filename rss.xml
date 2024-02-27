@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Feb 2024 00:19:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Feb 2024 02:13:25 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Avast Fined for Selling Browsing Data]]></title>
@@ -213,6 +213,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/swiftui-isolation]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/swiftui-isolation]]></guid>
+    <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Gets an 'F' for Slicing Apples]]></title>
+    <description><![CDATA[https://objective-see.org/blog.html]]></description>
+    <link><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></guid>
     <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftindepth.com/articles/what-if-your-feature-was-a-command-line-tool]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftindepth.com/articles/what-if-your-feature-was-a-command-line-tool]]></guid>
     <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Remove a Git tag. Mission impossible]]></title>
-    <description><![CDATA[https://pastey.github.io/]]></description>
-    <link><![CDATA[https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can]]></guid>
-    <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
