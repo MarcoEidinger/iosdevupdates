@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Feb 2024 10:08:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Feb 2024 12:12:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Farewell, ECS! Hello, EKS: A Kubernetes Migration Story]]></title>
+    <description><![CDATA[https://medium.com/@jhandguy]]></description>
+    <link><![CDATA[https://code.egym.de/farewell-ecs-hello-eks-a-kubernetes-migration-story-0b89f95fbf0a?source=rss-60d6fa56fda3------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://code.egym.de/farewell-ecs-hello-eks-a-kubernetes-migration-story-0b89f95fbf0a?source=rss-60d6fa56fda3------2]]></guid>
+    <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Airfoil]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/02/12/death-and-the-vaesen/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/02/12/death-and-the-vaesen/]]></guid>
-    <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a UIKit Xcode Project]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/creating-a-uikit-xcode-project/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/creating-a-uikit-xcode-project/]]></guid>
     <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
