@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Feb 2024 20:08:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Feb 2024 22:08:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[FineWoven iPhone Cases and Watch Bands]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/02/29/finewoven-iphone-cases-and-watch-bands/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/29/finewoven-iphone-cases-and-watch-bands/]]></guid>
+    <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How the Swift compiler knows that DispatchQueue.main implies @MainActor]]></title>
@@ -33,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[An Introduction to Isolation in Swift]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/intro-to-isolation]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/intro-to-isolation]]></guid>
+    <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swift Predicate: Usage, Composition, and Considerations]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/swift-predicate-usage-composition-and-considerations/]]></link>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/rails-link_to-nested-data-attributes]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/rails-link_to-nested-data-attributes]]></guid>
     <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making Friends With AttributeGraph]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/02/28/making-friends-with-attributegraph/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/02/28/making-friends-with-attributegraph/]]></guid>
-    <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/how-to-monitor-network-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/how-to-monitor-network-in-swiftui/]]></guid>
-    <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Got Isolation Wrong]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/swiftui-isolation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/swiftui-isolation]]></guid>
     <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
