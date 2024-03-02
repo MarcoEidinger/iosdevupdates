@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 02 Mar 2024 12:13:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 Mar 2024 14:08:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Şubat Özeti: Daha İyi]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Identifying and Developing Leadership within Engineering Teams]]></title>
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/20240226-delay-swiftui-animation]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/20240226-delay-swiftui-animation]]></guid>
-    <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What’s Changed in UIKit: iOS 13–17]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/whats-changed-in-uikit-ios-13-17-ee349c285202?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/whats-changed-in-uikit-ios-13-17-ee349c285202?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
