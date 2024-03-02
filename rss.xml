@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 02 Mar 2024 18:08:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 Mar 2024 20:11:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Şubat Özeti: Daha İyi]]></title>
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Scaled Metric Surprises on iOS &amp; iPadOS]]></title>
+    <description><![CDATA[https://jaredsinclair.com/]]></description>
+    <link><![CDATA[https://jaredsinclair.com/2024/03/02/scaled-metrics]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/03/02/scaled-metrics]]></guid>
     <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://rileytestut.com/blog/2024/02/19/happy-10-birthday-gba4ios]]></link>
     <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/02/19/happy-10-birthday-gba4ios]]></guid>
     <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Embedding a privacy manifest into an XCFramework]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2024/02/18/embedding-a-privacy-manifest-into-an-xcframework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/02/18/embedding-a-privacy-manifest-into-an-xcframework/]]></guid>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
