@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Mar 2024 18:09:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Mar 2024 20:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building with nightly Swift toolchains on macOS]]></title>
+    <description><![CDATA[https://oleb.net/blog/]]></description>
+    <link><![CDATA[https://oleb.net/2024/swift-toolchains/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://oleb.net/2024/swift-toolchains/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Double Edged Sword: Apple Music and Dolby Atmos]]></title>
@@ -190,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/paywall-on-alert/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/paywall-on-alert/]]></guid>
     <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How the Swift compiler knows that DispatchQueue.main implies @MainActor]]></title>
-    <description><![CDATA[https://oleb.net/blog/]]></description>
-    <link><![CDATA[https://oleb.net/2024/dispatchqueue-mainactor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://oleb.net/2024/dispatchqueue-mainactor/]]></guid>
-    <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
