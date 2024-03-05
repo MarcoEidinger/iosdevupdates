@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Mar 2024 14:08:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Mar 2024 16:08:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Double Edged Sword: Apple Music and Dolby Atmos]]></title>
+    <description><![CDATA[https://samst.one/]]></description>
+    <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sign in with Apple on a SwiftUI application]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/sign-in-with-apple-on-a-swiftui-application/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/sign-in-with-apple-on-a-swiftui-application/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Optionals in Swift explained: 5 things you should know]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to delete an app and all iCloud/CloudKit data]]></title>
@@ -153,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering Model3D View]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/mastering-model3d-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/mastering-model3d-view/]]></guid>
-    <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Defining Custom Errors With Advanced Descriptions In Swift]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/]]></link>
@@ -301,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ciechanow.ski/]]></description>
     <link><![CDATA[https://ciechanow.ski/airfoil/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ciechanow.ski/airfoil/]]></guid>
-    <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Third-party libraries acknowledgments using a Settings bundle]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/]]></guid>
     <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></guid>
     <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A complete guide to Bluesky 🦋]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2024/02/21/bluesky-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2024/02/21/bluesky-guide/]]></guid>
-    <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
