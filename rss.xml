@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Mar 2024 22:09:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Mar 2024 00:19:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[M3 MacBook Pro Multi-Display Support via Software Update]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/04/m3-macbook-pro-multi-display-support-via-software-update/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/04/m3-macbook-pro-multi-display-support-via-software-update/]]></guid>
+    <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Aspect-Oriented Programming in Swift]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-ealain-for-vision-pro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-ealain-for-vision-pro/]]></guid>
-    <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Should Game Porting Toolkit Be Built-In?]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/01/should-game-porting-toolkit-be-built-in/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/01/should-game-porting-toolkit-be-built-in/]]></guid>
     <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
