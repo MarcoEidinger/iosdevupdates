@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Mar 2024 16:09:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Mar 2024 18:13:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ XR World Weekly 019 ]]></title>
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Please Don't Rain Press Kit]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/how-to-monitor-network-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/how-to-monitor-network-in-swiftui/]]></guid>
-    <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Gets an 'F' for Slicing Apples]]></title>
-    <description><![CDATA[https://objective-see.org/blog.html]]></description>
-    <link><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x80.html]]></guid>
     <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
