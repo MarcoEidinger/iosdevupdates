@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Mar 2024 14:07:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Mar 2024 16:09:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ XR World Weekly 019 ]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/posts/newsletter-19]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-19]]></guid>
+    <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Call for Application at the Apple Developer Academy 2024]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></guid>
-    <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ At the end of March, we will build a "Playground" for global visionOS developers. ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/lets-vision-os]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/lets-vision-os]]></guid>
     <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
