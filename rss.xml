@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Mar 2024 22:08:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 Mar 2024 00:18:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Dynamically Construct Complex Predicates for SwiftData]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/]]></guid>
+    <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Terminates Epic Games’ Developer Account Again]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/intro-to-isolation]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/intro-to-isolation]]></guid>
-    <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Predicate: Usage, Composition, and Considerations]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/swift-predicate-usage-composition-and-considerations/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swift-predicate-usage-composition-and-considerations/]]></guid>
     <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
