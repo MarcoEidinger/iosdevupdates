@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 07 Mar 2024 20:08:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 Mar 2024 22:08:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Indie Diary #6 — Building a new app]]></title>
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-03-07-indie-diary-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-03-07-indie-diary-6/]]></guid>
+    <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Time Out 2.9.4 released]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/time-out-2-9-4-released/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-2-9-4-released/]]></guid>
     <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.amanjeet.me/discovering-ios-memory-leaks-case-study-part-two/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.amanjeet.me/discovering-ios-memory-leaks-case-study-part-two/]]></guid>
     <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Support for Swift 5.10]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/supporting-swift-510]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/supporting-swift-510]]></guid>
-    <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
