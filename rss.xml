@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 07 Mar 2024 22:08:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Mar 2024 00:21:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Spatial Video]]></title>
+    <description><![CDATA[https://blog.mikeswanson.com/]]></description>
+    <link><![CDATA[https://blog.mikeswanson.com/post/744337392062873601]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/post/744337392062873601]]></guid>
+    <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS 14.4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/07/macos-14-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/07/macos-14-4/]]></guid>
+    <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Indie Diary #6 — Building a new app]]></title>
@@ -54,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/]]></guid>
     <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Terminates Epic Games’ Developer Account Again]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/06/apple-terminates-epic-games-developer-account-again/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/06/apple-terminates-epic-games-developer-account-again/]]></guid>
-    <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/how-to-bundle-assets-in-ios-app/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-bundle-assets-in-ios-app/]]></guid>
-    <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Discovering iOS memory leaks: A case study with Firefox app II]]></title>
-    <description><![CDATA[https://www.amanjeet.me]]></description>
-    <link><![CDATA[https://www.amanjeet.me/discovering-ios-memory-leaks-case-study-part-two/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.amanjeet.me/discovering-ios-memory-leaks-case-study-part-two/]]></guid>
     <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
