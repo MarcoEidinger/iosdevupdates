@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 Mar 2024 12:13:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Mar 2024 14:08:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Customizing a Chart in Swift Charts]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/customizing-a-chart-in-swift-charts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/customizing-a-chart-in-swift-charts/]]></guid>
+    <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[YX problem]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-2-9-4-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-2-9-4-released/]]></guid>
-    <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding real-world sizes for visionOS]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/understanding-real-world-sizes-for-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/understanding-real-world-sizes-for-visionos/]]></guid>
     <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
