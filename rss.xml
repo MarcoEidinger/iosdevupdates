@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 10 Mar 2024 12:09:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 Mar 2024 14:11:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stressing the JVM GC on Android]]></title>
@@ -85,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/weekly-newsletter-issue-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/weekly-newsletter-issue-3/]]></guid>
+    <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Adventures with Azure Open AI Search: A Tale for Kids]]></title>
+    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
+    <link><![CDATA[https://medium.com/@paritoshraval100/adventures-with-azure-open-ai-search-a-tale-for-kids-5b29f71d6a28?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/adventures-with-azure-open-ai-search-a-tale-for-kids-5b29f71d6a28?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></guid>
-    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Trials and tribulations of 360° video in Juno]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></guid>
     <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
