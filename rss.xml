@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 10 Mar 2024 10:08:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 Mar 2024 12:09:07 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stressing the JVM GC on Android]]></title>
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-visionos-creating-screenshots-for-app-store-with-simulator/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-creating-screenshots-for-app-store-with-simulator/]]></guid>
+    <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The music we share with friends.]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2024/03/09/shared-music]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2024/03/09/shared-music]]></guid>
     <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/02/trials-360-juno-video/]]></guid>
-    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing SalaryPig]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/introducing-salarypig]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/introducing-salarypig]]></guid>
     <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
