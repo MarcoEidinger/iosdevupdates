@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Mar 2024 20:13:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 Mar 2024 22:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[PopChar 10]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/11/popchar-10/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/11/popchar-10/]]></guid>
+    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Collection with opaque base collection in Swift]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2024/03/09/shared-music]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2024/03/09/shared-music]]></guid>
     <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Marketplaces Will Stop Working If You Travel Outside the EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/08/app-marketplaces-will-stop-working-if-you-travel-outside-the-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/08/app-marketplaces-will-stop-working-if-you-travel-outside-the-eu/]]></guid>
-    <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
