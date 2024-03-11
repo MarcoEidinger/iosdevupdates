@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Mar 2024 10:09:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 Mar 2024 12:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Implementing a TV Guide with SwiftUI]]></title>
+    <description><![CDATA[https://dcordero.me/]]></description>
+    <link><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></guid>
+    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Stressing the JVM GC on Android]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/building-an-onboarding-flow-with-swiftdata-c3c9ee6b39ce?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/building-an-onboarding-flow-with-swiftdata-c3c9ee6b39ce?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Vision Pro Connectivity]]></title>
-    <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
-    <link><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/vision-pro-connectivity/]]></guid>
     <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
