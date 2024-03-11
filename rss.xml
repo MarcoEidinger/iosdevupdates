@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Mar 2024 12:10:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 Mar 2024 14:08:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Cooking Up Quality Code with Arrange-Act-Assert]]></title>
+    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
+    <link><![CDATA[https://medium.com/@paritoshraval100/cooking-up-quality-code-with-arrange-act-assert-b9f5bc357ea6?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/cooking-up-quality-code-with-arrange-act-assert-b9f5bc357ea6?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing a TV Guide with SwiftUI]]></title>
@@ -89,18 +97,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Weekly Newsletter Issue 3]]></title>
+    <title><![CDATA[Customizing a Chart in Swift Charts]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/weekly-newsletter-issue-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/weekly-newsletter-issue-3/]]></guid>
-    <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adventures with Azure Open AI Search: A Tale for Kids]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://medium.com/@paritoshraval100/adventures-with-azure-open-ai-search-a-tale-for-kids-5b29f71d6a28?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/adventures-with-azure-open-ai-search-a-tale-for-kids-5b29f71d6a28?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <link><![CDATA[https://www.createwithswift.com/customizing-a-chart-in-swift-charts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/customizing-a-chart-in-swift-charts/]]></guid>
     <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
