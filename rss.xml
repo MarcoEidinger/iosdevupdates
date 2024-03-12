@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Mar 2024 22:10:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 Mar 2024 00:19:08 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[PopChar 10]]></title>
@@ -38,6 +38,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></guid>
     <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a USDA file with multiple animations]]></title>
+    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
+    <link><![CDATA[https://blog.studiolanes.com/unified-animation-timeline]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/unified-animation-timeline]]></guid>
+    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to build a draggable bottom sheet with a scroll view in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/20240311-draggable-sheet-with-scroll-view]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/20240311-draggable-sheet-with-scroll-view]]></guid>
+    <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to use TipKit to create tool tips in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/20240304-tipkit-feature-hints]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/20240304-tipkit-feature-hints]]></guid>
-    <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tapestry: What About?]]></title>
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/03/03/tapestry-what-about/]]></link>
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ciechanow.ski/]]></description>
     <link><![CDATA[https://ciechanow.ski/airfoil/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ciechanow.ski/airfoil/]]></guid>
-    <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Crafting the Perfect Advisory Letter for Your O-1 Application]]></title>
-    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
-    <link><![CDATA[https://blog.studiolanes.com/crafting-a-letter]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/crafting-a-letter]]></guid>
     <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
