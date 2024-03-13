@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Mar 2024 06:09:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Mar 2024 08:09:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bridging Conversations and Data: Chat Interface with Real-Time Database Interaction]]></title>
+    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
+    <link><![CDATA[https://medium.com/@paritoshraval100/bridging-conversations-and-data-chat-interface-with-real-time-database-interaction-c85c73b8a0d7?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/bridging-conversations-and-data-chat-interface-with-real-time-database-interaction-c85c73b8a0d7?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[February 2024 Review]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/03/11/collection-with-opaque-base-collection-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/03/11/collection-with-opaque-base-collection-in-swift/]]></guid>
-    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cooking Up Quality Code with Arrange-Act-Assert]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://blog.devgenius.io/cooking-up-quality-code-with-arrange-act-assert-b9f5bc357ea6?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/cooking-up-quality-code-with-arrange-act-assert-b9f5bc357ea6?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
