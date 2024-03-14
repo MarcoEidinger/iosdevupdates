@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Mar 2024 22:09:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Mar 2024 00:20:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Tips and Considerations for Using Lazy Containers in SwiftUI]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/]]></guid>
+    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ XR 世界导览 #020 ]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/zh/posts/newsletter-20]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/zh/posts/newsletter-20]]></guid>
+    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[DMA Compliance: Web Distribution of iOS Apps in EU]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/13/web-distribution-of-ios-apps-in-eu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/13/web-distribution-of-ios-apps-in-eu/]]></guid>
+    <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using Apples OpenAPI Generator to Make and Mock Network Calls in SwiftUI]]></title>
@@ -45,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-2-9-6-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-2-9-6-released/]]></guid>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac Stuck in Recovery After Login]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/12/mac-stuck-in-recovery-after-login/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/12/mac-stuck-in-recovery-after-login/]]></guid>
     <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -222,14 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10/]]></guid>
     <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ XR World Weekly 019 ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/newsletter-19]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-19]]></guid>
-    <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/contentunavailableview-in-swiftui-421ef61c17df?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/contentunavailableview-in-swiftui-421ef61c17df?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Airfoil]]></title>
-    <description><![CDATA[https://ciechanow.ski/]]></description>
-    <link><![CDATA[https://ciechanow.ski/airfoil/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ciechanow.ski/airfoil/]]></guid>
     <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
