@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 Mar 2024 18:08:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Mar 2024 20:12:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Nitro 2024.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/14/nitro-2024-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/14/nitro-2024-1/]]></guid>
+    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create an Immersive Experience with a 360-degree video in visionOS]]></title>
@@ -54,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://xreality.zone/en/posts/newsletter-20]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-20]]></guid>
     <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DMA Compliance: Web Distribution of iOS Apps in EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/13/web-distribution-of-ios-apps-in-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/13/web-distribution-of-ios-apps-in-eu/]]></guid>
-    <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -137,6 +137,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Buddy - your intelligent buddy]]></title>
+    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
+    <link><![CDATA[https://blog.studiolanes.com/buddy-ai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/buddy-ai]]></guid>
+    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Spring Dream Wallpaper]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/spring-dream/]]></link>
@@ -165,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dcordero.me/]]></description>
     <link><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui]]></guid>
-    <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a USDA file with multiple animations]]></title>
-    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
-    <link><![CDATA[https://blog.studiolanes.com/unified-animation-timeline]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/unified-animation-timeline]]></guid>
     <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
