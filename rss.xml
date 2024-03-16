@@ -6,10 +6,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 16 Mar 2024 12:10:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 Mar 2024 14:07:38 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Shifting (UI) tests to the far left]]></title>
+    <title><![CDATA[Performance of Automatic Equality Checks]]></title>
+    <description><![CDATA[https://ko9.org/]]></description>
+    <link><![CDATA[https://ko9.org/posts/equality-performance]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/equality-performance]]></guid>
+    <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Shifting tests to the far left (part 1)]]></title>
     <description><![CDATA[https://medium.com/@ge.sotiropoulos]]></description>
     <link><![CDATA[https://medium.com/@ge.sotiropoulos/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@ge.sotiropoulos/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></guid>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/]]></guid>
     <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shattered Glass: Customizing Windows in visionOS]]></title>
-    <description><![CDATA[https://blog.overdesigned.net/]]></description>
-    <link><![CDATA[https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics]]></guid>
-    <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
