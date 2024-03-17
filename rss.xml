@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Mar 2024 18:08:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Mar 2024 20:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[MsgFiler 4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/17/msgfiler-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/17/msgfiler-4/]]></guid>
+    <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Yes, AI will replace most of developers in 3 waves. Here is how.]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aplus.rs/2024/hackintosh-almost-dead/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2024/hackintosh-almost-dead/]]></guid>
     <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Default Handler 1.0]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/15/default-handler-1-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/15/default-handler-1-0/]]></guid>
-    <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
