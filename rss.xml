@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Mar 2024 16:09:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Mar 2024 18:09:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Inverting A Boolean Binding]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftui-inverting-a-boolean-binding/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-inverting-a-boolean-binding/]]></guid>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Test iOS Apps with Limited or No Network Connectivity]]></title>
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></guid>
-    <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Tasks Blocking the MainActor]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/]]></guid>
     <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
