@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Mar 2024 14:08:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Mar 2024 16:09:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Test iOS Apps with Limited or No Network Connectivity]]></title>
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/test-ios-apps-with-limited-or-no-network-connectivity-cd85f1d286b6?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/test-ios-apps-with-limited-or-no-network-connectivity-cd85f1d286b6?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - DispatchSemaphore explained]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/semaphore/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/semaphore/]]></guid>
     <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pyartez.github.io/management/identifying-and-developing-leadership-within-engineering-teams.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://pyartez.github.io/management/identifying-and-developing-leadership-within-engineering-teams.html]]></guid>
     <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Defining Custom Errors With Advanced Descriptions In Swift]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/]]></guid>
-    <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
