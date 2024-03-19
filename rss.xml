@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Mar 2024 06:09:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Mar 2024 08:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The power of consistency in side projects]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/]]></guid>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sending trial notifications with provisional authorization on iOS]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></guid>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating a tip jar with StoreKit 2, Xcode Previews, and remote assets]]></title>
@@ -229,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.manu.show/]]></description>
     <link><![CDATA[https://manu.show/unit-tests-gha-with-private-dependencies]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/unit-tests-gha-with-private-dependencies]]></guid>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Test-Driven Development (TDD) for bug fixes in Swift]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/]]></guid>
     <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
