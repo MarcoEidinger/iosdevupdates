@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Mar 2024 18:10:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Mar 2024 20:11:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Taxonomy of Prompt Injection Attacks]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/20/a-taxonomy-of-prompt-injection-attacks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/20/a-taxonomy-of-prompt-injection-attacks/]]></guid>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Where Swift Concurrency will run your function?]]></title>
@@ -14,14 +22,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></guid>
     <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Clearing Space on Your Mac]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/19/clearing-space-on-your-mac/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/19/clearing-space-on-your-mac/]]></guid>
-    <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
