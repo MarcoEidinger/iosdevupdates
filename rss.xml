@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Mar 2024 20:11:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Mar 2024 22:08:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Taxonomy of Prompt Injection Attacks]]></title>
@@ -221,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaredsinclair.com/]]></description>
     <link><![CDATA[https://jaredsinclair.com/2024/03/14/state-object-autoclosure]]></link>
     <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/03/14/state-object-autoclosure]]></guid>
-    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tips and Considerations for Using Lazy Containers in SwiftUI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/]]></guid>
     <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></guid>
+    <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Şubat Özeti: Daha İyi]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
