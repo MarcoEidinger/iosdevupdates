@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Mar 2024 08:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Mar 2024 10:08:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Where Swift Concurrency will run your function?]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></guid>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Clearing Space on Your Mac]]></title>
@@ -277,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-scope-view-using-mask-draggesture/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-scope-view-using-mask-draggesture/]]></guid>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Global actors in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/03/12/global-actors-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/03/12/global-actors-in-swift]]></guid>
     <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
