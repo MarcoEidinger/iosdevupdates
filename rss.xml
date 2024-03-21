@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 21 Mar 2024 00:20:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 Mar 2024 02:16:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Hands on with Vision Pro — a Day at the Vision Pro lab at the Developer Center in Cupertino.]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/2024/03/hands-on-with-vision-pro-a-day-at-the-vision-pro-lab-at-the-developer-center-in-cupertino/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/2024/03/hands-on-with-vision-pro-a-day-at-the-vision-pro-lab-at-the-developer-center-in-cupertino/]]></guid>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ XR World Weekly 021 ]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/posts/newsletter-21]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-21]]></guid>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Practical SwiftData: Building SwiftUI Applications with Modern Approaches]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></guid>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Taxonomy of Prompt Injection Attacks]]></title>
@@ -225,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ XR World Weekly 020 ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/newsletter-20]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-20]]></guid>
-    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Meet Reality Composer Pro]]></title>
     <description><![CDATA[https://wwdcnotes.com]]></description>
     <link><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/10083]]></link>
@@ -326,14 +342,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2024/03/10/automating-docc-for-a-swift-package-with-github-actions]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/03/10/automating-docc-for-a-swift-package-with-github-actions]]></guid>
     <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is Fail Transaction in Xcode 15?]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/2024/03/where-is-fail-transaction-in-xcode-15/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/2024/03/where-is-fail-transaction-in-xcode-15/]]></guid>
-    <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/migrating-my-swiftui-app-to-visionos/]]></guid>
-    <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Şubat Özeti: Daha İyi]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/%C5%9Fubat-%C3%B6zeti-daha-i%CC%87yi-dd1205f6d9b9?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
