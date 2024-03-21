@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 21 Mar 2024 20:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 Mar 2024 22:08:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Open Letter to Tim Cook: Please fix Xcode (Daily basis pain of the Apple developers)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[U.S. Sues Apple Over iPhone Monopoly]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/]]></guid>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating a custom view modifier in SwiftUI]]></title>
@@ -54,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></guid>
     <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Taxonomy of Prompt Injection Attacks]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/20/a-taxonomy-of-prompt-injection-attacks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/20/a-taxonomy-of-prompt-injection-attacks/]]></guid>
-    <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -165,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/supporting-dark-mode-programmatically]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/supporting-dark-mode-programmatically]]></guid>
-    <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Yes, AI will replace most of developers in 3 waves. Here is how.]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/yes-ai-will-replace-most-of-developers-in-3-waves-here-is-how-0422892e9732?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/yes-ai-will-replace-most-of-developers-in-3-waves-here-is-how-0422892e9732?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
