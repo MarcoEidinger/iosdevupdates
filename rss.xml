@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Mar 2024 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Mar 2024 12:10:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Privacy Manifests]]></title>
+    <description><![CDATA[https://liamnichols.eu]]></description>
+    <link><![CDATA[https://liamnichols.eu/2024/03/22/privacy-manifests]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liamnichols.eu/2024/03/22/privacy-manifests]]></guid>
+    <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Open Letter to Tim Cook: Please fix Xcode (Daily basis pain of the Apple developers)]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></guid>
     <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tapestry: What About?]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2024/03/03/tapestry-what-about/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/03/03/tapestry-what-about/]]></guid>
-    <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
