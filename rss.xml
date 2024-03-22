@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Mar 2024 18:11:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Mar 2024 20:08:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[_eventFirstResponderChainDescription]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/22/_eventfirstresponderchaindescription/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/22/_eventfirstresponderchaindescription/]]></guid>
+    <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Adding a Widget to a SwiftUI app]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/adding-a-widget-to-a-swiftui-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adding-a-widget-to-a-swiftui-app/]]></guid>
+    <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Isolation Intuition]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/isolation-intuition]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/isolation-intuition]]></guid>
     <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[U.S. Sues Apple Over iPhone Monopoly]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/]]></guid>
     <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-66-version-control/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-66-version-control/]]></guid>
-    <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Think On My Feet]]></title>
-    <description><![CDATA[https://adamwulf.me/]]></description>
-    <link><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/03/think-on-my-feet/]]></guid>
     <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
