@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 25 Mar 2024 20:08:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 Mar 2024 22:09:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Digital Wallets and the “Only Apple Pay Does This” Mythology]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/25/digital-wallets-and-the-only-apple-pay-does-this-mythology/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/25/digital-wallets-and-the-only-apple-pay-does-this-mythology/]]></guid>
+    <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Merging sorted arrays with duplicates in Swift]]></title>
@@ -41,6 +49,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to use Swift's logging API]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-logging-api]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-logging-api]]></guid>
+    <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Introducing HandySwift 4.0]]></title>
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/introducing-handyswift-4/]]></link>
@@ -70,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/common-protocols-used-in-swift-7b1d8b5edaf6?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/common-protocols-used-in-swift-7b1d8b5edaf6?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[_eventFirstResponderChainDescription]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/22/_eventfirstresponderchaindescription/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/22/_eventfirstresponderchaindescription/]]></guid>
-    <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-11]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-11]]></guid>
-    <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to support dark mode in SwiftUI programmatically]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/supporting-dark-mode-programmatically]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/supporting-dark-mode-programmatically]]></guid>
     <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
