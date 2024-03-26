@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 Mar 2024 12:10:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 Mar 2024 14:09:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Set up GitHub Actions for CI with Xcode]]></title>
+    <description><![CDATA[https://qualitycoding.org/]]></description>
+    <link><![CDATA[https://qualitycoding.org/github-actions-ci-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/github-actions-ci-xcode/]]></guid>
+    <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Key press events detection in SwiftUI]]></title>
@@ -259,8 +267,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Shifting tests to the far left (part 1)]]></title>
     <description><![CDATA[https://medium.com/@ge.sotiropoulos]]></description>
-    <link><![CDATA[https://medium.com/swlh/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/swlh/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></guid>
+    <link><![CDATA[https://medium.com/xmglobal/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/xmglobal/shifting-ui-tests-to-the-far-left-6784f798acc2?source=rss-f1e944862e90------2]]></guid>
     <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samst.one/]]></description>
     <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
-    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Please Don't Rain Press Kit]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
