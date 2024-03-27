@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Mar 2024 00:18:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Mar 2024 02:13:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[March 2024 projects update]]></title>
+    <description><![CDATA[https://mackuba.eu]]></description>
+    <link><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></guid>
+    <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Canva Acquires Affinity/Serif]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samst.one/]]></description>
     <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
-    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Please Don't Rain Press Kit]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
