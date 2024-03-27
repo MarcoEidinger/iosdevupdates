@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Mar 2024 18:09:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Mar 2024 20:08:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[“MFA Bombing” Attacks Targeting Apple Users]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/03/27/mfa-bombing-attacks-targeting-apple-users/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/27/mfa-bombing-attacks-targeting-apple-users/]]></guid>
+    <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Iterating over websocket messages with async / await in Swift]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></guid>
     <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Canva Acquires Affinity/Serif]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/03/26/canva-acquires-affinity-serif/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/03/26/canva-acquires-affinity-serif/]]></guid>
-    <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
