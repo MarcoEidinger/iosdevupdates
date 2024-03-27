@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 Mar 2024 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Mar 2024 00:18:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Canva Acquires Affinity/Serif]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/key-press-events-detection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/key-press-events-detection/]]></guid>
+    <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building async button in SwiftUI]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/03/26/building-async-button-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/03/26/building-async-button-in-swiftui]]></guid>
     <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -174,22 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://xreality.zone/en/posts/newsletter-21]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-21]]></guid>
     <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Practical SwiftData: Building SwiftUI Applications with Modern Approaches]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/]]></guid>
-    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where Swift Concurrency will run your function?]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function]]></guid>
-    <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samst.one/]]></description>
     <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Please Don't Rain Press Kit]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
