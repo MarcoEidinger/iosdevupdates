@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Mar 2024 22:10:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Mar 2024 00:20:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Views and @MainActor]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/swiftui-views-and-mainactor/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftui-views-and-mainactor/]]></guid>
+    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[“MFA Bombing” Attacks Targeting Apple Users]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://oleb.net/blog/]]></description>
     <link><![CDATA[https://oleb.net/2024/swift-toolchains/]]></link>
     <guid isPermaLink="true"><![CDATA[https://oleb.net/2024/swift-toolchains/]]></guid>
-    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Double Edged Sword: Apple Music and Dolby Atmos]]></title>
-    <description><![CDATA[https://samst.one/]]></description>
-    <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
