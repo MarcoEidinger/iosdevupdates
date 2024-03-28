@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 28 Mar 2024 02:16:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Mar 2024 04:08:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SwiftUI Views and @MainActor]]></title>
@@ -214,14 +214,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></guid>
     <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a tip jar with StoreKit 2, Xcode Previews, and remote assets]]></title>
-    <description><![CDATA[https://blog.martinp7r.com/]]></description>
-    <link><![CDATA[https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/]]></guid>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://oleb.net/blog/]]></description>
     <link><![CDATA[https://oleb.net/2024/swift-toolchains/]]></link>
     <guid isPermaLink="true"><![CDATA[https://oleb.net/2024/swift-toolchains/]]></guid>
+    <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Double Edged Sword: Apple Music and Dolby Atmos]]></title>
+    <description><![CDATA[https://samst.one/]]></description>
+    <link><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/]]></guid>
     <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
