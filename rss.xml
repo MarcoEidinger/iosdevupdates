@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 Mar 2024 12:10:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 Mar 2024 14:08:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using MapPolyline overlays in MapKit with SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/using-mappolyline-overlays-in-mapkit-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-mappolyline-overlays-in-mapkit-with-swiftui/]]></guid>
+    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Launching SwiftToolkit.dev]]></title>
+    <description><![CDATA[https://blog.natanrolnik.me]]></description>
+    <link><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></guid>
+    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Extracting User Story Details from Azure DevOps Python]]></title>
@@ -86,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></guid>
     <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using MapPolygon overlays in MapKit with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/using-mappolygon-overlays-in-mapkit-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-mappolygon-overlays-in-mapkit-with-swiftui/]]></guid>
-    <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -310,14 +318,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/2024-11]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-11]]></guid>
     <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Performance of Automatic Equality Checks]]></title>
-    <description><![CDATA[https://ko9.org/]]></description>
-    <link><![CDATA[https://ko9.org/posts/equality-performance]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/equality-performance]]></guid>
-    <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
