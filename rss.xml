@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 Mar 2024 04:08:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Mar 2024 06:08:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring visionOS: Dimming the Surroundings]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-visionos-dimming-surroundings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-dimming-surroundings/]]></guid>
+    <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Switching From Xcode to Neovim Can Become The Best Decision You Ever Made]]></title>
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/building-an-asyncsequence-with-asyncstream-makestream/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/building-an-asyncsequence-with-asyncstream-makestream/]]></guid>
-    <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI: Orientation Property Wrapper]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-orientation-property-wrapper/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-orientation-property-wrapper/]]></guid>
     <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
