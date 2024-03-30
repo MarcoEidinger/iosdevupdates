@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 Mar 2024 06:08:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Mar 2024 08:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[R.Swift is better than SwiftGen for iOS resources generation (overall)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/r-swift-is-better-than-swiftgen-for-ios-resources-generation-overall-ece9840a351e?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/r-swift-is-better-than-swiftgen-for-ios-resources-generation-overall-ece9840a351e?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build errors might just be warnings in disguise …]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/swift/2024/03/30/build-errors-might-just-be-warnings-in-disguise-/build-errors-might-just-be-warnings-in-disguise-...]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2024/03/30/build-errors-might-just-be-warnings-in-disguise-/build-errors-might-just-be-warnings-in-disguise-...]]></guid>
+    <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring visionOS: Dimming the Surroundings]]></title>
@@ -249,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Open Letter to Tim Cook: Please fix Xcode (Daily basis pain of the Apple developers)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/open-letter-to-tim-cook-please-fix-xcode-daily-basis-pain-of-the-apple-developers-6c33bcbda952?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[visionOS 2.0 at WWDC 2024]]></title>
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/visionos-20-at-wwdc-2024/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
     <link><![CDATA[https://blog.studiolanes.com/buddy-ai]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/buddy-ai]]></guid>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Spring Dream Wallpaper]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/spring-dream/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/spring-dream/]]></guid>
     <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
