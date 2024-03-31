@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 31 Mar 2024 18:08:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Mar 2024 20:08:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[React Native vs Dual Native: I Learned Both So You Don’t Have To]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/react-native-vs-dual-native-i-learned-both-so-you-dont-have-to-d6655d4e557e?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/react-native-vs-dual-native-i-learned-both-so-you-dont-have-to-d6655d4e557e?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Experimenting with a new app]]></title>
@@ -117,6 +125,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.natanrolnik.me]]></description>
     <link><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></guid>
+    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring ABI stability, @frozen, and library evolution mode]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/understanding-frozen-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/understanding-frozen-in-swift/]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -345,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Test iOS Apps with Limited or No Network Connectivity]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/test-ios-apps-with-limited-or-no-network-connectivity-cd85f1d286b6?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/test-ios-apps-with-limited-or-no-network-connectivity-cd85f1d286b6?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Interview - DispatchSemaphore explained]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/semaphore/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://amiantos.net/introducing-ealain-for-apple-tv/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-ealain-for-apple-tv/]]></guid>
     <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to programmatically disable “Menu” button on AppleTV remote]]></title>
-    <description><![CDATA[https://medium.com/swiftblade]]></description>
-    <link><![CDATA[https://medium.com/swiftblade/how-to-programmatically-disable-menu-button-on-appletv-remote-33d33eb2c59b?source=rss----d496aaac9309---4]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/swiftblade/how-to-programmatically-disable-menu-button-on-appletv-remote-33d33eb2c59b?source=rss----d496aaac9309---4]]></guid>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
