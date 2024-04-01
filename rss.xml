@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Apr 2024 10:14:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Apr 2024 12:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Reading a JSON File in Swift [Bundle and Documents Directory]]]></title>
@@ -22,6 +22,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-67-text-editors/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-67-text-editors/]]></guid>
     <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 12-13]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-13]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-13]]></guid>
+    <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -177,18 +185,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Turbo Native iOS and Android apps in 15 minutes]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></guid>
-    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Understanding Escrow in ERC-721 NFT Smart Contracts]]></title>
     <description><![CDATA[https://kristaps.me]]></description>
     <link><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></guid>
+    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Turbo Native iOS and Android apps in 15 minutes]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></guid>
     <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -374,14 +382,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/semaphore/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/semaphore/]]></guid>
     <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 10-11]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-11]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-11]]></guid>
-    <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
