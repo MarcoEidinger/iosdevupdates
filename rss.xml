@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Apr 2024 14:08:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Apr 2024 16:08:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to get/set keypath using string]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/]]></guid>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fine-Tuning AI: Transforming Life Sciences with Precision and Expertise]]></title>
+    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
+    <link><![CDATA[https://medium.com/@paritoshraval100/fine-tuning-ai-transforming-life-sciences-with-precision-and-expertise-3308de1d1acf?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/fine-tuning-ai-transforming-life-sciences-with-precision-and-expertise-3308de1d1acf?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Claude: Streaming Messages Using Claude 3 Haiku]]></title>
@@ -21,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swift-read-json-file/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-read-json-file/]]></guid>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode Bookmarks]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/xcode-bookmarks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/xcode-bookmarks/]]></guid>
     <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></guid>
-    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Ngrok: Exposing Local Servers Securely]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://blog.devgenius.io/exploring-ngrok-exposing-local-servers-securely-50fef2ee500a?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/exploring-ngrok-exposing-local-servers-securely-50fef2ee500a?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI Inverting A Boolean Binding]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-inverting-a-boolean-binding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-inverting-a-boolean-binding/]]></guid>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Interview - DispatchSemaphore explained]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/semaphore/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://wwdcnotes.com]]></description>
     <link><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/10083]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.wwdcnotes.com/notes/wwdc23/10083]]></guid>
-    <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[February 2024 Review]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[http://mikezornek.com/posts/2024/3/february-2024-review/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/3/february-2024-review/]]></guid>
     <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
