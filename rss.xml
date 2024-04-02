@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Apr 2024 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Apr 2024 12:12:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using closures for dependencies instead of protocols]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Parse JSON from an API URL in Swift [Codable and URLSession]]]></title>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/03/25/merging-sorted-arrays-with-duplicates-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/03/25/merging-sorted-arrays-with-duplicates-in-swift/]]></guid>
-    <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building an AsyncSequence with AsyncStream.makeStream]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/building-an-asyncsequence-with-asyncstream-makestream/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/building-an-asyncsequence-with-asyncstream-makestream/]]></guid>
     <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
