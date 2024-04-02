@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Apr 2024 18:08:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Apr 2024 20:08:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Safari Search Settings spacing]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/4/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/4/1.html]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Distributed Tracing with Testing on iOS and macOS]]></title>
+    <description><![CDATA[https://rhonabwy.com/]]></description>
+    <link><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Decoding and Flattening Nested JSON with Codable]]></title>
@@ -43,8 +59,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Mastering the Art of Prompt Engineering: Crafting Engaging and Effective Prompts]]></title>
     <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://medium.com/@paritoshraval100/mastering-the-art-of-prompt-engineering-crafting-engaging-and-effective-prompts-0779d5fa25a3?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@paritoshraval100/mastering-the-art-of-prompt-engineering-crafting-engaging-and-effective-prompts-0779d5fa25a3?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <link><![CDATA[https://blog.devgenius.io/mastering-the-art-of-prompt-engineering-crafting-engaging-and-effective-prompts-0779d5fa25a3?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/mastering-the-art-of-prompt-engineering-crafting-engaging-and-effective-prompts-0779d5fa25a3?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Releasing-Indie-Apps-Based-on-Themes-for-goals]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Releasing-Indie-Apps-Based-on-Themes-for-goals]]></guid>
     <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Guide to Naming SwiftUI Components]]></title>
-    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
-    <link><![CDATA[https://blog.ptrkstr.com/swiftui-component-naming]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/swiftui-component-naming]]></guid>
-    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Time Out 2.9.7 released]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/time-out-2-9-7-released/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-2-9-7-released/]]></guid>
-    <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
