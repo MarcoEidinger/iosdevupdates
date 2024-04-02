@@ -6,21 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Apr 2024 14:07:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Apr 2024 16:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adding Map Controls to a Map view with SwiftUI and MapKit]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/adding-map-controls-to-a-map-view-with-swiftui-and-mapkit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adding-map-controls-to-a-map-view-with-swiftui-and-mapkit/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Coding Keys in Swift with Decodable: How and When to Use Them]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/codingkey-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/codingkey-swift/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using closures for dependencies instead of protocols]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></guid>
-    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parse JSON from an API URL in Swift [Codable and URLSession]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swift-parse-json-from-url/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-parse-json-from-url/]]></guid>
     <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></guid>
-    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using MapPolyline overlays in MapKit with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/using-mappolyline-overlays-in-mapkit-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-mappolyline-overlays-in-mapkit-with-swiftui/]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
