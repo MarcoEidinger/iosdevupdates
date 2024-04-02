@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Apr 2024 20:08:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Apr 2024 22:08:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introduction to Cross-Native mobile development methodology (Swift and Kotlin)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/introduction-to-cross-native-mobile-development-methodology-swift-and-kotlin-18900177bdc1?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/introduction-to-cross-native-mobile-development-methodology-swift-and-kotlin-18900177bdc1?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Switching From Xcode to Neovim]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/02/switching-from-xcode-to-neovim/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/02/switching-from-xcode-to-neovim/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Safari Search Settings spacing]]></title>
@@ -97,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[XPC Resources]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/01/xpc-resources/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/01/xpc-resources/]]></guid>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to get/set keypath using string]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/]]></link>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/a-shorter-invite-for-women-to-become-software-developers]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/a-shorter-invite-for-women-to-become-software-developers]]></guid>
-    <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[R.Swift is better than SwiftGen for iOS resources generation (overall)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/r-swift-is-better-than-swiftgen-for-ios-resources-generation-overall-ece9840a351e?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/r-swift-is-better-than-swiftgen-for-ios-resources-generation-overall-ece9840a351e?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
