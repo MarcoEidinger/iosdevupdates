@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Apr 2024 06:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Apr 2024 08:09:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/new-frameworks-new-mindset/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/new-frameworks-new-mindset/]]></guid>
+    <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[TIL dynamic libraries are only partially loaded at launch in iOS]]></title>
@@ -277,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.mikeswanson.com/]]></description>
     <link><![CDATA[https://blog.mikeswanson.com/post/746216801650753536]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/post/746216801650753536]]></guid>
-    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Views and @MainActor]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/swiftui-views-and-mainactor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftui-views-and-mainactor/]]></guid>
     <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
