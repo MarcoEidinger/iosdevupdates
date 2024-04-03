@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Apr 2024 12:10:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Apr 2024 14:08:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Decode JSON with Dynamic Keys in Swift [Dictionaries and Arrays]]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swift-decode-json-dynamic-keys/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-decode-json-dynamic-keys/]]></guid>
+    <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using your Personal Voice (along with system and novelty voices) in an iOS app]]></title>
+    <description><![CDATA[https://bendodson.com/weblog/]]></description>
+    <link><![CDATA[https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/]]></guid>
+    <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></guid>
-    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Decoding and Flattening Nested JSON with Codable]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swift-codable-nested-json/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-codable-nested-json/]]></guid>
     <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Turbo Native iOS and Android apps in 15 minutes]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></guid>
-    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Understanding Escrow in ERC-721 NFT Smart Contracts]]></title>
     <description><![CDATA[https://kristaps.me]]></description>
     <link><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></guid>
+    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Turbo Native iOS and Android apps in 15 minutes]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-apps-in-15-minutes]]></guid>
     <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-03-15-preview-based-architecture/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-03-15-preview-based-architecture/]]></guid>
-    <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[rsync Progress Demo]]></title>
-    <description><![CDATA[https://www.dribin.org/dave/blog/]]></description>
-    <link><![CDATA[https://www.dribin.org/dave/blog/archives/2024/03/15/rsync-progress-example]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2024/03/15/rsync-progress-example]]></guid>
     <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
