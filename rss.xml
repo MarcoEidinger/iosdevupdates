@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Apr 2024 16:08:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Apr 2024 18:10:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building a backend-driven paywall with RevenueCat]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/building-a-backend-driven-paywall-with-revenuecat/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/building-a-backend-driven-paywall-with-revenuecat/]]></guid>
+    <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Decoding JSON with Dynamic Types in Swift [With Codable]]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swift-codable-dynamic-type/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-codable-dynamic-type/]]></guid>
+    <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Camera capture setup in a SwiftUI app]]></title>
@@ -57,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Decode JSON with Dynamic Keys in Swift [Dictionaries and Arrays]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swift-decode-json-dynamic-keys/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-decode-json-dynamic-keys/]]></guid>
-    <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Using your Personal Voice (along with system and novelty voices) in an iOS app]]></title>
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/]]></link>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></guid>
-    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using closures for dependencies instead of protocols]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/]]></guid>
     <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
