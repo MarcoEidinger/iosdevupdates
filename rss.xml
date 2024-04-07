@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Apr 2024 16:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Apr 2024 18:08:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How I Build Apps (And So Can You)]]></title>
@@ -222,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-67-text-editors/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-67-text-editors/]]></guid>
     <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 12-13]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-13]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-13]]></guid>
-    <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.manu.show/]]></description>
     <link><![CDATA[https://manu.show/new-app-os-log]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/new-app-os-log]]></guid>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sending trial notifications with provisional authorization on iOS]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS]]></guid>
     <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
