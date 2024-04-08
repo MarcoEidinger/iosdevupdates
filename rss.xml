@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Apr 2024 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Apr 2024 16:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting started with Benchmark package]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/04/08/getting-started-with-benchmark-package/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/04/08/getting-started-with-benchmark-package/]]></guid>
+    <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Removing the M from MVVM with SwiftUI]]></title>
@@ -33,10 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS Interview - Swift Method Swizzling]]></title>
+    <title><![CDATA[iOS Interview - Understanding and Implementing Thread-Safe Arrays]]></title>
     <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/swift_method_swizzling/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swift_method_swizzling/]]></guid>
+    <link><![CDATA[https://antran.app/2024/thread_safe_array/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/thread_safe_array/]]></guid>
+    <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Someday]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/someday/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/someday/]]></guid>
     <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Merging sorted arrays with duplicates in Swift]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/03/25/merging-sorted-arrays-with-duplicates-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/03/25/merging-sorted-arrays-with-duplicates-in-swift/]]></guid>
-    <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Customising the DocC documentation theme]]></title>
     <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
     <link><![CDATA[https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/visionos-20-at-wwdc-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/visionos-20-at-wwdc-2024/]]></guid>
-    <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hands on with Vision Pro — a Day at the Vision Pro lab at the Developer Center in Cupertino.]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/2024/03/hands-on-with-vision-pro-a-day-at-the-vision-pro-lab-at-the-developer-center-in-cupertino/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/2024/03/hands-on-with-vision-pro-a-day-at-the-vision-pro-lab-at-the-developer-center-in-cupertino/]]></guid>
     <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
