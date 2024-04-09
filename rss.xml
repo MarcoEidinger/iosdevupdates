@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Apr 2024 14:10:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Apr 2024 16:10:30 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Display empty states with ContentUnavailableView in SwiftUI]]></title>
@@ -33,10 +33,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Concurrency in Swift 6: SE-401]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/concurrency-swift-6]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6]]></guid>
+    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[iOS Interview - Understanding Dynamic Dispatch and Static Dispatch in Swift]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/dynamic_static_dispatch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/dynamic_static_dispatch/]]></guid>
+    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Blue Eclipse Wallpapers]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/blue-eclipse-wallpapers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/blue-eclipse-wallpapers/]]></guid>
     <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme]]></guid>
     <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Recreating Apple's beautiful visionOS search bar]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/03/recreating-visionos-search-bar/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/03/recreating-visionos-search-bar/]]></guid>
-    <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Common Protocols used in Swift]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/common-protocols-used-in-swift-7b1d8b5edaf6?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/common-protocols-used-in-swift-7b1d8b5edaf6?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
