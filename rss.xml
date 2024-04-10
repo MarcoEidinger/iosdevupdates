@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Apr 2024 18:11:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Apr 2024 20:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Run-time Polymorphism in Swift]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/10/run-time-polymorphism-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/10/run-time-polymorphism-in-swift/]]></guid>
+    <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Passing One SwiftUI View as a Parameter to Another SwiftUI View]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/the-best-tools-on-ios-android-to-declare-the-licences-of-your-libraries-within-your-app-89cadc44fd9d?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/the-best-tools-on-ios-android-to-declare-the-licences-of-your-libraries-within-your-app-89cadc44fd9d?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OmniFocus 4.2]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/09/omnifocus-4-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/09/omnifocus-4-2/]]></guid>
     <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
