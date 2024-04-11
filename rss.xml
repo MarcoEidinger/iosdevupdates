@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Apr 2024 22:11:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Apr 2024 00:21:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The @State Specter: Analyzing a Bug in Multi-Window SwiftUI Applications]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/the-state-specter-analyzing-a-bug-in-multi-window-swiftui-applications/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/the-state-specter-analyzing-a-bug-in-multi-window-swiftui-applications/]]></guid>
+    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Run-time Polymorphism in Swift]]></title>
@@ -265,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/new-frameworks-new-mindset/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/new-frameworks-new-mindset/]]></guid>
-    <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[TIL dynamic libraries are only partially loaded at launch in iOS]]></title>
     <description><![CDATA[https://diggingdeveloper.blog]]></description>
     <link><![CDATA[https://diggingdeveloper.blog/2024/04/03/til-dynamic-libraries-are-only-partially-loaded-at-launch-in-ios/]]></link>
@@ -285,6 +285,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/]]></guid>
+    <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Reset the Git History: Back to "Initial commit"]]></title>
+    <description><![CDATA[https://calincrist.com/]]></description>
+    <link><![CDATA[https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit]]></guid>
     <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/erc-721-escrow]]></guid>
     <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[March 2024 projects update]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2024/03/27/march-projects-update/]]></guid>
-    <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
