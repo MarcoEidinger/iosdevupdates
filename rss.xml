@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Apr 2024 18:08:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Apr 2024 20:10:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Dark Side of Swift’s Type Inference]]></title>
+    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
+    <link><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[5 Practical Ways to Quickly Overcome a Programming Obstacle]]></title>
+    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
+    <link><![CDATA[https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/]]></guid>
+    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Humane Ai Pin 1.0]]></title>
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/useful-scripts-for-server-side-swift-libraries/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/useful-scripts-for-server-side-swift-libraries/]]></guid>
-    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to migrate from UIActionSheet to UIAlertController in Objective-C]]></title>
-    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
-    <link><![CDATA[https://blog.supereasyapps.com/how-to-migrate-from-uiactionsheet-to-uialertcontroller-in-objective-c/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/how-to-migrate-from-uiactionsheet-to-uialertcontroller-in-objective-c/]]></guid>
     <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://bootstragram.com/blog/finding-ios-simulators-identifiers]]></link>
     <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/finding-ios-simulators-identifiers]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Meet the new Sunbeam]]></title>
-    <description><![CDATA[https://richardj.org]]></description>
-    <link><![CDATA[https://richardj.org/2024/03/28/meet-the-new-sunbeam/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://richardj.org/2024/03/28/meet-the-new-sunbeam/]]></guid>
-    <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
