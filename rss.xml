@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Apr 2024 18:08:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Apr 2024 20:10:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Basics of Generative AI]]></title>
+    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
+    <link><![CDATA[https://blog.devgenius.io/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></guid>
+    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift for C++ Practitioners]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/12/swift-for-c-practitioners/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/12/swift-for-c-practitioners/]]></guid>
+    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: HStack and VStack with Zero Spacing]]></title>
@@ -30,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/leetcode_sliding_window/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_sliding_window/]]></guid>
     <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Used Genuine Apple Parts and Parts Pairing]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/11/used-genuine-apple-parts-and-parts-pairing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/11/used-genuine-apple-parts-and-parts-pairing/]]></guid>
-    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/the-overlooked-cover-letter-how-i-began-my-current-journey-at-shape-and-some-insights-for-singles]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/the-overlooked-cover-letter-how-i-began-my-current-journey-at-shape-and-some-insights-for-singles]]></guid>
-    <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Create Diagrams with ChatGPT and draw.io]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://blog.devgenius.io/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/how-to-create-diagrams-with-chatgpt-and-draw-io-851efb626f08?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
