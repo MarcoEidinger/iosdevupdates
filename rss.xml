@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Apr 2024 14:08:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Apr 2024 16:08:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: HStack and VStack with Zero Spacing]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-hstack-and-vstack-with-zero-spacing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-hstack-and-vstack-with-zero-spacing/]]></guid>
+    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Embracing Imaginary Spatial User Experience in visionOS]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/embracing-imaginary-spatial-user-experience-in-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/embracing-imaginary-spatial-user-experience-in-visionos/]]></guid>
+    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Sliding Window Technique]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_sliding_window/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_sliding_window/]]></guid>
     <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -165,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/concurrency-swift-6]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6]]></guid>
-    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Understanding Dynamic Dispatch and Static Dispatch in Swift]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/dynamic_static_dispatch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/dynamic_static_dispatch/]]></guid>
     <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -357,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/]]></guid>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Claude: Streaming Messages Using Claude 3 Haiku]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku/]]></guid>
     <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
