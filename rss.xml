@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 13 Apr 2024 08:08:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Apr 2024 10:10:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Localize a SwiftUI app]]></title>
+    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
+    <link><![CDATA[https://blog.ptrkstr.com/localize-a-swiftui-app]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/localize-a-swiftui-app]]></guid>
+    <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Everything You Need To Know About The Apple App Site Association File]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.natanrolnik.me]]></description>
     <link><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.natanrolnik.me/Swift-Toolkit-launch]]></guid>
-    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Finding iOS simulators identifiers for CI]]></title>
-    <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
-    <link><![CDATA[https://bootstragram.com/blog/finding-ios-simulators-identifiers]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/finding-ios-simulators-identifiers]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
