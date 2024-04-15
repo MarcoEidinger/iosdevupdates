@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Apr 2024 12:11:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Apr 2024 14:09:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[2 New Vision Pro Apps: "Guided Guest Mode" & "FocusBeats: Pomodoro + Music"]]></title>
@@ -30,6 +30,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@alessandromanilii/custom-toggle-styling-in-swiftui-703f68684fa3?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/custom-toggle-styling-in-swiftui-703f68684fa3?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My favorite Xcode keyboard shortcuts to be more productive]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/xcode-shortcuts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/xcode-shortcuts]]></guid>
+    <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://holyswift.app/how-to-animate-text-in-swiftui-using-contenttransition/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/how-to-animate-text-in-swiftui-using-contenttransition/]]></guid>
     <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Quick tip on how to learn Xcode keyboard shortcuts efficiently]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/xcode-quicktip-learning-shortcuts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/xcode-quicktip-learning-shortcuts]]></guid>
-    <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
