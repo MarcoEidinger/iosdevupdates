@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Apr 2024 08:08:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Apr 2024 10:10:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Custom Toggle Styling in SwiftUI]]></title>
@@ -430,14 +430,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/new-app-experiment]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/new-app-experiment]]></guid>
     <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[20 Years of Gmail]]></title>
-    <description><![CDATA[https://ko9.org/]]></description>
-    <link><![CDATA[https://ko9.org/posts/gmail-20-years]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/gmail-20-years]]></guid>
-    <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
