@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Apr 2024 14:09:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Apr 2024 16:10:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[When is Single Responsibility Principle helping us write better code?]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/when-is-single-responsibility-principle-helping-us-write-better-code/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/when-is-single-responsibility-principle-helping-us-write-better-code/]]></guid>
+    <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2 New Vision Pro Apps: "Guided Guest Mode" & "FocusBeats: Pomodoro + Music"]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://wojciechkulik.pl]]></description>
     <link><![CDATA[https://wojciechkulik.pl/ios/why-switching-from-xcode-to-neovim-can-become-the-best-decision-you-ever-made]]></link>
     <guid isPermaLink="true"><![CDATA[https://wojciechkulik.pl/ios/why-switching-from-xcode-to-neovim-can-become-the-best-decision-you-ever-made]]></guid>
-    <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store Subscriptions and Family Sharing]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/]]></guid>
     <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 
