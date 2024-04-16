@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Apr 2024 08:08:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Apr 2024 10:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bar Chart creation using Swift Charts]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/]]></guid>
+    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Backtracking Algorithms: Solving Data Structure and Algorithm Problems in Swift]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://towardsdev.com/essential-ios-app-security-cases-developers-shouldnt-overlook-0339ff1bd69e?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://towardsdev.com/essential-ios-app-security-cases-developers-shouldnt-overlook-0339ff1bd69e?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Statistical significance and its importance with app experiments]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/general/statistical-significance-app-experiments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/general/statistical-significance-app-experiments/]]></guid>
     <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
