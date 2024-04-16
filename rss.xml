@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Apr 2024 02:16:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Apr 2024 04:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Mastering the Hash Table Pattern in Swift]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_hash_tables/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_hash_tables/]]></guid>
+    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Demise of Email Forwarding Is Getting Closer]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/04/14/create-custom-environment-types-in-swiftui-with-less-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/04/14/create-custom-environment-types-in-swiftui-with-less-code]]></guid>
-    <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Dynamic Programming]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_dynamic_programming/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_dynamic_programming/]]></guid>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
