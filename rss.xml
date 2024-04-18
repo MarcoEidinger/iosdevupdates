@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Apr 2024 12:09:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Apr 2024 14:09:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using server-side Swift for machine learning processing]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/using-server-side-swift-machine-learning-processing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-server-side-swift-machine-learning-processing/]]></guid>
+    <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to use experimental Swift versions and features in Xcode?]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/stop-using-flutter-it-will-die-sooner-than-you-think-and-improve-your-product-instead-3750219dd695?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/stop-using-flutter-it-will-die-sooner-than-you-think-and-improve-your-product-instead-3750219dd695?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making your lists searchable in a SwiftUI app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/making-your-lists-searchable-in-a-swiftui-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/making-your-lists-searchable-in-a-swiftui-app/]]></guid>
     <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
