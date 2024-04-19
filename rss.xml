@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 19 Apr 2024 20:10:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Apr 2024 22:09:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Removes Messaging Apps From Chinese App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/19/apple-removes-messaging-apps-from-chinese-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/19/apple-removes-messaging-apps-from-chinese-app-store/]]></guid>
+    <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create with Swift at Swift Heroes 2024]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/mastering-publisher-subscriptions-in-combine-a-comprehensive-guide-47ed69d2a427?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/mastering-publisher-subscriptions-in-combine-a-comprehensive-guide-47ed69d2a427?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Daniel C. Lynch, RIP]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/18/daniel-c-lynch-rip/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/18/daniel-c-lynch-rip/]]></guid>
     <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
