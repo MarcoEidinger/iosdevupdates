@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 21 Apr 2024 16:08:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Apr 2024 18:09:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Review Of iOS Lead Essentials Course]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-visionos-creating-side-window-for-main-window-with-animation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-visionos-creating-side-window-for-main-window-with-animation/]]></guid>
+    <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Custom SwiftUI Activity Indicator for macOS apps]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/macos_progressview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/macos_progressview/]]></guid>
     <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -129,10 +137,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS Interview - Using Stack to Solve Data Structure and Algorithm Problems in Swift]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_stack/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_stack/]]></guid>
+    <title><![CDATA[Swift 6: Access level on import statements]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></guid>
     <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://rileytestut.com/blog/]]></description>
     <link><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></link>
     <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></guid>
-    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6: Access level on import statements]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></guid>
     <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
