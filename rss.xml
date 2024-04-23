@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Apr 2024 18:11:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Apr 2024 20:09:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Elegant Concurrency Operations in Core Data]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/23/elegant-concurrency-operations-in-core-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/23/elegant-concurrency-operations-in-core-data/]]></guid>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What are lazy vars in Swift?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/what-are-lazy-vars-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-are-lazy-vars-in-swift/]]></guid>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Searching for points of interest in MapKit with SwiftUI]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/environment-property-wrapper/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/environment-property-wrapper/]]></guid>
-    <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dispatching to the Main thread with MainActor in Swift]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/dispatching-to-the-main-thread-with-mainactor-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/dispatching-to-the-main-thread-with-mainactor-in-swift/]]></guid>
     <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -65,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to Use Experimental Swift Versions and Features in Xcode]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/22/how-to-use-experimental-swift-versions-and-features-in-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/22/how-to-use-experimental-swift-versions-and-features-in-xcode/]]></guid>
-    <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The cool Swift features that you should not (ab)use]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/the-cool-swift-features-that-you-should-not-ab-use-61070b70fad9?source=rss-1b318de51cdd------2]]></link>
@@ -101,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-028/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-028/]]></guid>
+    <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A free, 3D printable Meta Quest 3 stand]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2024/04/meta-quest-3-stand/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/04/meta-quest-3-stand/]]></guid>
     <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -142,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/review-of-lead-ios-essentials-course/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/review-of-lead-ios-essentials-course/]]></guid>
     <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Qi2 is kinda underwhelming]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/04/qi2-is-kinda-underwhelming/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/04/qi2-is-kinda-underwhelming/]]></guid>
-    <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -217,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing AltStore PAL]]></title>
-    <description><![CDATA[https://rileytestut.com/blog/]]></description>
-    <link><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></link>
-    <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></guid>
-    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift 6: Access level on import statements]]></title>
     <description><![CDATA[https://www.polpiella.dev]]></description>
     <link><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swift-6-import-access-level/]]></guid>
+    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing AltStore PAL]]></title>
+    <description><![CDATA[https://rileytestut.com/blog/]]></description>
+    <link><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></link>
+    <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></guid>
     <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
