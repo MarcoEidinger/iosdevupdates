@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Apr 2024 10:13:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Apr 2024 12:11:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using @Environment in SwiftUI to link Swift Package dependencies]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/environment-property-wrapper/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/environment-property-wrapper/]]></guid>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dispatching to the Main thread with MainActor in Swift]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/]]></guid>
-    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bar Chart creation using Swift Charts]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/]]></guid>
     <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
