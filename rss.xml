@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Apr 2024 04:10:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Apr 2024 06:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode: Palindrome Number]]></title>
@@ -70,6 +70,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://digitalbunker.dev/converting-codable-models-to-csv/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/converting-codable-models-to-csv/]]></guid>
     <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 16]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-16]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-16]]></guid>
+    <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftunwrap.com/article/dangerswift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/dangerswift]]></guid>
     <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 14-15]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-15]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-15]]></guid>
-    <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
