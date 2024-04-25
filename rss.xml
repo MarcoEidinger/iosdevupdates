@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Apr 2024 20:09:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Apr 2024 22:09:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[FTC Bans Noncompetes]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/04/25/ftc-bans-noncompetes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/25/ftc-bans-noncompetes/]]></guid>
+    <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Extracting app logs from an .xcresult]]></title>
@@ -54,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[TikTok Ban]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/24/tiktok-ban/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/24/tiktok-ban/]]></guid>
-    <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
