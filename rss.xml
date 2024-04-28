@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 28 Apr 2024 04:11:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Apr 2024 06:09:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[MLX - Day 4: Evaluate LLM Models from CLI with MLX on macOS]]></title>
@@ -265,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Show passwords as they're typed in Terminal]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/4/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/4/4.html]]></guid>
-    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing AltStore PAL]]></title>
     <description><![CDATA[https://rileytestut.com/blog/]]></description>
     <link><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></link>
@@ -454,6 +446,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/]]></guid>
     <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Someday]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/someday/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/someday/]]></guid>
+    <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
