@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 28 Apr 2024 02:20:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Apr 2024 04:11:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[MLX - Day 4: Evaluate LLM Models from CLI with MLX on macOS]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/mlx_swift_example_cli/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/mlx_swift_example_cli/]]></guid>
+    <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Janky Apple ID Security]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
     <link><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></link>
     <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></guid>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 20: Valid Parentheses]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_20_valid_parentheses/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_20_valid_parentheses/]]></guid>
     <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
