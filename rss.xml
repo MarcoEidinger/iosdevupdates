@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Apr 2024 14:09:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Apr 2024 16:08:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Designing a Swift library with data-race safety]]></title>
+    <description><![CDATA[https://rhonabwy.com/]]></description>
+    <link><![CDATA[https://rhonabwy.com/2024/04/29/designing-a-swift-library-with-data-race-safety/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/04/29/designing-a-swift-library-with-data-race-safety/]]></guid>
+    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #29 : Blog Speed Enhancement and Apple's New AI Model]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-029/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-029/]]></guid>
+    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Pie Charts]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftui-pie-charts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-pie-charts/]]></guid>
     <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/parchment-for-ios-currently-the-best-uikit-pagingmenu-style-library-40c1d76554c0?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/parchment-for-ios-currently-the-best-uikit-pagingmenu-style-library-40c1d76554c0?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to solve problems with bitwise operators in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-working-with-bits]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-working-with-bits]]></guid>
     <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-16]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-16]]></guid>
-    <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[GraphQL essentials for iOS development]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/graphql-essentials-for-ios]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/graphql-essentials-for-ios]]></guid>
     <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,22 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://www.swiftdevjournal.com/running-a-command-line-program-from-a-mac-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/running-a-command-line-program-from-a-mac-app/]]></guid>
-    <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Splitting Up a Monolith: From 1 to 25 Swift Packages]]></title>
-    <description><![CDATA[https://ryanashcraft.com]]></description>
-    <link><![CDATA[https://ryanashcraft.com/splitting-up-a-monolithic-swift-package/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/splitting-up-a-monolithic-swift-package/]]></guid>
-    <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fetching OSLog Messages in Swift]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/]]></guid>
     <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
