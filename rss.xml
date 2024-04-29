@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Apr 2024 06:09:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Apr 2024 08:11:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What is defer in Swift?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/what-is-defer-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-is-defer-in-swift/]]></guid>
+    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hot Reloading In SwiftUI]]></title>
+    <description><![CDATA[https://dasdom.dev]]></description>
+    <link><![CDATA[https://dasdom.dev/hot-reloading-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/hot-reloading-in-swiftui]]></guid>
+    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Explaining Dictionary data structure in Swift]]></title>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/app-store-connect-like-picker-with-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/app-store-connect-like-picker-with-swiftui/]]></guid>
     <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deciding between a computed property and a function in Swift]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/deciding-between-a-computed-property-and-a-function-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/deciding-between-a-computed-property-and-a-function-in-swift/]]></guid>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
