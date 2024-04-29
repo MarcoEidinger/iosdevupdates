@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Apr 2024 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Apr 2024 12:12:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Build a Chat App Using Stream and SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/build-a-chat-app-using-stream-and-swiftui-b75a2aab2f7e?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/build-a-chat-app-using-stream-and-swiftui-b75a2aab2f7e?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Stream's Video SDK: Creating a WWDC Watch Party App]]></title>
@@ -137,27 +145,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[In-Depth Exploration of Overlay and Background Modifiers in SwiftUI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui/]]></guid>
-    <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Take those Let’s Encrypt “Expiry Bot” notifications seriously]]></title>
     <description><![CDATA[https://pietrorea.com/]]></description>
     <link><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using SF Symbols in Your App Designs]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/using-sf-symbols-in-your-app-designs-6f7fb4c3e63e?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-sf-symbols-in-your-app-designs-6f7fb4c3e63e?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
