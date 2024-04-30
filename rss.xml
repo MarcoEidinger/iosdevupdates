@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Apr 2024 10:10:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Apr 2024 12:10:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Solve Missing API declaration using required reason (ITMS-91053)]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></guid>
+    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[An easier way to create standard buttons types in SwiftUI]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/04/30/an-easier-way-to-create-standard-button-types-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/04/30/an-easier-way-to-create-standard-button-types-in-swiftui]]></guid>
     <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -373,14 +381,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ignorethecode.net/blog/]]></description>
     <link><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></link>
     <guid isPermaLink="true"><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></guid>
-    <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create custom environment types in SwiftUI with less code]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/04/14/create-custom-environment-types-in-swiftui-with-less-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/04/14/create-custom-environment-types-in-swiftui-with-less-code]]></guid>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
