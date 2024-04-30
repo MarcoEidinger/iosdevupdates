@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Apr 2024 02:17:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Apr 2024 04:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 4: Median of Two Sorted Arrays]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_4_median_two_sorted_arrays/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_4_median_two_sorted_arrays/]]></guid>
+    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The curious case of Apple's third-party SDK list for privacy manifests]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dasdom.dev]]></description>
     <link><![CDATA[https://dasdom.dev/hot-reloading-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://dasdom.dev/hot-reloading-in-swiftui]]></guid>
-    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Explaining Dictionary data structure in Swift]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/ios_interview_dictionary/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/ios_interview_dictionary/]]></guid>
     <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
