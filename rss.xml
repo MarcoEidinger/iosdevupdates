@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 May 2024 12:11:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 May 2024 14:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Developing Embedded Applications with Swift]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/developing-embedded-applications-with-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/developing-embedded-applications-with-swift/]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Configurable button with different states in SwiftUI]]></title>
+    <description><![CDATA[https://www.danijelavrzan.com/]]></description>
+    <link><![CDATA[https://www.danijelavrzan.com/posts/2024/05/configurable-button-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/05/configurable-button-swiftui]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Navigation in Jetpack Compose]]></title>
@@ -453,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://medium.engineering/how-to-do-pagination-in-swiftui-04511be7fbd1?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.engineering/how-to-do-pagination-in-swiftui-04511be7fbd1?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Debugging Closed Source Code]]></title>
-    <description><![CDATA[https://qnoid.com]]></description>
-    <link><![CDATA[https://qnoid.com/2024/04/11/debugging-closed-source-code.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/04/11/debugging-closed-source-code.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
     <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
