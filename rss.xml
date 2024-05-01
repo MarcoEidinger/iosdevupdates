@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 May 2024 16:13:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 May 2024 18:08:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Developing Embedded Applications with Swift]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.polpiella.dev]]></description>
     <link><![CDATA[https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Say hello to Wall•Genie]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></guid>
     <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
     <link><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></link>
     <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></guid>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Say hello to Wall•Genie]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></guid>
     <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
