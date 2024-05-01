@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 May 2024 20:10:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 May 2024 22:10:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Photos Syncing With iCloud Paused]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/01/photos-syncing-with-icloud-paused/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/01/photos-syncing-with-icloud-paused/]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Developing Embedded Applications with Swift]]></title>
@@ -62,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></guid>
     <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ive Drives Icons]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/04/30/ive-drives-icons/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/04/30/ive-drives-icons/]]></guid>
-    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
