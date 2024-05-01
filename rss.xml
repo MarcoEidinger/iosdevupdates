@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 May 2024 04:10:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 May 2024 06:10:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to add a privacy manifest file to your app for required reason API usage?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/how-to-add-a-privacy-manifest-file-to-your-app-for-required-reason-api-usage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-add-a-privacy-manifest-file-to-your-app-for-required-reason-api-usage/]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ive Drives Icons]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/creating-a-wwdc-watch-party-app-with-streams-video-sdk/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/creating-a-wwdc-watch-party-app-with-streams-video-sdk/]]></guid>
-    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is defer in Swift?]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/what-is-defer-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-is-defer-in-swift/]]></guid>
     <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
