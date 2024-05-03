@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 03 May 2024 14:11:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 May 2024 16:09:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[🛫 Recreating Flighty in SwiftUI]]></title>
+    <description><![CDATA[https://www.optimistic-closures.com]]></description>
+    <link><![CDATA[https://www.optimistic-closures.com/flighty-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/flighty-in-swiftui/]]></guid>
+    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Requesting user authorization for privacy-protected frameworks]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-inneal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-inneal/]]></guid>
+    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Concurrency in Swift 6: SE-0418]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0418]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0418]]></guid>
     <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Dynamic Isolation Bad?]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/dynamic-isolation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/dynamic-isolation]]></guid>
-    <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Launching Context Insights]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/launching-context-insights]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[5 Practical Ways to Quickly Overcome a Programming Obstacle]]></title>
-    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
-    <link><![CDATA[https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/]]></guid>
     <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
