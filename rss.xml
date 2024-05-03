@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 03 May 2024 08:10:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 May 2024 10:08:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Introducing Inneal]]></title>
@@ -17,7 +17,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best strategies to handle errors in Combine]]></title>
+    <title><![CDATA[Best Strategies To Handle Errors in Combine]]></title>
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></guid>
