@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 May 2024 04:09:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 May 2024 06:10:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Error -609 Launching App From the Mac App Store]]></title>
@@ -241,6 +241,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[What the **** is an App Lifecycle?!]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/what-the-are-app-states/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-are-app-states/]]></guid>
+    <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The foundational elements of scalability in mobile engineering teams]]></title>
     <description><![CDATA[https://tgomareli.medium.com]]></description>
     <link><![CDATA[https://tgomareli.medium.com/the-foundational-elements-of-scalability-in-mobile-engineering-teams-635b40c214fa?source=rss-e061295e669a------2]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dark Side of Swift’s Type Inference]]></title>
-    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
-    <link><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/dark-side-of-swifts-type-inference-2899e122a3e6?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
