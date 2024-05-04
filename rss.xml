@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 May 2024 18:09:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 May 2024 20:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[OS Style settings view, Part 2]]></title>
+    <description><![CDATA[https://paulpeelen.com/tag/ios]]></description>
+    <link><![CDATA[https://paulpeelen.com/SettingsViewPart2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://paulpeelen.com/SettingsViewPart2]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[April 2024 Review]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></guid>
-    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OS Style settings view]]></title>
-    <description><![CDATA[https://paulpeelen.com/tag/ios]]></description>
-    <link><![CDATA[https://paulpeelen.com/SettingsView]]></link>
-    <guid isPermaLink="true"><![CDATA[https://paulpeelen.com/SettingsView]]></guid>
     <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
 </item>
 
