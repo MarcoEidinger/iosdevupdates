@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 May 2024 08:10:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 May 2024 10:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Show a SwiftUI Popover on iOS]]></title>
+    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
+    <link><![CDATA[https://blog.ptrkstr.com/show-a-swiftui-popover-on-ios]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/show-a-swiftui-popover-on-ios]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A short guide at AppIntent + SwiftUI]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Error -609 Launching App From the Mac App Store]]></title>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></link>
     <guid isPermaLink="true"><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></guid>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Localize a SwiftUI app]]></title>
-    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
-    <link><![CDATA[https://blog.ptrkstr.com/localize-a-swiftui-app]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/localize-a-swiftui-app]]></guid>
-    <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Basics of Generative AI]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></guid>
-    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
