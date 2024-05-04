@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 May 2024 12:11:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 May 2024 14:09:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Evolution Monthly: February-April 2024]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[OS Style settings view]]></title>
+    <description><![CDATA[https://paulpeelen.com/tag/ios]]></description>
+    <link><![CDATA[https://paulpeelen.com/SettingsView]]></link>
+    <guid isPermaLink="true"><![CDATA[https://paulpeelen.com/SettingsView]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Show a SwiftUI Popover on iOS]]></title>
@@ -409,14 +425,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Reacting to Pricing Backlash: Lessons Learned]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/]]></guid>
-    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[DangerSwift]]></title>
     <description><![CDATA[https://swiftunwrap.com]]></description>
     <link><![CDATA[https://swiftunwrap.com/article/dangerswift]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></link>
     <guid isPermaLink="true"><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></guid>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Basics of Generative AI]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/kinomoto-mag/basics-of-generative-ai-273139b10b2b?source=rss-4c5fcfd4c5c4------2]]></guid>
-    <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
