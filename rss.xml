@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 May 2024 22:09:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 May 2024 00:22:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Flutter layoff: A good news for ReactNative in 2024 ?]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/flutter-layoff-a-good-news-for-reactnative-in-2024-415ba55c5751?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/flutter-layoff-a-good-news-for-reactnative-in-2024-415ba55c5751?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OS Style settings view, Part 2]]></title>
@@ -262,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Asking-AI-to-Refactor-my-Swift-Code]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Asking-AI-to-Refactor-my-Swift-Code]]></guid>
     <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parchment for iOS: Currently the best UIKit “PagingMenu” style library]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/parchment-for-ios-currently-the-best-uikit-pagingmenu-style-library-40c1d76554c0?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/parchment-for-ios-currently-the-best-uikit-pagingmenu-style-library-40c1d76554c0?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
