@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 May 2024 08:11:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 May 2024 10:12:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Issue #68: Design]]></title>
@@ -25,6 +25,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Rails Authentication: Gems vs. Recipes vs. Generators]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/rails-authentication]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/rails-authentication]]></guid>
+    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Weeknotes № 18]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-18]]></link>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.ptrkstr.com/]]></description>
     <link><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></guid>
+    <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 242. Valid Anagram]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_242_valid_anagram/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_242_valid_anagram/]]></guid>
     <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 121. Best Time to Buy and Sell Stock]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_121_best_stock_price/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_121_best_stock_price/]]></guid>
     <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -409,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Turbo Native and pull-to-refresh]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/turbo-native-pull-to-refresh]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-pull-to-refresh]]></guid>
-    <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Share and Action Extensions]]></title>
     <description><![CDATA[https://badrinathvm.medium.com/]]></description>
     <link><![CDATA[https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2]]></link>
@@ -469,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.mikeswanson.com/]]></description>
     <link><![CDATA[https://blog.mikeswanson.com/apples-mysterious-fisheye-projection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/apples-mysterious-fisheye-projection/]]></guid>
+    <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Daylight Saving Time]]></title>
+    <description><![CDATA[https://ignorethecode.net/blog/]]></description>
+    <link><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://ignorethecode.net/blog/2024/04/14/daylight_saving_time/]]></guid>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
