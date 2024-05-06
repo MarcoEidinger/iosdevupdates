@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 May 2024 14:10:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 May 2024 16:14:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to create AsyncStream with a publisher]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/]]></guid>
+    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[LLDB print commands for debugging in Xcode]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></guid>
+    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #30 : Arc Lands on Windows and Google Layoffs]]></title>
@@ -153,6 +169,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Hugo Post Formatting Basics]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-post-formatting/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-post-formatting/]]></guid>
+    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Introducing Inneal]]></title>
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-inneal/]]></link>
@@ -245,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></guid>
-    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hugo High Level]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-high-level/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-high-level/]]></guid>
     <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -393,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Initializing @MainActor type from a non-isolated context in Swift]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/04/22/initializing-mainactor-type-from-a-non-isolated-context-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/04/22/initializing-mainactor-type-from-a-non-isolated-context-in-swift/]]></guid>
-    <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A free, 3D printable Meta Quest 3 stand]]></title>
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/04/meta-quest-3-stand/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftunwrap.com/article/dangerswift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/dangerswift]]></guid>
     <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parsing JSON in Swift: The Complete Guide [With Examples]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swift-parse-json/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-parse-json/]]></guid>
-    <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
