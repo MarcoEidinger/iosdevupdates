@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 May 2024 20:09:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 May 2024 22:10:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SteerMouse 5.7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/06/steermouse-5-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/06/steermouse-5-7/]]></guid>
+    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Five years with the 2018 iPad Pro]]></title>
+    <description><![CDATA[https://douglashill.co]]></description>
+    <link><![CDATA[https://douglashill.co/five-years-with-the-2018-ipad-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://douglashill.co/five-years-with-the-2018-ipad-pro/]]></guid>
+    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to create AsyncStream with a publisher]]></title>
@@ -158,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Error -609 Launching App From the Mac App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/03/error-609-launching-app-from-the-mac-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/03/error-609-launching-app-from-the-mac-app-store/]]></guid>
-    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></link>
     <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal]]></guid>
     <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DangerSwift]]></title>
-    <description><![CDATA[https://swiftunwrap.com]]></description>
-    <link><![CDATA[https://swiftunwrap.com/article/dangerswift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/dangerswift]]></guid>
-    <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
