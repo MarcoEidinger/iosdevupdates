@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 May 2024 04:11:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 May 2024 06:11:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to escape a URL as a query in a URL]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 704. Binary Search]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_704_binary_search/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_704_binary_search/]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SteerMouse 5.7]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/five-years-with-the-2018-ipad-pro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/five-years-with-the-2018-ipad-pro/]]></guid>
-    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to create AsyncStream with a publisher]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/]]></guid>
     <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.ptrkstr.com/]]></description>
     <link><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></guid>
-    <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 242. Valid Anagram]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_242_valid_anagram/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_242_valid_anagram/]]></guid>
     <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
 </item>
 
