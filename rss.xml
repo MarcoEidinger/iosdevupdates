@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 May 2024 10:10:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 May 2024 12:09:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Build Insights: Keep track of project compilation times]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dice Challenge in Jetpack Compose]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-jetpack-compose-b5ec7962f1b5?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-jetpack-compose-b5ec7962f1b5?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Unlock Efficient CI/CD: How YAML Anchors Transform Your Bitrise Setup]]></title>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-030/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-030/]]></guid>
-    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dice Challenge in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://denzhadanov.com/]]></description>
     <link><![CDATA[https://denzhadanov.com/5-actionable-takeaways-from-ted-2024-d783a2cfbd1b?source=rss----5255a3782276---4]]></link>
     <guid isPermaLink="true"><![CDATA[https://denzhadanov.com/5-actionable-takeaways-from-ted-2024-d783a2cfbd1b?source=rss----5255a3782276---4]]></guid>
-    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Solve Missing API declaration using required reason (ITMS-91053)]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/]]></guid>
     <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
