@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 May 2024 16:10:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 May 2024 18:11:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Delta’s 10-year journey to the top of the App Store]]></title>
+    <description><![CDATA[https://qnoid.com]]></description>
+    <link><![CDATA[https://qnoid.com/2024/05/07/Deltas-10-year-journey-to-the-top-of-the-App-Store.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/05/07/Deltas-10-year-journey-to-the-top-of-the-App-Store.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple M4]]></title>
@@ -69,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_704_binary_search/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_704_binary_search/]]></guid>
+    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Discovering app features with TipKit. Basics.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/05/07/discovering-app-features-with-tipkit-basics]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/05/07/discovering-app-features-with-tipkit-basics]]></guid>
     <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -313,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Inspectors in SwiftUI]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/04/30/inspectors-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/04/30/inspectors-in-swiftui]]></guid>
-    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The curious case of Apple's third-party SDK list for privacy manifests]]></title>
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/04/29/sdk-privacy-manifests/]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://badrinathvm.medium.com/]]></description>
     <link><![CDATA[https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2]]></guid>
-    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Show passwords as they're typed in Terminal]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/4/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/4/4.html]]></guid>
     <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
