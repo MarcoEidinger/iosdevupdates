@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 May 2024 12:10:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 May 2024 14:07:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What are enums in Swift?]]></title>
@@ -133,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></guid>
-    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue #68: Design]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-68-design/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-68-design/]]></guid>
     <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thermalcorner.net/post/all-i-remember/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/all-i-remember/]]></guid>
     <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Share and Action Extensions]]></title>
+    <description><![CDATA[https://badrinathvm.medium.com/]]></description>
+    <link><![CDATA[https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2]]></guid>
+    <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
