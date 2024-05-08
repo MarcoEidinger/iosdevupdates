@@ -6,10 +6,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 May 2024 20:08:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 May 2024 22:09:15 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Deep Dish Swift '24 - Day 3]]></title>
+    <title><![CDATA[Launching getuniversal.link 🚀]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/launching-getuniversal-link/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/launching-getuniversal-link/]]></guid>
+    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deep Dish Swift '24 - Day Three]]></title>
     <description><![CDATA[https://www.optimistic-closures.com]]></description>
     <link><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></guid>
@@ -69,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_733_flood_fill/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_733_flood_fill/]]></guid>
+    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to profile your app's performance and Main Thread usage with Instruments and os_signposts]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Safely unwrap optional values in SwiftUI bindings]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/]]></guid>
-    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Say hello to Wall•Genie]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></link>
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/04/meta-quest-3-stand/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/04/meta-quest-3-stand/]]></guid>
-    <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Converting Codable Models To CSV]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/converting-codable-models-to-csv/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/converting-codable-models-to-csv/]]></guid>
     <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
