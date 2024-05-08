@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 May 2024 18:10:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 May 2024 20:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Deep Dish Swift '24 - Day 3]]></title>
+    <description><![CDATA[https://www.optimistic-closures.com]]></description>
+    <link><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></guid>
+    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Turning Off iOS 17 Contact Posters]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/08/turning-off-ios-17-contact-posters/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/08/turning-off-ios-17-contact-posters/]]></guid>
+    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What are enums in Swift?]]></title>
@@ -65,26 +81,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple M4]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/07/apple-m4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/07/apple-m4/]]></guid>
-    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Using gradients in SwiftUI]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/using-gradients-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-gradients-in-swiftui/]]></guid>
-    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deep Dish Swift '24 - Day 2]]></title>
-    <description><![CDATA[https://www.optimistic-closures.com]]></description>
-    <link><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-two/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-two/]]></guid>
     <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
 </item>
 
