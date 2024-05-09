@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 May 2024 06:08:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 May 2024 08:09:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Crash Course: Automating .xccrashpoint Exports in MacOS]]></title>
+    <description><![CDATA[https://dev.to/vibrazy]]></description>
+    <link><![CDATA[https://dev.to/vibrazy/crash-course-automating-xccrashpoint-exports-in-macos-1pfc]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dev.to/vibrazy/crash-course-automating-xccrashpoint-exports-in-macos-1pfc]]></guid>
+    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 235. Lowest Common Ancestor of a Binary Search Tree]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/]]></guid>
-    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unlock Efficient CI/CD: How YAML Anchors Transform Your Bitrise Setup]]></title>
-    <description><![CDATA[https://dev.to/vibrazy]]></description>
-    <link><![CDATA[https://dev.to/vibrazy/unlock-efficient-cicd-how-yaml-anchors-transform-your-bitrise-setup-5h80]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dev.to/vibrazy/unlock-efficient-cicd-how-yaml-anchors-transform-your-bitrise-setup-5h80]]></guid>
     <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
 </item>
 
