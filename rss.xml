@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 10 May 2024 08:09:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 May 2024 10:08:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Cross-Native development methodology Part 2: The team and the vision]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/cross-native-development-methodology-part-2-the-team-and-the-vision-c1976f4fb911?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/cross-native-development-methodology-part-2-the-team-and-the-vision-c1976f4fb911?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Platform Security Guide (May 2024)]]></title>
@@ -246,14 +254,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></guid>
     <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Flutter layoff: A good news for ReactNative in 2024 ?]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/flutter-layoff-a-good-news-for-reactnative-in-2024-415ba55c5751?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/flutter-layoff-a-good-news-for-reactnative-in-2024-415ba55c5751?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
