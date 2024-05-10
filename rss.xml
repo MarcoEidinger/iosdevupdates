@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 10 May 2024 18:08:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 May 2024 20:08:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Black Camera.app Screen and Broken Shutter Button]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/10/black-camera-app-screen-and-broken-shutter-button/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/10/black-camera-app-screen-and-broken-shutter-button/]]></guid>
+    <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring immersive spaces in visionOS]]></title>
@@ -33,14 +41,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Platform Security Guide (May 2024)]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/09/apple-platform-security-guide-may-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/09/apple-platform-security-guide-may-2024/]]></guid>
-    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Crash Course: Automating .xccrashpoint Exports in MacOS]]></title>
     <description><![CDATA[https://dev.to/vibrazy]]></description>
     <link><![CDATA[https://dev.to/vibrazy/crash-course-automating-xccrashpoint-exports-in-macos-1pfc]]></link>
@@ -57,18 +57,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing Plinky: My Love Letter To Links]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></guid>
-    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Interview - Leetcode 235. Lowest Common Ancestor of a Binary Search Tree]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></guid>
+    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Plinky: My Love Letter To Links]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></guid>
     <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
 </item>
 
