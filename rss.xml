@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 May 2024 10:08:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 May 2024 12:10:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ PWA/Native in 2024 — Review of an article (pro PWA)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/pwa-native-in-2024-review-of-an-article-pro-pwa-f93027033cd5?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/pwa-native-in-2024-review-of-an-article-pro-pwa-f93027033cd5?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Explore advanced Swift techniques in the newly released book "Swift Gems"]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/5/2.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/5/2.html]]></guid>
-    <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cross-Native development methodology Part 2: The team and the vision]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/cross-native-development-methodology-part-2-the-team-and-the-vision-c1976f4fb911?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/cross-native-development-methodology-part-2-the-team-and-the-vision-c1976f4fb911?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
 </item>
 
