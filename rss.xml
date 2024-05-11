@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 May 2024 18:10:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 May 2024 20:08:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Add a PRO Badge to macOS Menu Buttons in SwiftUI]]></title>
+    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
+    <link><![CDATA[https://blog.ptrkstr.com/add-a-pro-badge-to-macos-menu-buttons-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/add-a-pro-badge-to-macos-menu-buttons-in-swiftui]]></guid>
+    <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Class 5 Geomagnetic Storm]]></title>
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://supersonicbyte.com]]></description>
     <link><![CDATA[https://supersonicbyte.com/posts/introducing-publishmon]]></link>
     <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/introducing-publishmon]]></guid>
-    <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apply FocusedValue for Active macOS Scenes Only in SwiftUI]]></title>
-    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
-    <link><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/apply-focusedvalue-for-active-macos-scenes-only]]></guid>
     <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
 </item>
 
