@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 10 May 2024 22:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 May 2024 00:19:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Dark Side of Unidirectional Architectures in Swift]]></title>
+    <description><![CDATA[https://medium.com/@recuenco]]></description>
+    <link><![CDATA[https://medium.com/the-swift-cooperative/the-dark-side-of-unidirectional-architectures-in-swift-e4acf243ff1c?source=rss-c3e9dcf69985------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/the-dark-side-of-unidirectional-architectures-in-swift-e4acf243ff1c?source=rss-c3e9dcf69985------2]]></guid>
+    <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Black Camera.app Screen and Broken Shutter Button]]></title>
@@ -57,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS Interview - Leetcode 235. Lowest Common Ancestor of a Binary Search Tree]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></guid>
-    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Plinky: My Love Letter To Links]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></guid>
+    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 235. Lowest Common Ancestor of a Binary Search Tree]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_235_lowest_common_ancestor_of_a_binary_search_tree/]]></guid>
     <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris-mash.medium.com/]]></description>
     <link><![CDATA[https://chris-mash.medium.com/extracting-app-logs-from-an-xcresult-8a848a2db07c?source=rss-ea8ebe82ceec------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://chris-mash.medium.com/extracting-app-logs-from-an-xcresult-8a848a2db07c?source=rss-ea8ebe82ceec------2]]></guid>
-    <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Take those Let’s Encrypt “Expiry Bot” notifications seriously]]></title>
-    <description><![CDATA[https://pietrorea.com/]]></description>
-    <link><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
