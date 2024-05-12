@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 12 May 2024 06:09:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 May 2024 08:10:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Scheduler in Combine: Managing Asynchronous Tasks Efficiently]]></title>
+    <description><![CDATA[https://huypham85.medium.com/]]></description>
+    <link><![CDATA[https://towardsdev.com/scheduler-in-combine-managing-asynchronous-tasks-efficiently-6775895a30b3?source=rss-b87ab2bbc03b------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://towardsdev.com/scheduler-in-combine-managing-asynchronous-tasks-efficiently-6775895a30b3?source=rss-b87ab2bbc03b------2]]></guid>
+    <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Beginners Guide to SwiftData]]></title>
@@ -341,14 +349,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-inneal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-inneal/]]></guid>
-    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Best Strategies To Handle Errors in Combine]]></title>
-    <description><![CDATA[https://huypham85.medium.com/]]></description>
-    <link><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/best-strategies-to-handle-errors-in-combine-4b455b5edd09?source=rss-b87ab2bbc03b------2]]></guid>
     <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 </item>
 
