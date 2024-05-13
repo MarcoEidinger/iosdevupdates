@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 May 2024 10:08:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 May 2024 12:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Programmatically Hide Navigation in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Countdown]]></title>
+    <description><![CDATA[https://qnoid.com]]></description>
+    <link><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
+    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Code Explained: Implementing Safe Array Subscription]]></title>
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/swift-code-explained-implementing-safe-array-subscription-96904d0c9728?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/swift-code-explained-implementing-safe-array-subscription-96904d0c9728?source=rss-b87ab2bbc03b------2]]></guid>
+    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Concurrency in Swift 6: SE-0421]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0421]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0421]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -121,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Concurrency in Swift 6: SE-0420]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0420]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0420]]></guid>
-    <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Plinky: My Love Letter To Links]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2024/5/9/introducing-plinky/]]></link>
@@ -177,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dice Challenge in Flutter]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-flutter-81f1600d420d?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/dice-challenge-in-flutter-81f1600d420d?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Domain modeling with types]]></title>
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/tydd-part-4]]></link>
@@ -201,27 +209,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering the containerRelativeFrame Modifier in SwiftUI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/mastering-the-containerrelativeframe-modifier-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/mastering-the-containerrelativeframe-modifier-in-swiftui/]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to profile your app's performance and Main Thread usage with Instruments and os_signposts]]></title>
     <description><![CDATA[https://www.polpiella.dev]]></description>
     <link><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Delta’s 10-year journey to the top of the App Store]]></title>
-    <description><![CDATA[https://qnoid.com]]></description>
-    <link><![CDATA[https://qnoid.com/2024/05/07/Deltas-10-year-journey-to-the-top-of-the-App-Store.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/05/07/Deltas-10-year-journey-to-the-top-of-the-App-Store.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
-    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/04/non-standard-components/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/04/non-standard-components/]]></guid>
+    <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My experience with the “Blinkist trial”: Big boost]]></title>
+    <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
+    <link><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost]]></guid>
     <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
