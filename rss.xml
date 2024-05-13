@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 May 2024 14:09:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 May 2024 16:09:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #31 : Apple Uses M4 to Showcase Commitment to Embracing AI]]></title>
@@ -393,6 +393,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Refactoring to TipKit from AppStorage and Custom Views in SwiftUI]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Refactoring-TipKit-SwiftUI-From-Appstorage]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Refactoring-TipKit-SwiftUI-From-Appstorage]]></guid>
+    <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Say hello to Wall•Genie]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/say-hello-to-wallgenie/]]></link>
@@ -441,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Asking AI to Refactor Swift Code]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Asking-AI-to-Refactor-my-Swift-Code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Asking-AI-to-Refactor-my-Swift-Code]]></guid>
-    <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Choosing a travel pack is hard]]></title>
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/04/choosing-a-backpack-is-hard/]]></link>
@@ -469,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/]]></guid>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Non-standard components]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2024/04/non-standard-components/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/04/non-standard-components/]]></guid>
     <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
