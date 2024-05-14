@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 May 2024 08:10:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 May 2024 10:08:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Enhancing Authentication with Passkeys in iOS Using Advanced Techniques]]></title>
@@ -75,8 +75,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Programmatically Hide Navigation in SwiftUI]]></title>
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></guid>
+    <link><![CDATA[https://blog.stackademic.com/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
