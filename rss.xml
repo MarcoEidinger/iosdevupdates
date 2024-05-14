@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 May 2024 16:10:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 May 2024 20:09:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using materials with SwiftUI]]></title>
@@ -27,8 +27,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Shortcuts URL Scheme Guide]]></title>
     <description><![CDATA[https://supersonicbyte.com]]></description>
-    <link><![CDATA[https://supersonicbyte.com/posts/shorcuts-url-scheme]]></link>
-    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/shorcuts-url-scheme]]></guid>
+    <link><![CDATA[https://supersonicbyte.com/posts/shortcuts-url-scheme]]></link>
+    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/shortcuts-url-scheme]]></guid>
     <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
 </item>
 
