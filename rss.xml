@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 May 2024 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 May 2024 12:12:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Level Up Your Career by Adding UI Tests to Your Jetpack Compose App]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/level-up-your-career-by-adding-ui-tests-to-your-jetpack-compose-app-fdbd7a26e3db?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/level-up-your-career-by-adding-ui-tests-to-your-jetpack-compose-app-fdbd7a26e3db?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to decide between a Set and Array in Swift?]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/MultiCriteriaDataSortingWithTuples]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/MultiCriteriaDataSortingWithTuples]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Does spacing = nil Mean in SwiftUI?]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/spacing-of-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/spacing-of-swiftui/]]></guid>
     <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,22 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/repository-design-pattern/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/repository-design-pattern/]]></guid>
-    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #31 : Apple Uses M4 to Showcase Commitment to Embracing AI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-031/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-031/]]></guid>
-    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Programmatically Hide Navigation in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://blog.stackademic.com/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/programmatically-hide-navigation-in-swiftui-87f2dba8e3e1?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
