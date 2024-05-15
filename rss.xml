@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 May 2024 06:09:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 May 2024 08:08:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to decide between a Set and Array in Swift?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/how-to-decide-between-a-set-and-array-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-decide-between-a-set-and-array-in-swift/]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Streamline multi-criteria data sorting and organization with tuples]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/MultiCriteriaDataSortingWithTuples]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/MultiCriteriaDataSortingWithTuples]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 232. Implement Queue using Stacks]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_232_implement_queue_using_stacks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_232_implement_queue_using_stacks/]]></guid>
     <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -33,14 +49,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift’s “if” and “switch” expressions explained]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/swifts-if-and-switch-expressions-explained/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/swifts-if-and-switch-expressions-explained/]]></guid>
-    <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shortcuts URL Scheme Guide]]></title>
     <description><![CDATA[https://supersonicbyte.com]]></description>
     <link><![CDATA[https://supersonicbyte.com/posts/shortcuts-url-scheme]]></link>
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://batikansosun.medium.com/]]></description>
     <link><![CDATA[https://medium.com/sahibinden-technology/enhancing-authentication-with-passkeys-in-ios-using-advanced-techniques-8f09cde44da3?source=rss-a0e19a28a49a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/sahibinden-technology/enhancing-authentication-with-passkeys-in-ios-using-advanced-techniques-8f09cde44da3?source=rss-a0e19a28a49a------2]]></guid>
-    <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 141. Linked List Cycle]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_141_linked_list_cycle/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_141_linked_list_cycle/]]></guid>
     <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
 </item>
 
