@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 May 2024 18:08:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 May 2024 20:09:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shutting Down Facebook Workplace]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/15/shutting-down-facebook-workplace/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/15/shutting-down-facebook-workplace/]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Avoid These Common Errors When Switching from UIKit to SwiftUI]]></title>
@@ -73,19 +81,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Building a Swift package using the Swift 6 language mode]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/swift-6-language-mode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swift-6-language-mode/]]></guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Wall•Genie Siri Update]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/wall-genie-siri-update/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/wall-genie-siri-update/]]></guid>
     <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The State of iPadOS in 2024]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/14/the-state-of-ipados-in-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/14/the-state-of-ipados-in-2024/]]></guid>
-    <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/using-userdefaults-to-persist-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/using-userdefaults-to-persist-in-swiftui/]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to profile your app's performance and Main Thread usage with Instruments and os_signposts]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/time-profiler-instruments/]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 </item>
 
