@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 16 May 2024 08:09:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 May 2024 10:09:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[React to network status updates in SwiftUI using AsyncSequence]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_278_first_bad_version/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_278_first_bad_version/]]></guid>
+    <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The power of Turbo Native path configuration]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/turbo-native-path-configuration]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-path-configuration]]></guid>
     <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -341,14 +349,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-to-train-your-first-machine-learning-model-and-run-it-inside-your-ios-app-via-coreml]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-train-your-first-machine-learning-model-and-run-it-inside-your-ios-app-via-coreml]]></guid>
-    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rails Authentication: Gems vs. Recipes vs. Generators]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/rails-authentication]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/rails-authentication]]></guid>
     <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 </item>
 
