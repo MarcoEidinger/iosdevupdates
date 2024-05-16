@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 16 May 2024 18:09:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 May 2024 20:08:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Problems With App Store Bundles]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/16/problems-with-app-store-bundles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/16/problems-with-app-store-bundles/]]></guid>
+    <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Accessibility Uncovered: Boosting iOS Apps with Reveal]]></title>
+    <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
+    <link><![CDATA[https://fbernutz.github.io/posts/2024-05-16-accessibility-uncovered-with-reveal]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2024-05-16-accessibility-uncovered-with-reveal]]></guid>
+    <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[“Well it happened again...”]]></title>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/turbo-native-path-configuration]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-path-configuration]]></guid>
     <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shutting Down Facebook Workplace]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/15/shutting-down-facebook-workplace/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/15/shutting-down-facebook-workplace/]]></guid>
-    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Refactoring-TipKit-SwiftUI-From-Appstorage]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Refactoring-TipKit-SwiftUI-From-Appstorage]]></guid>
     <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Enhance Your Development Toolkit: Adding Xcode Instruments to Your Skill Set — I]]></title>
-    <description><![CDATA[https://medium.com/@musakokcen]]></description>
-    <link><![CDATA[https://medium.com/@musakokcen/enhance-your-development-toolkit-adding-xcode-instruments-to-your-skill-set-i-f74a11971512?source=rss-929e86422f66------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@musakokcen/enhance-your-development-toolkit-adding-xcode-instruments-to-your-skill-set-i-f74a11971512?source=rss-929e86422f66------2]]></guid>
-    <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
