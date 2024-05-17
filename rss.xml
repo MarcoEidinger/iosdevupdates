@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 May 2024 12:10:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 May 2024 14:09:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Understanding typography in visionOS]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/understanding-typography-in-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/understanding-typography-in-visionos/]]></guid>
+    <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Forged Apple Employee Badge]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/appstore/mysecondfeature/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/appstore/mysecondfeature/]]></guid>
-    <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Global Accessibility Awareness Day (GAAD)]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/global-accessibility-awareness-day/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/global-accessibility-awareness-day/]]></guid>
     <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
 </item>
 
