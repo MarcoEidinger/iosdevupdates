@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 May 2024 18:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 May 2024 20:08:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[✅ SwiftLint 0.55.1 : I Implemented the native baseline feature on my 3D stack]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/swiftlint-0-55-1-i-implemented-the-native-baseline-feature-on-my-3-d-stack-59d1cc5100fb?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/swiftlint-0-55-1-i-implemented-the-native-baseline-feature-on-my-3-d-stack-59d1cc5100fb?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Updating from macOS Ventura to Sonoma silently enables iCloud Keychain]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/5/3.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/5/3.html]]></guid>
+    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My GDC ’24 Talk: The Playdate Story]]></title>
@@ -289,26 +305,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ PWA/Native in 2024 — Review of an article (pro PWA)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/pwa-native-in-2024-review-of-an-article-pro-pwa-f93027033cd5?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/pwa-native-in-2024-review-of-an-article-pro-pwa-f93027033cd5?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Dark Side of Unidirectional Architectures in Swift]]></title>
     <description><![CDATA[https://medium.com/@recuenco]]></description>
     <link><![CDATA[https://medium.com/the-swift-cooperative/the-dark-side-of-unidirectional-architectures-in-swift-e4acf243ff1c?source=rss-c3e9dcf69985------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/the-dark-side-of-unidirectional-architectures-in-swift-e4acf243ff1c?source=rss-c3e9dcf69985------2]]></guid>
-    <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple started cheating me out of App Store bundle purchases]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/5/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/5/2.html]]></guid>
     <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
 </item>
 
