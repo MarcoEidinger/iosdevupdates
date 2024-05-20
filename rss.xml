@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 May 2024 10:08:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 May 2024 12:13:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Difference Between try, try? and try! and When to Use Them in Swift]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/difference-between-try-try-and-try-and-when-to-use-them-in-swift-d0e7102865b8?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/difference-between-try-try-and-try-and-when-to-use-them-in-swift-d0e7102865b8?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Running code when App is Ready]]></title>
+    <description><![CDATA[https://supersonicbyte.com]]></description>
+    <link><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></link>
+    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></guid>
+    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Auto-convert JSON snake case to Swift camel case properties]]></title>
@@ -145,26 +161,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Level Up Your Career by Adding UI Tests to Your Jetpack Compose App]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/level-up-your-career-by-adding-ui-tests-to-your-jetpack-compose-app-fdbd7a26e3db?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/level-up-your-career-by-adding-ui-tests-to-your-jetpack-compose-app-fdbd7a26e3db?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to decide between a Set and Array in Swift?]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/how-to-decide-between-a-set-and-array-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-decide-between-a-set-and-array-in-swift/]]></guid>
-    <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Does spacing = nil Mean in SwiftUI?]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/spacing-of-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/spacing-of-swiftui/]]></guid>
     <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -190,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/wall-genie-siri-update/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/wall-genie-siri-update/]]></guid>
     <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shortcuts URL Scheme Guide]]></title>
-    <description><![CDATA[https://supersonicbyte.com]]></description>
-    <link><![CDATA[https://supersonicbyte.com/posts/shortcuts-url-scheme]]></link>
-    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/shortcuts-url-scheme]]></guid>
-    <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-post-formatting/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/hugo-post-formatting/]]></guid>
+    <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Inneal]]></title>
+    <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
+    <link><![CDATA[https://amiantos.net/introducing-inneal/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-inneal/]]></guid>
     <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
 </item>
 
