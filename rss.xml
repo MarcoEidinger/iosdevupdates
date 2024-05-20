@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 May 2024 14:08:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 May 2024 16:11:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Task with @MainActor gotcha in Swift]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/05/20/task-with-mainactor-gotcha-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/05/20/task-with-mainactor-gotcha-in-swift/]]></guid>
+    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #32 : Recognize the Importance of Accessibility Before It's Needed]]></title>
@@ -382,14 +390,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></guid>
     <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[LLDB print commands for debugging in Xcode]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/05/06/lldb-print-commands-for-debugging-in-xcode/]]></guid>
-    <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
