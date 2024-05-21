@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 21 May 2024 10:08:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 May 2024 12:11:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[From Continuous Delivery to Continuous Learning: Enhancing Team Growth]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></guid>
+    <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[MVVM: An architectural coding pattern to structure SwiftUI Views]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/5/april-2024-review/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/5/april-2024-review/]]></guid>
-    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Evolution Monthly: February-April 2024]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></guid>
     <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
 </item>
 
