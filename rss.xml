@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 21 May 2024 04:08:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 May 2024 06:09:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS 17.5.1 and iPadOS 17.5.1]]></title>
@@ -57,6 +57,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Sending the initial workout configuration through HealthKit]]></title>
+    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
+    <link><![CDATA[https://nonstrict.eu/blog/2024/hkworkoutsession-remote-delegate-not-setup-error]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/hkworkoutsession-remote-delegate-not-setup-error]]></guid>
+    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Auto-convert JSON snake case to Swift camel case properties]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AutoConvertJsonSnakeCaseToSwiftCamelCaseProperties]]></link>
@@ -70,6 +78,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/leetcode_41_first_missing_positive/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_41_first_missing_positive/]]></guid>
     <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Quick guide on Combine essentials in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/combine-essentials]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-essentials]]></guid>
+    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -425,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to localize plurals with Localizable.stringsdict files in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-plurals-localization-strictdict]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-plurals-localization-strictdict]]></guid>
-    <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sneak peek into embedding UIKit into SwiftUI]]></title>
     <description><![CDATA[https://varanios.com]]></description>
     <link><![CDATA[https://varanios.com/articles/sneak-peek-into-embedding-uikit-into-swiftui]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-february-april-2024/]]></guid>
-    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A short guide at AppIntent + SwiftUI]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/a-short-guide-at-appintent-swiftui-61ea36935545?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
 </item>
 
