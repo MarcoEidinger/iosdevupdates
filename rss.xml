@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 22 May 2024 08:09:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 May 2024 10:08:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Replacing The Deprecated cornerRadius View Modifier In SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/replacing-the-deprecated-cornerradius-view-modifier-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/replacing-the-deprecated-cornerradius-view-modifier-in-swiftui/]]></guid>
+    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[[SwiftUI] Custom bindings in ForEach/List loops]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://paulpeelen.com/tag/ios]]></description>
     <link><![CDATA[https://paulpeelen.com/SettingsViewPart2]]></link>
     <guid isPermaLink="true"><![CDATA[https://paulpeelen.com/SettingsViewPart2]]></guid>
-    <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[April 2024 Review]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[http://mikezornek.com/posts/2024/5/april-2024-review/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/5/april-2024-review/]]></guid>
     <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
 </item>
 
