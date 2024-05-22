@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 22 May 2024 20:09:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 May 2024 22:07:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ I explore the other futures of KMP (post Google I/O 2024)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/i-explore-the-other-futures-of-kmp-post-google-i-o-2024-9c6a8b6a4897?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-explore-the-other-futures-of-kmp-post-google-i-o-2024-9c6a8b6a4897?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[tvOS 17.5.1]]></title>
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/combine-essentials]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-essentials]]></guid>
-    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[✅ SwiftLint 0.55.1 : I Implemented the native baseline feature on my 3D stack]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/swiftlint-0-55-1-i-implemented-the-native-baseline-feature-on-my-3-d-stack-59d1cc5100fb?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/swiftlint-0-55-1-i-implemented-the-native-baseline-feature-on-my-3-d-stack-59d1cc5100fb?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
 </item>
 
