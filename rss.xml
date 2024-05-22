@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 22 May 2024 18:09:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 May 2024 20:09:43 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[tvOS 17.5.1]]></title>
@@ -25,10 +25,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Programmatic navigation in SwiftUI with NavigationPath]]></title>
+    <title><![CDATA[Programmatic navigation in SwiftUI with NavigationPath and navigationDestination]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath/]]></guid>
+    <link><![CDATA[https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/]]></guid>
     <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 </item>
 
