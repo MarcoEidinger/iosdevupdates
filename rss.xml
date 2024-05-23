@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 23 May 2024 10:08:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 May 2024 12:10:32 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ I explore the other futures of KMP (post Google I/O 2024)]]></title>
@@ -65,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[[SwiftUI] Custom bindings in ForEach/List loops]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/custom_swiftui_binding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/custom_swiftui_binding/]]></guid>
-    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Safely distribute new Machine Learning models to millions of iPhones over-the-air]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/safely-distribute-new-machine-learning-models-to-millions-of-iphones-over-the-air]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/safely-distribute-new-machine-learning-models-to-millions-of-iphones-over-the-air]]></guid>
+    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[[SwiftUI] Custom bindings in ForEach/List loops]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/custom_swiftui_binding/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/custom_swiftui_binding/]]></guid>
     <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 </item>
 
