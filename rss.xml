@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 May 2024 18:09:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 May 2024 20:09:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Google’s AI Search and “Web” View]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></guid>
+    <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Migrating from Gatsby to Next.js]]></title>
+    <description><![CDATA[https://blog.eliperkins.me/]]></description>
+    <link><![CDATA[https://blog.eliperkins.com/migrating-from-gatsby-to-next]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/migrating-from-gatsby-to-next]]></guid>
     <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://holyswift.app/using-userdefaults-to-persist-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/using-userdefaults-to-persist-in-swiftui/]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to escape a URL as a query in a URL]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/]]></guid>
-    <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
