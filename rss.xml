@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 26 May 2024 00:22:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 May 2024 02:21:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 206. Reverse Linked List]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_206_reverse_linked_list/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_206_reverse_linked_list/]]></guid>
+    <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[30+ Best Mobile App Ideas To Create in 2024]]></title>
     <description><![CDATA[https://iosapptemplates.com/blog]]></description>
     <link><![CDATA[https://iosapptemplates.com/blog/startups/mobile-app-ideas]]></link>
     <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/startups/mobile-app-ideas]]></guid>
-    <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 409. Longest Palindrome]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_409_longest_alindrome/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_409_longest_alindrome/]]></guid>
     <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
 </item>
 
