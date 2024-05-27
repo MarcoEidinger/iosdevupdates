@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 May 2024 16:08:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 May 2024 18:08:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[String.count vs NSString.length]]></title>
+    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
+    <link><![CDATA[https://blog.ptrkstr.com/stringcount-vs-nsstringlength]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/stringcount-vs-nsstringlength]]></guid>
+    <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #33 : Boosting Engagement: Forum Updates Alone Fall Short]]></title>
@@ -277,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/266/build-your-next-website-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/266/build-your-next-website-in-swift]]></guid>
-    <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Presenting a Sheet from a Popover Will Disable the Keyboard in iOS (SwiftUI Bug)]]></title>
-    <description><![CDATA[https://blog.ptrkstr.com/]]></description>
-    <link><![CDATA[https://blog.ptrkstr.com/swiftui-keyboard-popover-sheet-bug]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/swiftui-keyboard-popover-sheet-bug]]></guid>
     <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
 </item>
 
