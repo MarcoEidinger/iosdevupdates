@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 May 2024 06:10:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 May 2024 08:10:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Taganga, Colombia]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></guid>
+    <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reducing Memory Terminations in iOS Apps]]></title>
+    <description><![CDATA[https://medium.com/@alexandercohen]]></description>
+    <link><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></guid>
     <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.alfianlosari.com/]]></description>
     <link><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-1]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Domain modeling with types]]></title>
-    <description><![CDATA[https://swiftology.io/]]></description>
-    <link><![CDATA[https://swiftology.io/articles/tydd-part-4]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/tydd-part-4]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 </item>
 
