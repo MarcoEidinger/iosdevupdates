@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 May 2024 02:20:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 May 2024 04:09:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Taganga, Colombia]]></title>
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/taganga-colombia]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/taganga-colombia]]></guid>
+    <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Avoid wasting CI resources due to failing unit tests with selective testing and pre-commit hook]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/ios_selective_testing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/ios_selective_testing/]]></guid>
     <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/your-complete-guide-to-push-notifications-in-swiftui-8a13f5588662?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/your-complete-guide-to-push-notifications-in-swiftui-8a13f5588662?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 206. Reverse Linked List]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_206_reverse_linked_list/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_206_reverse_linked_list/]]></guid>
     <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
 </item>
 
