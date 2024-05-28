@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 10:08:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 12:10:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Approval for Nonprofit Donation Apps]]></title>
+    <description><![CDATA[https://getonthestore.com/]]></description>
+    <link><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Scenes types in a SwiftUI Mac app]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ChatGPT for Swift: Top 5 code generation prompts]]></title>
@@ -249,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Auto-convert JSON snake case to Swift camel case properties]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/AutoConvertJsonSnakeCaseToSwiftCamelCaseProperties]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AutoConvertJsonSnakeCaseToSwiftCamelCaseProperties]]></guid>
-    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Quick guide on Combine essentials in Swift]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/combine-essentials]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/launching-getuniversal-link/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/launching-getuniversal-link/]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deep Dish Swift '24 - Day Three]]></title>
-    <description><![CDATA[https://www.optimistic-closures.com]]></description>
-    <link><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 </item>
 
