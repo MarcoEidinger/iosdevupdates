@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 12:10:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 14:08:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating an interactive widget with SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-interactive-widget-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-interactive-widget-swiftui/]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[App Store Approval for Nonprofit Donation Apps]]></title>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></guid>
-    <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introduction to RealityView]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/introduction-to-realityview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/introduction-to-realityview/]]></guid>
     <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
 </item>
 
