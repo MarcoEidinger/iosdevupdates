@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 16:08:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 18:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iPhones Pause Charging During Continuity Camera]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/28/iphones-pause-charging-during-continuity-camera/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/28/iphones-pause-charging-during-continuity-camera/]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating an interactive widget with SwiftUI]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://iosapptemplates.com/blog/startups/mobile-app-ideas]]></link>
     <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/startups/mobile-app-ideas]]></guid>
     <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Google’s AI Search and “Web” View]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/24/googles-ai-search-and-web-view/]]></guid>
-    <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
