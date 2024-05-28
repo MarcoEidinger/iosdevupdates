@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 04:09:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 06:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 169. Majority Element]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/shall-we-automate-the-onboarding-spoiler-alert-yes-52763b8e4dfc?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/shall-we-automate-the-onboarding-spoiler-alert-yes-52763b8e4dfc?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 21]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-21]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-21]]></guid>
     <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.optimistic-closures.com]]></description>
     <link><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.optimistic-closures.com/deep-dish-swift-24-day-three/]]></guid>
-    <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Video - Build an AI Assistant Expense Tracker SwiftUI App | Part 1 | iOS/iPadOS | macOS | visionOS | ChatGPT]]></title>
-    <description><![CDATA[https://www.alfianlosari.com/]]></description>
-    <link><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-1]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-1]]></guid>
     <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
 </item>
 
