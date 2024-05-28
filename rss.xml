@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 06:11:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 08:11:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ChatGPT for Swift: Top 5 code generation prompts]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 169. Majority Element]]></title>
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></guid>
-    <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MVVM: An architectural coding pattern to structure SwiftUI Views]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/mvvm-architectural-coding-pattern-to-structure-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/mvvm-architectural-coding-pattern-to-structure-views/]]></guid>
     <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
 </item>
 
