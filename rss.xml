@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 May 2024 08:11:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 May 2024 10:08:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ChatGPT for Swift: Top 5 code generation prompts]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_169_majority_element/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_169_majority_element/]]></guid>
+    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[If and switch expressions in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/05/28/if-and-switch-expressions-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/05/28/if-and-switch-expressions-in-swift]]></guid>
     <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></guid>
-    <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Discovering app features with TipKit. Customizations.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/05/21/discovering-app-features-with-tipkit-customizations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/05/21/discovering-app-features-with-tipkit-customizations]]></guid>
     <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
 </item>
 
