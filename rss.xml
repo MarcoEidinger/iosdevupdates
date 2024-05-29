@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 May 2024 10:08:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 May 2024 12:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adding a Bottom Sheet or Partial Modal in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/adding-a-bottom-sheet-or-partial-modal-in-swiftui-b962bd9cb962?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/adding-a-bottom-sheet-or-partial-modal-in-swiftui-b962bd9cb962?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Before WWDC 2024: The Future Potential and Real Challenges of SwiftData]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/before-wwdc-2024-swiftdata/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/before-wwdc-2024-swiftdata/]]></guid>
+    <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Unowned referencing in Swift]]></title>
@@ -113,14 +129,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fatbobman's Swift Weekly #33 : Boosting Engagement: Forum Updates Alone Fall Short]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-033/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-033/]]></guid>
-    <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[macOS Sonoma bug: Can't create disk image containing locked file]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/5/5.html]]></link>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-custom-environment-values]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-custom-environment-values]]></guid>
-    <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your Complete Guide to Push Notifications in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/your-complete-guide-to-push-notifications-in-swiftui-8a13f5588662?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/your-complete-guide-to-push-notifications-in-swiftui-8a13f5588662?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
 </item>
 
