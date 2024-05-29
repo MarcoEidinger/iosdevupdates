@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 May 2024 02:21:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 May 2024 04:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Unowned referencing in Swift]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/ios_interview_unowned/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/ios_interview_unowned/]]></guid>
+    <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[@preconcurrency usage in swift explained]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/]]></guid>
-    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 169. Majority Element]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_169_majority_element/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_169_majority_element/]]></guid>
     <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
 </item>
 
