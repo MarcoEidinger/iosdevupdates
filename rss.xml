@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 May 2024 16:09:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 May 2024 18:09:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Embracing Spatial Computing: Game Design in visionOS]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></guid>
+    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Previews]]></title>
+    <description><![CDATA[https://www.manu.show/]]></description>
+    <link><![CDATA[https://manu.show/previews]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/previews]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/swift-code-explained-implementing-safe-array-subscription-96904d0c9728?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/swift-code-explained-implementing-safe-array-subscription-96904d0c9728?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Concurrency in Swift 6: SE-0421]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0421]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0421]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
