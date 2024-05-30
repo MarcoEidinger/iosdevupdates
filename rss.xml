@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 May 2024 04:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 May 2024 06:10:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Remove unused code with Periphery]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2024/05/30/remove-unused-code-with-periphery/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/05/30/remove-unused-code-with-periphery/]]></guid>
+    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Workaround: Xcode deletes Package.resolved file and produces 'missing package product' errors]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/05/29/swiftpm-package-resolved-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/05/29/swiftpm-package-resolved-xcode/]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-05-12-backend-api-tethered-to-the-past/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-05-12-backend-api-tethered-to-the-past/]]></guid>
     <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Class 5 Geomagnetic Storm]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2024/05/11/class-5-geomagnetic-storm/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/05/11/class-5-geomagnetic-storm/]]></guid>
-    <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
