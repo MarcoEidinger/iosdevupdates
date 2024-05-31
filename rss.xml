@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 31 May 2024 18:08:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 May 2024 20:09:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why Your Wi-Fi Router Doubles As an AirTag]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/05/31/why-your-wi-fi-router-doubles-as-an-airtag/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/31/why-your-wi-fi-router-doubles-as-an-airtag/]]></guid>
+    <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Preparing your app for VoiceOver: MagicTap]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/introduction-to-clean-architecture/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/introduction-to-clean-architecture/]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Silicon MacBook Pro Battery Replacement]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/30/apple-silicon-macbook-pro-battery-replacement/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/30/apple-silicon-macbook-pro-battery-replacement/]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
