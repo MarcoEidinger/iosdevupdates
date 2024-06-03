@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Jun 2024 00:23:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Jun 2024 02:20:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating Immersive visionOS Environments with Reality Kit and Skyboxes from Blockade Labs (with a True 3D world surprise)]]></title>
+    <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
+    <link><![CDATA[https://www.cephalopod.studio/blog/creating-immersive-visionos-environments-with-reality-kit-and-skyboxes-from-blockade-labs-with-a-true-3d-world-surprise]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/creating-immersive-visionos-environments-with-reality-kit-and-skyboxes-from-blockade-labs-with-a-true-3d-world-surprise]]></guid>
+    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Conferences: Preparing for WWDC 2024!]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diggingdeveloper.blog]]></description>
     <link><![CDATA[https://diggingdeveloper.blog/2024/05/13/til-asl-apple-system-log/]]></link>
     <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2024/05/13/til-asl-apple-system-log/]]></guid>
-    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Countdown]]></title>
-    <description><![CDATA[https://qnoid.com]]></description>
-    <link><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
