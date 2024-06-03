@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Jun 2024 18:09:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Jun 2024 20:08:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Privacy of Windows Copilot+ Recall]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/03/privacy-of-windows-copilot-recall/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/03/privacy-of-windows-copilot-recall/]]></guid>
+    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Aligning views in different stacks in SwiftUI]]></title>
@@ -49,19 +57,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Objective-C basics for Swift developers]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/objective-c-for-swift-developers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/objective-c-for-swift-developers]]></guid>
+    <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Exploring Conferences: Preparing for WWDC 2024!]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-planning-wwdc-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-planning-wwdc-2024/]]></guid>
     <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Your Wi-Fi Router Doubles As an AirTag]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/05/31/why-your-wi-fi-router-doubles-as-an-airtag/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/05/31/why-your-wi-fi-router-doubles-as-an-airtag/]]></guid>
-    <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -129,18 +137,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Burnout today, parental leave tomorrow]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Interview - Is static var thread-safe?]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/thread_safety_interview_questions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/thread_safety_interview_questions/]]></guid>
+    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Burnout today, parental leave tomorrow]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/WWDC-2024-The-Pregame-Quiz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/WWDC-2024-The-Pregame-Quiz]]></guid>
     <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to create custom @Environment values in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-custom-environment-values]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-custom-environment-values]]></guid>
-    <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
