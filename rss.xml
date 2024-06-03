@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Jun 2024 14:08:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Jun 2024 16:13:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Aligning views in different stacks in SwiftUI]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/06/03/aligning-views-in-different-stacks-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/06/03/aligning-views-in-different-stacks-in-swiftui/]]></guid>
+    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Follow-up on developer payments for App Store bundle purchases]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/6/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/6/1.html]]></guid>
+    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #34 : WWDC 2024, AI is Not Everything]]></title>
@@ -77,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://varanios.com]]></description>
     <link><![CDATA[https://varanios.com/articles/dont-double-my-money-on-swift-numeric-types]]></link>
     <guid isPermaLink="true"><![CDATA[https://varanios.com/articles/dont-double-my-money-on-swift-numeric-types]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple silicon MacBook Pro batteries can't be replaced under warranty by third parties]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/5/7.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/5/7.html]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -342,14 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></guid>
     <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Task with @MainActor gotcha in Swift]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/05/20/task-with-mainactor-gotcha-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/05/20/task-with-mainactor-gotcha-in-swift/]]></guid>
-    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
