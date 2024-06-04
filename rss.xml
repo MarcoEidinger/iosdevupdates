@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Jun 2024 20:09:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Jun 2024 22:08:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How To Ace The Coding Challenge]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-to-pass-a-technical-interview-challenge/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-to-pass-a-technical-interview-challenge/]]></guid>
+    <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Installer’s “Failed to Personalize” Error]]></title>
@@ -102,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/declarative-api-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/declarative-api-design/]]></guid>
     <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introduction to Clean Architecture]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/introduction-to-clean-architecture/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/introduction-to-clean-architecture/]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
