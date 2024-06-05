@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Jun 2024 18:09:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2024 20:09:00 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift concurrency hack for passing non-sendable closures: Uncheck yourself before you wreck yourself]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/6/4.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/6/4.html]]></guid>
+    <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating gradient on polylines in SwiftUI MapKit]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/GradientOnPolylinesInSwiftUIMapKit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/GradientOnPolylinesInSwiftUIMapKit]]></guid>
     <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-034/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-034/]]></guid>
-    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Compare arrays based on custom criteria]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/CompareArraysBasedOnCustomCriteria]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CompareArraysBasedOnCustomCriteria]]></guid>
     <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
