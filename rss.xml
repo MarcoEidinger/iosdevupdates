@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Jun 2024 00:21:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2024 02:21:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ShaderGraph nodes in visionOS]]></title>
@@ -45,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/using-app-intents-swiftui-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-app-intents-swiftui-app/]]></guid>
-    <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Best Advice]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2024/06/04/best-advice]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2024/06/04/best-advice]]></guid>
     <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diggingdeveloper.blog]]></description>
     <link><![CDATA[https://diggingdeveloper.blog/2024/05/13/til-asl-apple-system-log/]]></link>
     <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2024/05/13/til-asl-apple-system-log/]]></guid>
+    <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Countdown]]></title>
+    <description><![CDATA[https://qnoid.com]]></description>
+    <link><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/05/13/Countdown.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
     <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
 </item>
 
