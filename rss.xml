@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Jun 2024 18:08:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Jun 2024 20:09:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Variadics and where (not) to find them]]></title>
+    <description><![CDATA[https://varanios.com]]></description>
+    <link><![CDATA[https://varanios.com/articles/swift-variadics-and-where-not-to-find-them]]></link>
+    <guid isPermaLink="true"><![CDATA[https://varanios.com/articles/swift-variadics-and-where-not-to-find-them]]></guid>
+    <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC 2024 Wish Lists]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/06/wwdc-2024-wish-lists/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/06/wwdc-2024-wish-lists/]]></guid>
+    <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating custom buttons and hover effects in visionOS]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.attributedstrings.com/interacting-with-endpoints/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/interacting-with-endpoints/]]></guid>
     <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bartender Acquired by Applause Group]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/05/bartender-acquired-by-applause-group/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/05/bartender-acquired-by-applause-group/]]></guid>
-    <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -158,14 +166,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/declarative-api-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/declarative-api-design/]]></guid>
     <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Don't Double my money: on Swift Numeric types]]></title>
-    <description><![CDATA[https://varanios.com]]></description>
-    <link><![CDATA[https://varanios.com/articles/dont-double-my-money-on-swift-numeric-types]]></link>
-    <guid isPermaLink="true"><![CDATA[https://varanios.com/articles/dont-double-my-money-on-swift-numeric-types]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
