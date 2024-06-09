@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 09 Jun 2024 20:08:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Jun 2024 22:08:31 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Save 50% on all books and bundles for WWDC24]]></title>
+    <title><![CDATA[What's new in Swift 6.0?]]></title>
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/268/save-50-on-all-books-and-bundles-for-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/268/save-50-on-all-books-and-bundles-for-wwdc24]]></guid>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/269/whats-new-in-swift-6]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/269/whats-new-in-swift-6]]></guid>
+    <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[London to Athens by train and ferry]]></title>
+    <description><![CDATA[https://douglashill.co]]></description>
+    <link><![CDATA[https://douglashill.co/london-to-athens/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://douglashill.co/london-to-athens/]]></guid>
     <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/2024/05/19/my-gdc-24-talk-the-playdate-story/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2024/05/19/my-gdc-24-talk-the-playdate-story/]]></guid>
-    <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2024 iPad Pro impressions]]></title>
-    <description><![CDATA[https://douglashill.co]]></description>
-    <link><![CDATA[https://douglashill.co/2024-ipad-pro-impressions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://douglashill.co/2024-ipad-pro-impressions/]]></guid>
     <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
 </item>
 
