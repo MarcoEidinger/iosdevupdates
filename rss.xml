@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Jun 2024 20:08:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Jun 2024 22:08:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Window Tiling and Snapping in Sequoia]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/11/window-tiling-and-snapping-in-sequoia/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/11/window-tiling-and-snapping-in-sequoia/]]></guid>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC24: What's new in the Human Interface Guidelines]]></title>
@@ -49,6 +57,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to create a SwiftUI floating window in macOS 15]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/creating-a-floating-window-using-swiftui-in-macos-15/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/creating-a-floating-window-using-swiftui-in-macos-15/]]></guid>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[WWDC24 Bento Summaries]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/wwdc24-bentos/]]></link>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.eidinger.info/]]></description>
     <link><![CDATA[https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc24]]></guid>
-    <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Intelligence Announced]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/10/apple-intelligence-announced/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/10/apple-intelligence-announced/]]></guid>
     <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Removing components from a Date in Swift]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/removing-information-from-a-date-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/removing-information-from-a-date-in-swift/]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
