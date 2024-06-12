@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 12 Jun 2024 12:10:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Jun 2024 14:08:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Guide to Navigating WWDC Content]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/your-guide-to-navigating-wwdc-content]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/your-guide-to-navigating-wwdc-content]]></guid>
+    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Present a form sheet in SwiftUI]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/FormSheetInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FormSheetInSwiftUI]]></guid>
-    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftData in WWDC 2024: The Revolution Continues, Stability Still Awaits]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/swiftdata-in-wwdc2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftdata-in-wwdc2024/]]></guid>
     <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -457,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Continuous Delivery to Continuous Learning: Enhancing Team Growth]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/from-continuous-delivery-to-continuous-learning-enhancing-team-growth]]></guid>
-    <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Do You Know Whether or Not SwiftUI Previews and Preview Content Are Excluded From App Store Builds?]]></title>
     <description><![CDATA[https://jaredsinclair.com/]]></description>
     <link><![CDATA[https://jaredsinclair.com/2024/05/20/preview-content]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://supersonicbyte.com]]></description>
     <link><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></link>
     <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></guid>
+    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sending the initial workout configuration through HealthKit]]></title>
+    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
+    <link><![CDATA[https://nonstrict.eu/blog/2024/hkworkoutsession-remote-delegate-not-setup-error]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/hkworkoutsession-remote-delegate-not-setup-error]]></guid>
     <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
 </item>
 
