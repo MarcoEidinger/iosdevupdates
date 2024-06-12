@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 12 Jun 2024 20:08:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Jun 2024 22:09:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Installing macOS Sequoia Beta in a Separate APFS Volume]]></title>
+    <description><![CDATA[https://adrian.schoenig.me]]></description>
+    <link><![CDATA[https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/]]></guid>
+    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Thank You, Big Nerd Ranch]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/12/thank-you-big-nerd-ranch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/12/thank-you-big-nerd-ranch/]]></guid>
+    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using iOS 18’s new TabView with a sidebar]]></title>
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/new-text-formatters-in-ios-18-4c9037e1d980?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/new-text-formatters-in-ios-18-4c9037e1d980?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Window Tiling and Snapping in Sequoia]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/11/window-tiling-and-snapping-in-sequoia/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/11/window-tiling-and-snapping-in-sequoia/]]></guid>
     <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaredsinclair.com/]]></description>
     <link><![CDATA[https://jaredsinclair.com/2024/05/20/preview-content]]></link>
     <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/05/20/preview-content]]></guid>
-    <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Running code when App is Ready]]></title>
-    <description><![CDATA[https://supersonicbyte.com]]></description>
-    <link><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></link>
-    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/running-code-when-app-is-ready]]></guid>
     <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
 </item>
 
