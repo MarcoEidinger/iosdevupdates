@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Jun 2024 00:21:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Jun 2024 02:21:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Conferences: WWDC 2024 and Beyond!]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-conferences-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-3/]]></guid>
+    <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Get Your App Icon Ready for iOS 18]]></title>
@@ -326,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/iOS-18-Notable-UIKit-Additions]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/iOS-18-Notable-UIKit-Additions]]></guid>
     <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Conferences: Preparing for WWDC 2024!]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-conferences-planning-wwdc-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-planning-wwdc-2024/]]></guid>
-    <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
