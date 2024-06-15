@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 15 Jun 2024 18:09:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Jun 2024 20:08:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating a Remote Git Repo from Xcode]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/creating-a-remote-git-repo-from-xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/creating-a-remote-git-repo-from-xcode]]></guid>
+    <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Advanced tracking and fingerprinting protection breaks Safari extensions]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></guid>
-    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Guide to Navigating WWDC Content]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/your-guide-to-navigating-wwdc-content]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/your-guide-to-navigating-wwdc-content]]></guid>
     <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
