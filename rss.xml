@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 15 Jun 2024 22:08:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Jun 2024 00:23:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I let you vote for the next iOS — Android — mobile leadership topics]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/i-let-you-vote-for-the-next-ios-android-mobile-leadership-topics-2aa799096d74?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-let-you-vote-for-the-next-ios-android-mobile-leadership-topics-2aa799096d74?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating a Remote Git Repo from Xcode]]></title>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></guid>
     <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shall we automate the onboarding? (spoiler alert: YES)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/shall-we-automate-the-onboarding-spoiler-alert-yes-52763b8e4dfc?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/shall-we-automate-the-onboarding-spoiler-alert-yes-52763b8e4dfc?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
