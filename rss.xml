@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Jun 2024 14:08:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 16:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Zoom navigation transition in SwiftUI]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/]]></guid>
+    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making Peace With Team Crouton]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></guid>
+    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #36 : Impressions on WWDC 2024]]></title>
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></guid>
+    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC 2024 Viewing Guide]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/wwdc-2024-viewing-guide/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/wwdc-2024-viewing-guide/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,14 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Aligning views in different stacks in SwiftUI]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/06/03/aligning-views-in-different-stacks-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/06/03/aligning-views-in-different-stacks-in-swiftui/]]></guid>
-    <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Creating Immersive visionOS Environments with Reality Kit and Skyboxes from Blockade Labs (with a True 3D world surprise)]]></title>
     <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
     <link><![CDATA[https://www.cephalopod.studio/blog/creating-immersive-visionos-environments-with-reality-kit-and-skyboxes-from-blockade-labs-with-a-true-3d-world-surprise]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></guid>
     <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DejalNews #86: TestFlight for a new Dejal app!]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></guid>
-    <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unleashing the Power of Web3 and Blockchain in iOS — Part 1]]></title>
-    <description><![CDATA[https://dino-bozic.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/azikus/unleashing-the-power-of-web3-and-blockchain-in-ios-part-1-e990ae04eb44?source=rss-e26c12d2644------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/azikus/unleashing-the-power-of-web3-and-blockchain-in-ios-part-1-e990ae04eb44?source=rss-e26c12d2644------2]]></guid>
-    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
