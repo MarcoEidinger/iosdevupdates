@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Jun 2024 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 12:12:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Recommended WWDC24 Sessions]]></title>
@@ -157,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></guid>
-    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftData in WWDC 2024: The Revolution Continues, Stability Still Awaits]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/swiftdata-in-wwdc2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftdata-in-wwdc2024/]]></guid>
     <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dino-bozic.medium.com/]]></description>
     <link><![CDATA[https://medium.com/azikus/unleashing-the-power-of-web3-and-blockchain-in-ios-part-1-e990ae04eb44?source=rss-e26c12d2644------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/azikus/unleashing-the-power-of-web3-and-blockchain-in-ios-part-1-e990ae04eb44?source=rss-e26c12d2644------2]]></guid>
+    <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Replacing The Deprecated cornerRadius View Modifier In SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/replacing-the-deprecated-cornerradius-view-modifier-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/replacing-the-deprecated-cornerradius-view-modifier-in-swiftui/]]></guid>
     <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 </item>
 
