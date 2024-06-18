@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Jun 2024 18:09:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Jun 2024 20:08:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iDOS 3 Rejected From the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/18/idos-3-rejected-from-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/18/idos-3-rejected-from-the-app-store/]]></guid>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mixing colors in SwiftUI and Xcode 16]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/mixing-colors-in-swiftui-and-xcode-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/mixing-colors-in-swiftui-and-xcode-16/]]></guid>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My Favorite Swift 6 feature: static library compilation on Linux]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.attributedstrings.com/]]></description>
     <link><![CDATA[https://www.attributedstrings.com/dto-revisit-testing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/dto-revisit-testing/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rumored Thinner Apple Devices]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/17/rumored-thinner-apple-devices/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/17/rumored-thinner-apple-devices/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -246,14 +254,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/EnhancedReplaceTransitionForSFSymbolsInIOS18]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/EnhancedReplaceTransitionForSFSymbolsInIOS18]]></guid>
     <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using iOS 18’s new TabView with a sidebar]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/]]></guid>
-    <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
