@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Jun 2024 00:21:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Jun 2024 02:21:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Smuggling Values Across Actors]]></title>
+    <description><![CDATA[https://josephduffy.co.uk/posts]]></description>
+    <link><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></link>
+    <guid isPermaLink="true"><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></guid>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DTO Testing with the New Swift Testing]]></title>
@@ -93,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/06/16/yours-in-calendrical-heresy/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/06/16/yours-in-calendrical-heresy/]]></guid>
+    <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tip 2: Making WWDC Content Stick by Learning Through a Practical Project]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/tip-2-making-wwdc-content-stick]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/tip-2-making-wwdc-content-stick]]></guid>
     <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.ptrkstr.com/stringcount-vs-nsstringlength]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.ptrkstr.com/stringcount-vs-nsstringlength]]></guid>
     <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reducing Memory Terminations in iOS Apps]]></title>
-    <description><![CDATA[https://medium.com/@alexandercohen]]></description>
-    <link><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/reducing-memory-terminations-in-ios-apps-3e76797ca5bd?source=rss-11158e34626c------2]]></guid>
-    <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DejalNews #86: TestFlight for a new Dejal app!]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-86-testflight-for-a-new-dejal-app/]]></guid>
-    <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
