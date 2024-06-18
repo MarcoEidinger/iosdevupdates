@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Jun 2024 16:08:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Jun 2024 18:09:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Favorite Swift 6 feature: static library compilation on Linux]]></title>
+    <description><![CDATA[https://rhonabwy.com/]]></description>
+    <link><![CDATA[https://rhonabwy.com/2024/06/18/my-favorite-swift-6-feature-static-library-compilation-on-linux/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/06/18/my-favorite-swift-6-feature-static-library-compilation-on-linux/]]></guid>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift 6: Incrementally migrate your Xcode projects and packages]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/06/the-cataract-of-software-delivery/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/06/the-cataract-of-software-delivery/]]></guid>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The State Of Meridian]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[http://khanlou.com/2024/06/the-state-of-meridian/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://khanlou.com/2024/06/the-state-of-meridian/]]></guid>
     <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Save Data in Your Swift App with PropertyListEncoder]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/save-data-in-your-swift-app-with-propertylistencoder/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/save-data-in-your-swift-app-with-propertylistencoder/]]></guid>
-    <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store Approval for Nonprofit Donation Apps]]></title>
-    <description><![CDATA[https://getonthestore.com/]]></description>
-    <link><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://getonthestore.com/nonprofit-donation-apps/]]></guid>
-    <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
