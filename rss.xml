@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Jun 2024 18:09:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2024 20:08:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Intelligence Training]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/19/apple-intelligence-training/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/19/apple-intelligence-training/]]></guid>
+    <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Strange issue adding SPM package as dependency on another package]]></title>
@@ -54,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/swift-translation-api/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swift-translation-api/]]></guid>
     <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iDOS 3 Rejected From the App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/18/idos-3-rejected-from-the-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/18/idos-3-rejected-from-the-app-store/]]></guid>
-    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
