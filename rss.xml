@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Jun 2024 08:09:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2024 10:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Moving your app from Swift Playgrounds to Xcode]]></title>
+    <description><![CDATA[https://www.thecodehub.ie/news/]]></description>
+    <link><![CDATA[https://www.thecodehub.ie/news/2024/06/19/moving-your-app-from-swift-playgrounds-to-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.thecodehub.ie/news/2024/06/19/moving-your-app-from-swift-playgrounds-to-xcode/]]></guid>
+    <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 217. Contains Duplicate]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/05/30/how-I-made-all-my-open-source-projects-support-swift-strict-concurrency]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/05/30/how-I-made-all-my-open-source-projects-support-swift-strict-concurrency]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Burnout today, parental leave tomorrow]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/burnout-today-parental-leave-tomorrow]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
