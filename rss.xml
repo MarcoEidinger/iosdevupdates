@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Jun 2024 14:08:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2024 16:08:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Strange issue adding SPM package as dependency on another package]]></title>
+    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2024/strange-issue-adding-spm-package-as-dependency-to-another-package/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2024/strange-issue-adding-spm-package-as-dependency-to-another-package/]]></guid>
+    <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Moving your app from Swift Playgrounds to Xcode]]></title>
@@ -125,6 +133,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/converting-between-image-formats/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/converting-between-image-formats/]]></guid>
+    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Guide to the latest in Spatial Computing (WWDC24)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/wwdc24-guide-to-the-latest-in-spatial-computing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-guide-to-the-latest-in-spatial-computing/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Previews]]></title>
-    <description><![CDATA[https://www.manu.show/]]></description>
-    <link><![CDATA[https://manu.show/previews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/previews]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I made my open-source projects support Swift strict concurrency]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/05/30/how-I-made-all-my-open-source-projects-support-swift-strict-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/05/30/how-I-made-all-my-open-source-projects-support-swift-strict-concurrency]]></guid>
     <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
