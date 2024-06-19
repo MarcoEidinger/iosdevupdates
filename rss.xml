@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Jun 2024 06:09:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2024 08:09:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 217. Contains Duplicate]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_217_contains_duplicate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_217_contains_duplicate/]]></guid>
+    <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iDOS 3 Rejected From the App Store]]></title>
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0424]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0424]]></guid>
-    <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 104. Maximum Depth of Binary Tree]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_104_maximum_depth_of_binary_tree/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_104_maximum_depth_of_binary_tree/]]></guid>
     <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
