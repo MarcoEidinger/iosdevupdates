@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Jun 2024 12:10:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Jun 2024 14:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Wishes From AI]]></title>
+    <description><![CDATA[https://dev.to/vibrazy]]></description>
+    <link><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></guid>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Get to Know Swift Testing]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/discover/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/discover/]]></guid>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Preparing your App Icon for dark and tinted appearance]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/]]></guid>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Simple Yet Substantive Features for a Basic Mobile App]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/simple-yet-substantive-features-for-a-basic-mobile-app]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/simple-yet-substantive-features-for-a-basic-mobile-app]]></guid>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating an App Walk-Through for the Playgrounds App]]></title>
@@ -137,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Converting between image formats]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/converting-between-image-formats/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/converting-between-image-formats/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Guide to the latest in Spatial Computing (WWDC24)]]></title>
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/wwdc24-guide-to-the-latest-in-spatial-computing/]]></link>
@@ -209,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tip 2: Making WWDC Content Stick by Learning Through a Practical Project]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/tip-2-making-wwdc-content-stick]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/tip-2-making-wwdc-content-stick]]></guid>
-    <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Concurrency in Swift 6: SE-0424]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0424]]></link>
@@ -253,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.tanin.me/]]></description>
     <link><![CDATA[https://www.tanin.me/calmagic-app/about/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.tanin.me/calmagic-app/about/]]></guid>
-    <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Top 5 Exciting Features From WWDC24]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/top-5-upcoming-features-on-wwdc24/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/top-5-upcoming-features-on-wwdc24/]]></guid>
     <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/iOS-18-Notable-UIKit-Additions]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/iOS-18-Notable-UIKit-Additions]]></guid>
     <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AsyncImage in SwiftUI: Loading Images from URLs [with Caching]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-asyncimage/]]></guid>
-    <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
