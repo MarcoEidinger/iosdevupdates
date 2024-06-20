@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Jun 2024 08:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Jun 2024 10:08:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating an App Walk-Through for the Playgrounds App]]></title>
+    <description><![CDATA[https://www.thecodehub.ie/news/]]></description>
+    <link><![CDATA[https://www.thecodehub.ie/news/2024/06/20/creating-an-app-walk-through-for-the-playgrounds-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.thecodehub.ie/news/2024/06/20/creating-an-app-walk-through-for-the-playgrounds-app/]]></guid>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Intelligence Training]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2024/strange-issue-adding-spm-package-as-dependency-to-another-package/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2024/strange-issue-adding-spm-package-as-dependency-to-another-package/]]></guid>
-    <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Moving your app from Swift Playgrounds to Xcode]]></title>
-    <description><![CDATA[https://www.thecodehub.ie/news/]]></description>
-    <link><![CDATA[https://www.thecodehub.ie/news/2024/06/19/moving-your-app-from-swift-playgrounds-to-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.thecodehub.ie/news/2024/06/19/moving-your-app-from-swift-playgrounds-to-xcode/]]></guid>
     <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
