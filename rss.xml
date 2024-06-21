@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Jun 2024 20:09:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Jun 2024 22:08:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Abundance of code samples (WWDC24)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/wwdc24-code-samples/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-code-samples/]]></guid>
+    <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What’s new in SwiftUI for iOS 18]]></title>
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Guide to the latest in Spatial Computing (WWDC24)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/wwdc24-guide-to-the-latest-in-spatial-computing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-guide-to-the-latest-in-spatial-computing/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
