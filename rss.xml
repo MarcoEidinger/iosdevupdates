@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 22 Jun 2024 00:21:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Jun 2024 02:19:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[No Apple Intelligence or iPhone Mirroring in EU at Launch]]></title>
@@ -113,7 +113,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating Stunning Dynamic Text Effects with TextRender]]></title>
+    <title><![CDATA[Creating Stunning Dynamic Text Effects with TextRenderer]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/creating-stunning-dynamic-text-effects-with-textrender/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/creating-stunning-dynamic-text-effects-with-textrender/]]></guid>
