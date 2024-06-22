@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 22 Jun 2024 08:09:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Jun 2024 10:08:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Translation Framework: Language Availability]]></title>
@@ -77,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/discover-swift-testing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/discover-swift-testing/]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Simple Yet Substantive Features for a Basic Mobile App]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/simple-yet-substantive-features-for-a-basic-mobile-app]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/simple-yet-substantive-features-for-a-basic-mobile-app]]></guid>
     <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,6 +262,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apontious.com/2024/06/16/yours-in-calendrical-heresy/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/06/16/yours-in-calendrical-heresy/]]></guid>
     <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Remote Git Repo from Xcode]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/creating-a-remote-git-repo-from-xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/creating-a-remote-git-repo-from-xcode]]></guid>
+    <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
