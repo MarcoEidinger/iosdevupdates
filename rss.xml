@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Jun 2024 12:10:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2024 14:08:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #37 : Entering the Era of Futures]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-037/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-037/]]></guid>
+    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[108 Related Documents (WWDC24)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/108-related-documents-wwdc24/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/108-related-documents-wwdc24/]]></guid>
+    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Inspecting Swift’s Observation. Exploring Benefits, Issues and solutions.]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/06/21/no-apple-intelligence-or-iphone-mirroring-in-eu-at-launch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/21/no-apple-intelligence-or-iphone-mirroring-in-eu-at-launch/]]></guid>
-    <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Abundance of code samples (WWDC24)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/wwdc24-code-samples/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-code-samples/]]></guid>
     <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/06/05/swift-concurrency-non-sendable-closures/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/06/05/swift-concurrency-non-sendable-closures/]]></guid>
-    <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What makes a great contribution to a codebase?]]></title>
-    <description><![CDATA[https://blog.eliperkins.me/]]></description>
-    <link><![CDATA[https://blog.eliperkins.com/great-contributions-to-a-codebase]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/great-contributions-to-a-codebase]]></guid>
     <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
