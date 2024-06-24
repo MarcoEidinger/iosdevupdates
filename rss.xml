@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Jun 2024 16:09:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2024 18:09:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode: Missing Package Product (local package)]]></title>
+    <description><![CDATA[https://kunat.dev/notes/]]></description>
+    <link><![CDATA[https://kunat.dev/notes/xcode-missing-package-product/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/xcode-missing-package-product/]]></guid>
+    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Lock-free in Swift: ABA Problem]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/playgrounds-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/playgrounds-xcode/]]></guid>
-    <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Campana - Competitive Intelligence at Your Fingertips]]></title>
-    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
-    <link><![CDATA[https://blog.studiolanes.com/campana]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/campana]]></guid>
     <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
