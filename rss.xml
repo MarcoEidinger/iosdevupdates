@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Jun 2024 08:12:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Jun 2024 10:09:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Async await in Swift explained with code examples]]></title>
@@ -59,8 +59,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[108 Related Documents (WWDC24)]]></title>
     <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/108-related-documents-wwdc24/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/108-related-documents-wwdc24/]]></guid>
+    <link><![CDATA[https://www.elkraneo.com/wwdc24-related-documents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-related-documents/]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
