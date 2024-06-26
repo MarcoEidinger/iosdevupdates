@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Jun 2024 18:12:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Jun 2024 20:09:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What's Coming to Xcode 16🔥]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/whats-coming-to-xcode-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/whats-coming-to-xcode-16/]]></guid>
+    <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[RoomTrackingProvider]]></title>
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dev.to/vibrazy]]></description>
     <link><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Get to Know Swift Testing]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/discover-swift-testing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/discover-swift-testing/]]></guid>
     <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
