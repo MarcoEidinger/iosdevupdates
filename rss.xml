@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Jun 2024 20:09:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Jun 2024 22:08:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[EU Charges Microsoft for Bundling Teams and Office]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/06/26/eu-charges-microsoft-for-bundling-teams-and-office/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/26/eu-charges-microsoft-for-bundling-teams-and-office/]]></guid>
+    <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What's Coming to Xcode 16🔥]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/high-energy-levels-deconstructed]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/high-energy-levels-deconstructed]]></guid>
-    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[llama.ttf]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/06/25/llama-ttf/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/06/25/llama-ttf/]]></guid>
     <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
