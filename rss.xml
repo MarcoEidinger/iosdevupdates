@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Jun 2024 08:10:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Jun 2024 10:10:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[RoomTrackingProvider]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/roomtrackingprovider/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/roomtrackingprovider/]]></guid>
+    <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[High Energy Levels Deconstructed]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-037/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-037/]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[108 Related Documents (WWDC24)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/wwdc24-related-documents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc24-related-documents/]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
