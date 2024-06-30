@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Jun 2024 12:10:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Jun 2024 14:08:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Consolidated ViewState]]></title>
+    <description><![CDATA[https://www.ludafux.com/]]></description>
+    <link><![CDATA[https://www.ludafux.com/post/consolidated-viewstate]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/consolidated-viewstate]]></guid>
+    <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring Translation: Using translationPresentation for Translation Popover]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-translation-using-translationpresentation-for-translation-popover-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-translation-using-translationpresentation-for-translation-popover-3/]]></guid>
+    <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI app lifecycle: issues with ScenePhase and using AppDelegate adaptors]]></title>
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/the-evolution-of-swiftui-scroll-control-apis/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/the-evolution-of-swiftui-scroll-control-apis/]]></guid>
     <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[High Energy Levels Deconstructed]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/high-energy-levels-deconstructed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/high-energy-levels-deconstructed]]></guid>
-    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -246,14 +254,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://theempathicdev.de/blog/default-implementations-in-protocols]]></link>
     <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/default-implementations-in-protocols]]></guid>
     <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Translation Framework: Language Availability]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-translation-framework-language-availability/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-translation-framework-language-availability/]]></guid>
-    <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
