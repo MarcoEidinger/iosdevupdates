@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Jul 2024 16:08:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Jul 2024 18:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Scroll geometry and position view modifiers in SwiftUI on iOS 18]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/unit-testing-with-xctest-bdd04da69b84?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/unit-testing-with-xctest-bdd04da69b84?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode Explicitly Built Modules]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/xcode-explicitly-built-modules/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/xcode-explicitly-built-modules/]]></guid>
     <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -405,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2024 Viewing Guide]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/wwdc-2024-viewing-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/wwdc-2024-viewing-guide/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
