@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jul 2024 14:08:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jul 2024 16:09:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How Stardew Valley Helped Me Overcome My Perfectionist Ways 🐓]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring the Navigation Split View]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/searching-for-life-behind-software]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/searching-for-life-behind-software]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering ScrollView in SwiftUI. Scroll Phases]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases]]></guid>
     <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -177,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What's Coming to Xcode 16🔥]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/whats-coming-to-xcode-16/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/whats-coming-to-xcode-16/]]></guid>
-    <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Amazon Web Services dark patterns]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/6/7.html]]></link>
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.danijelavrzan.com/]]></description>
     <link><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></guid>
-    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mastering ScrollView in SwiftUI. Scroll Geometry]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/06/25/mastering-scrollview-in-swiftui-scroll-geometry]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/06/25/mastering-scrollview-in-swiftui-scroll-geometry]]></guid>
     <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
