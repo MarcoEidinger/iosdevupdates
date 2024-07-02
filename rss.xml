@@ -6,10 +6,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jul 2024 16:09:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jul 2024 18:10:07 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[How Stardew Valley Helped Me Overcome My Perfectionist Ways 🐓]]></title>
+    <title><![CDATA[How Stardew Valley Helped Me Deal With My Toxic Perfectionism 🐓]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></guid>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/typed-throws/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/typed-throws/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Advanced Techniques In Meridian]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[http://khanlou.com/2024/07/advanced-techniques-in-meridian/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://khanlou.com/2024/07/advanced-techniques-in-meridian/]]></guid>
     <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -381,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/06/the-cataract-of-software-delivery/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/06/the-cataract-of-software-delivery/]]></guid>
-    <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The State Of Meridian]]></title>
-    <description><![CDATA[https://khanlou.com/]]></description>
-    <link><![CDATA[http://khanlou.com/2024/06/the-state-of-meridian/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://khanlou.com/2024/06/the-state-of-meridian/]]></guid>
     <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
