@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jul 2024 12:10:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jul 2024 14:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring the Navigation Split View]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/exploring-the-navigationsplitview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-the-navigationsplitview/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Conversation With Swift 6 About Data Race Safety]]></title>
+    <description><![CDATA[https://qualitycoding.org/]]></description>
+    <link><![CDATA[https://qualitycoding.org/conversation-swift6-data-race-safety/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/conversation-swift6-data-race-safety/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Typed throws in Swift explained with code examples]]></title>
@@ -105,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Displaying tips based on parameters and events with TipKit]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/displaying-tips-based-on-parameters-and-events-with-tipkit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/displaying-tips-based-on-parameters-and-events-with-tipkit/]]></guid>
-    <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Stress-testing Core Data]]></title>
     <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2024/core-data-performance-test/]]></link>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.danijelavrzan.com/]]></description>
     <link><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></guid>
-    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Testing Template: Download My Improved Custom Template]]></title>
-    <description><![CDATA[https://qualitycoding.org/]]></description>
-    <link><![CDATA[https://qualitycoding.org/swift-testing-template/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/swift-testing-template/]]></guid>
     <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
