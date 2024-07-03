@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jul 2024 20:09:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jul 2024 22:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Deleting Messages Attachments Everywhere]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/07/03/deleting-messages-attachments-everywhere/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/03/deleting-messages-attachments-everywhere/]]></guid>
+    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dunfey Hotel]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/dunfey-hotel/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/dunfey-hotel/]]></guid>
+    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[End of life for Voice in a Can?]]></title>
@@ -62,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/swiftui-inspector-modifier/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swiftui-inspector-modifier/]]></guid>
     <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Figma AI]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/02/figma-ai/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/02/figma-ai/]]></guid>
-    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ludafux.com/]]></description>
     <link><![CDATA[https://www.ludafux.com/post/the-benefits-of-modularization]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/the-benefits-of-modularization]]></guid>
-    <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Explore the biggest updates from WWDC24 (BER)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/explore-the-biggest-updates-from-wwdc24-ber-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/explore-the-biggest-updates-from-wwdc24-ber-2/]]></guid>
     <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
