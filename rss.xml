@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jul 2024 06:11:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jul 2024 08:09:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ScrollViews in iOS 18]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/scrollviews-in-ios-18-e445dae29dd0?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/scrollviews-in-ios-18-e445dae29dd0?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Strolly - our new app for fresh daily walks]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tgomareli.medium.com]]></description>
     <link><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Matched Transition in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/matched-transition-in-swiftui-1536843cf5cb?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/matched-transition-in-swiftui-1536843cf5cb?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
