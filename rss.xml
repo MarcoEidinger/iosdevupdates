@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Jul 2024 04:09:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jul 2024 06:10:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Radar: Smart Stack Live Activities are not sorted by relevancy]]></title>
+    <description><![CDATA[https://matthewcodes.uk/]]></description>
+    <link><![CDATA[https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts]]></guid>
+    <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Deleting Messages Attachments Everywhere]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.tanin.me/]]></description>
     <link><![CDATA[https://www.tanin.me/calmagic-app/about/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.tanin.me/calmagic-app/about/]]></guid>
-    <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Simple Web Server in Swift]]></title>
-    <description><![CDATA[https://ko9.org/]]></description>
-    <link><![CDATA[https://ko9.org/posts/simple-swift-web-server]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/simple-swift-web-server]]></guid>
     <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
