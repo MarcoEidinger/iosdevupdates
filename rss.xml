@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Jul 2024 14:08:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jul 2024 16:08:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating a Lock Screen widget with SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-a-lock-screen-widget-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-a-lock-screen-widget-with-swiftui/]]></guid>
+    <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AsyncStream and AsyncSequence for Swift Concurrency]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></guid>
-    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring the Navigation Split View]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/exploring-the-navigationsplitview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-the-navigationsplitview/]]></guid>
     <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
