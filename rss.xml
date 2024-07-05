@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jul 2024 18:09:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jul 2024 20:09:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Union Types in Swift]]></title>
+    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
+    <link><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Diffuse reflection UV computation tool]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Elegantly Handling Transitive Dependencies]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/transitive-dependencies/]]></guid>
     <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
