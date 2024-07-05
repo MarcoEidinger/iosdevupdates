@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jul 2024 08:09:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jul 2024 10:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI can be a bit... eager]]></title>
+    <description><![CDATA[https://www.attributedstrings.com/]]></description>
+    <link><![CDATA[https://www.attributedstrings.com/swiftui-can-be-a-bit-eager/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/swiftui-can-be-a-bit-eager/]]></guid>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dynamic Type on the Web]]></title>
@@ -446,14 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></link>
     <guid isPermaLink="true"><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></guid>
     <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DTO Testing with the New Swift Testing System]]></title>
-    <description><![CDATA[https://www.attributedstrings.com/]]></description>
-    <link><![CDATA[https://www.attributedstrings.com/dto-revisit-testing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/dto-revisit-testing/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
