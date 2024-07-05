@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jul 2024 12:10:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jul 2024 14:09:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Diffuse reflection UV computation tool]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/]]></guid>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Touch Evolution: How Gestures Shape Our Digital Worlds]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/the-touch-evolution-how-gestures-shape-our-digital-worlds/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/the-touch-evolution-how-gestures-shape-our-digital-worlds/]]></guid>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI can be a bit... eager]]></title>
@@ -49,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating a Lock Screen widget with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-a-lock-screen-widget-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-a-lock-screen-widget-with-swiftui/]]></guid>
-    <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AsyncStream and AsyncSequence for Swift Concurrency]]></title>
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swift-asyncstream/]]></link>
@@ -78,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts]]></link>
     <guid isPermaLink="true"><![CDATA[https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts]]></guid>
     <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dunfey Hotel]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/dunfey-hotel/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/dunfey-hotel/]]></guid>
-    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
