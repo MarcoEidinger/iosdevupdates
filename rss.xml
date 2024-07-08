@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Jul 2024 04:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jul 2024 06:12:30 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 53. Maximum Subarray]]></title>
@@ -109,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swift-asyncstream/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-asyncstream/]]></guid>
+    <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Summary Of How To Pass Data To SwiftUI Environment]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/a-summary-of-how-to-pass-data-to-swiftui-environment/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/a-summary-of-how-to-pass-data-to-swiftui-environment/]]></guid>
     <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></link>
     <guid isPermaLink="true"><![CDATA[https://josephduffy.co.uk/posts/smuggling-values-across-actors]]></guid>
     <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making Peace With Team Crouton]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ramblings/crouton/]]></guid>
-    <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
