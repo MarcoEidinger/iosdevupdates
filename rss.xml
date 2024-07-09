@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jul 2024 04:09:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2024 06:10:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What's new in visionOS 2]]></title>
+    <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
+    <link><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 57. Insert Interval]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Inspect network traffic using the Xcode Simulator]]></title>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 53. Maximum Subarray]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_53_maximum_subarray/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_53_maximum_subarray/]]></guid>
     <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/testing-swift-testing]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/testing-swift-testing]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[@DefaultIfMissing - My Codable Failsafe]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Codable-Handle-Missing-Or-Nil-Values]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Codable-Handle-Missing-Or-Nil-Values]]></guid>
     <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
