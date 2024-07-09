@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jul 2024 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2024 12:11:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building a custom application UI with SwiftUI & iOS 18 API]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What's new in visionOS 2]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Entry macro in SwiftUI]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/07/09/introducing-entry-macro-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/07/09/introducing-entry-macro-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-039/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-039/]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Some tips & tricks with the new iOS 18 ScrollView API]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -265,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering ScrollView in SwiftUI. Scroll Phases]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases]]></guid>
-    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Advanced Async Sequences in Swift ]]></title>
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/advanced-async-sequences/]]></link>
@@ -469,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/testing-swift-testing]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/testing-swift-testing]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[@DefaultIfMissing - My Codable Failsafe]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Codable-Handle-Missing-Or-Nil-Values]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Codable-Handle-Missing-Or-Nil-Values]]></guid>
     <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
