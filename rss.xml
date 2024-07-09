@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jul 2024 18:09:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2024 20:08:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS 18: Vehicle Motion Cues]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/07/09/ios-18-vehicle-motion-cues/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/09/ios-18-vehicle-motion-cues/]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Here Are the 3D Movies Available on Vision Pro in Canada]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Intelligence for Siri in Spring 2025]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/08/apple-intelligence-for-siri-in-spring-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/08/apple-intelligence-for-siri-in-spring-2025/]]></guid>
     <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
