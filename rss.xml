@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Jul 2024 12:10:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jul 2024 14:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[+TALKS #5]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/talks-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/talks-5/]]></guid>
+    <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Peak for Apple Watch]]></title>
@@ -185,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Diffuse reflection UV computation tool]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/]]></guid>
-    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI can be a bit... eager]]></title>
     <description><![CDATA[https://www.attributedstrings.com/]]></description>
     <link><![CDATA[https://www.attributedstrings.com/swiftui-can-be-a-bit-eager/]]></link>
@@ -361,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Announcing Juno 2.0]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/06/announcing-juno-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/06/announcing-juno-2/]]></guid>
-    <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Upgrading to a 2024 iPad Air from a 2018 iPad Pro]]></title>
     <description><![CDATA[https://adrian.schoenig.me]]></description>
     <link><![CDATA[https://adrian.schoenig.me/blog/2024/06/28/ipad-pro-to-ipad-air/]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://theempathicdev.de/blog/default-implementations-in-protocols]]></link>
     <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/default-implementations-in-protocols]]></guid>
     <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What’s new in SwiftUI for iOS 18]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18]]></guid>
+    <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
