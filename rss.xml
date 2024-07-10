@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 10 Jul 2024 08:12:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jul 2024 10:08:44 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Drag and Drop in SwiftUI]]></title>
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/drag-and-drop-in-swiftui-a8f9bbc84cde?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/drag-and-drop-in-swiftui-a8f9bbc84cde?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 542. 01 Matrix]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_542_01_matrix/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_542_01_matrix/]]></guid>
     <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -75,8 +83,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Building a custom application UI with SwiftUI & iOS 18 API]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></guid>
+    <link><![CDATA[https://blog.stackademic.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/building-a-custom-application-ui-with-swiftui-ios-18-api-ef8bc42598ed?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></guid>
-    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 57. Insert Interval]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_57_insert_interval/]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,6 +273,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How Stardew Valley Helped Me Deal With My Toxic Perfectionism 🐓]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Advanced Techniques In Meridian]]></title>
     <description><![CDATA[https://khanlou.com/]]></description>
     <link><![CDATA[http://khanlou.com/2024/07/advanced-techniques-in-meridian/]]></link>
@@ -417,6 +425,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Inspecting Swift’s Observation. Exploring Benefits, Issues and solutions.]]></title>
+    <description><![CDATA[https://tgomareli.medium.com]]></description>
+    <link><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></guid>
+    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Using TextRenderer to create highlighted text]]></title>
     <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
     <link><![CDATA[https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18]]></guid>
     <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Wishes From AI]]></title>
-    <description><![CDATA[https://dev.to/vibrazy]]></description>
-    <link><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dev.to/vibrazy/wishes-from-ai-2jl2]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating an App Walk-Through for the Playgrounds App]]></title>
-    <description><![CDATA[https://www.thecodehub.ie/news/]]></description>
-    <link><![CDATA[https://www.thecodehub.ie/news/2024/06/20/creating-an-app-walk-through-for-the-playgrounds-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.thecodehub.ie/news/2024/06/20/creating-an-app-walk-through-for-the-playgrounds-app/]]></guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
