@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Jul 2024 00:22:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jul 2024 02:24:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[DejalNews #87: Introducing Weather Events]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejalnews-87-introducing-weather-events/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-87-introducing-weather-events/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[USPS Metadata Surveillance Program]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/time-to-reset-apple-watch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/time-to-reset-apple-watch/]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[5 reasons why you should use a linter baseline on your project]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/5-reasons-why-you-should-use-a-linter-baseline-on-your-project-b52a523ae3ce?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/5-reasons-why-you-should-use-a-linter-baseline-on-your-project-b52a523ae3ce?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
