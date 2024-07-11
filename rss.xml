@@ -6,13 +6,45 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Jul 2024 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jul 2024 14:07:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stay Connected: Mastering iOS Notifications for Seamless Communication]]></title>
+    <description><![CDATA[https://arturgruchala.com/]]></description>
+    <link><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Writing better copies for your apps]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/writing-better-copies-for-your-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/writing-better-copies-for-your-apps/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to get the original user-installed version of your app with Swift]]></title>
+    <description><![CDATA[https://olegdreyman.medium.com]]></description>
+    <link><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Core Spotlight: Making Items Searchable]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-core-spotlight-making-items-searchable/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-core-spotlight-making-items-searchable/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SE-0434: Usability of global-actor-isolated types]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0434]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0434]]></guid>
     <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -121,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Adding spatial audio to an Entity with RealityKit]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/adding-spatial-audio-to-an-entity-with-realitykit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adding-spatial-audio-to-an-entity-with-realitykit/]]></guid>
-    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftPM and Xcode]]></title>
     <description><![CDATA[https://kean.blog/]]></description>
     <link><![CDATA[https://kean.blog/post/swiftpm-and-xcode]]></link>
@@ -213,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Concurrency in Swift 6: SE-0431]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/concurrency-swift-6-se-0431]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/concurrency-swift-6-se-0431]]></guid>
     <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,22 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tgomareli.medium.com]]></description>
     <link><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/inspecting-swifts-observation-exploring-benefits-issues-and-solutions-00617f13d36c?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using TextRenderer to create highlighted text]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[It may be time to reset your Apple Watch]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/time-to-reset-apple-watch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/time-to-reset-apple-watch/]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
