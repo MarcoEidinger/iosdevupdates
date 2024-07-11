@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Jul 2024 14:07:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jul 2024 16:09:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stay Connected: Mastering iOS Notifications for Seamless Communication]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-87-introducing-weather-events/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-87-introducing-weather-events/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Check if your app has a newer version on the App Store using Swift]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/newer-version-lookup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/newer-version-lookup/]]></guid>
     <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
     <link><![CDATA[https://bootstragram.com/blog/slugify-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/slugify-in-swift]]></guid>
-    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Show and hide SwiftUI inspectors with an identifiable item]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/swiftui-inspector-modifier/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/swiftui-inspector-modifier/]]></guid>
     <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
