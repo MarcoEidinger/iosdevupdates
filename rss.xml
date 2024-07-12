@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jul 2024 16:08:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jul 2024 18:08:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[June 2024 Review]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2024/7/june-2024-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/7/june-2024-review/]]></guid>
+    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Config 2024: An infinite canvas (impressions)]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kenb.us/]]></description>
     <link><![CDATA[https://kenb.us/unit-testing-stubs-fakes-mocks]]></link>
     <guid isPermaLink="true"><![CDATA[https://kenb.us/unit-testing-stubs-fakes-mocks]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode: Missing Package Product (local package)]]></title>
-    <description><![CDATA[https://kunat.dev/notes/]]></description>
-    <link><![CDATA[https://kunat.dev/notes/xcode-missing-package-product/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/xcode-missing-package-product/]]></guid>
     <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
