@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jul 2024 06:09:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jul 2024 08:10:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Let and var in Swift explained]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/let-and-var-in-swift-explained/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/let-and-var-in-swift-explained/]]></guid>
+    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Pitfalls of `lazy var`]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.attributedstrings.com/]]></description>
     <link><![CDATA[https://www.attributedstrings.com/interesting-development-articles-july-10-2023/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/interesting-development-articles-july-10-2023/]]></guid>
-    <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using PreviewModifier to build a previewing environment]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/using-previewmodifier-to-build-a-previewing-environment/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-previewmodifier-to-build-a-previewing-environment/]]></guid>
     <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
