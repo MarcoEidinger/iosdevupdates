@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jul 2024 14:08:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jul 2024 16:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ScrollView phase changes on iOS 18]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/07/15/scrollview-phase-changes-on-ios-18/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/07/15/scrollview-phase-changes-on-ios-18/]]></guid>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #40 : Ensure "Driverless Cars" Don't Lead to "Jobless Masses"]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/create-a-custom-badge-for-any-view-in-swiftui-647957cdf7ba?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-a-custom-badge-for-any-view-in-swiftui-647957cdf7ba?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Switch And If Expressions]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swift-switch-and-if-expressions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-switch-and-if-expressions/]]></guid>
     <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -382,22 +398,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftonserver.com/advanced-async-sequences/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/advanced-async-sequences/]]></guid>
     <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Scroll geometry and position view modifiers in SwiftUI on iOS 18]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/07/01/scroll-geometry-and-position-view-modifiers-in-swiftui-on-ios-18/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/07/01/scroll-geometry-and-position-view-modifiers-in-swiftui-on-ios-18/]]></guid>
-    <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Explicitly Built Modules]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/xcode-explicitly-built-modules/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/xcode-explicitly-built-modules/]]></guid>
-    <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
