@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jul 2024 16:09:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jul 2024 18:09:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[UTM SE Now in the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/07/15/utm-se-now-in-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/15/utm-se-now-in-the-app-store/]]></guid>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ScrollView phase changes on iOS 18]]></title>
@@ -70,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/]]></guid>
     <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Transferring Google Photos]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/12/transferring-google-photos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/12/transferring-google-photos/]]></guid>
-    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
