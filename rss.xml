@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jul 2024 12:11:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jul 2024 14:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #40 : Ensure "Driverless Cars" Don't Lead to "Jobless Masses"]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-040/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-040/]]></guid>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create a Custom Badge for Any View in SwiftUI]]></title>
@@ -30,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro/]]></guid>
     <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to delay server requests for user's search query with SwiftUI and Combine]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/combine-swiftui-search-query-debounce]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-swiftui-search-query-debounce]]></guid>
+    <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Backpressure in Combine]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/combine-back-pressure]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-back-pressure]]></guid>
-    <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Union Types in Swift]]></title>
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftunwrap.com/article/running-package-from-xcode-build-phase]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/running-package-from-xcode-build-phase]]></guid>
     <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unit testing: Stubs, Fakes, Mocks]]></title>
-    <description><![CDATA[https://kenb.us/]]></description>
-    <link><![CDATA[https://kenb.us/unit-testing-stubs-fakes-mocks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kenb.us/unit-testing-stubs-fakes-mocks]]></guid>
-    <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
