@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jul 2024 20:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jul 2024 22:08:39 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 15 Sequoia Public Beta]]></title>
@@ -385,6 +385,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How Stardew Valley Helped Me Deal With My Toxic Perfectionism 🐓]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-stardew-valley-helped-me-overcome-perfectionism/]]></guid>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Advanced Techniques In Meridian]]></title>
     <description><![CDATA[https://khanlou.com/]]></description>
     <link><![CDATA[http://khanlou.com/2024/07/advanced-techniques-in-meridian/]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/6/7.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/6/7.html]]></guid>
-    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create Custom SF Symbols in Sketch]]></title>
-    <description><![CDATA[https://www.danijelavrzan.com/]]></description>
-    <link><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.danijelavrzan.com/posts/2024/06/create-custom-sf-symbols]]></guid>
     <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
