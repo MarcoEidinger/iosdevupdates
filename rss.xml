@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jul 2024 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jul 2024 12:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why macOS Development is Perfect for Indie Developers]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/]]></guid>
+    <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 973. K Closest Points to Origin]]></title>
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2024/07/09/introducing-entry-macro-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/07/09/introducing-entry-macro-in-swiftui]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Inspect network traffic using the Xcode Simulator]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
