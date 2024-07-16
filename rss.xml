@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jul 2024 00:21:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jul 2024 04:10:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 973. K Closest Points to Origin]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_973_k_closest_points_to_origin/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_973_k_closest_points_to_origin/]]></guid>
+    <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[UTM SE Now in the App Store]]></title>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/drag-and-drop-in-swiftui-a8f9bbc84cde?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/drag-and-drop-in-swiftui-a8f9bbc84cde?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 542. 01 Matrix]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_542_01_matrix/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_542_01_matrix/]]></guid>
     <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
