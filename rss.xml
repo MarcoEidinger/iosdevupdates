@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jul 2024 18:10:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jul 2024 20:09:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Overcast’s New Foundation]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/07/18/overcasts-new-foundation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/18/overcasts-new-foundation/]]></guid>
+    <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Tale of Two Error Types in Swift]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/how-to-setup-your-blog/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-to-setup-your-blog/]]></guid>
-    <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[XCTest in Xcode 16]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/17/xctest-in-xcode-16/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/17/xctest-in-xcode-16/]]></guid>
     <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
