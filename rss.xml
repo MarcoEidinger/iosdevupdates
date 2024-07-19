@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 19 Jul 2024 12:10:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jul 2024 14:09:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Hiding Labels In SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/hiding-labels-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/hiding-labels-in-swiftui/]]></guid>
+    <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Summer of the Blog]]></title>
+    <description><![CDATA[https://charliemchapman.com/]]></description>
+    <link><![CDATA[https://charliemchapman.com/posts/2024/7/19/summer-of-the-blog]]></link>
+    <guid isPermaLink="true"><![CDATA[https://charliemchapman.com/posts/2024/7/19/summer-of-the-blog]]></guid>
     <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-06-26-wwdc24-recap/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-06-26-wwdc24-recap/]]></guid>
-    <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Announcing Juno 2.0]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/06/announcing-juno-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/06/announcing-juno-2/]]></guid>
     <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
