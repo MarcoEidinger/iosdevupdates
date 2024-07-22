@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jul 2024 06:10:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jul 2024 08:10:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Customizing the appearance of symbol images in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI]]></guid>
+    <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using @DebugDescription in Xcode 16]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/debug-description-macro-xcode-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/debug-description-macro-xcode-16/]]></guid>
+    <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Add Personality to Your App Through UX Writing - WWDC24]]></title>
@@ -313,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Blend Modes in SwiftUI]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/blend-modes-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/blend-modes-in-swiftui/]]></guid>
-    <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Peak for Apple Watch]]></title>
     <description><![CDATA[https://harshil.net/]]></description>
     <link><![CDATA[https://harshil.net/blog/introducing-peak-for-apple-watch]]></link>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://damian.fyi]]></description>
     <link><![CDATA[https://damian.fyi/2024/07/03/end-of-life-for-voice-in-a-can]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/07/03/end-of-life-for-voice-in-a-can]]></guid>
-    <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Strolly - our new app for fresh daily walks]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/IntroducingStrolly]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntroducingStrolly]]></guid>
     <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
