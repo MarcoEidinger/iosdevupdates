@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jul 2024 12:11:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jul 2024 14:08:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #41 : My "Adventure" Journey to Hangzhou]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-041/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-041/]]></guid>
+    <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create your own Segmented Picker using SwiftUI]]></title>
@@ -38,6 +46,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/add-personality-to-your-app-through-ux-writing-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/add-personality-to-your-app-through-ux-writing-wwdc24]]></guid>
     <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Preparing for a technical iOS job interview with questions and answers - book preview]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/book-ios-interview-questions-and-answers-preview]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/book-ios-interview-questions-and-answers-preview]]></guid>
+    <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -233,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to delay server requests for user's search query with SwiftUI and Combine]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/combine-swiftui-search-query-debounce]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-swiftui-search-query-debounce]]></guid>
-    <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Exploring SwiftUI: Make SF Symbols Wiggle Wiggle]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/]]></link>
@@ -293,6 +301,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></guid>
+    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to get the original user-installed version of your app with Swift]]></title>
+    <description><![CDATA[https://olegdreyman.medium.com]]></description>
+    <link><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></guid>
     <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Union Types in Swift]]></title>
+    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
+    <link><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Replicating D3 charts with Swift Charts]]></title>
     <description><![CDATA[https://sakunlabs.com/blog/]]></description>
     <link><![CDATA[https://sakunlabs.com/blog/swift-d3/]]></link>
@@ -446,30 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://byla.lt/posts/searching-for-life-behind-software]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/searching-for-life-behind-software]]></guid>
     <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Advanced Async Sequences in Swift ]]></title>
-    <description><![CDATA[https://swiftonserver.com/]]></description>
-    <link><![CDATA[https://swiftonserver.com/advanced-async-sequences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/advanced-async-sequences/]]></guid>
-    <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stress-testing Core Data]]></title>
-    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
-    <link><![CDATA[https://aplus.rs/2024/core-data-performance-test/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2024/core-data-performance-test/]]></guid>
-    <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What are mobile release engineering teams and when do you need one? (Runway)]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://www.runway.team/blog/what-are-mobile-release-engineering-teams-and-when-do-you-need-one]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.runway.team/blog/what-are-mobile-release-engineering-teams-and-when-do-you-need-one]]></guid>
-    <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
