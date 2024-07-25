@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Jul 2024 08:10:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jul 2024 10:09:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: Reducing Friction by CI/CD]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-ci-cd/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-ci-cd/]]></guid>
+    <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Transwwdcripts]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></guid>
+    <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Steve Jobs: Objects of Our Life]]></title>
@@ -249,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring SwiftUI: Make SF Symbols Wiggle Wiggle]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/]]></guid>
-    <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Using the .task view modifier]]></title>
     <description><![CDATA[https://www.attributedstrings.com/]]></description>
     <link><![CDATA[https://www.attributedstrings.com/using-the-task-view-modifier/]]></link>
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/7/june-2024-review/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/7/june-2024-review/]]></guid>
-    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Config 2024: An infinite canvas (impressions)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/config-2024-an-infinite-canvas-impressions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/config-2024-an-infinite-canvas-impressions/]]></guid>
     <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
