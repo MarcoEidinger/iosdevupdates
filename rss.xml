@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Jul 2024 10:09:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jul 2024 12:12:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Indie Life: Reducing Friction by CI/CD]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></guid>
+    <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to get the checksum of a file in Swift]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/get-checksum/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/get-checksum/]]></guid>
     <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://charliemchapman.com/]]></description>
     <link><![CDATA[https://charliemchapman.com/posts/2024/7/19/summer-of-the-blog]]></link>
     <guid isPermaLink="true"><![CDATA[https://charliemchapman.com/posts/2024/7/19/summer-of-the-blog]]></guid>
-    <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use recursive functions in Swift]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/how-to-use-recursive-functions-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/how-to-use-recursive-functions-in-swift/]]></guid>
     <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
