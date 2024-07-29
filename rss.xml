@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Jul 2024 10:09:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jul 2024 12:10:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Create a Custom Side Nav in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/create-a-custom-side-nav-in-swiftui-758f0a1e513d?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-a-custom-side-nav-in-swiftui-758f0a1e513d?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Catch-up on Accessibility in SwiftUI - WWDC24]]></title>
@@ -105,6 +113,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[SwiftData Indexes]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftdata-indexes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-indexes/]]></guid>
+    <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Transwwdcripts]]></title>
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></link>
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/get-checksum/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/get-checksum/]]></guid>
     <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Common Misconceptions About SwiftUI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/]]></guid>
-    <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -150,14 +158,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/leetcode_15_3sum/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_15_3sum/]]></guid>
     <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create your own Segmented Picker using SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/create-your-own-segmented-picker-using-swiftui-ce52dd8c6276?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-your-own-segmented-picker-using-swiftui-ce52dd8c6276?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -285,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/07/15/scrollview-phase-changes-on-ios-18/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/07/15/scrollview-phase-changes-on-ios-18/]]></guid>
-    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Switch And If Expressions]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swift-switch-and-if-expressions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-switch-and-if-expressions/]]></guid>
     <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,6 +430,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/switching-to-ephemeral-macos-build-runners]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/switching-to-ephemeral-macos-build-runners]]></guid>
     <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Video - Build an AI Assistant Expense Tracker SwiftUI App | Part 3 | AI Receipt Scanner | ChatGPT-4o Vision]]></title>
+    <description><![CDATA[https://www.alfianlosari.com/]]></description>
+    <link><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-3]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alfianlosari.com/posts/build-ai-assistant-expense-tracker-swiftui-app-part-3]]></guid>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
