@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Jul 2024 06:10:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jul 2024 08:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Catch-up on Accessibility in SwiftUI - WWDC24]]></title>
@@ -441,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Union Types in Swift]]></title>
-    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
-    <link><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/union-types-in-swift-aefd30cac6c5?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Replicating D3 charts with Swift Charts]]></title>
     <description><![CDATA[https://sakunlabs.com/blog/]]></description>
     <link><![CDATA[https://sakunlabs.com/blog/swift-d3/]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2024/07/04/dynamic-type-on-the-web/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2024/07/04/dynamic-type-on-the-web/]]></guid>
+    <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AsyncStream and AsyncSequence for Swift Concurrency]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swift-asyncstream/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-asyncstream/]]></guid>
     <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
