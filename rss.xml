@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Jul 2024 22:10:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jul 2024 00:21:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Writing Tools: Rewriting a Post About Writing Tools using Writing Tools]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-writing-tools-rewriting-a-post-about-writing-tools-using-writing-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-writing-tools-rewriting-a-post-about-writing-tools-using-writing-tools/]]></guid>
+    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The First Apple Intelligence Beta]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/how-to-do-ui-tests-in-swiftui-5d16b5ade080?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/how-to-do-ui-tests-in-swiftui-5d16b5ade080?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Starting from the Bottom]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-starting-from-the-bottom-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-starting-from-the-bottom-2/]]></guid>
     <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
