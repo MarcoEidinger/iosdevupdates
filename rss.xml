@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jul 2024 16:12:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jul 2024 18:10:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Resourwwdces]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/resourwwdces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/resourwwdces/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 14.6]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftdata-indexes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-indexes/]]></guid>
-    <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Transwwdcripts]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/transwwdcripts/]]></guid>
     <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
