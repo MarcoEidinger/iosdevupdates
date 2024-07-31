@@ -6,7 +6,47 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jul 2024 14:09:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jul 2024 16:12:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 14.6]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/07/31/macos-14-6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/31/macos-14-6/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: From Idea to App Store in Hours with LLMs]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-from-idea-to-app-store-in-hours-with-llms/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-from-idea-to-app-store-in-hours-with-llms/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fix Safari Private Window Empty Page]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/7/2.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/7/2.html]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Solving “Reference to captured var in concurrently-executing code” in Swift]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/solving-reference-to-captured-var-in-concurrently-executing-code-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-reference-to-captured-var-in-concurrently-executing-code-in-swift/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Tile Images in SwiftUI]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/how-to-tile-images-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/how-to-tile-images-in-swiftui/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Troubleshoot Embedded Swift and the Matter Smart Light]]></title>
@@ -41,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[BitTorrent Apps in AltStore PAL]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/30/bittorrent-apps-in-altstore-pal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/30/bittorrent-apps-in-altstore-pal/]]></guid>
-    <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Keep Two Thoughts Podcast 70 - Advice]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/bd0ea7a7c632/227-checking]]></link>
@@ -70,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/non-sendable]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/non-sendable]]></guid>
     <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Writing Tools: Rewriting a Post About Writing Tools using Writing Tools]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-writing-tools-rewriting-a-post-about-writing-tools-using-writing-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-writing-tools-rewriting-a-post-about-writing-tools-using-writing-tools/]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -257,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Deluge of Fake Mac App Store Reviews]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/7/1.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/7/1.html]]></guid>
-    <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Caldera: a sleek split and wireless keyboard]]></title>
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/07/caldera-keyboard/]]></link>
@@ -341,14 +357,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
     <link><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></guid>
-    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adding values to the SwiftUI environment with Xcode 16’s Entry macro]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro/]]></guid>
     <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Soto v7.0.0]]></title>
-    <description><![CDATA[https://soto.codes]]></description>
-    <link><![CDATA[https://soto.codes/2024/07/v7-release.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soto.codes/2024/07/v7-release.html]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
