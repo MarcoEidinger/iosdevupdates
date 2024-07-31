@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jul 2024 10:08:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jul 2024 12:11:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Troubleshoot Embedded Swift and the Matter Smart Light]]></title>
@@ -109,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-serve-a-local-development-environment-over-https-using-pnpm-and-webpack/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-serve-a-local-development-environment-over-https-using-pnpm-and-webpack/]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #42 : Experience is a Double-Edged Sword]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-042/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-042/]]></guid>
     <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Soto v7.0.0]]></title>
+    <description><![CDATA[https://soto.codes]]></description>
+    <link><![CDATA[https://soto.codes/2024/07/v7-release.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://soto.codes/2024/07/v7-release.html]]></guid>
+    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
