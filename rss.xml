@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Jul 2024 00:19:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Jul 2024 02:11:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Troubleshoot Embedded Swift and the Matter Smart Light]]></title>
+    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
+    <link><![CDATA[https://blog.supereasyapps.com/how-to-troubleshoot-embedded-swift-and-the-matter-smart-light/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/how-to-troubleshoot-embedded-swift-and-the-matter-smart-light/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 102. Binary Tree Level Order Traversal]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_102_binary_tree_level_order_traversal/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_102_binary_tree_level_order_traversal/]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Get Started with Dynamic Type - WWDC24]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/get-started-with-dynamic-type-wwdc24]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/get-started-with-dynamic-type-wwdc24]]></guid>
+    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to add animation to MeshGradient in SwiftUI?]]></title>
@@ -129,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Catch-up on Accessibility in SwiftUI - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/catch-up-on-accessibility-in-swiftui-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/catch-up-on-accessibility-in-swiftui-wwdc24]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ XR World Weekly 022 ]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/newsletter-22]]></link>
@@ -221,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2024/macos_tutorials/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/macos_tutorials/]]></guid>
-    <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Interview - Leetcode 15. 3 Sum]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_15_3sum/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_15_3sum/]]></guid>
     <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Soto v7.0.0]]></title>
-    <description><![CDATA[https://soto.codes]]></description>
-    <link><![CDATA[https://soto.codes/2024/07/v7-release.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soto.codes/2024/07/v7-release.html]]></guid>
-    <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
