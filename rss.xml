@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Aug 2024 16:08:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Aug 2024 18:08:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ploze: Your digital life unlocked]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></guid>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Translating text in your SwiftUI app with the Translation framework]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://buttondown.email/varrall/archive]]></description>
     <link><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://buttondown.email/varrall/archive/whats-new-in-visionos2/]]></guid>
-    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Animatable Content in SwiftUI]]></title>
-    <description><![CDATA[https://silverhammermba.github.io/blog/]]></description>
-    <link><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></link>
-    <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2024/07/09/animatable]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
