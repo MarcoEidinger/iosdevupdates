@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Aug 2024 18:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Aug 2024 20:10:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Stream's Video SDK: Upgrading WWDC Watch Party with Custom Features]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-stream-video-sdk-upgrading-wwdc-watch-party/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-stream-video-sdk-upgrading-wwdc-watch-party/]]></guid>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iStat Menus 7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/01/istat-menus-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/01/istat-menus-7/]]></guid>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ploze: Your digital life unlocked]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/translating-text-in-your-swiftui-app-with-the-translation-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/translating-text-in-your-swiftui-app-with-the-translation-framework/]]></guid>
-    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Xcode: Localizing Text in Swift Packages and SwiftUI]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-xcode-localizing-text-swift-packages-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-xcode-localizing-text-swift-packages-swiftui/]]></guid>
     <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/resourwwdces/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/resourwwdces/]]></guid>
-    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 14.6]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/07/31/macos-14-6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/07/31/macos-14-6/]]></guid>
     <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
