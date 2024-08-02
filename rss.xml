@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Aug 2024 00:21:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Aug 2024 02:22:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Build a great Lock Screen camera capture experience - WWDC24]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-great-lock-screen-camera-capture-experience-wwdc24]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-great-lock-screen-camera-capture-experience-wwdc24]]></guid>
+    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Stream's Video SDK: Upgrading WWDC Watch Party with Custom Features]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_102_binary_tree_level_order_traversal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_102_binary_tree_level_order_traversal/]]></guid>
-    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Get Started with Dynamic Type - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/get-started-with-dynamic-type-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/get-started-with-dynamic-type-wwdc24]]></guid>
     <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
