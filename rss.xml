@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Aug 2024 14:09:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Aug 2024 16:09:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Smart App Banners don't appear in private browsing]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/1.html]]></guid>
+    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using the Translation framework for language-to-language translation]]></title>
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/resourwwdces/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/resourwwdces/]]></guid>
-    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fix Safari Private Window Empty Page]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/7/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/7/2.html]]></guid>
     <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
