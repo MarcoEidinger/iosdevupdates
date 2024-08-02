@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Aug 2024 06:10:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Aug 2024 08:09:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Count the number of objects that pass a test in Swift using count(where:)]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/CountTheNumberOfObjectsThatPassATestInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CountTheNumberOfObjectsThatPassATestInSwift]]></guid>
+    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring OpenAI: Creating a Proxy with AIProxy]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-openai-creating-a-proxy-with-aiproxy/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-openai-creating-a-proxy-with-aiproxy/]]></guid>
+    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Build a great Lock Screen camera capture experience - WWDC24]]></title>
@@ -14,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-great-lock-screen-camera-capture-experience-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-great-lock-screen-camera-capture-experience-wwdc24]]></guid>
     <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Stream's Video SDK: Upgrading WWDC Watch Party with Custom Features]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-stream-video-sdk-upgrading-wwdc-watch-party/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-stream-video-sdk-upgrading-wwdc-watch-party/]]></guid>
-    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -262,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://troz.net/post/2024/macos_tutorials/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/macos_tutorials/]]></guid>
     <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Customizing the appearance of symbol images in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI]]></guid>
-    <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
