@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 03 Aug 2024 02:20:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Aug 2024 04:10:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Santa Teresa, Costa Rica]]></title>
@@ -17,7 +17,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring SwiftUI: ColorPicker Without Label using UIColorWell and NSColorWell]]></title>
+    <title><![CDATA[Exploring SwiftUI: Custom ColorPicker using UIColorWell and NSColorWell]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-colorpicker-without-label-uicolorwell-nscolorwell/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-colorpicker-without-label-uicolorwell-nscolorwell/]]></guid>
