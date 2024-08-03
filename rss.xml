@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 03 Aug 2024 20:08:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Aug 2024 22:08:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[NetNewsWire and Conditional GET Issues]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html]]></guid>
+    <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Embedded Swift Tutorial - Getting Started (Everything you need to know)]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/07/09/uitest-improvements-in-xcode-16/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/07/09/uitest-improvements-in-xcode-16/]]></guid>
-    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Here Are the 3D Movies Available on Vision Pro in Canada, Australia, United Kingdom and Germany.]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/2024/07/here-are-the-3d-movies-available-on-vision-pro-in-canada/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/2024/07/here-are-the-3d-movies-available-on-vision-pro-in-canada/]]></guid>
     <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
