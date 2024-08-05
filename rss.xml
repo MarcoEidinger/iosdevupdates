@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Aug 2024 20:09:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Aug 2024 22:08:58 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Beta for Apple Intelligence in Apple Mail]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review-5/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review-5/]]></guid>
+    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Geeky macOS Setup for Productivity]]></title>
+    <description><![CDATA[https://qstrnd.github.io/]]></description>
+    <link><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></guid>
-    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to get the original user-installed version of your app with Swift]]></title>
-    <description><![CDATA[https://olegdreyman.medium.com]]></description>
-    <link><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-get-the-original-user-installed-version-of-your-app-with-swift-25a687deacd8?source=rss-7872af0bbed1------2]]></guid>
     <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
