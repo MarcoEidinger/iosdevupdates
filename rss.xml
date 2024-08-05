@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Aug 2024 04:09:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Aug 2024 06:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: Living as an Imposter]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-living-as-an-imposter/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-living-as-an-imposter/]]></guid>
+    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 347. Top K Frequent Elements]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/design-great-widgets-wwdc20]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/design-great-widgets-wwdc20]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI: Mixing Colors by Creating a Color Mixing Game]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-mixing-colors-by-creating-color-mixing-game/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-mixing-colors-by-creating-color-mixing-game/]]></guid>
-    <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
