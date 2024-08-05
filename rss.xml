@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Aug 2024 10:08:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Aug 2024 12:10:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting Started with the Improved TabView in iOS 18]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/getting-started-with-the-improved-tabview-in-ios-18-111974b70db9?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/getting-started-with-the-improved-tabview-in-ios-18-111974b70db9?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[EnvironmentKeys in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Pleydia Organizer: The Ultimate Native Mac App for Renaming TV & Movie Files]]></title>
@@ -161,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to Tile Images in SwiftUI]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/how-to-tile-images-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/how-to-tile-images-in-swiftui/]]></guid>
-    <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to add animation to MeshGradient in SwiftUI?]]></title>
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-animation-to-meshgradient-in-swiftui]]></link>
@@ -225,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Create a Custom Side Nav in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/create-a-custom-side-nav-in-swiftui-758f0a1e513d?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-a-custom-side-nav-in-swiftui-758f0a1e513d?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Navigation Patterns In Swiftui]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui]]></link>
@@ -270,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></guid>
     <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Olympic Logo in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/olympic-logo-in-swiftui-dee37cbd53f1?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/olympic-logo-in-swiftui-dee37cbd53f1?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://harshil.net/blog/introducing-peak-for-apple-watch]]></link>
     <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/introducing-peak-for-apple-watch]]></guid>
     <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[UI testing improvements in Xcode 16]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/07/09/uitest-improvements-in-xcode-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/07/09/uitest-improvements-in-xcode-16/]]></guid>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
