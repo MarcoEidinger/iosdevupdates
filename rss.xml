@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Aug 2024 18:10:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Aug 2024 20:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Favorite %$^#&!@ Swift Sites]]></title>
+    <description><![CDATA[https://www.attributedstrings.com/]]></description>
+    <link><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Google Search and Ads Monopoly]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/06/google-search-and-ads-monopoly/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/06/google-search-and-ads-monopoly/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Protocol-Oriented Programming (POP) in Swift]]></title>
@@ -65,18 +81,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Beta for Apple Intelligence in Apple Mail]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/05/beta-for-apple-intelligence-in-apple-mail/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/05/beta-for-apple-intelligence-in-apple-mail/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[macOS by Tutorials Book Review]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review-5/]]></guid>
+    <link><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdevjournal.com/macos-by-tutorials-book-review/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></guid>
     <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using the .task view modifier]]></title>
-    <description><![CDATA[https://www.attributedstrings.com/]]></description>
-    <link><![CDATA[https://www.attributedstrings.com/using-the-task-view-modifier/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/using-the-task-view-modifier/]]></guid>
-    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
