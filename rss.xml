@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Aug 2024 08:09:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Aug 2024 10:08:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Working with Color Rendering Modes of ImageRenderer]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-working-with-imagerenderer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-working-with-imagerenderer/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[App design: 5 benefits of using system components]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/RenderingQuadraticBezierCurvesWithMetal]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/RenderingQuadraticBezierCurvesWithMetal]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Living as an Imposter]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-living-as-an-imposter/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-living-as-an-imposter/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
