@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Aug 2024 12:10:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Aug 2024 14:09:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Eki Bright - Developing the App for iOS]]></title>
+    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
+    <link><![CDATA[https://twocentstudios.com/2024/08/06/eki-bright-developing-the-app-for-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2024/08/06/eki-bright-developing-the-app-for-ios/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Detecting the contour of the edges of an image with the Vision framework]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/detecting-the-contour-of-the-edges-of-an-image-with-the-vision-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-the-contour-of-the-edges-of-an-image-with-the-vision-framework/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Working with Color Rendering Modes of ImageRenderer]]></title>
@@ -21,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/]]></guid>
+    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making Mistakes with Swift Concurrency]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/mistakes-with-concurrency]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/mistakes-with-concurrency]]></guid>
     <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -193,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using the Translation framework for language-to-language translation]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/using-the-translation-framework-for-language-to-language-translation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-the-translation-framework-for-language-to-language-translation/]]></guid>
-    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Never mind]]></title>
     <description><![CDATA[https://charliemchapman.com/]]></description>
     <link><![CDATA[https://charliemchapman.com/posts/2024/8/2/nevermind]]></link>
@@ -237,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-animation-to-meshgradient-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-animation-to-meshgradient-in-swiftui]]></guid>
-    <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Non-Sendable types are cool too you know]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/non-sendable]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/non-sendable]]></guid>
     <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></guid>
     <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stay Connected: Mastering iOS Communication Notifications]]></title>
-    <description><![CDATA[https://arturgruchala.com/]]></description>
-    <link><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/stay-connected-mastering-ios-notifications-for-seamless-communication/]]></guid>
-    <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
