@@ -6,21 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Aug 2024 14:08:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Aug 2024 16:09:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Detecting and Controlling Bottom Sheet Position]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-detecting-and-controlling-bottom-sheet-position/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-detecting-and-controlling-bottom-sheet-position/]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Nested Grid Layout Anomaly: Analysis Approach and Resolution Strategies for SwiftUI Layout Issues]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/analysis-approach-and-resolution-strategies-for-swiftui-layout-issues/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/analysis-approach-and-resolution-strategies-for-swiftui-layout-issues/]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Senior Developers Fix Problems]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/how-senior-developers-fix-problems/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-senior-developers-fix-problems/]]></guid>
-    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI: Creating a BottomSheet]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-bottomsheet/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-bottomsheet/]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaredsinclair.com/]]></description>
     <link><![CDATA[https://jaredsinclair.com/2024/07/12/bookmark-search-queries]]></link>
     <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/07/12/bookmark-search-queries]]></guid>
-    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pitfalls of `lazy var`]]></title>
-    <description><![CDATA[https://medium.com/swiftblade]]></description>
-    <link><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></guid>
     <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
