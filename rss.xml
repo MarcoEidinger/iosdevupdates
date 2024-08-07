@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Aug 2024 00:23:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Aug 2024 02:22:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to automatically detect memory leaks on CI/CD using UI tests]]></title>
     <description><![CDATA[https://www.polpiella.dev]]></description>
     <link><![CDATA[https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Principles of Great Widgets - WWDC21]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/principles-of-great-widgets-wwdc21]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/principles-of-great-widgets-wwdc21]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_347_top_k_frequent_elements/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_347_top_k_frequent_elements/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Design Great Widgets - WWDC20]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/design-great-widgets-wwdc20]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/design-great-widgets-wwdc20]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
