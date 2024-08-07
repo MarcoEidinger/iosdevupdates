@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Aug 2024 10:08:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Aug 2024 12:11:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Creating a BottomSheet]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-bottomsheet/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-bottomsheet/]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Solving “Capture of non-sendable type in @Sendable closure” in Swift]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/solving-capture-of-non-sendable-type-in-sendable-closure-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-capture-of-non-sendable-type-in-sendable-closure-in-swift/]]></guid>
-    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI: Custom ColorPicker using NSColorWell]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-colorpicker-without-label-uicolorwell-nscolorwell/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-colorpicker-without-label-uicolorwell-nscolorwell/]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://qstrnd.github.io/]]></description>
     <link><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></link>
     <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #43 : Archiving and Awakening Memories]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-043/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-043/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaredsinclair.com/]]></description>
     <link><![CDATA[https://jaredsinclair.com/2024/07/12/bookmark-search-queries]]></link>
     <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/07/12/bookmark-search-queries]]></guid>
+    <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pitfalls of `lazy var`]]></title>
+    <description><![CDATA[https://medium.com/swiftblade]]></description>
+    <link><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/swiftblade/pitfalls-of-lazy-var-f6970ddcb047?source=rss----d496aaac9309---4]]></guid>
     <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
