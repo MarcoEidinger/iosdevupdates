@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 09 Aug 2024 12:11:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Aug 2024 14:08:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Create with Swift at SwiftConf]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/create-with-swift-at-swiftconf/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/create-with-swift-at-swiftconf/]]></guid>
+    <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Truncating Text In SwiftUI]]></title>
@@ -57,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Classifying an image content with the Vision framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/classifying-an-image-content-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/classifying-an-image-content-with-the-vision-framework/]]></guid>
-    <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Reminder: Conditional Breakpoints are Slow]]></title>
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2024/08/08/conditional-breakpoints/]]></link>
@@ -78,6 +78,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/08/end-of-an-era/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/08/end-of-an-era/]]></guid>
     <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making mistakes while learning Swift]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://qualitycoding.org/mastering-tdd-techniques-ios-practical-insights/]]></link>
     <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/mastering-tdd-techniques-ios-practical-insights/]]></guid>
     <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Boost Your Coding Efficiency with Continue.dev]]></title>
-    <description><![CDATA[https://medium.com/@paritoshraval100]]></description>
-    <link><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.devgenius.io/boost-your-coding-efficiency-with-continue-dev-159e079c0f09?source=rss-4c5fcfd4c5c4------2]]></guid>
-    <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
