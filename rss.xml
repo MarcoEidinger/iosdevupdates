@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 11 Aug 2024 10:08:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Aug 2024 12:10:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Migrating KeyboardKit to Swift 6 language mode]]></title>
+    <description><![CDATA[https://douglashill.co]]></description>
+    <link><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></guid>
+    <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Indie Life: Learning New APIs from WWDC 2024]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kean.blog/post/swift-6]]></link>
     <guid isPermaLink="true"><![CDATA[https://kean.blog/post/swift-6]]></guid>
     <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ten years of Overcast: A new foundation]]></title>
-    <description><![CDATA[https://marco.org/]]></description>
-    <link><![CDATA[https://marco.org/2024/07/16/overcast-rewrite]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marco.org/2024/07/16/overcast-rewrite]]></guid>
-    <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
