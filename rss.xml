@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Aug 2024 12:12:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Aug 2024 14:09:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #44 : It's Time for a Summer Break]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-044/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-044/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Solving “Converting non-sendable function value may introduce data races” in Swift]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/solving-converting-non-sendable-function-value-may-introduce-data-races-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-converting-non-sendable-function-value-may-introduce-data-races-in-swift/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Key Lessons When Moving Towards a Modular Codebase]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring WidgetKit: Creating Your First Control Widget in iOS 18 and SwiftUI]]></title>
@@ -29,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/entry-macro-for-custom-swiftui-environment-values/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/entry-macro-for-custom-swiftui-environment-values/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What are Optionals in Swift?]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/what-are-optionals-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-are-optionals-in-swift/]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></guid>
-    <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6]]></title>
-    <description><![CDATA[https://kean.blog/]]></description>
-    <link><![CDATA[https://kean.blog/post/swift-6]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/swift-6]]></guid>
     <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
