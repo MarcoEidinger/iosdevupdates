@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Aug 2024 08:10:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Aug 2024 10:09:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: Checklist for iOS 18 App Release]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-checklist-for-ios-18-app-release/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-checklist-for-ios-18-app-release/]]></guid>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[@Entry macro: Creating custom environment values in SwiftUI]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring WidgetKit: Creating Your First Control Widget in iOS 18 and SwiftUI]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-widgetkit-first-control-widget-ios-18-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-widgetkit-first-control-widget-ios-18-swiftui/]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,6 +173,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Senior Developers Fix Problems]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-senior-developers-fix-problems/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-senior-developers-fix-problems/]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></guid>
-    <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6]]></title>
-    <description><![CDATA[https://kean.blog/]]></description>
-    <link><![CDATA[https://kean.blog/post/swift-6]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/swift-6]]></guid>
     <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
