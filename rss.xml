@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Aug 2024 12:11:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Aug 2024 14:08:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Indie Life: Checklist for iOS 18 App Release]]></title>
@@ -17,10 +17,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The (too?) complex state of emojis]]></title>
+    <title><![CDATA[The (too?) complex state of the Emoji standard in 2024]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-complex-state-of-emojis]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-complex-state-of-emojis]]></guid>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-too-complex-state-of-the-emoji-standard-in-2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-too-complex-state-of-the-emoji-standard-in-2024]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -174,6 +174,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/08/end-of-an-era/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/08/end-of-an-era/]]></guid>
     <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making mistakes while learning Swift]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/the-swift-cooperative/a-tale-of-two-error-types-in-swift-e157f272bbd1?source=rss-c3e9dcf69985------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/a-tale-of-two-error-types-in-swift-e157f272bbd1?source=rss-c3e9dcf69985------2]]></guid>
     <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Some vs Any]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></guid>
-    <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
