@@ -6,13 +6,45 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Aug 2024 18:10:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Aug 2024 20:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iDOS 3 in the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/13/idos-3-in-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/13/idos-3-in-the-app-store/]]></guid>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS firewall slows DNS queries]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/6.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/6.html]]></guid>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[@Entry macro: Creating custom environment values in SwiftUI]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/entry-macro-custom-environment-values/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/entry-macro-custom-environment-values/]]></guid>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Removing image background using the Vision framework]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/removing-image-background-using-the-vision-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/removing-image-background-using-the-vision-framework/]]></guid>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 229 - Joy]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/97db25c3c86d/229-joy]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/97db25c3c86d/229-joy]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -33,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[@Entry macro: Creating custom environment values in SwiftUI]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/entry-macro-custom-environment-values/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/entry-macro-custom-environment-values/]]></guid>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tracking geometry changes in SwiftUI]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui]]></link>
@@ -53,22 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Going After Patreon]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/12/apple-going-after-patreon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/12/apple-going-after-patreon/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I git push from my laptop to my website]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/5.html]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -142,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></guid>
     <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 72 - The Same]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/072TheSame.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/072TheSame.html]]></guid>
-    <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
