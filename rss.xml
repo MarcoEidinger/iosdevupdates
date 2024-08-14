@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Aug 2024 16:10:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2024 18:09:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Managing the Home Screen Using iPhone Mirroring]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/14/managing-the-home-screen-using-iphone-mirroring/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/14/managing-the-home-screen-using-iphone-mirroring/]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Animating Mesh Gradient with Colors in iOS 18]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></guid>
     <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iDOS 3 in the App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/13/idos-3-in-the-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/13/idos-3-in-the-app-store/]]></guid>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
