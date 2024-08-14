@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Aug 2024 12:12:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2024 14:10:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Considerations for Using Codable and Enums in SwiftData Models]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/considerations-for-using-codable-and-enums-in-swiftdata-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/considerations-for-using-codable-and-enums-in-swiftdata-models/]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to use React Query useQuery with debounce]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-use-react-query-usequery-with-debounce/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-react-query-usequery-with-debounce/]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Concurrency Step-by-Step: A Network Request]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/step-by-step]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/step-by-step]]></guid>
     <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://khawerkhaliq.com]]></description>
     <link><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></guid>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making Mistakes with Swift Concurrency]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/mistakes-with-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/mistakes-with-concurrency]]></guid>
     <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/the-swift-cooperative/a-tale-of-two-error-types-in-swift-e157f272bbd1?source=rss-c3e9dcf69985------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/the-swift-cooperative/a-tale-of-two-error-types-in-swift-e157f272bbd1?source=rss-c3e9dcf69985------2]]></guid>
     <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Some vs Any]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/some-vs-any/]]></guid>
-    <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
