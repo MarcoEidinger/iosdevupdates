@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Aug 2024 08:09:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2024 10:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to use React Query useQuery with debounce]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-use-react-query-usequery-with-debounce/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-react-query-usequery-with-debounce/]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Extend Your App’s Controls Across the System - WWDC24]]></title>
@@ -381,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2024/07/29/new-post]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2024/07/29/new-post]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to serve a local development environment over https using pnpm and webpack]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[https://onmyway133.com/posts/how-to-serve-a-local-development-environment-over-https-using-pnpm-and-webpack/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-serve-a-local-development-environment-over-https-using-pnpm-and-webpack/]]></guid>
     <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
