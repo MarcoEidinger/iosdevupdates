@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Aug 2024 00:22:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2024 02:22:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Extend Your App’s Controls Across the System - WWDC24]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iDOS 3 in the App Store]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://xcode.tips]]></description>
     <link><![CDATA[https://xcode.tips/bookmark-search]]></link>
     <guid isPermaLink="true"><![CDATA[https://xcode.tips/bookmark-search]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build Multilingual Ready Apps - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-multilingual-ready-apps-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-multilingual-ready-apps-wwdc24]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
