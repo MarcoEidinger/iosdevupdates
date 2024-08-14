@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Aug 2024 14:10:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2024 16:10:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Animating Mesh Gradient with Colors in iOS 18]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-animating-mesh-gradient-with-colors-in-ios-18/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-animating-mesh-gradient-with-colors-in-ios-18/]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Considerations for Using Codable and Enums in SwiftData Models]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/97db25c3c86d/229-joy]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/97db25c3c86d/229-joy]]></guid>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Checklist for iOS 18 App Release]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-checklist-for-ios-18-app-release/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-checklist-for-ios-18-app-release/]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
