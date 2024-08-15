@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 Aug 2024 12:12:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Aug 2024 14:08:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Indie Diary #8 — Giving watchOS the love it deserves]]></title>
+    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
+    <link><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></guid>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Solving “reference to var myVariable is not concurrency-safe because it involves shared mutable state” in Swift]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://digitalbunker.dev/debug-description-macro-xcode-16/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/debug-description-macro-xcode-16/]]></guid>
     <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Caldera: a sleek split and wireless keyboard]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/07/caldera-keyboard/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/07/caldera-keyboard/]]></guid>
-    <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
