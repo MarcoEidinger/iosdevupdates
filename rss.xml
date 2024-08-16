@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 16 Aug 2024 00:22:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Aug 2024 02:24:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What’s New in SwiftUI - WWDC24]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/what-s-new-in-swiftui-wwdc24]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/what-s-new-in-swiftui-wwdc24]]></guid>
+    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI in 2024: Bridging Perception and Reality]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jeffverkoeyen.com/]]></description>
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/14/hogmobile/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/14/hogmobile/]]></guid>
-    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Extend Your App’s Controls Across the System - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/extend-your-app-s-controls-across-the-system-wwdc24]]></guid>
     <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
