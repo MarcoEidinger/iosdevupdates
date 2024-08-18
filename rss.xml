@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 Aug 2024 00:23:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Aug 2024 02:24:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Epic Games Store for iOS in the EU]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/17/epic-games-store-for-ios-in-the-eu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/17/epic-games-store-for-ios-in-the-eu/]]></guid>
+    <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Scroll Transitions in ScrollView]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-scroll-transitions-scrollview/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-scroll-transitions-scrollview/]]></guid>
+    <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Everything you never thought you wanted to know about emoji flags]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/17/Emoji-Flags/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/17/Emoji-Flags/]]></guid>
     <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -41,14 +57,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Subtitle Shenanigans in SwiftUI’s `Menu`]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/16/SwiftUI-Menu-subtitle-shenanigans/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/16/SwiftUI-Menu-subtitle-shenanigans/]]></guid>
-    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What’s New in SwiftUI - WWDC24]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/what-s-new-in-swiftui-wwdc24]]></link>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2024/08/15/swiftui-in-2024-bridging-perception-and-reality]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2024/08/15/swiftui-in-2024-bridging-perception-and-reality]]></guid>
-    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Epic Games Pays AltStore PAL’s CTF]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/15/epic-games-pays-altstore-pals-ctf/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/15/epic-games-pays-altstore-pals-ctf/]]></guid>
     <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
