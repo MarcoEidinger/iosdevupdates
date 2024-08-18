@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 Aug 2024 18:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Aug 2024 20:08:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Epic Games Store for iOS in the EU]]></title>
@@ -217,6 +217,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Project Management Flow for Indies]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/How-I-Mangae-Indie-App-Project-Management]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/How-I-Mangae-Indie-App-Project-Management]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[ XR World Weekly #024 ]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/newsleter-24]]></link>
@@ -421,14 +429,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accessibility Setting Nuggets from iOS 18]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Accessibility-Settings-Additions-in-iOS-18-in-SwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Accessibility-Settings-Additions-in-iOS-18-in-SwiftUI]]></guid>
     <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
