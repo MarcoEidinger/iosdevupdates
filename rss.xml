@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Aug 2024 18:10:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Aug 2024 20:09:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[JSON Parsing in Swift explained with code examples]]></title>
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/koin-4-0-should-you-use-migrate-to-koin-framework-q-a-865d2c11ad1e?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/koin-4-0-should-you-use-migrate-to-koin-framework-q-a-865d2c11ad1e?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to call async/await functions concurrently in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-call-async-await-functions-concurrently]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-call-async-await-functions-concurrently]]></guid>
     <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -374,14 +382,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/leetcode_347_top_k_frequent_elements/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_347_top_k_frequent_elements/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Get started with Swift Package Manager for iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/spm-overview]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/spm-overview]]></guid>
-    <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
