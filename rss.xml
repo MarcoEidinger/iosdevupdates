@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Aug 2024 02:24:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Aug 2024 04:10:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Elevate Your Tab and Sidebar Experience in iPadOS - WWDC24]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/08/17/epic-games-store-for-ios-in-the-eu/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/17/epic-games-store-for-ios-in-the-eu/]]></guid>
+    <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Global Sheets Pattern Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></guid>
     <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2024/07/29/new-post]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2024/07/29/new-post]]></guid>
-    <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Navigation Patterns In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui]]></guid>
     <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
