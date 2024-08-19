@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Aug 2024 08:10:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Aug 2024 10:10:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Creating a Playful Onboarding Screen]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-playful-onboarding-screen/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-playful-onboarding-screen/]]></guid>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Control Center Accessibility (iOS18)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/controll-center-a11y-ios-18/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/controll-center-a11y-ios-18/]]></guid>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ XR World Weekly #025 ]]></title>
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/koin-4-0-should-you-use-migrate-to-koin-framework-q-a-865d2c11ad1e?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/koin-4-0-should-you-use-migrate-to-koin-framework-q-a-865d2c11ad1e?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Improving App with UX Writing]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-ux-writing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-ux-writing/]]></guid>
     <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2024/073YesAnd.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/073YesAnd.html]]></guid>
-    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Disability & Innovation (intro)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/disability-innovation-intro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/disability-innovation-intro/]]></guid>
     <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
