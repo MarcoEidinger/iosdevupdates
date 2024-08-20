@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Aug 2024 10:10:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Aug 2024 12:11:16 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Roblox: the Biggest Game in the World]]></title>
@@ -165,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/thoughts-on-the-modern-ios-development-2024-revision-64c4711c2022?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/thoughts-on-the-modern-ios-development-2024-revision-64c4711c2022?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Considerations for Using Codable and Enums in SwiftData Models]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/considerations-for-using-codable-and-enums-in-swiftdata-models/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/considerations-for-using-codable-and-enums-in-swiftdata-models/]]></guid>
     <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></guid>
     <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Confused by appintentsmetadataprocessor errors in Xcode 16?]]></title>
+    <description><![CDATA[https://marcpalmer.net/category/ios/]]></description>
+    <link><![CDATA[https://marcpalmer.net/changes-in-app-intents-pre-processing-causing-confusing-errors-in-xcode-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://marcpalmer.net/changes-in-app-intents-pre-processing-causing-confusing-errors-in-xcode-16/]]></guid>
+    <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
