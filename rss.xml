@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Aug 2024 18:09:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Aug 2024 20:09:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: Creating a Public To-Do List/Roadmap]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-public-to-do-list-roadmap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-public-to-do-list-roadmap/]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[EagleFiler 1.9.15]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/20/eaglefiler-1-9-15/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/20/eaglefiler-1-9-15/]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Shareshot’s Launch Week]]></title>
@@ -57,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Roblox: the Biggest Game in the World]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/19/roblox-the-biggest-game-in-the-world/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/19/roblox-the-biggest-game-in-the-world/]]></guid>
-    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[JSON Parsing in Swift explained with code examples]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/json-parsing-decoding/]]></link>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></guid>
-    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring SwiftUI: Creating a Playful Onboarding Screen]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-playful-onboarding-screen/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-playful-onboarding-screen/]]></guid>
     <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
