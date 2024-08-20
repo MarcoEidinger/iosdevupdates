@@ -6,13 +6,45 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Aug 2024 14:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Aug 2024 16:09:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 230 - Eight]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/208e93fd08d2/230-eight]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/208e93fd08d2/230-eight]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting Hi-Res Album Artwork in Apple Shortcuts]]></title>
+    <description><![CDATA[https://bendodson.com/weblog/]]></description>
+    <link><![CDATA[https://bendodson.com/weblog/2024/08/20/hi-res-album-artwork-in-apple-shortcuts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bendodson.com/weblog/2024/08/20/hi-res-album-artwork-in-apple-shortcuts/]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #45 : We Need More "Wukong"]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-045/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-045/]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Quickly move between changes in a file in Xcode with this keyboard shortcut]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/keyboard-shortcut-next-change]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/keyboard-shortcut-next-change]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Typed throws in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift]]></guid>
     <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -102,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/17/Emoji-Flags/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/17/Emoji-Flags/]]></guid>
     <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 73 - Yes and]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/073YesAnd.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/073YesAnd.html]]></guid>
-    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -213,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-too-complex-state-of-the-emoji-standard-in-2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/08/13/the-too-complex-state-of-the-emoji-standard-in-2024]]></guid>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tracking geometry changes in SwiftUI]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/how-to-do-ui-tests-in-swiftui-5d16b5ade080?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/how-to-do-ui-tests-in-swiftui-5d16b5ade080?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Expanding my new app experiment]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/football-quiz]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/football-quiz]]></guid>
-    <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My iOS Interviews Preparation]]></title>
-    <description><![CDATA[https://www.ludafux.com/]]></description>
-    <link><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ludafux.com/post/my-ios-interviews-preparation]]></guid>
-    <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
