@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Aug 2024 18:10:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Aug 2024 20:10:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Monument Valley 3 in Netflix Games]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/21/monument-valley-3-in-netflix-games/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/21/monument-valley-3-in-netflix-games/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode 16 Buildable Folders Break Xcode 15 Backwards Compatibility]]></title>
+    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
+    <link><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Entity.write(to:)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/entity-write-to/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/entity-write-to/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Setting the Swift Language mode for an SPM Package]]></title>
@@ -62,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/work-with-windows-in-swiftui-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/work-with-windows-in-swiftui-wwdc24]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[EagleFiler 1.9.15]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/20/eaglefiler-1-9-15/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/20/eaglefiler-1-9-15/]]></guid>
-    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -133,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></guid>
-    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Control Center Accessibility (iOS18)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/controll-center-a11y-ios-18/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/controll-center-a11y-ios-18/]]></guid>
     <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html]]></guid>
-    <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Embedded Swift Tutorial - Getting Started (Everything you need to know)]]></title>
-    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
-    <link><![CDATA[https://blog.supereasyapps.com/embedded-swift-tutorial-getting-started-everything-you-need-to-know/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/embedded-swift-tutorial-getting-started-everything-you-need-to-know/]]></guid>
     <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
