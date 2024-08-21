@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Aug 2024 16:09:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Aug 2024 18:10:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Setting the Swift Language mode for an SPM Package]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring Indie Life: Reducing Friction by Analytics]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-analytics/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-analytics/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Humans write code, and humans make mistakes.]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Solving “Task-isolated value of type ‘() async -> Void’ passed as a strongly transferred parameter”]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/solving-task-isolated-value-of-type-async-void-passed-as-a-strongly-transferred-parameter/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-task-isolated-value-of-type-async-void-passed-as-a-strongly-transferred-parameter/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -54,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/work-with-windows-in-swiftui-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/work-with-windows-in-swiftui-wwdc24]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Creating a Public To-Do List/Roadmap]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-public-to-do-list-roadmap/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-public-to-do-list-roadmap/]]></guid>
-    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
