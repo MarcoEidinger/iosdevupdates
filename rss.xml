@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Aug 2024 08:10:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Aug 2024 10:10:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Solving “Task-isolated value of type ‘() async -> Void’ passed as a strongly transferred parameter”]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/solving-task-isolated-value-of-type-async-void-passed-as-a-strongly-transferred-parameter/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-task-isolated-value-of-type-async-void-passed-as-a-strongly-transferred-parameter/]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Copyable in Swift]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/copyable-in-swift-5197f809ba8a?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/copyable-in-swift-5197f809ba8a?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Work with Windows in SwiftUI - WWDC24]]></title>
@@ -165,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></guid>
-    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Solving “reference to var myVariable is not concurrency-safe because it involves shared mutable state” in Swift]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/solving-reference-to-var-myvariable-is-not-concurrency-safe-because-it-involves-shared-mutable-state-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-reference-to-var-myvariable-is-not-concurrency-safe-because-it-involves-shared-mutable-state-in-swift/]]></guid>
     <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></guid>
     <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to add animation to MeshGradient in SwiftUI?]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-animation-to-meshgradient-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-animation-to-meshgradient-in-swiftui]]></guid>
-    <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
