@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Aug 2024 04:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Aug 2024 06:10:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Programming 40 Hours a Week? Why That’s Not Enough for Success]]></title>
@@ -193,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Switched: From QA to Senior iOS Developer]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/how-i-switched-from-qa-to-senior-ios-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-i-switched-from-qa-to-senior-ios-developer/]]></guid>
-    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI in 2024: Bridging Perception and Reality]]></title>
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2024/08/15/swiftui-in-2024-bridging-perception-and-reality]]></link>
@@ -361,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Making mistakes while learning Swift]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></guid>
-    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to automatically manage, monitor &amp; rollout new machine learning models across your iOS app user base]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></link>
@@ -470,6 +454,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Never mind]]></title>
+    <description><![CDATA[https://charliemchapman.com/]]></description>
+    <link><![CDATA[https://charliemchapman.com/posts/2024/8/2/nevermind]]></link>
+    <guid isPermaLink="true"><![CDATA[https://charliemchapman.com/posts/2024/8/2/nevermind]]></guid>
+    <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ploze: Your digital life unlocked]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/08/01/ploze:-your-digital-life-unlocked]]></guid>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
