@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Aug 2024 18:09:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Aug 2024 20:11:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Creating New Siri Animation]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-new-siri-animation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-new-siri-animation/]]></guid>
+    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS 18: Browser Choice and Default App Controls in EU]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/22/ios-18-browser-choice-and-default-app-controls-in-eu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/22/ios-18-browser-choice-and-default-app-controls-in-eu/]]></guid>
+    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI for Mac 2024]]></title>
@@ -17,18 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to use EditorConfig files in Xcode]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/xcode-editor-config/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/xcode-editor-config/]]></guid>
+    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Programming 40 Hours a Week? Why That’s Not Enough for Success]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/programming-40-hours-a-week-heres-why-that-s-not-enough-for-success-dcb497390d9b?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/programming-40-hours-a-week-heres-why-that-s-not-enough-for-success-dcb497390d9b?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Monument Valley 3 in Netflix Games]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/21/monument-valley-3-in-netflix-games/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/21/monument-valley-3-in-netflix-games/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Reducing Friction by Analytics]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-analytics/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-by-analytics/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/RecursiveEnumsInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/RecursiveEnumsInSwift]]></guid>
-    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Developer guide to Swift AWS Lambdas]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/developer-guide-to-swift-aws-lambdas/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/developer-guide-to-swift-aws-lambdas/]]></guid>
     <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
