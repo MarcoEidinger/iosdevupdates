@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Aug 2024 08:10:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Aug 2024 10:09:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Solving “Value of non-Sendable type accessed after being transferred; later accesses could race;”]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/solving-value-of-non-sendable-type-accessed-after-being-transferred-later-accesses-could-race/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-value-of-non-sendable-type-accessed-after-being-transferred-later-accesses-could-race/]]></guid>
+    <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to run tests repeatedly in Xcode]]></title>
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/entity-write-to/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/entity-write-to/]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Setting the Swift Language mode for an SPM Package]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
