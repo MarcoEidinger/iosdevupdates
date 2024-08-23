@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Aug 2024 16:09:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Aug 2024 18:09:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Receiving RSS Feeds in E-mail]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/23/receiving-rss-feeds-in-e-mail/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/23/receiving-rss-feeds-in-e-mail/]]></guid>
+    <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 74 - Guardians]]></title>
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-new-siri-animation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-new-siri-animation/]]></guid>
-    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS 18: Browser Choice and Default App Controls in EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/22/ios-18-browser-choice-and-default-app-controls-in-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/22/ios-18-browser-choice-and-default-app-controls-in-eu/]]></guid>
     <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
