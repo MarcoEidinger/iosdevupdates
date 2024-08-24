@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 24 Aug 2024 14:09:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Aug 2024 16:08:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why I Chose FreemiumKit Over RevenueCat for My Diabetes Management App]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></guid>
+    <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Metal: Creating Parameterised Noise Effect]]></title>
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Pleydia Organizer: The Ultimate Native Mac App for Renaming TV & Movie Files]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/introducing-pleydia-organizer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/introducing-pleydia-organizer/]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
