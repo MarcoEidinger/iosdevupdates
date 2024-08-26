@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 25 Aug 2024 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Aug 2024 00:23:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ XR 世界导览 #026 ]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/zh/posts/newsletter-26]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/zh/posts/newsletter-26]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Indie Life: Participating in RevenueCat's Ship-a-ton Challenge]]></title>
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/]]></guid>
-    <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ XR World Weekly #025 ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/newsletter-25]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-25]]></guid>
     <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
