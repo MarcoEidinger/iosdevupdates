@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Aug 2024 20:09:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Aug 2024 22:09:24 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Indie Life: Reducing Friction with Cursor]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-with-cursor/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-with-cursor/]]></guid>
+    <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Send data Between iOS Apps and Extensions Using Darwin Notifications]]></title>
+    <description><![CDATA[https://ohmyswift.com/blog/]]></description>
+    <link><![CDATA[https://ohmyswift.com/blog/2024/08/27/send-data-between-ios-apps-and-extensions-using-darwin-notifications]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2024/08/27/send-data-between-ios-apps-and-extensions-using-darwin-notifications]]></guid>
     <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
