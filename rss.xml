@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Aug 2024 04:11:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Aug 2024 06:11:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Telegram Founder Arrested]]></title>
@@ -57,14 +57,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dark Augmented Code theme for Xcode]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Fatbobman's Swift Weekly #46 : Warning-Free Compilation is Not the Ultimate Goal of Swift 6]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-046/]]></link>
@@ -93,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/posts/newsletter-26]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-26]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ticci Tabs]]></title>
+    <description><![CDATA[https://www.thermalcorner.net]]></description>
+    <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -361,6 +361,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Cancellable withObservationTracking in Swift]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Key Lessons When Moving Towards a Modular Codebase]]></title>
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[EnvironmentKeys in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/environmentkeys-in-swiftui-2474c2f4cab3?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
