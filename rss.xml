@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Aug 2024 18:10:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Aug 2024 20:10:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Updating Apple Developer Credit Card on File]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/28/updating-apple-developer-credit-card-on-file/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/28/updating-apple-developer-credit-card-on-file/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring WidgetKit: Creating Configurable Control Widgets in iOS 18 and SwiftUI]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-widgetkit-configurable-control-widgets-ios-18-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-widgetkit-configurable-control-widgets-ios-18-swiftui/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Voluntary Product Accessibility Templates]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://opticalaberration.com]]></description>
     <link><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Migrating KeyboardKit to Swift 6 Language Mode]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/27/migrating-keyboardkit-to-swift-6-language-mode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/27/migrating-keyboardkit-to-swift-6-language-mode/]]></guid>
     <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -54,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24]]></guid>
     <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Indie Life: Reducing Friction with Cursor]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-with-cursor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-indie-life-reducing-friction-with-cursor/]]></guid>
-    <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -289,6 +289,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Marking Swift Properties Available by iOS Version]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Mark-Swift-Properties-by-iOS-version]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Mark-Swift-Properties-by-iOS-version]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Shareshot’s Launch Week]]></title>
     <description><![CDATA[https://marcpalmer.net/category/ios/]]></description>
     <link><![CDATA[https://marcpalmer.net/shareshots-launch-week/]]></link>
@@ -405,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://xcode.tips]]></description>
     <link><![CDATA[https://xcode.tips/bookmark-search]]></link>
     <guid isPermaLink="true"><![CDATA[https://xcode.tips/bookmark-search]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Project Management Flow for Indies]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/How-I-Mangae-Indie-App-Project-Management]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/How-I-Mangae-Indie-App-Project-Management]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
