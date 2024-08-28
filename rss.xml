@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Aug 2024 12:12:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Aug 2024 14:08:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Voluntary Product Accessibility Templates]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/voluntary-product-accessibility-templates/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/voluntary-product-accessibility-templates/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The complexity of writing responses]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.supereasyapps.com/]]></description>
     <link><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Entity.write(to:)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/entity-write-to/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/entity-write-to/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
