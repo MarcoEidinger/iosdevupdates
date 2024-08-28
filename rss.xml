@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Aug 2024 10:09:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Aug 2024 12:12:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The complexity of writing responses]]></title>
+    <description><![CDATA[https://opticalaberration.com]]></description>
+    <link><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Migrating KeyboardKit to Swift 6 Language Mode]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/08/27/migrating-keyboardkit-to-swift-6-language-mode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/27/migrating-keyboardkit-to-swift-6-language-mode/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Repaired My iPhone Screen, but Now My Social Media Account Is Banned]]></title>
+    <description><![CDATA[https://www.finnvoorhees.com/]]></description>
+    <link><![CDATA[https://finnvoorhees.com/words/banned-iphone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://finnvoorhees.com/words/banned-iphone/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to make ZStack content fully scrollable in a SwiftUI ScrollView]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/scrollable-zstack/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/scrollable-zstack/]]></guid>
     <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2024/swiftui-mac-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/swiftui-mac-2024/]]></guid>
-    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use EditorConfig files in Xcode]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/xcode-editor-config/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/xcode-editor-config/]]></guid>
     <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></guid>
     <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Geeky macOS Setup for Productivity]]></title>
-    <description><![CDATA[https://qstrnd.github.io/]]></description>
-    <link><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Custom SwiftUI View supporting Text, LocalizedStringKey and String]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
