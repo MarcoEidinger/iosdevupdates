@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Aug 2024 12:12:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Aug 2024 14:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Top 3 Productivity Tips From the Book: Deep Work]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/top-3-productivity-tips-from-the-book-deep-work-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/top-3-productivity-tips-from-the-book-deep-work-2/]]></guid>
+    <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Working with UDP in SwiftNIO ]]></title>
+    <description><![CDATA[https://swiftonserver.com/]]></description>
+    <link><![CDATA[https://swiftonserver.com/working-with-udp-in-swiftnio/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/working-with-udp-in-swiftnio/]]></guid>
+    <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Updating Apple Developer Credit Card on File]]></title>
@@ -21,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-widgetkit-configurable-control-widgets-ios-18-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-widgetkit-configurable-control-widgets-ios-18-swiftui/]]></guid>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pulse is on the App Store]]></title>
+    <description><![CDATA[https://kean.blog/]]></description>
+    <link><![CDATA[https://kean.blog/post/pulse-app-store]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/pulse-app-store]]></guid>
     <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Switched: From QA to Senior iOS Developer]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/how-i-switched-from-qa-to-senior-ios-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-i-switched-from-qa-to-senior-ios-developer/]]></guid>
-    <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Indie Diary #8 — Giving watchOS the love it deserves]]></title>
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Favorite %$^#&!@ Swift Sites]]></title>
-    <description><![CDATA[https://www.attributedstrings.com/]]></description>
-    <link><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></guid>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Protocol-Oriented Programming (POP) in Swift]]></title>
-    <description><![CDATA[https://khawerkhaliq.com]]></description>
-    <link><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></guid>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
