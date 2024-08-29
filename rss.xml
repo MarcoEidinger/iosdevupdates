@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Aug 2024 22:08:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Aug 2024 00:22:32 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Updating Apple Developer Credit Card on File]]></title>
@@ -141,6 +141,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khawerkhaliq.com/blog/swift-protocol-oriented-programming/]]></guid>
     <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Geeky macOS Setup for Productivity]]></title>
-    <description><![CDATA[https://qstrnd.github.io/]]></description>
-    <link><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/]]></guid>
-    <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
