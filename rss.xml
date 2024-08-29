@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Aug 2024 18:09:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Aug 2024 20:09:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[EditorConfig Files in Xcode]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/08/29/editorconfig-files-in-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/29/editorconfig-files-in-xcode/]]></guid>
+    <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Scoring the aesthetics of an image with the Vision framework]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftonserver.com/working-with-udp-in-swiftnio/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/working-with-udp-in-swiftnio/]]></guid>
     <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updating Apple Developer Credit Card on File]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/28/updating-apple-developer-credit-card-on-file/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/28/updating-apple-developer-credit-card-on-file/]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -206,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding container values in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-container-values]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-container-values]]></guid>
-    <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift]]></guid>
+    <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to automatically manage, monitor &amp; rollout new machine learning models across your iOS app user base]]></title>
+    <description><![CDATA[https://krausefx.com/]]></description>
+    <link><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></link>
+    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
