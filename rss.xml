@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 Aug 2024 00:23:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Aug 2024 02:26:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Art of Controversy]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/loud-letters/the-art-of-controversy]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/loud-letters/the-art-of-controversy]]></guid>
+    <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[EditorConfig Files in Xcode]]></title>
@@ -97,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Create Custom Visual Effects with SwiftUI - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Send data Between iOS Apps and Extensions Using Darwin Notifications]]></title>
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2024/08/27/send-data-between-ios-apps-and-extensions-using-darwin-notifications]]></link>
@@ -181,6 +181,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base]]></guid>
     <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Favorite %$^#&!@ Swift Sites]]></title>
-    <description><![CDATA[https://www.attributedstrings.com/]]></description>
-    <link><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.attributedstrings.com/my-favorite-swift-sites/]]></guid>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
