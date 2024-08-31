@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 Aug 2024 22:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Aug 2024 00:22:43 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Converting Dates To Formatted Strings Easily in Swift]]></title>
