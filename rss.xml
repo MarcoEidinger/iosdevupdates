@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Sep 2024 20:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Sep 2024 22:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift optionals cheat sheet]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-optionals-cheat-sheet]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-optionals-cheat-sheet]]></guid>
+    <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[XCConfig: How to Create App Variants]]></title>
@@ -265,6 +273,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bookmark Search]]></title>
-    <description><![CDATA[https://xcode.tips]]></description>
-    <link><![CDATA[https://xcode.tips/bookmark-search]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xcode.tips/bookmark-search]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Migrating KeyboardKit to Swift 6 language mode]]></title>
-    <description><![CDATA[https://douglashill.co]]></description>
-    <link><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://douglashill.co/keyboardkit-swift-6/]]></guid>
-    <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
