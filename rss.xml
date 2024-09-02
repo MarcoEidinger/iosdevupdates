@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Sep 2024 14:09:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Sep 2024 16:11:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #47 : Societal Progress Through the Lens of Driver's License Medical Examinations]]></title>
@@ -115,8 +115,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Converting Dates To Formatted Strings Easily in Swift]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/converting-dates-to-formatted-strings-easily-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/converting-dates-to-formatted-strings-easily-in-swift/]]></guid>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/converting-dates-to-formatted-strings-easily-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/converting-dates-to-formatted-strings-easily-in-swift/]]></guid>
     <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -277,6 +277,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bookmark Search]]></title>
-    <description><![CDATA[https://xcode.tips]]></description>
-    <link><![CDATA[https://xcode.tips/bookmark-search]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xcode.tips/bookmark-search]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
