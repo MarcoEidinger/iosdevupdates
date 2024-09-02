@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Sep 2024 18:09:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Sep 2024 20:09:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Food Photo Log: Be more aware of what you eat]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2024/09/02/food-photo-log:-be-more-aware-of-what-you-eat]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/09/02/food-photo-log:-be-more-aware-of-what-you-eat]]></guid>
+    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #47 : Societal Progress Through the Lens of Driver's License Medical Examinations]]></title>
@@ -281,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -385,6 +385,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Package Manager Dependency Owners]]></title>
+    <description><![CDATA[https://alejandromp.com]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/swift-package-manager-dependency-owners]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/swift-package-manager-dependency-owners]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Shareshot’s Launch Week]]></title>
     <description><![CDATA[https://marcpalmer.net/category/ios/]]></description>
     <link><![CDATA[https://marcpalmer.net/shareshots-launch-week/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://objective-see.org/blog/blog_0x7B.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x7B.html]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Key Lessons When Moving Towards a Modular Codebase]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
