@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Sep 2024 00:24:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Sep 2024 02:29:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftData’s new Index and Unique macros]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/swiftdata-s-new-index-and-unique-macros]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/swiftdata-s-new-index-and-unique-macros]]></guid>
+    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift optionals cheat sheet]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/snow-leopard]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/snow-leopard]]></guid>
-    <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Art of Controversy]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/loud-letters/the-art-of-controversy]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/loud-letters/the-art-of-controversy]]></guid>
     <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -249,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dark Augmented Code theme for Xcode]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Fatbobman's Swift Weekly #46 : Warning-Free Compilation is Not the Ultimate Goal of Swift 6]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-046/]]></link>
@@ -269,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -465,10 +449,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Cancellable withObservationTracking in Swift]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/12/cancellable-withobservationtracking-in-swift/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Key Lessons When Moving Towards a Modular Codebase]]></title>
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/modular-lessons/]]></guid>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bookmark Search]]></title>
+    <description><![CDATA[https://xcode.tips]]></description>
+    <link><![CDATA[https://xcode.tips/bookmark-search]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xcode.tips/bookmark-search]]></guid>
     <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
