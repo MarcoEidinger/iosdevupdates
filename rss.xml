@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Sep 2024 20:09:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Sep 2024 22:08:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Swift 6: Static property 'shared' is not concurrency-safe because non-'Sendable' type may have shared mutable state]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swift-static-property-shared-is-not-concurrency-safe-because-non-sendable-type-may-have-shared-mutable-state/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swift-static-property-shared-is-not-concurrency-safe-because-non-sendable-type-may-have-shared-mutable-state/]]></guid>
+    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Retcon 1.0]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/09/02/retcon-1-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/02/retcon-1-0/]]></guid>
+    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Food Photo Log: Be more aware of what you eat]]></title>
@@ -105,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring App Intents: Creating Your First App Intent]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-app-intents-creating-first-app-intent/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-app-intents-creating-first-app-intent/]]></guid>
-    <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Modest Improvements on the TextEditor in SwiftUI]]></title>
     <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
     <link><![CDATA[https://www.cephalopod.studio/blog/improving-on-texteditor-in-swiftui]]></link>
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2024/075Marketing.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/075Marketing.html]]></guid>
-    <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Marathon Games on Steam]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/08/30/marathon-games-on-steam/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/08/30/marathon-games-on-steam/]]></guid>
     <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,6 +285,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/how-to-unlock-code-flexibility-applying-s-o-l-i-d-open-closed-principle/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-unlock-code-flexibility-applying-s-o-l-i-d-open-closed-principle/]]></guid>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Hidden Treasures of Crash Reports]]></title>
-    <description><![CDATA[https://objective-see.org/blog.html]]></description>
-    <link><![CDATA[https://objective-see.org/blog/blog_0x7B.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x7B.html]]></guid>
     <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
