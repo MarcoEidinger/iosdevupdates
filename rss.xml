@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 04 Sep 2024 16:10:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Sep 2024 18:10:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Create with Swift at iOSDevUK]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/09/03/anandtech-farewell/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/03/anandtech-farewell/]]></guid>
+    <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 232 - Mail]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/3da04555bda5/232-mail]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/3da04555bda5/232-mail]]></guid>
     <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/converting-dates-to-formatted-strings-easily-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swift-tutorials/converting-dates-to-formatted-strings-easily-in-swift/]]></guid>
-    <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 75 - Marketing]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/075Marketing.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/075Marketing.html]]></guid>
     <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
