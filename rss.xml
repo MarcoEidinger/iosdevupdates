@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 05 Sep 2024 10:10:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Sep 2024 12:11:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Podcast appearence on Empower Apps: Voice in a Can with Damian Mehers]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2024/09/05/podcast-appearence-on-empower-apps:-voice-in-a-can-with-damian-mehers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/09/05/podcast-appearence-on-empower-apps:-voice-in-a-can-with-damian-mehers]]></guid>
+    <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Git Tower 12]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/optimization/app-onboarding-funnel-increase-conversions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/app-onboarding-funnel-increase-conversions/]]></guid>
-    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Food Photo Log: Be more aware of what you eat]]></title>
-    <description><![CDATA[https://damian.fyi]]></description>
-    <link><![CDATA[https://damian.fyi/2024/09/02/food-photo-log:-be-more-aware-of-what-you-eat]]></link>
-    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2024/09/02/food-photo-log:-be-more-aware-of-what-you-eat]]></guid>
     <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
