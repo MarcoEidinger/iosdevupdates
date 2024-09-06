@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Sep 2024 00:23:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Sep 2024 02:27:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Track model changes with SwiftData history - WWDC24]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/track-model-changes-with-swiftdata-history-wwdc24]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/track-model-changes-with-swiftdata-history-wwdc24]]></guid>
+    <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Default Folder X 6.1]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/9/liveview-modules-must-end-in-live/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/9/liveview-modules-must-end-in-live/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create a custom data store with SwiftData - WWDC24]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-a-custom-data-store-with-swiftdata-wwdc24]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/create-a-custom-data-store-with-swiftdata-wwdc24]]></guid>
     <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
