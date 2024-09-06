@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Sep 2024 04:10:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Sep 2024 06:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Track model changes with SwiftData history - WWDC24]]></title>
@@ -45,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swift-6-task-isolated-value-of-type-async-passed-as-a-strongly-transferred-parameter-later-accesses-could-race/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swift-6-task-isolated-value-of-type-async-passed-as-a-strongly-transferred-parameter-later-accesses-could-race/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hiding A SwiftUI View From Switch Control]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/switch-control-excluding-a-swiftui-view]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/switch-control-excluding-a-swiftui-view]]></guid>
     <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -325,6 +317,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-previewable-macro/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
