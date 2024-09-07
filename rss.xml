@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 07 Sep 2024 06:09:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Sep 2024 08:09:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Reading QR codes and barcodes with the Vision framework]]></title>
@@ -345,14 +345,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://onmyway133.com/posts/how-to-make-nscollectionview-with-diffable-data-source-and-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-make-nscollectionview-with-diffable-data-source-and-swiftui/]]></guid>
     <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[(Thoughts on) The Modern iOS Development. 2024 Revision]]></title>
+    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
+    <link><![CDATA[https://lazarevzubov.medium.com/thoughts-on-the-modern-ios-development-2024-revision-64c4711c2022?source=rss-63310a0d2b01------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/thoughts-on-the-modern-ios-development-2024-revision-64c4711c2022?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
