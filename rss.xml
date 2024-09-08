@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Sep 2024 04:09:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Sep 2024 06:09:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Making .searchable text only show if you scroll a List]]></title>
@@ -14,6 +14,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://damian.fyi/swift/2024/09/07/making-.searchable-text-only-show-if-you-scroll-a-list]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2024/09/07/making-.searchable-text-only-show-if-you-scroll-a-list]]></guid>
     <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Github contribution graph with Swift Charts]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/github-contribution-graph-swift-charts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/github-contribution-graph-swift-charts]]></guid>
+    <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Design Food Delivery App Mobile System Design]]></title>
+    <description><![CDATA[https://www.swiftanytime.com/blog]]></description>
+    <link><![CDATA[https://www.swiftanytime.com/blog/design-food-delivery-app-mobile-system-design]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/design-food-delivery-app-mobile-system-design]]></guid>
+    <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></guid>
     <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Indie Diary #8 — Giving watchOS the love it deserves]]></title>
-    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
-    <link><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></guid>
-    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to make NSCollectionView with diffable data source and SwiftUI]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[https://onmyway133.com/posts/how-to-make-nscollectionview-with-diffable-data-source-and-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-make-nscollectionview-with-diffable-data-source-and-swiftui/]]></guid>
-    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
