@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Sep 2024 08:09:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Sep 2024 10:08:58 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Making .searchable text only show if you scroll a List]]></title>
@@ -361,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/08/18/global-sheets-pattern-swiftui]]></guid>
     <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Indie Diary #8 — Giving watchOS the love it deserves]]></title>
+    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
+    <link><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2024-08-15-indie-diary-8/]]></guid>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
