@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Sep 2024 10:10:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Sep 2024 12:12:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Week 2024-36]]></title>
+    <description><![CDATA[https://otavio.cc]]></description>
+    <link><![CDATA[https://otavio.cc/week-2024-36/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-36/]]></guid>
+    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Thank Goodness I’ve Written Some Ad Music]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://marcpalmer.net/category/ios/]]></description>
     <link><![CDATA[https://marcpalmer.net/shareshots-launch-week/]]></link>
     <guid isPermaLink="true"><![CDATA[https://marcpalmer.net/shareshots-launch-week/]]></guid>
-    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Hi-Res Album Artwork in Apple Shortcuts]]></title>
-    <description><![CDATA[https://bendodson.com/weblog/]]></description>
-    <link><![CDATA[https://bendodson.com/weblog/2024/08/20/hi-res-album-artwork-in-apple-shortcuts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bendodson.com/weblog/2024/08/20/hi-res-album-artwork-in-apple-shortcuts/]]></guid>
     <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
