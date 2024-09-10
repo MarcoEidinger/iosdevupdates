@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Sep 2024 22:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Sep 2024 00:23:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #48 : Apple Watch, The Sturdy Linchpin of the Apple Ecosystem]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/09/09/iphone-16-pro-and-iphone-16-pro-max/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/09/iphone-16-pro-and-iphone-16-pro-max/]]></guid>
+    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Wrapping async-await with a completion handler in Swift]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/09/09/wrapping-async-await-with-a-completion-handler-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/09/09/wrapping-async-await-with-a-completion-handler-in-swift/]]></guid>
     <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,22 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dark Augmented Code theme for Xcode]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/08/26/dark-augmented-code-theme-for-xcode/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/custom-areas-in-snapshots/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/custom-areas-in-snapshots/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Package Manager Dependency Owners]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/swift-package-manager-dependency-owners]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/swift-package-manager-dependency-owners]]></guid>
+    <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
