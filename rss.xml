@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Sep 2024 08:09:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Sep 2024 10:09:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ XR 世界导览 Newsletter #028 ]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/zh/posts/newsletter-28]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/zh/posts/newsletter-28]]></guid>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Testing: Validate your code using expressive APIs]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift-testing/introducing-expressive-apis/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/introducing-expressive-apis/]]></guid>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #48 : Apple Watch, The Sturdy Linchpin of the Apple Ecosystem]]></title>
@@ -62,6 +78,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/one-year-at-float/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/one-year-at-float/]]></guid>
     <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ByteCast #7 - 3 Columns SwiftUI Split View | iOS | macOS | visionOS]]></title>
+    <description><![CDATA[https://www.alfianlosari.com/]]></description>
+    <link><![CDATA[https://alfianlosari.com/posts/bytecast-7-3-columns-swiftui-split-view]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alfianlosari.com/posts/bytecast-7-3-columns-swiftui-split-view]]></guid>
+    <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -198,22 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2024/09/03/custom-hover-effects-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/09/03/custom-hover-effects-in-swiftui]]></guid>
     <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App onboarding funnel optimization to increase conversions]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/optimization/app-onboarding-funnel-increase-conversions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/app-onboarding-funnel-increase-conversions/]]></guid>
-    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ XR 世界导览 #027 ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/zh/posts/newsletter-27]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/zh/posts/newsletter-27]]></guid>
-    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,6 +409,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
     <link><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></link>
     <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a Swipeable View that is Backward Compatible with iOS 16]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Drawing custom areas into map snapshots in iOS]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/custom-areas-in-snapshots/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/custom-areas-in-snapshots/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
