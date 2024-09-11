@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Sep 2024 08:11:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Sep 2024 10:08:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Cursor: Rules for AI Using cursorrules]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-cursor-writing-rules-ai-cursorrules/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-writing-rules-ai-cursorrules/]]></guid>
+    <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Denies Evidence of Hiding Browser Choice Setting]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/checking-language-availability-for-translation-with-the-translation-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/checking-language-availability-for-translation-with-the-translation-framework/]]></guid>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Copy Markdown URL Bookmarklet]]></title>
-    <description><![CDATA[https://otavio.cc]]></description>
-    <link><![CDATA[https://otavio.cc/copy-markdown-url-bookmarklet/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://otavio.cc/copy-markdown-url-bookmarklet/]]></guid>
     <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftdata-expressions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-expressions/]]></guid>
+    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Week 2024-36]]></title>
+    <description><![CDATA[https://otavio.cc]]></description>
+    <link><![CDATA[https://otavio.cc/week-2024-36/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-36/]]></guid>
     <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -174,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Swift 6: Task-isolated value of type '() async -> ()' passed as a strongly transferred parameter; later accesses could race]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swift-6-task-isolated-value-of-type-async-passed-as-a-strongly-transferred-parameter-later-accesses-could-race/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swift-6-task-isolated-value-of-type-async-passed-as-a-strongly-transferred-parameter-later-accesses-could-race/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -409,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
     <link><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></link>
     <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Swipeable View that is Backward Compatible with iOS 16]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
