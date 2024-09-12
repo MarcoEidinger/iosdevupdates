@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Sep 2024 12:11:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Sep 2024 14:09:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Cursor: Building and Running on Simulator]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-cursor-building-running-simulator/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-building-running-simulator/]]></guid>
+    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ visionOS 2 PortalComponent ]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/09/11/ios-18-airpods-pro-2-firmware/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/11/ios-18-airpods-pro-2-firmware/]]></guid>
-    <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Cursor: Rules for AI Using cursorrules]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-cursor-writing-rules-ai-cursorrules/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-writing-rules-ai-cursorrules/]]></guid>
     <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
