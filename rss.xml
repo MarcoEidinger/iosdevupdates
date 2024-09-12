@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Sep 2024 00:23:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Sep 2024 02:27:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Converting an App from Obj-C]]></title>
+    <description><![CDATA[https://troz.net/]]></description>
+    <link><![CDATA[https://troz.net/post/2024/app_conversion/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/app_conversion/]]></guid>
+    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS 18 AirPods Pro 2 Firmware]]></title>
@@ -409,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -449,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI for Mac 2024]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2024/swiftui-mac-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/swiftui-mac-2024/]]></guid>
-    <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Programming 40 Hours a Week? Why That’s Not Enough for Success]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/programming-40-hours-a-week-heres-why-that-s-not-enough-for-success-dcb497390d9b?source=rss-1b318de51cdd------2]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
     <link><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></link>
     <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></guid>
+    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Swipeable View that is Backward Compatible with iOS 16]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
