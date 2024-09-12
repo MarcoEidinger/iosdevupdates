@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Sep 2024 14:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Sep 2024 16:11:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Navigating digital endings]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/navigating-digital-endings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/navigating-digital-endings/]]></guid>
+    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Beginners Guide: Embedded Swift and Visual Studio Code (LSP Code Completion)]]></title>
+    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
+    <link><![CDATA[https://blog.supereasyapps.com/beginners-guide-embedded-swift-and-visual-studio-code-lsp-code-completion/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/beginners-guide-embedded-swift-and-visual-studio-code-lsp-code-completion/]]></guid>
+    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Cursor: Building and Running on Simulator]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mjtsai.com/blog/2024/09/11/ios-18-airpods-pro-2-firmware/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/11/ios-18-airpods-pro-2-firmware/]]></guid>
     <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Checking language availability for translation with the Translation framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/checking-language-availability-for-translation-with-the-translation-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/checking-language-availability-for-translation-with-the-translation-framework/]]></guid>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/programming-40-hours-a-week-heres-why-that-s-not-enough-for-success-dcb497390d9b?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/programming-40-hours-a-week-heres-why-that-s-not-enough-for-success-dcb497390d9b?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode 16 Buildable Folders Break Xcode 15 Backwards Compatibility]]></title>
-    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
-    <link><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/xcode-16-buildable-folders-break-xcode-15-backwards-compatibility/]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
