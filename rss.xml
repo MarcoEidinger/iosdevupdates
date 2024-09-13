@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Sep 2024 06:10:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Sep 2024 08:11:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The weirdest Core Data crash I have seen]]></title>
+    <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
+    <link><![CDATA[https://nemecek.be/blog/207/the-weirdest-core-data-crash-i-have-seen]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/207/the-weirdest-core-data-crash-i-have-seen]]></guid>
+    <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Creating a Custom Slider Inspired By Camera Control]]></title>
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></guid>
-    <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to support tinted home screen widgets in iOS 18]]></title>
-    <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
-    <link><![CDATA[https://nemecek.be/blog/206/how-to-support-tinted-home-screen-widgets-in-ios-18]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/206/how-to-support-tinted-home-screen-widgets-in-ios-18]]></guid>
     <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
