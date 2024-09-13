@@ -6,14 +6,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Sep 2024 04:09:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Sep 2024 06:10:16 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Exploring OpenAI: o1 and o1 mini for iOS Development]]></title>
+    <title><![CDATA[Exploring SwiftUI: Creating a Custom Slider Inspired By Camera Control]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-openai-o1-and-o1-mini-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-openai-o1-and-o1-mini-ios-development/]]></guid>
-    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-custom-slider-inspired-by-camera-control/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-creating-a-custom-slider-inspired-by-camera-control/]]></guid>
+    <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -425,6 +425,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
     <link><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></link>
     <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/people_make_mistakes]]></guid>
-    <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a Swipeable View that is Backward Compatible with iOS 16]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-a-swipeable-view-that-is-backward-compatible-with-ios-16-aa6b3ab3e624?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
