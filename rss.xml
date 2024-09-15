@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Sep 2024 02:32:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Sep 2024 04:09:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Announcing the Launch of Ember Glow: a Creative Fiction Writing App]]></title>
@@ -457,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
-    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
-    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
-    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></guid>
+    <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let’s build iOS 18’s navigation title card in SwiftUI]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/08/24/iOS-18-Navigation-Title-Cards/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/08/24/iOS-18-Navigation-Title-Cards/]]></guid>
     <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
