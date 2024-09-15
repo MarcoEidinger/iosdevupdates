@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Sep 2024 16:08:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Sep 2024 18:09:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Week 2024-37]]></title>
+    <description><![CDATA[https://otavio.cc]]></description>
+    <link><![CDATA[https://otavio.cc/week-2024-37/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-37/]]></guid>
+    <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Day to Day Starting 11]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftdata-expressions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-expressions/]]></guid>
-    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Week 2024-36]]></title>
-    <description><![CDATA[https://otavio.cc]]></description>
-    <link><![CDATA[https://otavio.cc/week-2024-36/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-36/]]></guid>
     <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -465,19 +465,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Build Times and Module Verification…]]></title>
+    <description><![CDATA[https://pfandrade.me/tags/ios/]]></description>
+    <link><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pfandrade.me/blog/swift-build-times-and-module-verification/]]></guid>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Ticci Tabs]]></title>
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/ticcitabs/]]></guid>
     <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I Chose FreemiumKit Over RevenueCat for My Diabetes Management App]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/why-i-chose-freemiumkit-over-revenuecat-for-my-diabetes-management-app-guest-post/]]></guid>
-    <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
