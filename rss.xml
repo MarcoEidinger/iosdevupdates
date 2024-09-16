@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Sep 2024 18:09:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Sep 2024 20:15:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 15 Sequoia]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/09/16/macos-15-sequoia/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/16/macos-15-sequoia/]]></guid>
+    <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #49 : Innovation Comes in Many Forms]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pastey.github.io/2024/09/14/weak-pointer-vs-lldb]]></link>
     <guid isPermaLink="true"><![CDATA[https://pastey.github.io/2024/09/14/weak-pointer-vs-lldb]]></guid>
     <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Alternative Distribution for iPad Apps in EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/09/13/alternative-distribution-for-ipad-apps-in-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/13/alternative-distribution-for-ipad-apps-in-eu/]]></guid>
-    <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
