@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Sep 2024 14:08:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Sep 2024 16:09:30 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #49 : Innovation Comes in Many Forms]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/using-charactirization-tests/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/using-charactirization-tests/]]></guid>
+    <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Power of Custom ShapeStyle for SwiftUI Theming]]></title>
+    <description><![CDATA[https://freiwald.dev]]></description>
+    <link><![CDATA[https://freiwald.dev/posts/custom-environment-colors]]></link>
+    <guid isPermaLink="true"><![CDATA[https://freiwald.dev/posts/custom-environment-colors]]></guid>
     <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/08/27/pros-and-cons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/08/27/pros-and-cons/]]></guid>
-    <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[JavaScript to Swift and back: Bridging location services in WKWebView]]></title>
-    <description><![CDATA[https://swiftlybald.com]]></description>
-    <link><![CDATA[https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview/?utm_source=rss&utm_medium=rss&utm_campaign=javascript-to-swift-and-back-bridging-location-services-in-wkwebview]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview/?utm_source=rss&utm_medium=rss&utm_campaign=javascript-to-swift-and-back-bridging-location-services-in-wkwebview]]></guid>
     <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
