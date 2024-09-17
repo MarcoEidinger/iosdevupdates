@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Sep 2024 06:09:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Sep 2024 08:10:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using Traits to annotate and customize test behavior]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift-testing/using-traits-to-annotate-and-customize-test-behavior/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/using-traits-to-annotate-and-customize-test-behavior/]]></guid>
+    <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode Folders & Groups]]></title>
@@ -198,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></guid>
     <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Testing: Validate your code using expressive APIs]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift-testing/introducing-expressive-apis/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/introducing-expressive-apis/]]></guid>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
