@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Sep 2024 04:10:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Sep 2024 06:09:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Folders & Groups]]></title>
+    <description><![CDATA[https://troz.net/]]></description>
+    <link><![CDATA[https://troz.net/post/2024/xcode_folders_groups/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/xcode_folders_groups/]]></guid>
+    <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 15 Sequoia]]></title>
@@ -185,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Converting an App from Obj-C]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2024/app_conversion/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/app_conversion/]]></guid>
-    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Dark UX Patterns y el caso Meneame]]></title>
     <description><![CDATA[https://dcordero.me/]]></description>
     <link><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></link>
@@ -254,6 +254,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></guid>
     <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making .searchable text only show if you scroll a List]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/swift/2024/09/07/making-.searchable-text-only-show-if-you-scroll-a-list]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2024/09/07/making-.searchable-text-only-show-if-you-scroll-a-list]]></guid>
+    <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/08/27/pros-and-cons/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/08/27/pros-and-cons/]]></guid>
-    <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[JavaScript to Swift and back: Bridging location services in WKWebView]]></title>
-    <description><![CDATA[https://swiftlybald.com]]></description>
-    <link><![CDATA[https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview/?utm_source=rss&utm_medium=rss&utm_campaign=javascript-to-swift-and-back-bridging-location-services-in-wkwebview]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview/?utm_source=rss&utm_medium=rss&utm_campaign=javascript-to-swift-and-back-bridging-location-services-in-wkwebview]]></guid>
     <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
