@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 18 Sep 2024 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Sep 2024 00:23:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Feedback Feedback]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftanytime.com/blog]]></description>
     <link><![CDATA[https://www.swiftanytime.com/blog/singleton-pattern-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/singleton-pattern-in-swift]]></guid>
+    <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[New Keyboard]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/new-keyboard/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/new-keyboard/]]></guid>
     <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -139,8 +147,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[iOS Localization: LocalizedStringResource vs LocalizedStringKey vs String]]></title>
     <description><![CDATA[https://medium.com/@nicmcconn]]></description>
-    <link><![CDATA[https://medium.com/@nicmcconn/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@nicmcconn/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></guid>
+    <link><![CDATA[https://medium.com/swlh/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/swlh/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></guid>
     <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/09/09/swift-observable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/09/09/swift-observable-macro/]]></guid>
-    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[One Year At Float]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/one-year-at-float/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/one-year-at-float/]]></guid>
     <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
