@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 19 Sep 2024 12:11:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Sep 2024 14:08:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Power of Swift Macros]]></title>
+    <description><![CDATA[https://arturgruchala.com/]]></description>
+    <link><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></guid>
+    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Go further, faster with the Swift Career Accelerator]]></title>
@@ -85,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/getting-started-with-swiftpm-snippets/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-swiftpm-snippets/]]></guid>
+    <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Runtime in Swift: Exposing Unavailable Classes]]></title>
+    <description><![CDATA[https://ko9.org/]]></description>
+    <link><![CDATA[https://ko9.org/posts/swift-runtime-3-availability]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/swift-runtime-3-availability]]></guid>
     <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,30 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/7.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/7.html]]></guid>
     <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pulse is on the App Store]]></title>
-    <description><![CDATA[https://kean.blog/]]></description>
-    <link><![CDATA[https://kean.blog/post/pulse-app-store]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/pulse-app-store]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Voluntary Product Accessibility Templates]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/voluntary-product-accessibility-templates/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/voluntary-product-accessibility-templates/]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The complexity of writing responses]]></title>
-    <description><![CDATA[https://opticalaberration.com]]></description>
-    <link><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/08/writing-responses.html]]></guid>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
