@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 21 Sep 2024 14:08:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Sep 2024 16:10:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Thousand Days Wearing an Apple Watch]]></title>
+    <description><![CDATA[https://harshil.net/]]></description>
+    <link><![CDATA[https://harshil.net/blog/apple-watch-one-thousand-days]]></link>
+    <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/apple-watch-one-thousand-days]]></guid>
+    <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop macOS 15 Sequoia monthly screen recording prompts]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/10.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/10.html]]></guid>
+    <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Cursor: Script to Add Files to Xcode From Composer]]></title>
@@ -21,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/09/20/gaining-access-to-anyones-arc-browser/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/09/20/gaining-access-to-anyones-arc-browser/]]></guid>
-    <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Can't change security policy or disable SIP with macOS 15 Sequoia]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/9.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/9.html]]></guid>
     <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://artsabintsev.medium.com/]]></description>
     <link><![CDATA[https://medium.com/decentralized-infrastructure/steering-grove-into-the-future-19200ad867da?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/steering-grove-into-the-future-19200ad867da?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My process for learning new languages]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/my-process-for-learning-new-languages]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/my-process-for-learning-new-languages]]></guid>
     <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
