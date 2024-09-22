@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 22 Sep 2024 14:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Sep 2024 16:08:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Install Python on Windows 11 with WinGet]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/traveler-notebook-and-ironsworn-games/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/traveler-notebook-and-ironsworn-games/]]></guid>
+    <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Phase Animator Behavior]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/phase-animator]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/phase-animator]]></guid>
     <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -262,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/binding-navigation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/binding-navigation/]]></guid>
     <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 38]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-38]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-38]]></guid>
-    <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
