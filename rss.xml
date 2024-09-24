@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Sep 2024 06:10:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Sep 2024 08:11:06 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sequoia’s spctl and csrutil]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2024/09/server-side-live-activities/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/09/server-side-live-activities/]]></guid>
+    <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to keep Date’s  microseconds precision in Swift]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/09/23/how-to-keep-dates-microseconds-precision-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/09/23/how-to-keep-dates-microseconds-precision-in-swift/]]></guid>
     <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -342,14 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></guid>
     <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Wrapping async-await with a completion handler in Swift]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/09/09/wrapping-async-await-with-a-completion-handler-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/09/09/wrapping-async-await-with-a-completion-handler-in-swift/]]></guid>
-    <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
