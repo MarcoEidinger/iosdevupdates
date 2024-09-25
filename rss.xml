@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Sep 2024 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Sep 2024 12:12:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Getting started with Mesh Gradients on iOS 18]]></title>
@@ -77,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/11.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/8/11.html]]></guid>
-    <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #50 : Has Your App Been Defeated by the New System?]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-050/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-050/]]></guid>
     <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2024/09/02/new-gesture-button-project]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/09/02/new-gesture-button-project]]></guid>
     <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[XCConfig: How to Create App Variants]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/xcconfig-how-to-create-app-variants-e98ede9dd5f7?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/xcconfig-how-to-create-app-variants-e98ede9dd5f7?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
