@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Sep 2024 08:12:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Sep 2024 10:08:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting started with Mesh Gradients on iOS 18]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/getting-started-with-mesh-gradients-on-ios-18/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/getting-started-with-mesh-gradients-on-ios-18/]]></guid>
+    <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Halide Rejected From the App Store]]></title>
@@ -89,6 +97,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Weeknotes № 39]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-39]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-39]]></guid>
+    <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Building A Stopwatch And Timer Using Xcode 16’s New SystemFormatStyles]]></title>
     <description><![CDATA[https://ampersandsoftworks.com/]]></description>
     <link><![CDATA[https://ampersandsoftworks.com/posts/building-a-stopwatch-and-timer-using-xcode16s-new-systemformatstyle/building-a-stopwatch-and-timer-using-xcode16s-new-systemformatstyle]]></link>
@@ -117,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/traveler-notebook-and-ironsworn-games/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/traveler-notebook-and-ironsworn-games/]]></guid>
-    <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Phase Animator Behavior]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/phase-animator]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/phase-animator]]></guid>
     <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -422,14 +430,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Animating SF Symbols on iOS 18]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/animating-sf-symbols-on-ios-18/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/animating-sf-symbols-on-ios-18/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
