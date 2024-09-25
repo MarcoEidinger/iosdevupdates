@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Sep 2024 20:09:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Sep 2024 22:08:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to conditionally render widgets in iOS]]></title>
