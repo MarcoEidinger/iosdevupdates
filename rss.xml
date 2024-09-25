@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Sep 2024 14:10:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Sep 2024 16:11:08 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[NSManagedObjectID and PersistentIdentifier: Mastering Data Identifiers in Core Data and SwiftData]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/getting-started-with-mesh-gradients-on-ios-18/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/getting-started-with-mesh-gradients-on-ios-18/]]></guid>
+    <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to open app with Control Widget on iOS 18]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-open-app-with-control-widget-on-ios-18/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-open-app-with-control-widget-on-ios-18/]]></guid>
     <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elegantchaos.com/coding/2024/09/03/finding-a-home.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/coding/2024/09/03/finding-a-home.html]]></guid>
     <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[New GestureButton open-source project]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/09/02/new-gesture-button-project]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/09/02/new-gesture-button-project]]></guid>
-    <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
