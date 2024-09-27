@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Sep 2024 14:09:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Sep 2024 16:09:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 79 - Reply]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/079Reply.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/079Reply.html]]></guid>
+    <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating a mesh gradient in SwiftUI]]></title>
@@ -217,6 +225,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Insetting Scrollable Views’ Content With contentMargins In SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></guid>
+    <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Attaching debugger to system apps]]></title>
     <description><![CDATA[https://supersonicbyte.com]]></description>
     <link><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></link>
@@ -385,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[GraphQL subscriptions with Apollo iOS and AWS AppSync]]></title>
+    <description><![CDATA[https://medium.com/@andr3a88]]></description>
+    <link><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></guid>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI's Observable macro is not a drop-in replacement for ObservableObject]]></title>
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/09/09/swift-observable-macro/]]></link>
@@ -446,30 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How-to: Symbolicate MetricKit Crashdiagnostics]]></title>
-    <description><![CDATA[https://recoursive.com/tag/ios/]]></description>
-    <link><![CDATA[https://recoursive.com/2024/09/04/symbolicating-MetricKit-crashDiagnostic-MXCrashDiagnostic/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://recoursive.com/2024/09/04/symbolicating-MetricKit-crashDiagnostic-MXCrashDiagnostic/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[LiveView Modules Must End in `Live`]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[http://mikezornek.com/posts/2024/9/liveview-modules-must-end-in-live/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/9/liveview-modules-must-end-in-live/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Future of Vapor]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/the-future-of-vapor]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/the-future-of-vapor]]></guid>
-    <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
