@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Sep 2024 12:11:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Sep 2024 14:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #51 : Xcode Is Not Alone]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using the #expect macro for Swift Testing]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/how-to-build-a-proxy-server-with-hummingbird/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/how-to-build-a-proxy-server-with-hummingbird/]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Personal Elixir Code Aesthetics]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/awakefromnib]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/awakefromnib]]></guid>
     <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Please Don't Rain Press Kit]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
-    <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How-to: Symbolicate MetricKit Crashdiagnostics]]></title>
-    <description><![CDATA[https://recoursive.com/tag/ios/]]></description>
-    <link><![CDATA[https://recoursive.com/2024/09/04/symbolicating-MetricKit-crashDiagnostic-MXCrashDiagnostic/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://recoursive.com/2024/09/04/symbolicating-MetricKit-crashDiagnostic-MXCrashDiagnostic/]]></guid>
-    <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
