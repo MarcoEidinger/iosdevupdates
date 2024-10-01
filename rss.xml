@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Oct 2024 20:09:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Oct 2024 22:09:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode 16 developer experience is still  (just a little better)]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/xcode-16-developer-experience-is-still-just-a-little-better-4baa2c9b9ea3?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/xcode-16-developer-experience-is-still-just-a-little-better-4baa2c9b9ea3?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Juno for YouTube has been removed from the App Store]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2024/10/juno-removed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/10/juno-removed/]]></guid>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Hurricane Helene and Messages via Satellite]]></title>
@@ -21,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/blending-colors-dynamically-with-mix-modifier/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/blending-colors-dynamically-with-mix-modifier/]]></guid>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Using Hummingbird&#39;s Request Contexts ]]></title>
+    <description><![CDATA[https://swiftonserver.com/]]></description>
+    <link><![CDATA[https://swiftonserver.com/using-hummingbird-request-context/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/using-hummingbird-request-context/]]></guid>
     <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></guid>
-    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ How to Build a Proxy Server with Hummingbird ]]></title>
-    <description><![CDATA[https://swiftonserver.com/]]></description>
-    <link><![CDATA[https://swiftonserver.com/how-to-build-a-proxy-server-with-hummingbird/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/how-to-build-a-proxy-server-with-hummingbird/]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hesh.am]]></description>
     <link><![CDATA[https://hesh.am/2024-09-23/ease]]></link>
     <guid isPermaLink="true"><![CDATA[https://hesh.am/2024-09-23/ease]]></guid>
-    <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Server side Live Activities guide]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/09/server-side-live-activities/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/09/server-side-live-activities/]]></guid>
     <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.alfianlosari.com/]]></description>
     <link><![CDATA[https://alfianlosari.com/posts/bytecast-7-3-columns-swiftui-split-view]]></link>
     <guid isPermaLink="true"><![CDATA[https://alfianlosari.com/posts/bytecast-7-3-columns-swiftui-split-view]]></guid>
-    <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Thank Goodness I’ve Written Some Ad Music]]></title>
-    <description><![CDATA[https://cabel.com/]]></description>
-    <link><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cabel.com/2024/09/08/thank-goodness-ive-written-some-ad-music/]]></guid>
     <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
