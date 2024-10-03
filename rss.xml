@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Oct 2024 22:09:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Oct 2024 00:24:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How XcodeGen reduced the TDD in Swift codebase by 58,000+ lines]]></title>
+    <description><![CDATA[https://mokacoding.com/]]></description>
+    <link><![CDATA[https://mokacoding.com/blog/how-xcodegen-reducet-the-tdd-in-swift-codebase-by-58-000-lines]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mokacoding.com/blog/how-xcodegen-reducet-the-tdd-in-swift-codebase-by-58-000-lines]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Juno for YouTube Removed From the App Store]]></title>
@@ -446,14 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/dark-pattern-meneame]]></guid>
     <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[GraphQL subscriptions with Apollo iOS and AWS AppSync]]></title>
-    <description><![CDATA[https://medium.com/@andr3a88]]></description>
-    <link><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></guid>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
