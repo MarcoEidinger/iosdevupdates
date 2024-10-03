@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 03 Oct 2024 14:08:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Oct 2024 16:09:32 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Giving depth to your App Icons]]></title>
@@ -30,6 +30,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mokacoding.com/blog/how-xcodegen-reducet-the-tdd-in-swift-codebase-by-58-000-lines]]></link>
     <guid isPermaLink="true"><![CDATA[https://mokacoding.com/blog/how-xcodegen-reducet-the-tdd-in-swift-codebase-by-58-000-lines]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[It’s a trap! React to Unix signals in Swift.]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/swift-catch-os-signals-trap]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/swift-catch-os-signals-trap]]></guid>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -157,6 +165,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using the #expect macro for Swift Testing]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,22 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nemecek.be/blog/207/the-weirdest-core-data-crash-i-have-seen]]></link>
     <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/207/the-weirdest-core-data-crash-i-have-seen]]></guid>
     <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Random Integers Crash Embedded Swift with ESP-IDF 5.2.2 and 5.3.1 for ESP32-C6]]></title>
-    <description><![CDATA[https://blog.supereasyapps.com/]]></description>
-    <link><![CDATA[https://blog.supereasyapps.com/random-integers-crash-embedded-swift-with-esp-idf-5-2-2-and-5-3-1-for-esp32-c6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.supereasyapps.com/random-integers-crash-embedded-swift-with-esp-idf-5-2-2-and-5-3-1-for-esp32-c6/]]></guid>
-    <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[GraphQL subscriptions with Apollo iOS and AWS AppSync]]></title>
-    <description><![CDATA[https://medium.com/@andr3a88]]></description>
-    <link><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/graphql-subscriptions-with-apollo-ios-and-aws-appsync-22dc949c80c5?source=rss-520fb01db98d------2]]></guid>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
