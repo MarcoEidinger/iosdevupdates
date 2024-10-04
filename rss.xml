@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Oct 2024 04:09:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Oct 2024 06:10:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Environment]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/SwiftUIEnvironment]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUIEnvironment]]></guid>
+    <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[PDFpen/Nitro and Cleverbridge]]></title>
@@ -446,14 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://manu.show/toolset-team]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/toolset-team]]></guid>
     <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Don’t trust your eyes when looking at weak pointers]]></title>
-    <description><![CDATA[https://pastey.github.io/]]></description>
-    <link><![CDATA[https://pastey.github.io/2024/09/14/weak-pointer-vs-lldb]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pastey.github.io/2024/09/14/weak-pointer-vs-lldb]]></guid>
-    <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
