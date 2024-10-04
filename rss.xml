@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Oct 2024 12:11:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Oct 2024 14:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building a 3D experience in visionOS: Immersive Spaces]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/building-a-3d-experience-in-visionos-immersive-spaces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/building-a-3d-experience-in-visionos-immersive-spaces/]]></guid>
+    <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI Environment]]></title>
@@ -33,18 +41,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Giving depth to your App Icons]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/giving-depth-to-your-app-icons/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/giving-depth-to-your-app-icons/]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Replacing Fastlane with script files]]></title>
+    <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-script-files]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-script-files]]></guid>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
