@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Oct 2024 18:18:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Oct 2024 20:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[“Damaged” Mac App Store Apps]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/10/04/damaged-mac-app-store-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/04/damaged-mac-app-store-apps/]]></guid>
+    <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 80 - New Year]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/core-data-swift-data-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/core-data-swift-data-concurrency/]]></guid>
     <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[PDFpen/Nitro and Cleverbridge]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/10/03/pdfpen-nitro-and-cleverbridge/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/03/pdfpen-nitro-and-cleverbridge/]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -197,6 +197,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-051/]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The perfect iOS networking layer does not exist - Part 1]]></title>
+    <description><![CDATA[https://calincrist.com/]]></description>
+    <link><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></link>
+    <guid isPermaLink="true"><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/iphone-16-screen-sizes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/iphone-16-screen-sizes/]]></guid>
-    <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Localization: LocalizedStringResource vs LocalizedStringKey vs String]]></title>
-    <description><![CDATA[https://medium.com/@nicmcconn]]></description>
-    <link><![CDATA[https://medium.com/swlh/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/swlh/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098?source=rss-c5b0b1aec01a------2]]></guid>
     <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
