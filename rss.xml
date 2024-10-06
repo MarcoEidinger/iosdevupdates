@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 06 Oct 2024 08:09:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Oct 2024 10:09:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Add badges in your pull requests in 2024 and increase your team productivity]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/add-badges-in-your-pull-requests-in-2024-and-increase-your-team-productivity-27669ad302b2?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/add-badges-in-your-pull-requests-in-2024-and-increase-your-team-productivity-27669ad302b2?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Photo Blog]]></title>
@@ -81,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
-    <description><![CDATA[https://dcordero.me/]]></description>
-    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
+    <description><![CDATA[https://dcordero.me/]]></description>
+    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/retrieve-daily-step-count-from-healthkit-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/retrieve-daily-step-count-from-healthkit-in-swift]]></guid>
     <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode 16 developer experience is still  (just a little bit better)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/xcode-16-developer-experience-is-still-just-a-little-better-4baa2c9b9ea3?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/xcode-16-developer-experience-is-still-just-a-little-better-4baa2c9b9ea3?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
