@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Oct 2024 20:09:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Oct 2024 22:09:02 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Can I have Time Out remind me when to go home at the end of day?]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-cursor-autocompletion-with-tab/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-autocompletion-with-tab/]]></guid>
+    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sorting arrays in Swift: multi-criteria]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/10/07/sorting-arrays-in-swift-multi-criteria/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/10/07/sorting-arrays-in-swift-multi-criteria/]]></guid>
     <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -381,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hesh.am]]></description>
     <link><![CDATA[https://hesh.am/2024-09-23/ease]]></link>
     <guid isPermaLink="true"><![CDATA[https://hesh.am/2024-09-23/ease]]></guid>
-    <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to keep Date’s  microseconds precision in Swift]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/09/23/how-to-keep-dates-microseconds-precision-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/09/23/how-to-keep-dates-microseconds-precision-in-swift/]]></guid>
     <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
