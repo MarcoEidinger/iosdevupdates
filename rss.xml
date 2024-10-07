@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Oct 2024 16:09:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Oct 2024 18:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Launching Before UserDefaults Is Available]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/10/07/launching-before-userdefaults-is-available/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/07/launching-before-userdefaults-is-available/]]></guid>
+    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring Cursor: Autocompletion with Tab]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-cursor-autocompletion-with-tab/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-autocompletion-with-tab/]]></guid>
+    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #52 : Reflecting on the Original Aspiration: On the First Anniversary of the Weekly's Inception]]></title>
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[“Damaged” Mac App Store Apps]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/10/04/damaged-mac-app-store-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/04/damaged-mac-app-store-apps/]]></guid>
-    <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/using-hummingbird-request-context/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/using-hummingbird-request-context/]]></guid>
-    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Cursor: Accessing External Documentation using @Doc]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-cursor-accessing-external-documentation-using-doc/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-accessing-external-documentation-using-doc/]]></guid>
     <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
