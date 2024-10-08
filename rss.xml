@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 08 Oct 2024 14:08:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Oct 2024 16:09:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Transcribing audio from live audio using the Speech framework]]></title>
@@ -33,10 +33,34 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Introducing Rerelease: What‘s Old Is What's New Again]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2024/10/7/introducing-rerelease/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/7/introducing-rerelease/]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swift snippet to create a bar chart using Charts library]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/ios_bar_charts_swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/ios_bar_charts_swift/]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering container views in SwiftUI. Values.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/10/08/mastering-container-views-in-swiftui-values]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/08/mastering-container-views-in-swiftui-values]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Elite Hoops Year One: 12 Bite-Sized Lessons]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Elite-Hoops-Gaining-Users-As-An-Indie-App-With-Paid-Ads-And-Lessons-Learned]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Elite-Hoops-Gaining-Users-As-An-Indie-App-With-Paid-Ads-And-Lessons-Learned]]></guid>
     <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering container views in SwiftUI. Sections.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/10/01/mastering-container-views-in-swiftui-sections]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/01/mastering-container-views-in-swiftui-sections]]></guid>
-    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Safari 18 randomly appearing sidebar]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/8/12.html]]></link>
@@ -349,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></guid>
-    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using PreviewModifier for Quick Xcode Previews]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Making-Xcode-Previews-Faster-With-PreviewModifier-in-SwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Making-Xcode-Previews-Faster-With-PreviewModifier-in-SwiftUI]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://supersonicbyte.com]]></description>
     <link><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></guid>
-    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Power of Swift Macros]]></title>
-    <description><![CDATA[https://arturgruchala.com/]]></description>
-    <link><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></guid>
     <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
