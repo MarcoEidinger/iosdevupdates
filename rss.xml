@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 08 Oct 2024 10:10:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Oct 2024 12:12:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Going Indie Podcast with Antoine van der Lee]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to use ForEach loop in SwiftUI]]></title>
@@ -209,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
     <description><![CDATA[https://dcordero.me/]]></description>
     <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -325,14 +333,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://calincrist.com/]]></description>
     <link><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></guid>
-    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using the #expect macro for Swift Testing]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/expect-macro/]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
