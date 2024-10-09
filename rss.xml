@@ -6,15 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Oct 2024 14:08:43 +0000</lastBuildDate>
-
-<item>
-    <title><![CDATA[Introducing LinksKit: Simplifying App Links for Swift Developers]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/introducing-linkskit-simplifying-app-links-for-swift-developers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/introducing-linkskit-simplifying-app-links-for-swift-developers/]]></guid>
-    <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-</item>
+<lastBuildDate>Wed, 09 Oct 2024 16:09:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[UserDefaults and Observation in SwiftUI: How to Achieve Precise Responsiveness]]></title>
@@ -65,7 +57,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing Recap: What‘s Old Is What's New Again]]></title>
+    <title><![CDATA[Introducing Recap: What's Old Is What's New Again]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></guid>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></guid>
+    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Go further, faster with the Swift Career Accelerator]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/272/swift-career-accelerator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/272/swift-career-accelerator]]></guid>
     <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
