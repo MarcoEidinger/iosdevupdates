@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Oct 2024 04:09:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Oct 2024 06:10:29 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Crafting a Typewriter Text Animation in SwiftUI]]></title>
@@ -49,7 +49,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to use ForEach loop in SwiftUI]]></title>
+    <title><![CDATA[Complete Guide to SwiftUI ForEach]]></title>
     <description><![CDATA[https://www.swiftanytime.com/blog]]></description>
     <link><![CDATA[https://www.swiftanytime.com/blog/swiftui-foreach]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/swiftui-foreach]]></guid>
@@ -57,10 +57,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing Rerelease: What‘s Old Is What's New Again]]></title>
+    <title><![CDATA[Introducing Recap: What‘s Old Is What's New Again]]></title>
     <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2024/10/7/introducing-rerelease/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/7/introducing-rerelease/]]></guid>
+    <link><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></guid>
     <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
