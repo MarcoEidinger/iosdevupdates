@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 10 Oct 2024 08:10:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Oct 2024 10:08:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift snippet to create a pie chart using CAShapeLayer and UIKit]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/pie_chart_cashapelayer_uikit/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/pie_chart_cashapelayer_uikit/]]></guid>
+    <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to listen for property changes in an @Observable class using AsyncStreams]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/observable-property-changes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/observable-property-changes/]]></guid>
     <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -241,11 +249,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to run Swift Data and Core Data operations in the background and share models across concurrency contexts]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/core-data-swift-data-concurrency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/core-data-swift-data-concurrency/]]></guid>
-    <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
+    <description><![CDATA[https://dcordero.me/]]></description>
+    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
-    <description><![CDATA[https://dcordero.me/]]></description>
-    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,6 +285,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/notes-from-towards-automated-accessibility-report-generation-for-mobile-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/notes-from-towards-automated-accessibility-report-generation-for-mobile-apps/]]></guid>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Avoid Massive Actors with Empty Global Actors]]></title>
+    <description><![CDATA[http://jaimzuber.com/]]></description>
+    <link><![CDATA[http://jaimzuber.com/swift-concurrency/empty-global-actors]]></link>
+    <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/swift-concurrency/empty-global-actors]]></guid>
     <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
