@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 10 Oct 2024 18:10:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Oct 2024 20:09:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Applying visual effects combined with scrolling in SwiftUI]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/applying-visual-effects-combined-with-scrolling-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/applying-visual-effects-combined-with-scrolling-in-swiftui/]]></guid>
+    <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[FB15451383 - Feedback about the Feedback system]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></guid>
     <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -89,6 +97,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Introducing Recap: What's Old Is What's New Again]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/9/introducing-recap/]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Mastering container views in SwiftUI. Values.]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/10/08/mastering-container-views-in-swiftui-values]]></link>
@@ -153,6 +169,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Weeknotes № 41]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-41]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-41]]></guid>
+    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Understanding localization with LocalizedStringKey in SwiftUI]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-localization]]></link>
@@ -165,6 +189,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diggingdeveloper.blog]]></description>
     <link><![CDATA[https://diggingdeveloper.blog/2024/10/06/til-xcode-can-format-to-multiple-lines/]]></link>
     <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2024/10/06/til-xcode-can-format-to-multiple-lines/]]></guid>
+    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[El Tunco, El Salvador]]></title>
+    <description><![CDATA[https://byla.lt/tags/apple/]]></description>
+    <link><![CDATA[https://byla.lt/posts/el-tunco-el-salvador]]></link>
+    <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/el-tunco-el-salvador]]></guid>
     <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,6 +361,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The perfect iOS networking layer does not exist - Part 1]]></title>
+    <description><![CDATA[https://calincrist.com/]]></description>
+    <link><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></link>
+    <guid isPermaLink="true"><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exists---part-1]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Personal Elixir Code Aesthetics]]></title>
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></link>
@@ -409,6 +449,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Seeing your Mac in 3rd Party Immersive apps on the Vision Pro]]></title>
+    <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
+    <link><![CDATA[https://www.cephalopod.studio/blog/seeing-your-mac-in-3rd-party-immersive-apps-on-the-vision-pro]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/seeing-your-mac-in-3rd-party-immersive-apps-on-the-vision-pro]]></guid>
+    <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[A Thousand Days Wearing an Apple Watch]]></title>
     <description><![CDATA[https://harshil.net/]]></description>
     <link><![CDATA[https://harshil.net/blog/apple-watch-one-thousand-days]]></link>
@@ -422,38 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></guid>
     <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Attaching debugger to system apps]]></title>
-    <description><![CDATA[https://supersonicbyte.com]]></description>
-    <link><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></link>
-    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></guid>
-    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Power of Swift Macros]]></title>
-    <description><![CDATA[https://arturgruchala.com/]]></description>
-    <link><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/power-of-swift-macros/]]></guid>
-    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Go further, faster with the Swift Career Accelerator]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/272/swift-career-accelerator]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/272/swift-career-accelerator]]></guid>
-    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Previews in Xcode Playgrounds]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/xcode-playgrounds-previews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/xcode-playgrounds-previews]]></guid>
-    <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
