@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 11 Oct 2024 00:24:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Oct 2024 02:30:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple TV+ in Amazon Prime Video]]></title>
@@ -257,18 +257,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
-    <description><![CDATA[https://dcordero.me/]]></description>
-    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
+    <description><![CDATA[https://dcordero.me/]]></description>
+    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ XR World Weekly 030 ]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/posts/newsletter-30]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/posts/newsletter-30]]></guid>
-    <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Downloading files from URLs in Swift [SwiftUI Architecture]]]></title>
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swift-download-file-from-url/]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/insetting-scrollable-views-content-with-contentmargins-in-swiftui/]]></guid>
     <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Attaching debugger to system apps]]></title>
+    <description><![CDATA[https://supersonicbyte.com]]></description>
+    <link><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://supersonicbyte.com/posts/attaching-debugger-to-system-apps]]></guid>
+    <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
