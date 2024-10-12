@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Oct 2024 14:08:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Oct 2024 16:08:58 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Automatically Get Type Safe Colors and Images in Xcode]]></title>
@@ -371,8 +371,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Repository Pattern in Swift]]></title>
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/repository-pattern-in-swift-4b0ea03f8fab?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/repository-pattern-in-swift-4b0ea03f8fab?source=rss-71ad5f0d2495------2]]></guid>
+    <link><![CDATA[https://blog.stackademic.com/repository-pattern-in-swift-4b0ea03f8fab?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/repository-pattern-in-swift-4b0ea03f8fab?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
