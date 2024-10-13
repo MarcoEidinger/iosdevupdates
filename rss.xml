@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Oct 2024 22:08:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Oct 2024 00:27:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Week 2024-41]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
     <link><![CDATA[https://appmakers.dev/swiftui-vs-uikit-declarative-vs-imperative-programming/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appmakers.dev/swiftui-vs-uikit-declarative-vs-imperative-programming/]]></guid>
+    <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to render dynamic Markdown strings in SwiftUI?]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></guid>
     <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></guid>
-    <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift snippet to create a pie chart using CAShapeLayer and UIKit]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/pie_chart_cashapelayer_uikit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/pie_chart_cashapelayer_uikit/]]></guid>
     <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
