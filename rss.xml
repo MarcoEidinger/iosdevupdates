@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 13 Oct 2024 20:09:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Oct 2024 22:08:18 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Structs vs. Classes in SwiftUI: When to Use Each and why we use Classes in SwiftData]]></title>
+    <title><![CDATA[How to display sample SwiftData in SwiftUI with PreviewModifier]]></title>
     <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
-    <link><![CDATA[https://appmakers.dev/structs-vs-classes-in-swiftui-swiftdata/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appmakers.dev/structs-vs-classes-in-swiftui-swiftdata/]]></guid>
+    <link><![CDATA[https://appmakers.dev/how-to-display-sample-swiftdata-in-swiftui-with-previewmodifier/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appmakers.dev/how-to-display-sample-swiftdata-in-swiftui-with-previewmodifier/]]></guid>
+    <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[️ How we reduced the build time by 2 with(out) Xcode at Shopmium. Part 1]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/%EF%B8%8F-how-we-reduced-the-build-time-by-2-with-out-xcode-at-shopmium-part-1-f66f6ec51b05?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/%EF%B8%8F-how-we-reduced-the-build-time-by-2-with-out-xcode-at-shopmium-part-1-f66f6ec51b05?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -277,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/el-tunco-el-salvador]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/el-tunco-el-salvador]]></guid>
-    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Add badges in your pull requests in 2024 and increase your team productivity]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/add-badges-in-your-pull-requests-in-2024-and-increase-your-team-productivity-27669ad302b2?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/add-badges-in-your-pull-requests-in-2024-and-increase-your-team-productivity-27669ad302b2?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
