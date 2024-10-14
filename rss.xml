@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Oct 2024 18:09:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Oct 2024 20:09:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Working at startups vs large companies]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></guid>
+    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[PolyCapture 1.5]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/10/14/polycapture-1-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/14/polycapture-1-5/]]></guid>
+    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #53 : Breaking the Annual Release Cycle: A New Dawn for Tech Innovation?]]></title>
@@ -57,6 +73,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Weeknotes № 41]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-41]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-41]]></guid>
+    <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to call async/await functions in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-with-async-await]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-with-async-await]]></guid>
+    <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to display sample SwiftData in SwiftUI with PreviewModifier]]></title>
     <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
     <link><![CDATA[https://appmakers.dev/how-to-display-sample-swiftdata-in-swiftui-with-previewmodifier/]]></link>
@@ -102,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></guid>
     <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Brief History of Defragging]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/10/11/a-brief-history-of-defragging/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/11/a-brief-history-of-defragging/]]></guid>
-    <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -277,22 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/using-binaries-as-libraries]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/using-binaries-as-libraries]]></guid>
-    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 41]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-41]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-41]]></guid>
-    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding localization with LocalizedStringKey in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-localization]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-localization]]></guid>
     <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://matteomanferdini.com/swift-download-file-from-url/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-download-file-from-url/]]></guid>
     <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Optimizing for VoiceOver and Voice Control]]></title>
-    <description><![CDATA[https://www.basbroek.nl/]]></description>
-    <link><![CDATA[https://www.basbroek.nl/optimizing-assistive-technology]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/optimizing-assistive-technology]]></guid>
-    <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
