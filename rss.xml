@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Oct 2024 22:09:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Oct 2024 00:25:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Eki Bright - Design of Station Detail]]></title>
+    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
+    <link><![CDATA[https://twocentstudios.com/2024/10/14/eki-bright-station-detail/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2024/10/14/eki-bright-station-detail/]]></guid>
+    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to easily create ZIP files in Swift without third-party dependencies]]></title>
+    <description><![CDATA[https://olegdreyman.medium.com]]></description>
+    <link><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></guid>
+    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Working at startups vs large companies]]></title>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hidden Cost Of Ai Unit Tests]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></guid>
-    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Downloading files from URLs in Swift [SwiftUI Architecture]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swift-download-file-from-url/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swift-download-file-from-url/]]></guid>
-    <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
