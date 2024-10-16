@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Oct 2024 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Oct 2024 12:11:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Learn how to work with Xcode Previews in SwiftData App]]></title>
+    <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
+    <link><![CDATA[https://appmakers.dev/learn-how-to-work-with-xcode-previews-in-swiftdata-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appmakers.dev/learn-how-to-work-with-xcode-previews-in-swiftdata-app/]]></guid>
+    <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unexpected Lessons: How a Medical Diagnosis Improved My Engineering Skills]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/unexpected-lessons-how-a-medical-diagnosis-improved-my-engineering-skills-22db96b4e7c8?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/unexpected-lessons-how-a-medical-diagnosis-improved-my-engineering-skills-22db96b4e7c8?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building a Custom Progress Bar in SwiftUI]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></guid>
-    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #53 : Breaking the Annual Release Cycle: A New Dawn for Tech Innovation?]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-053/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-053/]]></guid>
     <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to display sample SwiftData in SwiftUI with PreviewModifier]]></title>
-    <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
-    <link><![CDATA[https://appmakers.dev/how-to-display-sample-swiftdata-in-swiftui-with-previewmodifier/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appmakers.dev/how-to-display-sample-swiftdata-in-swiftui-with-previewmodifier/]]></guid>
-    <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[️ How we reduced the build time by 2 with(out) Xcode at Shopmium. Part 1]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/%EF%B8%8F-how-we-reduced-the-build-time-by-2-with-out-xcode-at-shopmium-part-1-f66f6ec51b05?source=rss-1b318de51cdd------2]]></link>
@@ -141,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2024-10-12-app-development-on-ipad/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2024-10-12-app-development-on-ipad/]]></guid>
-    <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automatically Get Type Safe Colors and Images in Xcode]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/automatically-get-type-safe-colors-and-images-in-xcode-8bff1a5f09cf?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/automatically-get-type-safe-colors-and-images-in-xcode-8bff1a5f09cf?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/9/elixir-code-aesthetic/]]></guid>
+    <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hidden Cost Of Ai Unit Tests]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/09/30/hidden-cost-of-ai-unit-tests]]></guid>
     <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 
