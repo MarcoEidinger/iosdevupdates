@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Oct 2024 22:08:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Oct 2024 00:24:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[️ How we reduced the iOS build time by 2 on C.I. side (Bitrise). Part 2]]></title>
@@ -393,18 +393,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
-    <description><![CDATA[https://dcordero.me/]]></description>
-    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
-    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Replacing Fastlane with Shell scripts]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/10/03/replacing-fastlane-with-shell-scripts]]></guid>
+    <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From Manual Pain to Automation Chaos: Finding the Right Balance]]></title>
+    <description><![CDATA[https://dcordero.me/]]></description>
+    <link><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/from-manual-pain-to-automation-chaos]]></guid>
     <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
