@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 17 Oct 2024 18:10:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Oct 2024 20:08:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ToothFairy 2.8.5]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/10/17/toothfairy-2-8-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/17/toothfairy-2-8-5/]]></guid>
+    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Expandable: A Little SwiftUI View for Expandable Text]]></title>
+    <description><![CDATA[https://ryanashcraft.com]]></description>
+    <link><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></guid>
+    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Mac App Store receipt validation problem on Sequoia]]></title>
@@ -93,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/10/16/kintsugi/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/16/kintsugi/]]></guid>
-    <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Returning to Core Data]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/10/16/returning-to-core-data/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/16/returning-to-core-data/]]></guid>
     <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,14 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/shared-with-you/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/shared-with-you/]]></guid>
-    <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Permissions on macOS Sequoia]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2024/sequoia_app_permissions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/sequoia_app_permissions/]]></guid>
     <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
