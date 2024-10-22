@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Oct 2024 12:11:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Oct 2024 14:08:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Making charts accessible with Swift Charts]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/making-charts-accessible-with-swift-charts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/making-charts-accessible-with-swift-charts/]]></guid>
+    <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Test your Swift Packages Linux Compatibility on Mac]]></title>
@@ -141,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2024/082Badeya.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/082Badeya.html]]></guid>
-    <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Positioning volumes in space in a visionOS app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/positioning-volumes-in-space-in-a-visionos-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/positioning-volumes-in-space-in-a-visionos-app/]]></guid>
     <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
