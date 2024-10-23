@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Oct 2024 20:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Oct 2024 22:08:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></guid>
+    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Safari can improve extensions: Redux]]></title>
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/10/18/agreeably-discordant/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/10/18/agreeably-discordant/]]></guid>
-    <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing ReactiveCollectionsKit: A Swift replacement for IGListKit]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/10/18/introducing-reactivecollectionskit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/18/introducing-reactivecollectionskit/]]></guid>
     <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
