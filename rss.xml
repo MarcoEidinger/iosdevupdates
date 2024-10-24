@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Oct 2024 10:10:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 12:12:08 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
@@ -477,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/using-binaries-as-libraries]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/using-binaries-as-libraries]]></guid>
-    <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[TIL Xcode can Format to Multiple Lines]]></title>
-    <description><![CDATA[https://diggingdeveloper.blog]]></description>
-    <link><![CDATA[https://diggingdeveloper.blog/2024/10/06/til-xcode-can-format-to-multiple-lines/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2024/10/06/til-xcode-can-format-to-multiple-lines/]]></guid>
     <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
