@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Oct 2024 20:09:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 22:09:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Boring Coding Font Answer]]></title>
+    <description><![CDATA[https://collindonnell.com/]]></description>
+    <link><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></guid>
+    <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Intelligence in macOS 15.2 and iOS 18.2]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/go-home-at-end-of-day/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/go-home-at-end-of-day/]]></guid>
-    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Asking for Help as a Software Developer]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/asking-for-help-as-a-software-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/asking-for-help-as-a-software-developer/]]></guid>
     <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
