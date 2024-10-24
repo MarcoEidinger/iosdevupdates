@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Oct 2024 00:24:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 02:31:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
