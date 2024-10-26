@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 26 Oct 2024 20:09:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Oct 2024 22:08:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The complexity of writing responses]]></title>
@@ -61,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collindonnell.com/]]></description>
     <link><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></guid>
-    <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why you should use Xcode 16 buildable folders instead of groups]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Elite-Hoops-Gaining-Users-As-An-Indie-App-With-Paid-Ads-And-Lessons-Learned]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Elite-Hoops-Gaining-Users-As-An-Indie-App-With-Paid-Ads-And-Lessons-Learned]]></guid>
     <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Can I have Time Out remind me when to go home at the end of day?]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/go-home-at-end-of-day/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/go-home-at-end-of-day/]]></guid>
+    <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
