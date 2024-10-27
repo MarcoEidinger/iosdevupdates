@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 27 Oct 2024 06:10:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Oct 2024 08:10:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Minimalist Phone: Getting Started]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></guid>
+    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Week 2024-43]]></title>
@@ -397,14 +405,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2024-10-12-app-development-on-ipad/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2024-10-12-app-development-on-ipad/]]></guid>
-    <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to render dynamic Markdown strings in SwiftUI?]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_text_markdown/]]></guid>
     <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
