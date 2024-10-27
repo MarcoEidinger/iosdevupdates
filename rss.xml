@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 27 Oct 2024 14:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Oct 2024 16:08:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ Getting Started with Swift Package Manager ]]></title>
+    <description><![CDATA[https://swiftonserver.com/]]></description>
+    <link><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></guid>
+    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Minimalist Phone: Getting Started]]></title>
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2024/10/22/introducing-swift-testing-basics]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/22/introducing-swift-testing-basics]]></guid>
-    <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Beginner&#39;s Guide to Protocol Buffers and gRPC with Swift ]]></title>
-    <description><![CDATA[https://swiftonserver.com/]]></description>
-    <link><![CDATA[https://swiftonserver.com/beginners-guide-to-protocol-buffers-and-grpc-with-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/beginners-guide-to-protocol-buffers-and-grpc-with-swift/]]></guid>
     <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
