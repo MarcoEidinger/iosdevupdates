@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Oct 2024 18:10:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Oct 2024 20:09:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #55 : Master Technology, Don't Let It Master You]]></title>
@@ -142,6 +142,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></guid>
     <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AnchoredRelativeFormatStyle: The Hidden Replacement for Date RelativeFormatStyle]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></guid>
+    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></guid>
     <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Tiny Storage: a small, lightweight UserDefaults replacement]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></guid>
-    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
