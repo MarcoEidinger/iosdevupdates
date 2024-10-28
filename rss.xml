@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Oct 2024 20:09:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Oct 2024 22:08:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 15.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/10/28/macos-15-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/28/macos-15-1/]]></guid>
+    <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #55 : Master Technology, Don't Let It Master You]]></title>
@@ -86,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Security Research on Private Cloud Compute]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/10/25/security-research-on-private-cloud-compute/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/10/25/security-research-on-private-cloud-compute/]]></guid>
-    <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
