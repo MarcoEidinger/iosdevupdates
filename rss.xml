@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Oct 2024 18:09:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Oct 2024 20:09:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Mac mini 2024]]></title>
@@ -61,6 +61,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></guid>
+    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Problematic Swift Concurrency Patterns]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/problematic-patterns]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/problematic-patterns]]></guid>
+    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Swift Testing. Lifecycle.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/10/29/introducing-swift-testing-lifecycle]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/29/introducing-swift-testing-lifecycle]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -237,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/making-accessibility-acceessible]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/making-accessibility-acceessible]]></guid>
-    <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Swift Testing. Basics.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/10/22/introducing-swift-testing-basics]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/22/introducing-swift-testing-basics]]></guid>
     <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://calincrist.com/]]></description>
     <link><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exist---part-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://calincrist.com/the-perfect-ios-networking-layer-does-not-exist---part-2]]></guid>
-    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[So how does this whole @preconcurrency thing work?]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/preconcurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/preconcurrency]]></guid>
     <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
