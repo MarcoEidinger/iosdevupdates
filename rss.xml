@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Oct 2024 04:09:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Oct 2024 06:10:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 15.1]]></title>
@@ -101,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/nitpicking-during-code-review-is-just-a-waste-of-time-invest-in-tooling-instead-07ae29f4a56a?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/nitpicking-during-code-review-is-just-a-waste-of-time-invest-in-tooling-instead-07ae29f4a56a?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 83 - Aging]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/083Aging.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/083Aging.html]]></guid>
     <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></guid>
     <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Tiny Storage: a small, lightweight UserDefaults replacement]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></guid>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
