@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Oct 2024 14:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Oct 2024 16:10:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 240 - Fixing]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/2a8cc98869ac/240-fixing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2a8cc98869ac/240-fixing]]></guid>
+    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2024 Albums #3]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/turbo-native-is-dead-long-live-hotwire-native]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-is-dead-long-live-hotwire-native]]></guid>
     <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[FB15451383 - Feedback about the Feedback system]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/10/10/FB15451383_feedback_about_feedbacks]]></guid>
-    <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
