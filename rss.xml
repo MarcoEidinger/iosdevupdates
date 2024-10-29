@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Oct 2024 06:10:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Oct 2024 08:10:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Measuring View Visibility Percentage in SwiftUI Using PreferenceKeys]]></title>
+    <description><![CDATA[https://holyswift.app]]></description>
+    <link><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></guid>
+    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 15.1]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/swift-concurrency/run-actor-run]]></guid>
     <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Tiny Storage: a small, lightweight UserDefaults replacement]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/10/introducing-tiny-storage/]]></guid>
-    <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
