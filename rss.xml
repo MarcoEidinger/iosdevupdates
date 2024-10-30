@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Oct 2024 10:09:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Oct 2024 12:12:38 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The Strategy Pattern]]></title>
@@ -102,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2024/10/29/introducing-swift-testing-lifecycle]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/10/29/introducing-swift-testing-lifecycle]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #55 : Master Technology, Don't Let It Master You]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-055/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-055/]]></guid>
-    <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2024/10/11/xcodebuild-platforms-and-plugins.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2024/10/11/xcodebuild-platforms-and-plugins.html]]></guid>
+    <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Turbo Native is dead, long live Hotwire Native!]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/turbo-native-is-dead-long-live-hotwire-native]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/turbo-native-is-dead-long-live-hotwire-native]]></guid>
     <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
