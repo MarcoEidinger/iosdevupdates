@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Oct 2024 22:08:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Oct 2024 00:25:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Flutter Forked: The Final Swan Song and a Stark Warning for KMP Developers]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/flutter-forked-the-final-swan-song-and-a-stark-warning-for-kmp-developers-122b4cdfbe29?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/flutter-forked-the-final-swan-song-and-a-stark-warning-for-kmp-developers-122b4cdfbe29?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Mac mini 2024]]></title>
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Nitpicking during code review is just a waste of time. Invest in tooling instead.]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/nitpicking-during-code-review-is-just-a-waste-of-time-invest-in-tooling-instead-07ae29f4a56a?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/nitpicking-during-code-review-is-just-a-waste-of-time-invest-in-tooling-instead-07ae29f4a56a?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
