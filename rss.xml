@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 31 Oct 2024 06:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 31 Oct 2024 08:11:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[2024 Albums #4]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-4-i-love-you]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-4-i-love-you]]></guid>
+    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring SwiftUI: Playing with Image Playground]]></title>
@@ -105,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[2024 Albums #3]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-3-1989]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-3-1989]]></guid>
-    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Making illegal states unrepresentable]]></title>
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/making-illegal-states-unrepresentable]]></link>
@@ -201,7 +201,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Minimalist Phone: A minimalist to do iOS app ]]></title>
+    <title><![CDATA[Minimalist Phone: A minimalist to do app]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></guid>
