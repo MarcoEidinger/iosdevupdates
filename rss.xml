@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 31 Oct 2024 04:10:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 31 Oct 2024 06:10:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring SwiftUI: Playing with Image Playground]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></guid>
+    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[MacBook Pro 2024]]></title>
@@ -193,7 +201,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Minimalist Phone: Getting Started]]></title>
+    <title><![CDATA[Minimalist Phone: A minimalist to do iOS app ]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></guid>
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apontious.com]]></description>
     <link><![CDATA[https://apontious.com/2024/10/18/agreeably-discordant/]]></link>
     <guid isPermaLink="true"><![CDATA[https://apontious.com/2024/10/18/agreeably-discordant/]]></guid>
-    <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Cursor: Quickly Creating a Swift Package]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-cursor-creating-a-swift-package/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-creating-a-swift-package/]]></guid>
     <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
