@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 01 Nov 2024 00:26:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 01 Nov 2024 02:35:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Harris for President]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></guid>
+    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Four Years in New Brunswick]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/four-years-in-new-brunswick/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/four-years-in-new-brunswick/]]></guid>
     <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://huypham85.medium.com/task-tree-and-task-cancellation-in-swift-concurrency-key-concepts-explained-b653fc88f826?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://huypham85.medium.com/task-tree-and-task-cancellation-in-swift-concurrency-key-concepts-explained-b653fc88f826?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Gmail IMAP configuration in Zoho]]></title>
-    <description><![CDATA[https://adamwulf.me/]]></description>
-    <link><![CDATA[https://adamwulf.me/2024/10/gmail-imap-configuration-in-zoho/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/10/gmail-imap-configuration-in-zoho/]]></guid>
     <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
