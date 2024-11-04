@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Nov 2024 12:13:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Nov 2024 14:08:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #56 : Reflections on the Pixelmator Acquisition]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-056/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-056/]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[HandySwiftUI Extensions: Making SwiftUI Development More Convenient]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/handyswiftui-extensions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/handyswiftui-extensions/]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using ViewThatFits to Create a More Accessible List Cell in SwiftUI]]></title>
@@ -38,6 +54,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></guid>
     <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 44]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-44]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-44]]></guid>
+    <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -77,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></guid>
-    <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[HandySwiftUI View Modifiers: Streamlining Your SwiftUI Code]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/handyswiftui-view-modifiers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/handyswiftui-view-modifiers/]]></guid>
     <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -262,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></guid>
     <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 42-43]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-43]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-43]]></guid>
-    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2024/10/14/eki-bright-station-detail/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2024/10/14/eki-bright-station-detail/]]></guid>
-    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to easily create ZIP files in Swift without third-party dependencies]]></title>
-    <description><![CDATA[https://olegdreyman.medium.com]]></description>
-    <link><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></guid>
     <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
