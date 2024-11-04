@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Nov 2024 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Nov 2024 12:13:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using ViewThatFits to Create a More Accessible List Cell in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/using-viewthatfits-to-create-a-more-accessible-list-cell-in-swiftui-e87dc8feb4d4?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-viewthatfits-to-create-a-more-accessible-list-cell-in-swiftui-e87dc8feb4d4?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode stops fetching Swift packages]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[600]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2024/11/04/600]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/11/04/600]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[[SwiftUI] Observing scroll offset of a List]]></title>
@@ -14,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></guid>
     <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dynamic colors in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-dynamic-colors]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-dynamic-colors]]></guid>
+    <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -129,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Starting with Project Refactoring: Sharing Five Swift Modules]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/starting-with-project-refactoring-sharing-five-swift-modules/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/starting-with-project-refactoring-sharing-five-swift-modules/]]></guid>
-    <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Strategy Pattern]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/the-strategy-pattern/]]></link>
@@ -245,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-43]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-43]]></guid>
-    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding actors in Swift]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swift-actors-basics]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-actors-basics]]></guid>
     <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unexpected Lessons: How a Medical Diagnosis Improved My Engineering Skills]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/unexpected-lessons-how-a-medical-diagnosis-improved-my-engineering-skills-22db96b4e7c8?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/unexpected-lessons-how-a-medical-diagnosis-improved-my-engineering-skills-22db96b4e7c8?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Faster iOS Networking with Shared Dictionary Compression]]></title>
     <description><![CDATA[https://eisel.me]]></description>
     <link><![CDATA[http://eisel.me/shared-dictionary-compression]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://olegdreyman.medium.com]]></description>
     <link><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1?source=rss-7872af0bbed1------2]]></guid>
-    <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Working at startups vs large companies]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/working-at-startups-vs-large-companies]]></guid>
     <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
