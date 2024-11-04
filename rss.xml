@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Nov 2024 00:25:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Nov 2024 02:34:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[[SwiftUI] Observing scroll offset of a List]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></guid>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Acquires Pixelmator]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2024/10/27/simplifying-list-sorting-in-swiftui-a-guide-to-custom-environment-values]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/10/27/simplifying-list-sorting-in-swiftui-a-guide-to-custom-environment-values]]></guid>
-    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Minimalist Phone: A minimalist to do app]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/minimalist_phone_getting_started/]]></guid>
     <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
