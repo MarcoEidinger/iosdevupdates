@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Nov 2024 18:09:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Nov 2024 20:09:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Sequoia No Longer Supports QuickLook Generator Plug-ins]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/11/05/sequoia-no-longer-supports-quicklook-generator-plug-ins/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/05/sequoia-no-longer-supports-quicklook-generator-plug-ins/]]></guid>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 241 - Meaning]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/bcde75f6fd49/241-meaning]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/bcde75f6fd49/241-meaning]]></guid>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Prevent screenshot capture of sensitive SwiftUI views]]></title>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.avanderlee.com/concurrency/urlsession-async-await-network-requests-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/urlsession-async-await-network-requests-in-swift/]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Use Cursor for iOS Development]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/04/how-to-use-cursor-for-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/04/how-to-use-cursor-for-ios-development/]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
     <link><![CDATA[https://www.cephalopod.studio/blog/embedding-ads-on-a-vision-pro-app]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/embedding-ads-on-a-vision-pro-app]]></guid>
-    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 240 - Fixing]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/2a8cc98869ac/240-fixing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2a8cc98869ac/240-fixing]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
