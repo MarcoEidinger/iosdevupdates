@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Nov 2024 12:12:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Nov 2024 14:08:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Week 2024-44]]></title>
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/week-2024-44/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-44/]]></guid>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Kindle Paperwhite and Nintendo 3DS]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/paperwhite-3ds]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/paperwhite-3ds]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></guid>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2024 Albums #4]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-4-i-love-you]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-4-i-love-you]]></guid>
     <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
