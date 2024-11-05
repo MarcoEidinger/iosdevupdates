@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Nov 2024 14:08:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Nov 2024 16:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Prevent screenshot capture of sensitive SwiftUI views]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/prevent-screenshot-capture-of-sensitive-swiftui-views/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/prevent-screenshot-capture-of-sensitive-swiftui-views/]]></guid>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Week 2024-44]]></title>
@@ -134,14 +142,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tanaschita.com/swiftui-dynamic-colors]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-dynamic-colors]]></guid>
     <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Apple Intelligence: Writing Tools]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-writing-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-writing-tools/]]></guid>
-    <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
