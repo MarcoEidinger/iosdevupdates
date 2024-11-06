@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Nov 2024 14:09:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Nov 2024 16:11:07 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Mastering Data Tracking and Notifications in Core Data and SwiftData]]></title>
@@ -173,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/downgrading-my-watch-what-did-i-learn-3a26a9c207df?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/downgrading-my-watch-what-did-i-learn-3a26a9c207df?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ciudad de México, México]]></title>
-    <description><![CDATA[https://byla.lt/tags/apple/]]></description>
-    <link><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></link>
-    <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></guid>
     <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
     <link><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></guid>
+    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[String Concatenation in Swift: A Comprehensive Guide]]></title>
+    <description><![CDATA[https://gurjit.co/]]></description>
+    <link><![CDATA[https://gurjit.co/blogs/2024/string-concatenation-in-swift.php]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gurjit.co/blogs/2024/string-concatenation-in-swift.php]]></guid>
     <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
