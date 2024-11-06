@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Nov 2024 12:11:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Nov 2024 14:09:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mastering Data Tracking and Notifications in Core Data and SwiftData]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/mastering-data-tracking-and-notifications-in-core-data-and-swiftdata/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/mastering-data-tracking-and-notifications-in-core-data-and-swiftdata/]]></guid>
+    <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[election]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
     <link><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></guid>
-    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[String Concatenation in Swift: A Comprehensive Guide]]></title>
-    <description><![CDATA[https://gurjit.co/]]></description>
-    <link><![CDATA[https://gurjit.co/blogs/2024/string-concatenation-in-swift.php]]></link>
-    <guid isPermaLink="true"><![CDATA[https://gurjit.co/blogs/2024/string-concatenation-in-swift.php]]></guid>
     <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
