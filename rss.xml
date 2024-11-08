@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 Nov 2024 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Nov 2024 12:11:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[2024 Albums #5]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-5-rituals]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-5-rituals]]></guid>
+    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Code Spelunking in DocC]]></title>
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></guid>
+    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Installing Swift on Windows 11]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></guid>
     <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -46,6 +62,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aplus.rs/2024/objective-c-callback-crashes-swift6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2024/objective-c-callback-crashes-swift6/]]></guid>
     <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Syncing SwiftData with Firebase in Swift 6: A Complete Guide for Swift Concurrency]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://www.stphndxn.com/syncing-swiftdata-with-firebase-in-swift-6-a-complete-guide-for-swift-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/syncing-swiftdata-with-firebase-in-swift-6-a-complete-guide-for-swift-concurrency/]]></guid>
+    <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -93,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/week-2024-44/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-44/]]></guid>
-    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Kindle Paperwhite and Nintendo 3DS]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/paperwhite-3ds]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/paperwhite-3ds]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftanytime.com/blog/functions-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/functions-in-swift]]></guid>
     <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building a Customizable Segmented Control in SwiftUI]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/building-a-customizable-segmented-control-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/building-a-customizable-segmented-control-in-swiftui]]></guid>
-    <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Expandable: A Little SwiftUI View for Expandable Text]]></title>
-    <description><![CDATA[https://ryanashcraft.com]]></description>
-    <link><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></guid>
-    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
