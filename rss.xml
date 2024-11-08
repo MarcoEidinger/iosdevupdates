@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 Nov 2024 00:23:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Nov 2024 02:30:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Code Spelunking in DocC]]></title>
+    <description><![CDATA[https://rhonabwy.com/]]></description>
+    <link><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></guid>
+    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[CloudKit Reference and Index Issues]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ryanashcraft.com]]></description>
     <link><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/introducing-expandable/]]></guid>
-    <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to upload your Xcode Project to Github – Tutorial]]></title>
-    <description><![CDATA[https://appmakers.dev/category/blog/]]></description>
-    <link><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appmakers.dev/how-to-upload-your-xcode-project-to-github-tutorial/]]></guid>
     <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
