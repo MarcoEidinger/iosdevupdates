@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 09 Nov 2024 12:10:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 Nov 2024 14:08:06 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA["Integrating SwiftUI into UIKit Apps" book updated for iOS 18 and Xcode 16]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/IntegratingSwiftUIUpdate2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntegratingSwiftUIUpdate2024]]></guid>
+    <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[[SwiftUI] Use NSColorWell in SwiftUI macOS apps]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></guid>
     <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2024/11/04/600]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/11/04/600]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[[SwiftUI] Observing scroll offset of a List]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/observe_swiftui_list_scroll_offset/]]></guid>
     <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
