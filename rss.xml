@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Nov 2024 14:08:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 Nov 2024 16:09:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #57 : Ultra-Wide Virtual Display is Great, But We Expect More]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@jpmtech]]></description>
     <link><![CDATA[https://medium.com/@jpmtech/create-a-custom-buttonstyle-in-swiftui-98f66231f2c0?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-a-custom-buttonstyle-in-swiftui-98f66231f2c0?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Automatic Trait Tracking]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/automatic-trait-tracking/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/automatic-trait-tracking/]]></guid>
     <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Self-Sizing Flow Layouts]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-self-sizing-flow-layouts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-self-sizing-flow-layouts/]]></guid>
     <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
