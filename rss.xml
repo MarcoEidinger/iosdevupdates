@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 Nov 2024 06:10:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 Nov 2024 08:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ironsworn Starforged Stats Tracker]]></title>
+    <description><![CDATA[https://otavio.cc]]></description>
+    <link><![CDATA[https://otavio.cc/ironsworn-starforged-stats-tracker/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://otavio.cc/ironsworn-starforged-stats-tracker/]]></guid>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[No Refund for Undelivered MacBooks]]></title>
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></guid>
-    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Week 2024-44]]></title>
-    <description><![CDATA[https://otavio.cc]]></description>
-    <link><![CDATA[https://otavio.cc/week-2024-44/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://otavio.cc/week-2024-44/]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
