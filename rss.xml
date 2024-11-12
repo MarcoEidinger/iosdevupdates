@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 Nov 2024 12:11:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 Nov 2024 14:08:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Navigating Pitfalls: The Do's and Don'ts of Gestural Interfaces]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></guid>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ironsworn Starforged Stats Tracker]]></title>
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/ironsworn-starforged-stats-tracker/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/ironsworn-starforged-stats-tracker/]]></guid>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Swift Testing. Parameterized Tests.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2024/11/12/introducing-swift-testing-parameterized-tests]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/11/12/introducing-swift-testing-parameterized-tests]]></guid>
     <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -89,6 +105,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How To Translate Your Swift Package Library]]></title>
+    <description><![CDATA[https://smashswift.com/]]></description>
+    <link><![CDATA[https://smashswift.com/how-to-translate-your-swift-package-library/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-your-swift-package-library/]]></guid>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA["Integrating SwiftUI into UIKit Apps" book updated for iOS 18 and Xcode 16]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/IntegratingSwiftUIUpdate2024]]></link>
@@ -161,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Detecting faces in images with the Vision framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/detecting-faces-in-images-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-faces-in-images-with-the-vision-framework/]]></guid>
-    <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[HandySwiftUI Styles: Enhancing SwiftUI's Standard Views]]></title>
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/handyswiftui-styles/]]></link>
@@ -213,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></guid>
-    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Swift Testing. Traits.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2024/11/05/introducing-swift-testing-traits]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/11/05/introducing-swift-testing-traits]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></guid>
-    <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Buggy linear gradients in SwiftUI Charts]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/10/20/chart-gradient-accuracy/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/10/20/chart-gradient-accuracy/]]></guid>
     <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
