@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 Nov 2024 16:10:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 Nov 2024 18:09:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Top Things You Need to Know About Swift Concurrency in Swift 6]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></guid>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Beware @unchecked Sendable, or Watch Out for Counterintuitive Implicit Actor-Isolation]]></title>
+    <description><![CDATA[https://jaredsinclair.com/]]></description>
+    <link><![CDATA[https://jaredsinclair.com/2024/11/12/beware-unchecked]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/11/12/beware-unchecked]]></guid>
     <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></guid>
     <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Do Binaries work together? What breaks ABI?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></guid>
-    <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
