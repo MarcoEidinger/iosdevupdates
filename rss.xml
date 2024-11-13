@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Nov 2024 18:10:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Nov 2024 20:09:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Napoli Meetup Newsletter #1]]></title>
@@ -157,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://blog.stackademic.com/top-5-ai-tools-for-ios-developers-5ee9f39558ac?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/top-5-ai-tools-for-ios-developers-5ee9f39558ac?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 85 - One Thing]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/085OneThing.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/085OneThing.html]]></guid>
     <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></guid>
     <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Do Binaries work together? What breaks ABI?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></guid>
+    <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
