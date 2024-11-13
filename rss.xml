@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Nov 2024 04:09:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Nov 2024 06:10:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Preview SwiftUI views with bindings using @Previewable]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></guid>
+    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Claiming Time Machine Backups]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://smashswift.com/how-to-translate-your-swift-package-library/]]></link>
     <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-your-swift-package-library/]]></guid>
     <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA["Integrating SwiftUI into UIKit Apps" book updated for iOS 18 and Xcode 16]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/IntegratingSwiftUIUpdate2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntegratingSwiftUIUpdate2024]]></guid>
-    <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
