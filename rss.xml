@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Nov 2024 20:09:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Nov 2024 22:08:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Connect 2.0]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/11/13/app-store-connect-2-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/13/app-store-connect-2-0/]]></guid>
+    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Napoli Meetup Newsletter #1]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></guid>
     <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claiming Time Machine Backups]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/12/claiming-time-machine-backups/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/12/claiming-time-machine-backups/]]></guid>
-    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
