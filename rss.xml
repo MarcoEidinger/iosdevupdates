@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Nov 2024 10:10:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Nov 2024 12:11:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Build a Chatbot with OpenAI in Swift — Part 1]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></guid>
+    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Understanding SwiftUI's View Update Mechanism: Starting from a TimelineView Update Issue]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></guid>
     <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/preminder-1-0/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/preminder-1-0/]]></guid>
-    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #57 : Ultra-Wide Virtual Display is Great, But We Expect More]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-057/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-057/]]></guid>
     <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -379,8 +379,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Problematic Swift Concurrency Patterns]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/problematic-patterns]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/problematic-patterns]]></guid>
+    <link><![CDATA[https://www.massicotte.org/problematic-patterns]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/problematic-patterns]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
