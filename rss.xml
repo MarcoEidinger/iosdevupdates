@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 Nov 2024 12:12:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Nov 2024 14:08:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Detecting hand pose with the Vision framework]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></guid>
+    <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Automate GitHub Tasks with GitHub CLI in Actions Workflows: A Step-by-Step Guide]]></title>
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://www.stphndxn.com/top-things-you-need-to-know-about-swift-concurrency-in-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/top-things-you-need-to-know-about-swift-concurrency-in-swift-6/]]></guid>
-    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Navigating Pitfalls: The Do's and Don'ts of Gestural Interfaces]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/]]></guid>
     <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
