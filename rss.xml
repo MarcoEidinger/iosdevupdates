@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 Nov 2024 16:09:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Nov 2024 18:10:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Detecting hand pose with the Vision framework]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></guid>
+    <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Mental Model For Prompting Large Language Models]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2024/11/14/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/11/14/]]></guid>
     <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></guid>
-    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Monarch: Minimal, Manageable, Migrations 🦋]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2024/10/23/minimal-manageable-migrations-with-monarch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/10/23/minimal-manageable-migrations-with-monarch/]]></guid>
     <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
