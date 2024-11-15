@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 Nov 2024 20:21:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Nov 2024 22:09:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[M4 Macs Can’t Virtualize Older macOS]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/11/15/m4-macs-cant-virtualise-older-macos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/15/m4-macs-cant-virtualise-older-macos/]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Quantifying Impact Helps Your Career Growth]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/career/how-quantifying-impact-helps-your-career-growth/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/how-quantifying-impact-helps-your-career-growth/]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating a macOS Screensaver in SwiftUI]]></title>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Final Cut Pro 11 for Mac]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/14/final-cut-pro-11-for-mac/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/14/final-cut-pro-11-for-mac/]]></guid>
-    <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -430,14 +438,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Top Down vs Bottom Up]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/interviewing/dynamic-programming/top-down-vs-bottom-up/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/interviewing/dynamic-programming/top-down-vs-bottom-up/]]></guid>
-    <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
