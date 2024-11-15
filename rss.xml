@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 Nov 2024 14:08:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Nov 2024 16:09:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Apple Intelligence: Talking with Siri]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-talking-with-siri/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-talking-with-siri/]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ChatGPT for macOS can now work with Xcode]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/11/14/final-cut-pro-11-for-mac/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/14/final-cut-pro-11-for-mac/]]></guid>
-    <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Detecting hand pose with the Vision framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-hand-pose-with-the-vision-framework/]]></guid>
     <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
