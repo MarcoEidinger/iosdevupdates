@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 Nov 2024 16:09:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Nov 2024 18:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating a macOS Screensaver in SwiftUI]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Apple Intelligence: Talking with Siri]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Done App Announcement]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -417,6 +433,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Top Down vs Bottom Up]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/interviewing/dynamic-programming/top-down-vs-bottom-up/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/interviewing/dynamic-programming/top-down-vs-bottom-up/]]></guid>
+    <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[My Boring Coding Font Answer]]></title>
     <description><![CDATA[https://collindonnell.com/]]></description>
     <link><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></link>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.basbroek.nl/making-accessibility-acceessible]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/making-accessibility-acceessible]]></guid>
     <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What The #&! Happened To The Videos]]></title>
-    <description><![CDATA[https://www.timc.dev]]></description>
-    <link><![CDATA[https://www.timc.dev/posts/where-are-the-videos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/where-are-the-videos]]></guid>
-    <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Immersive Video Production Tips]]></title>
-    <description><![CDATA[https://blog.mikeswanson.com/]]></description>
-    <link><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/immersive-video-production-tips/]]></guid>
-    <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Do Binaries work together? What breaks ABI?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/devtools/binaries/how-do-binaries-work-together/]]></guid>
-    <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
