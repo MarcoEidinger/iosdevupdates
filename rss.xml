@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 Nov 2024 12:12:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Nov 2024 14:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ChatGPT for macOS can now work with Xcode]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Final Cut Pro 11 for Mac]]></title>
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></guid>
     <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Top 5 AI Tools for iOS Developers]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://blog.stackademic.com/top-5-ai-tools-for-ios-developers-5ee9f39558ac?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.stackademic.com/top-5-ai-tools-for-ios-developers-5ee9f39558ac?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
