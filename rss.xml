@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Nov 2024 14:08:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Nov 2024 16:08:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How To Translate Single View In SwiftUI]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collindonnell.com/]]></description>
     <link><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></guid>
-    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></guid>
     <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
