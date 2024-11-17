@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Nov 2024 00:26:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Nov 2024 02:35:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Where to Follow Me (Mastodon, Bluesky, etc)]]></title>
+    <description><![CDATA[https://collindonnell.com/]]></description>
+    <link><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2024 Reading #2]]></title>
@@ -446,14 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Boring Coding Font Answer]]></title>
-    <description><![CDATA[https://collindonnell.com/]]></description>
-    <link><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collindonnell.com/my-boring-coding-font-answer?pk_campaign=rss-feed]]></guid>
-    <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
