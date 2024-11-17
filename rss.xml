@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Nov 2024 20:08:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Nov 2024 22:08:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Quick thoughts on Bluesky, Mastodon and Threads]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/quick-thoughts-bluesky-masto-threads]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/quick-thoughts-bluesky-masto-threads]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How To Translate Single View In SwiftUI]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2024 Reading #2]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-2-and-how-does-that-make-you-feel]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-2-and-how-does-that-make-you-feel]]></guid>
-    <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
