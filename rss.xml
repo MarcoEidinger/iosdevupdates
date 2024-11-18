@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Nov 2024 12:12:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Nov 2024 14:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #58 : Luck Rewards Patience]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-058/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-058/]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Searchable to Display Results from an API]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/using-searchable-to-display-results-from-an-api-378a147f0a08?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-searchable-to-display-results-from-an-api-378a147f0a08?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deep Dive Into Environment In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 46]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-46]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-46]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 128. Longest Consecutive Sequence]]></title>
@@ -41,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keyboard Rabbit Hole]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -193,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Create a Custom ButtonStyle in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/create-a-custom-buttonstyle-in-swiftui-98f66231f2c0?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/create-a-custom-buttonstyle-in-swiftui-98f66231f2c0?source=rss-940b7d9329f2------2]]></guid>
-    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Automatic Trait Tracking]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/automatic-trait-tracking/]]></link>
@@ -214,14 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/]]></guid>
     <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 45]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-45]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-45]]></guid>
-    <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -441,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Simplifying List Sorting In Swiftui A Guide To Custom Environment Values]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/10/27/simplifying-list-sorting-in-swiftui-a-guide-to-custom-environment-values]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/10/27/simplifying-list-sorting-in-swiftui-a-guide-to-custom-environment-values]]></guid>
-    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The complexity of writing responses]]></title>
     <description><![CDATA[https://opticalaberration.com]]></description>
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></guid>
-    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></guid>
     <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
