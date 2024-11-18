@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Nov 2024 00:26:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Nov 2024 02:35:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 128. Longest Consecutive Sequence]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_128_longest_consecutive_sequence/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_128_longest_consecutive_sequence/]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Quick thoughts on Bluesky, Mastodon and Threads]]></title>
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tanaschita.com/swiftui-identifiable]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-identifiable]]></guid>
     <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[[SwiftUI] Use NSColorWell in SwiftUI macOS apps]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/swiftui_custom_color_picker/]]></guid>
-    <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
