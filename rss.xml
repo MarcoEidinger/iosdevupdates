@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Nov 2024 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Nov 2024 12:12:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS Interview - Leetcode 128. Longest Consecutive Sequence]]></title>
@@ -41,18 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Keyboard Rabbit Hole]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></guid>
-    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding SwiftUI's View Update Mechanism: Starting from a TimelineView Update Issue]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/]]></guid>
     <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style]]></guid>
+    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Diffing in ReactiveCollectionsKit: Understanding Identity and Equality]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/10/23/reactivecollectionskit-diffing/]]></guid>
     <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
