@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 18:10:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 20:09:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Cursor/Windsurf/Copilot: Reducing Friction for Version Control]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-cursor-windsurf-copilot-reducing-friction-for-version-control/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-windsurf-copilot-reducing-friction-for-version-control/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 243 - Elsewhere]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/ee73566898a3/243-elsewhere]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/ee73566898a3/243-elsewhere]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Interactive Bottom Sheets in SwiftUI]]></title>
@@ -401,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring SwiftUI: Playing with Image Playground]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-swiftui-image-playground/]]></guid>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Strategy Pattern]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/the-strategy-pattern/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></guid>
     <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The complexity of writing responses]]></title>
-    <description><![CDATA[https://opticalaberration.com]]></description>
-    <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
-    <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
