@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 04:10:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 06:11:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Localize Screenshots using Figma]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift 6 suitable notification observers in iOS]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></guid>
     <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://smashswift.com/]]></description>
     <link><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where to Follow Me (Mastodon, Bluesky, etc)]]></title>
-    <description><![CDATA[https://collindonnell.com/]]></description>
-    <link><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collindonnell.com/where-to-follow-me-mastodon-bluesky-etc?pk_campaign=rss-feed]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AnyClass protocol and Objective-C methods]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Xcode stops fetching Swift packages]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stackless Stacked Pull Requests]]></title>
+    <description><![CDATA[https://blog.eliperkins.me/]]></description>
+    <link><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></guid>
+    <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
