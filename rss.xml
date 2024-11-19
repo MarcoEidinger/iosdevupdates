@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 06:11:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 08:11:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Lazy vars in @Observable classes in Swift]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/LazyVarsInObservableClasses]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/LazyVarsInObservableClasses]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Localize Screenshots using Figma]]></title>
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/11/localize-screenshots-using-figma/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/11/localize-screenshots-using-figma/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Took Threads Off My Phone]]></title>
+    <description><![CDATA[https://collindonnell.com/]]></description>
+    <link><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></guid>
     <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-in-swift-part-1-0b9c77dc4e21?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-in-swift-part-1-0b9c77dc4e21?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preview SwiftUI views with bindings using @Previewable]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PreviewSwiftUIViewsWithBindings]]></guid>
     <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
     <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stackless Stacked Pull Requests]]></title>
-    <description><![CDATA[https://blog.eliperkins.me/]]></description>
-    <link><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/stackless-stacked-prs]]></guid>
-    <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
