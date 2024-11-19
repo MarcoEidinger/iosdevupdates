@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 00:25:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 02:34:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift Concurrency Proposal Index]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift 6 suitable notification observers in iOS]]></title>
+    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
+    <link><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></guid>
     <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -318,14 +326,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></guid>
     <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AnyClass protocol and Objective-C methods]]></title>
-    <description><![CDATA[https://augmentedcode.io/blog/]]></description>
-    <link><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
