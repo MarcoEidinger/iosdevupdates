@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 20:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 22:08:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[DOJ Wants Google to Sell Chrome and De-Google Android]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/11/19/doj-wants-google-to-sell-chrome-and-de-google-android/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/19/doj-wants-google-to-sell-chrome-and-de-google-android/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use open source AI tools for development]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-use-open-source-ai-tools-for-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-open-source-ai-tools-for-development/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Cursor/Windsurf/Copilot: Reducing Friction for Version Control]]></title>
@@ -62,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></guid>
     <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Concurrency Proposal Index]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/18/swift-concurrency-proposal-index/]]></guid>
-    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -153,18 +161,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keyboard Rabbit Hole]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -342,14 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://troz.net/post/2024/swift_format/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/swift_format/]]></guid>
     <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to clear background for TextField inside list in macOS]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-clear-background-for-textfield-inside-list-in-macos/]]></guid>
-    <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
