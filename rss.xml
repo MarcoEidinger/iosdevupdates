@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 12:13:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Nov 2024 14:08:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Interactive Bottom Sheets in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/exploring-interactive-bottom-sheets-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-interactive-bottom-sheets-in-swiftui/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Contingent pricing for in-app subscriptions]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></guid>
-    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Apple Intelligence: Talking with Siri]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-talking-with-siri/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-apple-intelligence-talking-with-siri/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
