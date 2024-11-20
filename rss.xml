@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Nov 2024 22:08:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Nov 2024 00:25:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why Can’t iOS Have Smart Folders?]]></title>
+    <description><![CDATA[https://collindonnell.com/]]></description>
+    <link><![CDATA[https://collin.blog/2024/11/19/why-cant-ios-have-smart-folders/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/19/why-cant-ios-have-smart-folders/]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Follow Dejal on Mastodon, Bluesky, Threads, Micro.blog, Facebook, Reddit, and more]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/social-networks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/social-networks/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DOJ Wants Google to Sell Chrome and De-Google Android]]></title>
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/11/localize-screenshots-using-figma/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/11/localize-screenshots-using-figma/]]></guid>
-    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Took Threads Off My Phone]]></title>
-    <description><![CDATA[https://collindonnell.com/]]></description>
-    <link><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/18/took-threads-off-my-phone/]]></guid>
     <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2024/11/12/introducing-swift-testing-parameterized-tests]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2024/11/12/introducing-swift-testing-parameterized-tests]]></guid>
     <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Preminder, a simple and free iOS app to add a reminder some interval before a date]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/preminder-1-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/preminder-1-0/]]></guid>
-    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
