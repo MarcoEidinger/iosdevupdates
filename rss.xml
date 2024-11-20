@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Nov 2024 16:09:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Nov 2024 18:10:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Upgrade Your Pull Requests With ChatGPT]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/upgrade-your-pull-requests-with-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/upgrade-your-pull-requests-with-chatgpt/]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using Transactions Instead of Save in SwiftData and Core Data]]></title>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></guid>
     <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Strategy Pattern]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/the-strategy-pattern/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/the-strategy-pattern/]]></guid>
-    <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
