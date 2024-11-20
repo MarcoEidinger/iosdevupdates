@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Nov 2024 10:09:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Nov 2024 12:12:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Build a Chatbot with OpenAI — Part 2]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-part-2-fe954d43d3ef?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-part-2-fe954d43d3ef?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Conferences: Attending Seoul iOS Meetup, October 2024]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></guid>
-    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #58 : Luck Rewards Patience]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-058/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-058/]]></guid>
     <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -230,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/how-to-use-the-github-cli-from-github-actions-workflows/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/how-to-use-the-github-cli-from-github-actions-workflows/]]></guid>
     <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build a Chatbot with OpenAI in Swift — Part 1]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-in-swift-part-1-0b9c77dc4e21?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-in-swift-part-1-0b9c77dc4e21?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></guid>
     <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The complexity of writing responses]]></title>
+    <description><![CDATA[https://opticalaberration.com]]></description>
+    <link><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://opticalaberration.com/2024/10/writing-responses.html]]></guid>
+    <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
