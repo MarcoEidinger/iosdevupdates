@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 21 Nov 2024 04:09:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 Nov 2024 06:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Windsurf: Creating a New Feature with Cascade]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-windsurf-creating-a-new-feature-with-cascade/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-windsurf-creating-a-new-feature-with-cascade/]]></guid>
+    <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keyboard Shortcut for Proofread on macOS]]></title>
     <description><![CDATA[https://collindonnell.com/]]></description>
     <link><![CDATA[https://collin.blog/2024/11/20/keyboard-shortcut-for-proofread-on-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/20/keyboard-shortcut-for-proofread-on-macos/]]></guid>
-    <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Windsurf: Starting with Agentic IDE for iOS Development]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-windsurf-starting-with-agentic-ide-for-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-windsurf-starting-with-agentic-ide-for-ios-development/]]></guid>
     <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting consistent temperature preferences on iOS]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -193,18 +201,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keyboard Rabbit Hole]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></guid>
     <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Getting Started with Swift Package Manager ]]></title>
-    <description><![CDATA[https://swiftonserver.com/]]></description>
-    <link><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-swift-package-manager/]]></guid>
-    <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
