@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 21 Nov 2024 12:12:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 Nov 2024 14:08:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Evolution Monthly: May-November 2024]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-may-november-2024/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-may-november-2024/]]></guid>
+    <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Asserting state with #expect in Swift Testing]]></title>
@@ -65,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS Interview - Leetcode 448. Find All Numbers Disappeared in an Array]]></title>
-    <description><![CDATA[https://antran.app/]]></description>
-    <link><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></guid>
-    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Getting consistent temperature preferences on iOS]]></title>
     <description><![CDATA[https://jeffverkoeyen.com/]]></description>
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Interview - Leetcode 448. Find All Numbers Disappeared in an Array]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,6 +193,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[ Optimizing compilation and test runs with Xcode projects ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2024/11/18/optimizing-compilation-and-test-runs-with-xcode-projects]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2024/11/18/optimizing-compilation-and-test-runs-with-xcode-projects]]></guid>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to use a Connectable publisher in Combine]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/combine-connectable-publisher]]></link>
@@ -209,18 +225,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keyboard Rabbit Hole]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -334,22 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></guid>
     <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Expanding the Apple Ecosystem: open and accessible developer tooling beyond official tools ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2024/11/08/accessible-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2024/11/08/accessible-tools]]></guid>
-    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[HandySwiftUI Styles: Enhancing SwiftUI's Standard Views]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/handyswiftui-styles/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/handyswiftui-styles/]]></guid>
-    <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
