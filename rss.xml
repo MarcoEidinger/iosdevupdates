@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Nov 2024 06:10:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Nov 2024 08:11:02 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Should we use Apple Intelligence for Text and Inputs in SwiftUI using writingToolsBehavior]]></title>
@@ -233,18 +233,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Keyboard Rabbit Hole]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
