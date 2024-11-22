@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Nov 2024 16:09:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Nov 2024 18:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Time-Based View Updates in SwiftUI]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/time-based-view-updates-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/time-based-view-updates-in-swiftui/]]></guid>
+    <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Crafting Better App Icons at SwiftLeeds 2024]]></title>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/career/how-quantifying-impact-helps-your-career-growth/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/how-quantifying-impact-helps-your-career-growth/]]></guid>
-    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a macOS Screensaver in SwiftUI]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/creating-a-macos-screensaver-in-swiftui/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
