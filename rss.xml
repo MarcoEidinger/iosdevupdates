@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Nov 2024 04:10:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Nov 2024 06:10:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Should we use Apple Intelligence for Text and Inputs in SwiftUI using writingToolsBehavior]]></title>
@@ -89,10 +89,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Getting consistent temperature preferences on iOS]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
+    <title><![CDATA[Shifting the testing culture: Code coverage]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2024/11/20/shifting-the-testing-culture-code-coverage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2024/11/20/shifting-the-testing-culture-code-coverage/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></guid>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting consistent temperature preferences on iOS]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/problematic-patterns]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/problematic-patterns]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Welcoming Amazon as an infrastructure supporter]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/welcoming-amazon-as-an-infrastructure-supporter]]></guid>
-    <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
