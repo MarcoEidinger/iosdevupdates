@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 23 Nov 2024 14:10:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 Nov 2024 16:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[In case of emergency break (empty) glass]]></title>
+    <description><![CDATA[https://qnoid.com]]></description>
+    <link><![CDATA[https://qnoid.com/2024/11/23/In-case-of-emergency-break-empty-glass.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2024/11/23/In-case-of-emergency-break-empty-glass.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
+    <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Cursor: Using Chat to Learn a New Framework]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holyswift.app]]></description>
     <link><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></link>
     <guid isPermaLink="true"><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></guid>
-    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Problematic Swift Concurrency Patterns]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/problematic-patterns]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/problematic-patterns]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
