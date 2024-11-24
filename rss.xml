@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 24 Nov 2024 20:11:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 Nov 2024 22:08:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why I couldn’t hold on to E-Book Reader]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Kagi]]></title>
@@ -257,18 +265,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keyboard Rabbit Hole]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -406,14 +414,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2024/11/04/600]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2024/11/04/600]]></guid>
     <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Downgrading My Watch: What did I learn?]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/downgrading-my-watch-what-did-i-learn-3a26a9c207df?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/downgrading-my-watch-what-did-i-learn-3a26a9c207df?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
