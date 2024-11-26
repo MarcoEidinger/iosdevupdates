@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 25 Nov 2024 14:08:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 Nov 2024 00:25:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Vision: Improving the Approachability of Data-Race Safety]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/11/25/swift-vision-improving-the-approachability-of-data-race-safety/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/25/swift-vision-improving-the-approachability-of-data-race-safety/]]></guid>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple continues to dismiss bug reports]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/11/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/11/1.html]]></guid>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #59 : "Recommended for You" or "Recommended for Traffic"]]></title>
@@ -33,10 +49,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Generating JWT Tokens in Swift for the App Store Connect API]]></title>
+    <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
+    <link><![CDATA[https://bootstragram.com/blog/jwt-tokens-app-store-connect-api-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/jwt-tokens-app-store-connect-api-swift]]></guid>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Why I couldn’t hold on to E-Book Reader]]></title>
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Charts Plotting Functions]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></guid>
     <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-cursor-using-chat-to-learn-new-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-using-chat-to-learn-new-framework/]]></guid>
-    <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The App Store Era Must End]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/22/the-app-store-era-must-end/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/22/the-app-store-era-must-end/]]></guid>
     <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -265,18 +289,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Keyboard Rabbit Hole]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
+    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -353,14 +377,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Automatic Trait Tracking]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/automatic-trait-tracking/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/automatic-trait-tracking/]]></guid>
-    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Code Spelunking in DocC]]></title>
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></link>
@@ -433,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple silently uploads your passwords and keeps them]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/10/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/10/4.html]]></guid>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[In which a life re-emerges]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/making-illegal-states-unrepresentable]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/making-illegal-states-unrepresentable]]></guid>
-    <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Measuring View Visibility Percentage in SwiftUI Using PreferenceKeys]]></title>
-    <description><![CDATA[https://holyswift.app]]></description>
-    <link><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://holyswift.app/measuring-view-visibility-percentage-in-swiftui-using-preferencekeys/]]></guid>
     <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
