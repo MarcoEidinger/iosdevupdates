@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 Nov 2024 16:09:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 Nov 2024 18:10:39 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Implementing search suggestions in SwiftUI]]></title>
@@ -101,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></guid>
+    <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Working with Natural Language framework]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></guid>
     <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://smashswift.com/]]></description>
     <link><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mastering TextEditor in SwiftUI: Features, Limitations, and Tips]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/mastering-text-editor-in-swiftui]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
