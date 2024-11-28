@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 28 Nov 2024 20:09:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Nov 2024 22:08:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Making RealityKit apps accessible]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/the-anomaly-of-onchange-in-swiftui-multi-layer-navigation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/the-anomaly-of-onchange-in-swiftui-multi-layer-navigation/]]></guid>
+    <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Case Against TCA]]></title>
+    <description><![CDATA[https://maxhumber.com/swift]]></description>
+    <link><![CDATA[https://maxhumber.com/tcatca]]></link>
+    <guid isPermaLink="true"><![CDATA[https://maxhumber.com/tcatca]]></guid>
     <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ciudad-de-mexico-mexico]]></guid>
     <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Harris for President]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2024/10/31/harris_for_president.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/10/31/harris_for_president.html]]></guid>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
