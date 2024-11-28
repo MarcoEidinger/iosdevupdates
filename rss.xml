@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 28 Nov 2024 08:10:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Nov 2024 10:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Animate UIKit views with SwiftUI animations in iOS 18]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/AnimateUIKitViewsWithSwiftUIAnimations]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AnimateUIKitViewsWithSwiftUIAnimations]]></guid>
+    <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Black Friday Sale]]></title>
@@ -113,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Set supported platforms in file target membership options in Xcode]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/SetSupportedPlatformsInFileTargetMembershipOptionsInXcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SetSupportedPlatformsInFileTargetMembershipOptionsInXcode]]></guid>
-    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Generating JWT Tokens in Swift for the App Store Connect API]]></title>
     <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
     <link><![CDATA[https://bootstragram.com/blog/jwt-tokens-app-store-connect-api-swift]]></link>
@@ -166,6 +166,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></guid>
     <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 47]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-47]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-47]]></guid>
+    <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -221,6 +229,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/asserting-state-with-expect-in-swift-testing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/asserting-state-with-expect-in-swift-testing/]]></guid>
+    <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[#3 XCTest vs. Swift Testing - Unwrapping optionals]]></title>
+    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
+    <link><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/3-unwrapping-optionals/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/3-unwrapping-optionals/]]></guid>
     <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -318,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></guid>
     <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 46]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-46]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-46]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2024/10/31/harris_for_president.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2024/10/31/harris_for_president.html]]></guid>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[In which a life re-emerges]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/10/in-which-a-life-re-emerges/]]></guid>
     <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
 </item>
 
