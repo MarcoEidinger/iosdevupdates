@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 Nov 2024 14:08:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 Nov 2024 16:09:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How Safari (insanely) displays app extension icons]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2024/11/2.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/11/2.html]]></guid>
+    <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keeping parts of the text unchanged by Writing Tools]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/keeping-parts-of-the-text-unchanged-by-writing-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/keeping-parts-of-the-text-unchanged-by-writing-tools/]]></guid>
+    <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using matchedGeometryEffect in SwiftUI]]></title>
@@ -14,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@jpmtech/using-matchedgeometryeffect-in-swiftui-d9d5542c5a4d?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-matchedgeometryeffect-in-swiftui-d9d5542c5a4d?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making RealityKit apps accessible]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/making-realitykit-apps-accessible/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/making-realitykit-apps-accessible/]]></guid>
-    <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobiledevdiary.com/posts/two-types-of-swift-macros/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/two-types-of-swift-macros/]]></guid>
     <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple continues to dismiss bug reports]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/11/1.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/11/1.html]]></guid>
-    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
