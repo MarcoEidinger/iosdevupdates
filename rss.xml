@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 Nov 2024 10:08:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Nov 2024 12:11:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating Custom Shapes in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/creating-custom-shapes-in-swiftui-1ac3743cd500?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/creating-custom-shapes-in-swiftui-1ac3743cd500?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Subdivisions in RealityKit]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/subdivisions-in-realitykit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/subdivisions-in-realitykit/]]></guid>
+    <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 88 - Local]]></title>
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/keeping-parts-of-the-text-unchanged-by-writing-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/keeping-parts-of-the-text-unchanged-by-writing-tools/]]></guid>
-    <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using matchedGeometryEffect in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/using-matchedgeometryeffect-in-swiftui-d9d5542c5a4d?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/using-matchedgeometryeffect-in-swiftui-d9d5542c5a4d?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://halmueller.wordpress.com/2024/11/06/election/]]></link>
     <guid isPermaLink="true"><![CDATA[https://halmueller.wordpress.com/2024/11/06/election/]]></guid>
     <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode stops fetching Swift packages]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages]]></guid>
-    <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
