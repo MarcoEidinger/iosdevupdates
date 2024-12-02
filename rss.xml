@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Dec 2024 12:13:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Dec 2024 14:08:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[On the Consolation of Software Engineering]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></guid>
+    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #60 : Older or Outer? Reminiscing About the Pre-Smart Era]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-060/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-060/]]></guid>
+    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building a Clone of the Messages app in SwiftUI]]></title>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.hackingwithswift.com/articles/273/save-50-on-all-books-and-bundles-this-black-friday]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/273/save-50-on-all-books-and-bundles-this-black-friday]]></guid>
     <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Code Spelunking in DocC]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/]]></guid>
-    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Installing Swift on Windows 11]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2024/11/08/swift-on-windows-11.html]]></guid>
-    <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
