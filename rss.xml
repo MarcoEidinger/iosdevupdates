@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Dec 2024 20:10:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Dec 2024 22:09:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Microsoft-Trusted ICP-Brasil Certificate for google.com]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/02/microsoft-trusted-icp-brasil-certificate-for-google-com/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/02/microsoft-trusted-icp-brasil-certificate-for-google-com/]]></guid>
+    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Nutrient iOS SDK 14.2]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2024/black_friday/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/black_friday/]]></guid>
-    <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Amazon S3 Adds Put-If-Match (Compare-and-Swap)]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/11/27/amazon-s3-adds-put-if-match-compare-and-swap/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/11/27/amazon-s3-adds-put-if-match-compare-and-swap/]]></guid>
     <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
