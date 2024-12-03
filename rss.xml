@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Dec 2024 08:11:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Dec 2024 10:09:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[I used AI to open source a tool. The gap between junior and senior will increase ]]></title>
@@ -281,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Handling audio capture gaps on macOS]]></title>
-    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
-    <link><![CDATA[https://nonstrict.eu/blog/2024/handling-audio-capture-gaps-on-macos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2024/handling-audio-capture-gaps-on-macos]]></guid>
-    <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Exploring Cursor: Using Chat to Learn a New Framework]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-cursor-using-chat-to-learn-new-framework/]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jaredsinclair.com/2024/11/12/beware-unchecked]]></link>
     <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2024/11/12/beware-unchecked]]></guid>
     <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Save 50% on all books and bundles this Black Friday]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/273/save-50-on-all-books-and-bundles-this-black-friday]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/273/save-50-on-all-books-and-bundles-this-black-friday]]></guid>
+    <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
