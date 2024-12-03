@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Dec 2024 22:09:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Dec 2024 00:27:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I used AI to open source a tool. The gap between junior and senior will increase ]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/i-used-ai-to-open-source-a-tool-the-gap-between-junior-and-senior-will-increase-b3bf7fb51a84?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-used-ai-to-open-source-a-tool-the-gap-between-junior-and-senior-will-increase-b3bf7fb51a84?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Microsoft-Trusted ICP-Brasil Certificate for google.com]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/defaults-in-december-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/defaults-in-december-2024/]]></guid>
-    <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Badgetizr 1.0: Add dynamic markdown badges on your pull requests]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/badgetizr-1-0-add-dynamic-markdown-badges-on-your-pull-requests-37373ea38703?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/badgetizr-1-0-add-dynamic-markdown-badges-on-your-pull-requests-37373ea38703?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
