@@ -32,7 +32,7 @@ jobs:
     - name: Run command line tool
       run: mint run --silent OsmiumAtlas > blogs.json
       env:
-        DEVELOPER_DIR: /Applications/Xcode_13.2.1.app/Contents/Developer
+        DEVELOPER_DIR: /Applications/Xcode_15.2.app/Contents/Developer
     - name: Copy blogs.json to content folder
       run: cp blogs.json content/
     - uses: actions/upload-artifact@v3
