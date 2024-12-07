@@ -6,13 +6,125 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Dec 2024 16:11:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Dec 2024 02:21:45 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Generating person segmentation with the Vision Framework]]></title>
+    <title><![CDATA[Key Repeat in Sequoia]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/06/key-repeat-in-sequoia/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/06/key-repeat-in-sequoia/]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mastering Forms in SwiftUI: Creating and Styling]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/generating-person-segmentation-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/generating-person-segmentation-with-the-vision-framework/]]></guid>
+    <link><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-creating-and-styling/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-creating-and-styling/]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring TabView Advancements  in SwiftUI – Part 1]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-1/]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 89 - Recommit]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/089Recommit.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/089Recommit.html]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Advent of iOS Accessibility]]></title>
+    <description><![CDATA[https://dadederk.github.io]]></description>
+    <link><![CDATA[https://dadederk.github.io/post/2024-12-06-01/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dadederk.github.io/post/2024-12-06-01/]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to change your app's business model from paid to freemium using StoreKit]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/paid-app-to-freemium/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/paid-app-to-freemium/]]></guid>
+    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Set a shape as background in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/SetAShapeAsBackgroundInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SetAShapeAsBackgroundInSwiftUI]]></guid>
+    <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating ML models with Create ML]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/create-ml]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/create-ml]]></guid>
+    <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[#6 XCTest vs Swift Testing - Parameterized tests in the fight for more reusable code]]></title>
+    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
+    <link><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/6-parametrized-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/6-parametrized-tests/]]></guid>
+    <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[DejalNews #88: introducing Preminder, Weather Events 1.1, Time Out tip]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></guid>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Testing completion handler based code in Swift Testing]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></guid>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop Infantilizing Trump Supporters]]></title>
+    <description><![CDATA[https://collin.blog/]]></description>
+    <link><![CDATA[https://collin.blog/2024/12/03/stop-infantilizing-trump-supporters/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/12/03/stop-infantilizing-trump-supporters/]]></guid>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Typefully: Say Goodbye to the Hassles of Social Media Posting]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/typefully-say-goodbye-to-the-hassles-of-social-media-posting/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/typefully-say-goodbye-to-the-hassles-of-social-media-posting/]]></guid>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Updating Sankey]]></title>
+    <description><![CDATA[https://maxhumber.com/swift]]></description>
+    <link><![CDATA[https://maxhumber.com/updatingsankey]]></link>
+    <guid isPermaLink="true"><![CDATA[https://maxhumber.com/updatingsankey]]></guid>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Create Dynamic iOS Apps: Remote Styling with SwiftUI]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/how-to-create-dynamic-ios-apps-remote-styling-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-create-dynamic-ios-apps-remote-styling-with-swiftui/]]></guid>
     <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -41,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[#2 Swift code refactor in action - price $$$]]></title>
-    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
-    <link><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-code-refactor/2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-code-refactor/2/]]></guid>
-    <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I used AI to open source a tool. The gap between junior and senior will increase ]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/i-used-ai-to-open-source-a-tool-the-gap-between-junior-and-senior-will-increase-b3bf7fb51a84?source=rss-1b318de51cdd------2]]></link>
@@ -65,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Microsoft-Trusted ICP-Brasil Certificate for google.com]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/02/microsoft-trusted-icp-brasil-certificate-for-google-com/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/02/microsoft-trusted-icp-brasil-certificate-for-google-com/]]></guid>
-    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Nutrient iOS SDK 14.2]]></title>
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/nutrient-ios-sdk-14-2/]]></link>
@@ -85,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></guid>
-    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fatbobman's Swift Weekly #60 : Older or Outer? Reminiscing About the Pre-Smart Era]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-060/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-060/]]></guid>
     <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -129,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI matched geometry effect in a custom segmented control]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/CustomSegmentedControlWithMatchedGeometryEffect]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CustomSegmentedControlWithMatchedGeometryEffect]]></guid>
-    <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why Can't You Loop Over Ranges of Characters in Swift]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/swift/why-cant-you-loop-over-ranges-of-characters-in-swift/]]></link>
@@ -161,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 88 - Local]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/088Local.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/088Local.html]]></guid>
-    <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Safari (insanely) displays app extension icons]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2024/11/2.html]]></link>
@@ -185,43 +257,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Testing requirements with #require in Swift Testing]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/testing-requirements-with-require-in-swift-testing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/testing-requirements-with-require-in-swift-testing/]]></guid>
-    <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Black Friday Sale]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2024/black_friday/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2024/black_friday/]]></guid>
-    <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[LucaP ERP: Exploring ERP Under the Hood]]></title>
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2024/11/27/lucap-erp-exploring-erp-under-the-hood/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2024/11/27/lucap-erp-exploring-erp-under-the-hood/]]></guid>
     <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Case Against TCA]]></title>
-    <description><![CDATA[https://maxhumber.com/swift]]></description>
-    <link><![CDATA[https://maxhumber.com/tcatca]]></link>
-    <guid isPermaLink="true"><![CDATA[https://maxhumber.com/tcatca]]></guid>
-    <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updating My Bluesky Handle Was Surprisingly Easy]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2024/11/26/updating-my-bluesky-handle-was-surprisingly-easy/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/11/26/updating-my-bluesky-handle-was-surprisingly-easy/]]></guid>
-    <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -277,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-charts-plotting-functions/]]></guid>
-    <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Working with Natural Language framework]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/working-with-natural-language-framework]]></guid>
     <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,22 +401,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to create and upload high-quality App Store assets with RocketSim and Helm]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/creating-and-uploading-app-store-assets/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/creating-and-uploading-app-store-assets/]]></guid>
-    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Follow Dejal on Mastodon, Bluesky, Threads, Micro.blog, Facebook, Reddit, and more]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/social-networks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/social-networks/]]></guid>
-    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to use open source AI tools for development]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[https://onmyway133.com/posts/how-to-use-open-source-ai-tools-for-development/]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Mental Model For Prompting Large Language Models]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2024/11/14/prompting-large-lanuage-models/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/11/14/prompting-large-lanuage-models/]]></guid>
-    <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Curing Mac mini M4 fomo with 3D printing]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2024/11/mac-mini-m4-prints/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2024/11/mac-mini-m4-prints/]]></guid>
-    <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
