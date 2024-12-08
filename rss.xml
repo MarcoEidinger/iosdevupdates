@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Dec 2024 14:08:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Dec 2024 16:09:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ServerSide.swift 2024 Conference Recap]]></title>
+    <description><![CDATA[https://www.timc.dev]]></description>
+    <link><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></guid>
+    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Copy a string to the clipboard in Swift on macOS]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Done App Announcement]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/done-rebrand/]]></guid>
     <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
