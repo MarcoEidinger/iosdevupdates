@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Dec 2024 18:09:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Dec 2024 20:09:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ServerSide.swift 2024 Conference Recap]]></title>
     <description><![CDATA[https://www.timc.dev]]></description>
     <link><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></guid>
+    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Please Don't Rain Press Kit]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://smashswift.com/]]></description>
     <link><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keyboard Rabbit Hole]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/keyboard-rabbit-hole/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
