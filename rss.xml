@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Dec 2024 00:27:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Dec 2024 02:36:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[spatial embed test]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></guid>
+    <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ServerSide.swift 2024 Conference Recap]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/quick-thoughts-bluesky-masto-threads]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/quick-thoughts-bluesky-masto-threads]]></guid>
-    <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How To Translate Single View In SwiftUI]]></title>
-    <description><![CDATA[https://smashswift.com/]]></description>
-    <link><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://smashswift.com/how-to-translate-single-view-in-swiftui/]]></guid>
     <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
