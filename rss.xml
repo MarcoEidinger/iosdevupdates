@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Dec 2024 18:10:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Dec 2024 20:09:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Selling Outside of the Mac App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/09/selling-outside-of-the-mac-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/09/selling-outside-of-the-mac-app-store/]]></guid>
+    <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #61 : Two Hours Without a Smartphone]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/CopyStringToClipboardInSwiftOnMacOS]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CopyStringToClipboardInSwiftOnMacOS]]></guid>
     <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Key Repeat in Sequoia]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/06/key-repeat-in-sequoia/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/06/key-repeat-in-sequoia/]]></guid>
-    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
