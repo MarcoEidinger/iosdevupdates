@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Dec 2024 10:10:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Dec 2024 12:12:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[🎙️ How to Build A Great CV ft Ana Nogal]]></title>
@@ -22,6 +22,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></guid>
     <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing custom package collections]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></guid>
+    <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weeknotes № 49]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/2024-49]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-49]]></guid>
+    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -153,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Typefully: Say Goodbye to the Hassles of Social Media Posting]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/typefully-say-goodbye-to-the-hassles-of-social-media-posting/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/typefully-say-goodbye-to-the-hassles-of-social-media-posting/]]></guid>
-    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Updating Sankey]]></title>
     <description><![CDATA[https://maxhumber.com/swift]]></description>
     <link><![CDATA[https://maxhumber.com/updatingsankey]]></link>
@@ -238,14 +246,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftrocks.com/what-happens-when-you-move-a-file-in-git]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/what-happens-when-you-move-a-file-in-git]]></guid>
     <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weeknotes № 48]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/2024-48]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-48]]></guid>
-    <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
