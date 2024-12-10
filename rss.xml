@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Dec 2024 20:10:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Dec 2024 22:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Suspicious Package Keeps on Tickin’]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/10/suspicious-package-keeps-on-tickin/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/10/suspicious-package-keeps-on-tickin/]]></guid>
+    <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 246 - Wandering]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.avanderlee.com/swift/sf-symbol-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/sf-symbol-guide/]]></guid>
     <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Selling Outside of the Mac App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/09/selling-outside-of-the-mac-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/09/selling-outside-of-the-mac-app-store/]]></guid>
-    <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
