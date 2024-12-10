@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Dec 2024 16:10:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Dec 2024 18:12:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 246 - Wandering]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/32f09cac953f/246-wandering]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/32f09cac953f/246-wandering]]></guid>
+    <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SF Symbol: How to for Swift & SwiftUI]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-1/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-1/]]></guid>
-    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 89 - Recommit]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/089Recommit.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/089Recommit.html]]></guid>
     <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
