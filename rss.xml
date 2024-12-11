@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Dec 2024 14:11:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Dec 2024 16:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Mastering Forms in SwiftUI: Selecting Information]]></title>
@@ -361,7 +361,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Streamline previewing changes in your open source Swift apps – IcySky case study. ]]></title>
+    <title><![CDATA[ Streamline previewing changes in your open source Swift apps – IcySky case study ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2024/11/25/tuist-previews-in-opensource]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2024/11/25/tuist-previews-in-opensource]]></guid>
