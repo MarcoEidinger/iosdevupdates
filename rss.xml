@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Dec 2024 02:35:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Dec 2024 04:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reflections on Incident Metering]]></title>
+    <description><![CDATA[https://collin.blog/]]></description>
+    <link><![CDATA[https://collin.blog/2024/12/10/reflections-on-incident-metering/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/12/10/reflections-on-incident-metering/]]></guid>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Suspicious Package Keeps on Tickin’]]></title>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></guid>
-    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stop Infantilizing Trump Supporters]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2024/12/03/stop-infantilizing-trump-supporters/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/12/03/stop-infantilizing-trump-supporters/]]></guid>
     <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
