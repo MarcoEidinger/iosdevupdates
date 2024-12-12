@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Dec 2024 08:11:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Dec 2024 10:12:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mocking a network connection in your Swift Tests]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/mocking-a-network-connection-in-your-swift-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/mocking-a-network-connection-in-your-swift-tests/]]></guid>
+    <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[10 tips from 10 years of Hotwire Native]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/10-hotwire-native-tips]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/10-hotwire-native-tips]]></guid>
+    <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OmniFocus 4.5]]></title>
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></guid>
-    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Testing completion handler based code in Swift Testing]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/testing-completion-handler-based-code-in-swift-testing/]]></guid>
     <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://augmentedcode.io/blog/]]></description>
     <link><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/]]></guid>
-    <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deep Dive Into Environment In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/11/18/deep-dive-into-environment-in-swiftui]]></guid>
     <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
