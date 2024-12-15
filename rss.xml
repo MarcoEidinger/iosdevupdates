@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Dec 2024 20:09:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Dec 2024 22:08:44 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Exploring MLX Swift: Adding On-Device Vision Models to Your App]]></title>
+    <title><![CDATA[2024 Albums #7]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-7-dookie]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-7-dookie]]></guid>
+    <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring MLX Swift: Working with Generate Parameters for Language Models]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-vision-models/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-vision-models/]]></guid>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-working-with-generate-parameters-for-language-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-working-with-generate-parameters-for-language-models/]]></guid>
     <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2024/leetcode_448_find_all_numbers_disappeared_in_an_array/]]></guid>
-    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting consistent temperature preferences on iOS]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
