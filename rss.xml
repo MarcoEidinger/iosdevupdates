@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Dec 2024 10:08:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Dec 2024 12:12:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MLX Swift: Adding On-Device Inference to your App]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-inference-to-your-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-inference-to-your-app/]]></guid>
+    <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Finding unused code with Periphery]]></title>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/why-i-couldnt-hold-on-to-e-book-reader-b66a97054a36?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Cursor: Using Chat to Learn a New Framework]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-cursor-using-chat-to-learn-new-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-using-chat-to-learn-new-framework/]]></guid>
-    <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
