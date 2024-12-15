@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Dec 2024 12:12:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Dec 2024 14:08:10 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Exploring MLX Swift: Adding On-Device Inference to your App]]></title>
+    <title><![CDATA[Exploring MLX Swift: Configuring Different Models]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-inference-to-your-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-adding-on-device-inference-to-your-app/]]></guid>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-configuring-different-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-configuring-different-models/]]></guid>
     <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -22,14 +22,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://adamwulf.me/2024/12/finding-unused-code-with-periphery/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/12/finding-unused-code-with-periphery/]]></guid>
     <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode 16.2]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/13/xcode-16-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/13/xcode-16-2/]]></guid>
-    <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2024/11/20/ConsistentTemperaturePreferences/]]></guid>
     <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use open source AI tools for development]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[https://onmyway133.com/posts/how-to-use-open-source-ai-tools-for-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://onmyway133.com/posts/how-to-use-open-source-ai-tools-for-development/]]></guid>
+    <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
