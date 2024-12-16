@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Dec 2024 14:09:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Dec 2024 16:11:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #62 : Making Swift Stronger, Keeping It Simple]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alexandercohen]]></description>
     <link><![CDATA[https://medium.com/@alexandercohen/the-case-for-another-cache-116bf28c189e?source=rss-11158e34626c------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/the-case-for-another-cache-116bf28c189e?source=rss-11158e34626c------2]]></guid>
+    <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Rule of Small and Large]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2024/12/16/the-rule-of-small-and-large/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2024/12/16/the-rule-of-small-and-large/]]></guid>
     <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.fline.dev/swift-evolution-monthly-may-november-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-evolution-monthly-may-november-2024/]]></guid>
     <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build a Chatbot with OpenAI — Part 2]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-part-2-fe954d43d3ef?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/build-a-chatbot-with-openai-part-2-fe954d43d3ef?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
