@@ -6,13 +6,45 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Dec 2024 16:09:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Dec 2024 18:11:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mastering Forms in SwiftUI: Text Fields]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-text-fields/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-text-fields/]]></guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issues Adopting Swift Testing]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/17/issues-adopting-swift-testing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/17/issues-adopting-swift-testing/]]></guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Moon]]></title>
+    <description><![CDATA[https://ciechanow.ski/]]></description>
+    <link><![CDATA[https://ciechanow.ski/moon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ciechanow.ski/moon/]]></guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Never Miss a Localized String Value Again]]></title>
     <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
     <link><![CDATA[https://JacobZivanDesign.com/technology/never-miss-a-localized-string]]></link>
     <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/never-miss-a-localized-string]]></guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dealing With Image Playground and Source Image URLs]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/swiftui/iplay/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/iplay/]]></guid>
     <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -30,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-button-styles/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-button-styles/]]></guid>
     <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Take Control of Apple Media Apps]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/16/take-control-of-apple-media-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/16/take-control-of-apple-media-apps/]]></guid>
-    <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -185,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Bringing Image Playground to your app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/bringing-image-playground-to-your-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/bringing-image-playground-to-your-app/]]></guid>
-    <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Mocking a network connection in your Swift Tests]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/mocking-a-network-connection-in-your-swift-tests/]]></link>
@@ -261,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.timc.dev]]></description>
     <link><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></guid>
-    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Please Don't Rain Press Kit]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.stphndxn.com/swiftui-zoom-navigation-transitions-add-a-touch-of-magic-to-your-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/swiftui-zoom-navigation-transitions-add-a-touch-of-magic-to-your-app/]]></guid>
     <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generating JWT Tokens in Swift for the App Store Connect API]]></title>
-    <description><![CDATA[https://bootstragram.com/tag/ios/]]></description>
-    <link><![CDATA[https://bootstragram.com/blog/jwt-tokens-app-store-connect-api-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bootstragram.com/blog/jwt-tokens-app-store-connect-api-swift]]></guid>
-    <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
