@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Dec 2024 22:09:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Dec 2024 00:26:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Button: Custom Styles, Variants, and Best Practices]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-button-styles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-button-styles/]]></guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Take Control of Apple Media Apps]]></title>
@@ -174,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://collin.blog/2024/12/10/reflections-on-incident-metering/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2024/12/10/reflections-on-incident-metering/]]></guid>
     <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SF Symbol: How to for Swift & SwiftUI]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/sf-symbol-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/sf-symbol-guide/]]></guid>
-    <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
