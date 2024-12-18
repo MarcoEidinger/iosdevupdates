@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 18 Dec 2024 10:10:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Dec 2024 12:12:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sending vs Sendable in Swift]]></title>
@@ -81,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Noncopyable types in Swift]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/NoncopyableTypesInSwift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/NoncopyableTypesInSwift]]></guid>
-    <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Restoring Reflective Code Loading on macOS]]></title>
     <description><![CDATA[https://objective-see.org/blog.html]]></description>
     <link><![CDATA[https://objective-see.org/blog/blog_0x7C.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://objective-see.org/blog/blog_0x7C.html]]></guid>
+    <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Noncopyable types in Swift]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/NoncopyableTypesInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/NoncopyableTypesInSwift]]></guid>
     <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
