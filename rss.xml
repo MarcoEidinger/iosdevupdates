@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 20 Dec 2024 16:09:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Dec 2024 18:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 91 - Gone]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2024/091Gone.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/091Gone.html]]></guid>
+    <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Data Flow: Passing Data Between Views]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swiftui-data-flow/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-data-flow/]]></guid>
     <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://otavio.cc/defaults-in-december-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/defaults-in-december-2024/]]></guid>
     <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Concurrency Step-by-Step: Reading from Storage]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/step-by-step-reading-from-storage]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/step-by-step-reading-from-storage]]></guid>
-    <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
