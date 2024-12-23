@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Dec 2024 12:12:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Dec 2024 14:09:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fatbobman's Swift Weekly #63 : Breakthroughs in Xenotransplantation of Kidneys]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-063/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-063/]]></guid>
+    <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Tutorials: Learn Swift with Easy-to-Follow Code Examples]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/nutrient-ios-sdk-14-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/2024/nutrient-ios-sdk-14-2/]]></guid>
-    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[On the Consolation of Software Engineering]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2024/12/on-the-consolation-of-software-engineering/]]></guid>
     <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
