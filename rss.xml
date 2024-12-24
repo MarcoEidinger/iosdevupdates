@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Dec 2024 22:09:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Dec 2024 00:26:25 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Deleting Unused Photos From Apple Photos]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/12/23/deleting-unused-photos-from-apple-photos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/23/deleting-unused-photos-from-apple-photos/]]></guid>
+    <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2024 Reading #3]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-3-jonathan-strange-mr-norrell]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-3-jonathan-strange-mr-norrell]]></guid>
     <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></guid>
-    <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2024 Albums #7]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-7-dookie]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2024/2024-album-7-dookie]]></guid>
     <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
