@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Dec 2024 20:09:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Dec 2024 22:10:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple to Defend Google Revenue Sharing Agreement]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2024/12/27/apple-to-defend-google-revenue-sharing-agreement/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/27/apple-to-defend-google-revenue-sharing-agreement/]]></guid>
+    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 92 - Advice]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/092Advice.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/092Advice.html]]></guid>
+    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Power of ShapeStyle for Colour theming in SwiftUI]]></title>
@@ -33,14 +49,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 248 - First]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/b1025430c404/248-first]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/b1025430c404/248-first]]></guid>
-    <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why Certain View Modifiers in Swift 6 Cannot Use the @State Property]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/why-certain-view-modifiers-in-swift-6-cannot-usethe-state-property/]]></link>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2024-review]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-review]]></guid>
-    <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deleting Unused Photos From Apple Photos]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2024/12/23/deleting-unused-photos-from-apple-photos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/23/deleting-unused-photos-from-apple-photos/]]></guid>
     <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
