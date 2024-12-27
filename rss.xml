@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Dec 2024 00:25:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Dec 2024 02:31:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Advanced WidgetKit Configuration with AppIntents]]></title>
@@ -461,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/i-used-ai-to-open-source-a-tool-the-gap-between-junior-and-senior-will-increase-b3bf7fb51a84?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-used-ai-to-open-source-a-tool-the-gap-between-junior-and-senior-will-increase-b3bf7fb51a84?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Core Location Modern API Tips]]></title>
-    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
-    <link><![CDATA[https://twocentstudios.com/2024/12/02/core-location-modern-api-tips/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2024/12/02/core-location-modern-api-tips/]]></guid>
     <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
