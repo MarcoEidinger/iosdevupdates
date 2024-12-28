@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 28 Dec 2024 00:24:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Dec 2024 02:28:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple to Defend Google Revenue Sharing Agreement]]></title>
@@ -109,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-ai-cosine-similarity-rag-accelerate-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-ai-cosine-similarity-rag-accelerate-swift/]]></guid>
+    <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a particles snow effect with SpriteKit and SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/spritekit-particles-snow-effect-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/spritekit-particles-snow-effect-swiftui]]></guid>
     <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -382,14 +390,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></guid>
     <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding opaque types in Swift]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swift-opaque-types]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-opaque-types]]></guid>
-    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
