@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 28 Dec 2024 22:08:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Dec 2024 00:26:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Photos phones home on iOS 18 and macOS 15]]></title>
@@ -54,6 +54,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://kylebashour.com/posts/advanced-widgetkit]]></link>
     <guid isPermaLink="true"><![CDATA[http://kylebashour.com/posts/advanced-widgetkit]]></guid>
     <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Copilot to write a raindrop audio synthesizer using AVAudioEngine]]></title>
+    <description><![CDATA[https://www.cocoawithlove.com/]]></description>
+    <link><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></guid>
+    <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://maxhumber.com/updatingsankey]]></link>
     <guid isPermaLink="true"><![CDATA[https://maxhumber.com/updatingsankey]]></guid>
     <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Create Dynamic iOS Apps: Remote Styling with SwiftUI]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/how-to-create-dynamic-ios-apps-remote-styling-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-create-dynamic-ios-apps-remote-styling-with-swiftui/]]></guid>
-    <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
