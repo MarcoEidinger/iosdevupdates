@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 29 Dec 2024 20:08:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Dec 2024 22:08:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Conferences: Winning WWDC 2019 Scholarship]]></title>
@@ -14,6 +14,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating example git log data with jc]]></title>
+    <description><![CDATA[https://blog.skagedal.tech]]></description>
+    <link><![CDATA[https://blog.skagedal.tech/2024/12/29/creating-example-git-log-data-with-jc.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2024/12/29/creating-example-git-log-data-with-jc.html]]></guid>
+    <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-88-introducing-preminder-weather-events-1-1-time-out-tip/]]></guid>
-    <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updating Sankey]]></title>
-    <description><![CDATA[https://maxhumber.com/swift]]></description>
-    <link><![CDATA[https://maxhumber.com/updatingsankey]]></link>
-    <guid isPermaLink="true"><![CDATA[https://maxhumber.com/updatingsankey]]></guid>
     <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
