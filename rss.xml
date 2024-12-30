@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Dec 2024 16:10:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Dec 2024 18:10:28 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #64 : Happy New Year 2025]]></title>
@@ -109,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
     <link><![CDATA[https://alexanderweiss.dev2024-12-27-the-power-of-shapestyle-for-colour-theming-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev2024-12-27-the-power-of-shapestyle-for-colour-theming-in-swiftui]]></guid>
+    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Accessibility That Fits]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[http://khanlou.com/2024/12/accessibility-that-fits/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://khanlou.com/2024/12/accessibility-that-fits/]]></guid>
     <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://scottberrevoets.com/2024/12/08/looking-up-words-in-a-dictionary-with-neovim/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2024/12/08/looking-up-words-in-a-dictionary-with-neovim/]]></guid>
     <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Advent of iOS Accessibility]]></title>
-    <description><![CDATA[https://dadederk.github.io]]></description>
-    <link><![CDATA[https://dadederk.github.io/post/2024-12-06-01/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dadederk.github.io/post/2024-12-06-01/]]></guid>
-    <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
