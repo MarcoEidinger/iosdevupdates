@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Dec 2024 18:10:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Dec 2024 20:09:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Dejal year in review: 2024]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejal-year-in-review-2024/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejal-year-in-review-2024/]]></guid>
+    <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fatbobman's Swift Weekly #64 : Happy New Year 2025]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/CustomizingMacOSWindowBackgroundInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CustomizingMacOSWindowBackgroundInSwiftUI]]></guid>
+    <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2024 in review]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/2024-in-review]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/2024-in-review]]></guid>
     <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,22 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.timc.dev]]></description>
     <link><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/2024-conference-recap]]></guid>
-    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple’s use of Swift and SwiftUI in iOS 18]]></title>
-    <description><![CDATA[https://blog.timac.org]]></description>
-    <link><![CDATA[https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/]]></guid>
-    <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Looking up words in a dictionary with Neovim]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2024/12/08/looking-up-words-in-a-dictionary-with-neovim/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2024/12/08/looking-up-words-in-a-dictionary-with-neovim/]]></guid>
     <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
