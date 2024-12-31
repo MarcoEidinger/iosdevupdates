@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 31 Dec 2024 14:10:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 31 Dec 2024 16:09:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 249 - Janus]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/07612101fd9a/249-janus]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/07612101fd9a/249-janus]]></guid>
+    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The internet is full of experts]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to keep your macOS app's menu bar item running after quitting the app]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/keep-menu-bar-running-after-quitting-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/keep-menu-bar-running-after-quitting-app/]]></guid>
     <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2024/12/27/apple-to-defend-google-revenue-sharing-agreement/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2024/12/27/apple-to-defend-google-revenue-sharing-agreement/]]></guid>
-    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 92 - Advice]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2024/092Advice.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2024/092Advice.html]]></guid>
     <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
     <link><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/spatial-embed-test/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-embed-test]]></guid>
-    <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing custom package collections]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/introducing-custom-package-collections]]></guid>
     <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
