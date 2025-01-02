@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 02 Jan 2025 20:10:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jan 2025 22:09:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[op run]]></title>
@@ -65,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -345,6 +345,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Separate Devices, Better Life: Why Personal Freedom Beats Using Your Work MacBook]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/career/why-you-should-not-use-companys-macbook-for-personal-usage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/why-you-should-not-use-companys-macbook-for-personal-usage/]]></guid>
+    <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Create a Safari Extension to Extract Article Content]]></title>
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/safari-extension-reader-mode/]]></link>
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appdecentral.com]]></description>
     <link><![CDATA[https://appdecentral.com/2024/12/13/now-we-are-all-forked/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appdecentral.com/2024/12/13/now-we-are-all-forked/]]></guid>
-    <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Get Into Software Engineering]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/career/how-to-get-into-software-engineering/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/how-to-get-into-software-engineering/]]></guid>
     <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
