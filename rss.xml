@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 02 Jan 2025 18:12:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jan 2025 20:10:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[op run]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/01/02/op-run/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/02/op-run/]]></guid>
+    <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Resolutions]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.makwanbk.com]]></description>
     <link><![CDATA[https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Retiring Script Debugger]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/01/01/retiring-script-debugger/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/01/retiring-script-debugger/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
