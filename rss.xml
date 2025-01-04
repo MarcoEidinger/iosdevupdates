@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 03 Jan 2025 22:10:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jan 2025 00:24:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 93 - Annabelle]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/093Annabelle.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/093Annabelle.html]]></guid>
+    <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[op run]]></title>
@@ -65,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -86,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/2025-Indie-Goals]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/2025-Indie-Goals]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 249 - Janus]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/07612101fd9a/249-janus]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/07612101fd9a/249-janus]]></guid>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
