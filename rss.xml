@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 Jan 2025 14:09:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jan 2025 16:09:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Technology is never a substitute for consent]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/1/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/1/1.html]]></guid>
+    <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My Home Automation setup]]></title>
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/my-home-automation-setup]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/my-home-automation-setup]]></guid>
+    <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating tiny utility apps with SwiftUI Previews]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/01/04/creating-tiny-utility-apps-with-swiftui-previews]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/01/04/creating-tiny-utility-apps-with-swiftui-previews]]></guid>
     <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2024/12/best-vinyl-of-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/12/best-vinyl-of-2024/]]></guid>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The internet is full of experts]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2024/12/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2024/12/4.html]]></guid>
     <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
@@ -357,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></guid>
-    <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a SwiftUI text view with tappable links]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2024/12/18/creating-a-swiftui-text-view-with-tappable-links]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2024/12/18/creating-a-swiftui-text-view-with-tappable-links]]></guid>
     <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
