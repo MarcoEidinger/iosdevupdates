@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 05 Jan 2025 18:09:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jan 2025 20:09:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Understanding opaque types and protocols with associatedtype in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-opaque-types-protocols-associatedtype]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-opaque-types-protocols-associatedtype]]></guid>
+    <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[On Asking Multiple Questions]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2025/1/on-asking-questions/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/1/on-asking-questions/]]></guid>
+    <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Technology is never a substitute for consent]]></title>
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/2025-Indie-Goals]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/2025-Indie-Goals]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Best Vinyl of 2024]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[http://mikezornek.com/posts/2024/12/best-vinyl-of-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2024/12/best-vinyl-of-2024/]]></guid>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/career/how-to-get-into-software-engineering/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/how-to-get-into-software-engineering/]]></guid>
-    <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[#7 XCTest vs Swift Testing: A modern way of linking bugs]]></title>
-    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
-    <link><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/7-bugs-linking/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-testing-vs-xctest/7-bugs-linking/]]></guid>
     <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
