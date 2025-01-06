@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jan 2025 08:10:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jan 2025 10:10:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The second overflow bug: Implementing a clock in React]]></title>
+    <description><![CDATA[https://blog.skagedal.tech]]></description>
+    <link><![CDATA[https://blog.skagedal.tech/2025/01/06/seconds-aligned-time-source-in-react.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/01/06/seconds-aligned-time-source-in-react.html]]></guid>
+    <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Understanding opaque types and protocols with associatedtype in Swift]]></title>
@@ -214,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating example git log data with jc]]></title>
-    <description><![CDATA[https://blog.skagedal.tech]]></description>
-    <link><![CDATA[https://blog.skagedal.tech/2024/12/29/creating-example-git-log-data-with-jc.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2024/12/29/creating-example-git-log-data-with-jc.html]]></guid>
-    <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
