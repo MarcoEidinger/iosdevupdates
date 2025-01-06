@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jan 2025 18:09:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jan 2025 20:08:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Preparing for a technical iOS job interview with questions and answers in 2025 - book preview]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/book-ios-interview-questions-and-answers-preview]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/book-ios-interview-questions-and-answers-preview]]></guid>
+    <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI KFImage notes]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></guid>
-    <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Library customization with SPM plugin]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin]]></guid>
     <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
