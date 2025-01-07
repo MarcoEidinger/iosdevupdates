@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 Jan 2025 12:13:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jan 2025 15:01:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Enhance UI/UX with the confirmation dialog component]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/enhance-ui-ux-with-the-confirmation-dialog-component/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enhance-ui-ux-with-the-confirmation-dialog-component/]]></guid>
+    <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Americans Travel. Please Don’t Block Us.]]></title>
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></guid>
     <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reading and displaying Genmoji in non-rich text formatted data context]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/reading-and-displaying-genmoji-in-non-rich-text-formatted-data-context/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/reading-and-displaying-genmoji-in-non-rich-text-formatted-data-context/]]></guid>
-    <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
