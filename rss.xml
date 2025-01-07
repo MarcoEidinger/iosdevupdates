@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jan 2025 22:09:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jan 2025 00:25:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Is software engineering a thing?]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2025/01/is-software-engineering-a-thing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/is-software-engineering-a-thing/]]></guid>
+    <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS App Development: How to get started?]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/ios-app-development-software-how-to/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/ios-app-development-software-how-to/]]></guid>
+    <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS 18.2.1 and iPadOS 18.2.1]]></title>
@@ -97,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Resolutions]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/01/resolutions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/resolutions/]]></guid>
-    <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How a new Xcode 16 feature helped my work project eliminate 66,000 lines of code]]></title>
     <description><![CDATA[https://blog.makwanbk.com]]></description>
     <link><![CDATA[https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code]]></link>
@@ -125,6 +133,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://qnoid.com]]></description>
     <link><![CDATA[https://qnoid.com/2025/01/01/2025.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://qnoid.com/2025/01/01/2025.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dejal plans for 2025]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejal-plans-for-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejal-plans-for-2025/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -182,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2024/12/31/signing-macos-clis]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2024/12/31/signing-macos-clis]]></guid>
     <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftLee in 2024: Lessons learned and achievements]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/general/swiftlee-in-2024-lessons-learned-and-achievements/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/general/swiftlee-in-2024-lessons-learned-and-achievements/]]></guid>
-    <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2024/12/translating-an-ios-mac-app-with-ai-and-humans/]]></guid>
-    <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Library customization with SPM plugin]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin]]></guid>
     <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
