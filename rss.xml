@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Jan 2025 16:09:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jan 2025 18:11:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift 6: Typed Throws]]></title>
@@ -149,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2025/1/on-asking-questions/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/1/on-asking-questions/]]></guid>
+    <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dealing with Floating-Point Precision in Swift]]></title>
+    <description><![CDATA[https://amin.benarieb.com/]]></description>
+    <link><![CDATA[https://amin.benarieb.com/posts/floating-precision/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://amin.benarieb.com/posts/floating-precision/]]></guid>
     <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/hotwire-native-1.1]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/hotwire-native-1.1]]></guid>
     <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Moon]]></title>
-    <description><![CDATA[https://ciechanow.ski/]]></description>
-    <link><![CDATA[https://ciechanow.ski/moon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ciechanow.ski/moon/]]></guid>
-    <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
