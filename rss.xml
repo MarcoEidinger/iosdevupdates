@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Jan 2025 20:09:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jan 2025 22:09:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Opting Out of “Help Apple Improve Search”]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/swift-6-typed-throws/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/swift-6-typed-throws/]]></guid>
+    <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a debounced search context for performant SwiftUI searches]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/01/08/creating-a-debounced-search-context-for-performant-swiftui-searches]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/01/08/creating-a-debounced-search-context-for-performant-swiftui-searches]]></guid>
     <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating tiny utility apps with SwiftUI Previews]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2025/01/04/creating-tiny-utility-apps-with-swiftui-previews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/01/04/creating-tiny-utility-apps-with-swiftui-previews]]></guid>
-    <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How a new Xcode 16 feature helped my work project eliminate 66,000 lines of code]]></title>
     <description><![CDATA[https://blog.makwanbk.com]]></description>
     <link><![CDATA[https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code]]></link>
@@ -225,18 +225,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best of 2024]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
