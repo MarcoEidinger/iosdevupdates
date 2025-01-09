@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 Jan 2025 12:12:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jan 2025 14:08:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keyboard-driven actions in SwiftUI with onKeyPress]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/keyboard-driven-actions-in-swiftui-with-onkeypress/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/keyboard-driven-actions-in-swiftui-with-onkeypress/]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Take on Apple Intelligence at Unwrap Live 2025]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/274/take-on-apple-intelligence-at-unwrap-live-2025]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/274/take-on-apple-intelligence-at-unwrap-live-2025]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Introduction to JWTs in Swift ]]></title>
+    <description><![CDATA[https://swiftonserver.com/]]></description>
+    <link><![CDATA[https://swiftonserver.com/2025/jwt-kit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/2025/jwt-kit/]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftData CRUD Operations with ModelActor]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Opting Out of “Help Apple Improve Search”]]></title>
@@ -69,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/94542f3db80c/250-distance]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/94542f3db80c/250-distance]]></guid>
-    <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Enhance UI/UX with the confirmation dialog component]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/enhance-ui-ux-with-the-confirmation-dialog-component/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enhance-ui-ux-with-the-confirmation-dialog-component/]]></guid>
     <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,18 +249,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -302,14 +326,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Getting Started with MongoKitten ]]></title>
-    <description><![CDATA[https://swiftonserver.com/]]></description>
-    <link><![CDATA[https://swiftonserver.com/getting-started-with-mongokitten/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/getting-started-with-mongokitten/]]></guid>
-    <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></guid>
-    <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Ultimate Guide To Validation Patterns In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2024/12/18/the-ultimate-guide-to-validation-patterns-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2024/12/18/the-ultimate-guide-to-validation-patterns-in-swiftui]]></guid>
     <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
