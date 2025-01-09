@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 Jan 2025 14:08:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jan 2025 16:10:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Is 2025 the year to fully adopt Swift 6?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/is-2025-the-year-to-fully-adopt-swift-6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/is-2025-the-year-to-fully-adopt-swift-6/]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keyboard-driven actions in SwiftUI with onKeyPress]]></title>
@@ -249,18 +257,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best of 2024]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/safari-extension-reader-mode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/safari-extension-reader-mode/]]></guid>
-    <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sending vs Sendable in Swift]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/sending-vs-sendable-in-swift/]]></guid>
     <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
