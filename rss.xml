@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Jan 2025 18:09:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jan 2025 20:09:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using withObservationTracking to monitor changes in @Observable properties outside SwiftUI views]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://www.massicotte.org/outside-in-migration]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/outside-in-migration]]></guid>
+    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bringing App Intents to your SwiftUI App 🍭]]></title>
+    <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
+    <link><![CDATA[https://tiagohenriques.vercel.app/blog/bringing-app-intents-to-your-swiftui-app]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/bringing-app-intents-to-your-swiftui-app]]></guid>
     <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,18 +305,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -334,6 +342,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2024/12/31/signing-macos-clis]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2024/12/31/signing-macos-clis]]></guid>
     <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[🫣 2024 wrapped 🥁]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue27]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue27]]></guid>
+    <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://matteomanferdini.com/swiftui-data-flow/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-data-flow/]]></guid>
     <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Framework Next Door]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/the-framework-next-door/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/the-framework-next-door/]]></guid>
-    <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[UIKit DiffableDataSource API inconsistencies with Swift Concurrency annotations explained]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2024/12/19/diffable-data-source-main-actor-inconsistency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2024/12/19/diffable-data-source-main-actor-inconsistency/]]></guid>
-    <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
