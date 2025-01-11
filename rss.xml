@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Jan 2025 16:09:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jan 2025 18:09:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using withObservationTracking to monitor changes in @Observable properties outside SwiftUI views]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/observable-outside-of-a-view/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/observable-outside-of-a-view/]]></guid>
+    <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fool Me Once…]]></title>
@@ -289,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best of 2024]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to keep your macOS app's menu bar item running after quitting the app]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/keep-menu-bar-running-after-quitting-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/keep-menu-bar-running-after-quitting-app/]]></guid>
     <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
