@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 Jan 2025 18:10:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jan 2025 20:09:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bezel 2.5.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/01/14/bezel-2-5-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/14/bezel-2-5-1/]]></guid>
+    <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Tab View Styles in SwiftUI]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/list-style-selection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/list-style-selection/]]></guid>
-    <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[This Remote Has Me Questioning Everything]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/01/13/this-remote-has-me-questioning-everything/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/13/this-remote-has-me-questioning-everything/]]></guid>
     <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
