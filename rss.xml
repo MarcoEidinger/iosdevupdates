@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Jan 2025 08:11:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jan 2025 10:09:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Add launch at login setting to a macOS app]]></title>
@@ -97,7 +97,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fatbobman's Swift Weekly #66 : Integrating AI into the Daily Workflow]]></title>
+    <title><![CDATA[Integrating AI into the Daily Workflow - Fatbobman's Swift Weekly #66]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-066/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-066/]]></guid>
