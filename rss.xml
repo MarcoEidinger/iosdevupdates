@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Jan 2025 20:10:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jan 2025 22:08:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Obtain View Dimensions in SwiftUI]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/01/17/how-to-obtain-view-dimensions-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/17/how-to-obtain-view-dimensions-in-swiftui/]]></guid>
+    <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Sequoia iCloud Photos configuration profile bug]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2025/01/16/introducing-hana/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/01/16/introducing-hana/]]></guid>
-    <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Let the User Help Solve Their Own Problem]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/01/16/let-the-user-help-solve-their-own-problem/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/16/let-the-user-help-solve-their-own-problem/]]></guid>
     <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -361,18 +361,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
