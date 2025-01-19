@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Jan 2025 20:09:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jan 2025 20:32:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Want to Learn Sketchnoting? – My Vision for 2025]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
+    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Remove unused code in a real-world iOS project]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,6 +121,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Case Study: Improving the Effeciency of Software Development Teams Dependent on Another Team]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/feature-flags-case-study/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/feature-flags-case-study/]]></guid>
+    <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Light Without Boundaries]]></title>
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/light-without-boundaries/]]></link>
@@ -134,6 +150,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2025/01/16/making-macos-terminal-use-case-insensitive-autocomplete]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/01/16/making-macos-terminal-use-case-insensitive-autocomplete]]></guid>
     <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[[Video] Swift Argument Parser with Guilherme Rambo]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/clis-rambo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/clis-rambo]]></guid>
+    <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -241,6 +265,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Some Retrobatch Droplet Tips]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/1/some_retrobatch_droplet_tips.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/1/some_retrobatch_droplet_tips.html]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Take on Apple Intelligence at Unwrap Live 2025]]></title>
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/274/take-on-apple-intelligence-at-unwrap-live-2025]]></link>
@@ -261,6 +293,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
     <link><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating custom SF Symbols using the SF Symbols app]]></title>
+    <description><![CDATA[https://peterfriese.dev]]></description>
+    <link><![CDATA[https://peterfriese.dev/blog/2025/custom-sf-symbols/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/custom-sf-symbols/]]></guid>
     <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -377,18 +417,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -430,46 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/2024-52]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-52]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring Conferences: Winning WWDC 2019 Scholarship]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
-    <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accessibility That Fits]]></title>
-    <description><![CDATA[https://khanlou.com/]]></description>
-    <link><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></guid>
-    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Advanced WidgetKit Configuration with AppIntents]]></title>
-    <description><![CDATA[https://kylebashour.com/]]></description>
-    <link><![CDATA[http://kylebashour.com/posts/advanced-widgetkit]]></link>
-    <guid isPermaLink="true"><![CDATA[http://kylebashour.com/posts/advanced-widgetkit]]></guid>
-    <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Copilot to write a raindrop audio synthesizer using AVAudioEngine]]></title>
-    <description><![CDATA[https://www.cocoawithlove.com/]]></description>
-    <link><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.cocoawithlove.com/blog/copilot-raindrop-generator.html]]></guid>
-    <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Markdown links can do what?]]></title>
-    <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
-    <link><![CDATA[https://JacobZivanDesign.com/technology/links_in_swiftui_markdown_do_what]]></link>
-    <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/links_in_swiftui_markdown_do_what]]></guid>
-    <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
