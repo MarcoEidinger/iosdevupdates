@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Jan 2025 12:11:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jan 2025 16:08:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Effortless SwiftUI Theming]]></title>
+    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
+    <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
+    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to check if a modifier key is pressed when clicking on a menu bar item in macOS apps]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/menu-bar-modifier-key/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/menu-bar-modifier-key/]]></guid>
+    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Obtain View Dimensions in SwiftUI]]></title>
@@ -173,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/01/in-which-things-are-not-known/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/in-which-things-are-not-known/]]></guid>
-    <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using withObservationTracking to monitor changes in @Observable properties outside SwiftUI views]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/observable-outside-of-a-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/observable-outside-of-a-view/]]></guid>
     <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -361,18 +369,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Best of 2024]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best of 2024]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -422,14 +430,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Power of ShapeStyle for Colour theming in SwiftUI]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2024-12-27-the-power-of-shapestyle-for-colour-theming-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2024-12-27-the-power-of-shapestyle-for-colour-theming-in-swiftui]]></guid>
-    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 <item>
