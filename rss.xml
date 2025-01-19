@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Jan 2025 16:08:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jan 2025 18:10:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Effortless SwiftUI Theming]]></title>
@@ -273,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sinclair Trails 2024 theme for Time Out]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/sinclair-trails-2024-theme-for-time-out/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/sinclair-trails-2024-theme-for-time-out/]]></guid>
-    <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Adopting Swift 6 across the app codebase]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/01/07/adopting-swift6-across-the-app-codebase]]></link>
@@ -369,18 +361,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best of 2024]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-3-jonathan-strange-mr-norrell]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2024-reading-3-jonathan-strange-mr-norrell]]></guid>
+    <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring TabView Advancements in SwiftUI – Part 2]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-tabview-advancements-in-swiftui-part-2/]]></guid>
     <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
