@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Jan 2025 14:13:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jan 2025 16:11:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating a reusable action menu component in SwiftUI]]></title>
+    <description><![CDATA[https://peterfriese.dev]]></description>
+    <link><![CDATA[https://peterfriese.dev/blog/2025/swiftui-action-menu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/swiftui-action-menu/]]></guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Weekly Newsletter Progress and Blog Updates - Fatbobman's Swift Weekly #67]]></title>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
     <link><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></guid>
-    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating custom SF Symbols using the SF Symbols app]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2025/custom-sf-symbols/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/custom-sf-symbols/]]></guid>
     <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
