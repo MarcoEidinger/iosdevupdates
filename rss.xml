@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Jan 2025 12:13:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jan 2025 14:13:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Weekly Newsletter Progress and Blog Updates - Fatbobman's Swift Weekly #67]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-067/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-067/]]></guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[RocketSim 13.0: Builds Apps Faster]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/xcode/rocketsim-simulator-tool/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/rocketsim-simulator-tool/]]></guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Testing in Swift — Part 1]]></title>
@@ -190,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mailchi.mp/0be8c7c44620/251-levers]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/0be8c7c44620/251-levers]]></guid>
     <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Lists: Present rows of data explained with code examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/list-style-selection/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/list-style-selection/]]></guid>
-    <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -409,18 +417,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best of 2024]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/01/01/best_of_2024]]></guid>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I Used ChatGPT Over A Long Weekend]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/1/1/how-i-used-chatgpt/]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accessibility That Fits]]></title>
-    <description><![CDATA[https://khanlou.com/]]></description>
-    <link><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></guid>
-    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
