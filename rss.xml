@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Jan 2025 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jan 2025 12:13:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Testing in Swift — Part 1]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-1-262d1ce0989e?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-1-262d1ce0989e?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[✅ Part 2 of Bringing App Intents to Your SwiftUI App 🍭]]></title>
@@ -201,26 +209,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Integrating AI into the Daily Workflow - Fatbobman's Swift Weekly #66]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-066/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-066/]]></guid>
-    <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to use cryptographic hash functions in CryptoKit for iOS security]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swift-hash-functions]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-hash-functions]]></guid>
-    <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Podcast Transcripts with WavoAI, Cursor, Hugo]]></title>
-    <description><![CDATA[https://adamwulf.me/]]></description>
-    <link><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></guid>
     <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +433,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Coding 2024 — A Year in Review]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/coding-2024-a-year-in-review-6072653e8853?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ The ultimate guide to signing CLIs for macOS (Darwin) ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2024/12/31/signing-macos-clis]]></link>
@@ -470,6 +454,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/2024-52]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2024-52]]></guid>
     <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring Conferences: Winning WWDC 2019 Scholarship]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-winning-wwdc-2019-scholarship/]]></guid>
+    <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Accessibility That Fits]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2024/12/accessibility-that-fits/]]></guid>
+    <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
