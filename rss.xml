@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 Jan 2025 04:11:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jan 2025 06:10:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Show a popover on iPhone in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/PopoverOniPhoneInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PopoverOniPhoneInSwiftUI]]></guid>
+    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Focus on being free]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.adambell.ca/]]></description>
     <link><![CDATA[https://blog.adambell.ca/posts/20250116-McLarens-And-CarPlay]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.adambell.ca/posts/20250116-McLarens-And-CarPlay]]></guid>
-    <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Add launch at login setting to a macOS app]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/LaunchAtLoginSetting]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/LaunchAtLoginSetting]]></guid>
     <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
