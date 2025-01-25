@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 25 Jan 2025 20:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jan 2025 22:08:44 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring MLX: Quantizing a Model with MLX for iOS Developers]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></guid>
+    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Swift Concurrency Glossary]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://www.massicotte.org/concurrency-glossary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/concurrency-glossary]]></guid>
     <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2025/01/10/accomplish-one-thing]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/01/10/accomplish-one-thing]]></guid>
-    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Migrating from the Outside in]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/outside-in-migration]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/outside-in-migration]]></guid>
     <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
