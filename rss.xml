@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 25 Jan 2025 08:10:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jan 2025 10:10:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MLX: Quantizing a Model with MLX for iOS Developers]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-quantizing-model-mlx-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-quantizing-model-mlx-ios/]]></guid>
+    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why Everyone Should Create Their Own To-Do List Apps (or System)?]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></guid>
+    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Edits and Clips]]></title>
@@ -445,22 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/a%C3%A7%C4%B1k%C3%A7as%C4%B1-tutturamad%C4%B1m-0228bcaa8ca1?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/a%C3%A7%C4%B1k%C3%A7as%C4%B1-tutturamad%C4%B1m-0228bcaa8ca1?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2025]]></title>
-    <description><![CDATA[https://qnoid.com]]></description>
-    <link><![CDATA[https://qnoid.com/2025/01/01/2025.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qnoid.com/2025/01/01/2025.html?utm_source=blog+rss+feed&utm_medium=rss&utm_campaign=rss+feed]]></guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[op run]]></title>
-    <description><![CDATA[https://nshipster.com]]></description>
-    <link><![CDATA[https://nshipster.com/1password-cli]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nshipster.com/1password-cli]]></guid>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
