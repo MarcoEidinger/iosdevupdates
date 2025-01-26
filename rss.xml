@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 25 Jan 2025 22:08:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jan 2025 00:24:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The gaps between the processes]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2025/01/the-gaps-between-the-processes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/the-gaps-between-the-processes/]]></guid>
+    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring MLX: Quantizing a Model with MLX for iOS Developers]]></title>
@@ -374,14 +382,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></guid>
     <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[In which things are not known]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/01/in-which-things-are-not-known/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/in-which-things-are-not-known/]]></guid>
-    <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
