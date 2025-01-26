@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 26 Jan 2025 06:10:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jan 2025 08:09:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The gaps between the processes]]></title>
@@ -89,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Generating Analytics Code with Mustache]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
     <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
     <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
     <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
+    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Generating Analytics Code with Mustache]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
