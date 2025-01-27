@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Jan 2025 10:10:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jan 2025 12:14:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What is Git Flow: A branching strategy you didn’t know you needed]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/what-is-git-flow-a-branching-strategy-you-didnt-know-you-needed-ad14ef015662?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/what-is-git-flow-a-branching-strategy-you-didnt-know-you-needed-ad14ef015662?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Network Link Conditioner: Simulating Slow Networking]]></title>
@@ -113,18 +121,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
-    <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
-    <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Generating Analytics Code with Mustache]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></guid>
+    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
+    <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
+    <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -341,14 +349,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/light-without-boundaries/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/light-without-boundaries/]]></guid>
-    <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Haptics in Jetpack Compose]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/haptics-in-jetpack-compose-06ac8adaf985?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/haptics-in-jetpack-compose-06ac8adaf985?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
