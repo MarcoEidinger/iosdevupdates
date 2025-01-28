@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Jan 2025 14:09:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jan 2025 16:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Writing better error messages for your apps]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/writing-better-error-messages-for-your-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/writing-better-error-messages-for-your-apps/]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Do Nothing]]></title>
+    <description><![CDATA[https://danielbernal.co]]></description>
+    <link><![CDATA[https://danielbernal.co/blog/2025/01/28/do-nothing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielbernal.co/blog/2025/01/28/do-nothing/]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Testing in Swift — Part 2]]></title>
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/01/28/container-relative-frames-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/01/28/container-relative-frames-in-swiftui]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Scores for NCAA Sports]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Introducing-Scores-for-NCAA-Sports-Division-1-2-and-3]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Introducing-Scores-for-NCAA-Sports-Division-1-2-and-3]]></guid>
     <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Designing digital products for a sustainable world]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/designing-digital-products-for-a-sustainable-world/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/designing-digital-products-for-a-sustainable-world/]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift 1:1: Protocols]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/swift-11-protocols/]]></link>
@@ -190,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
     <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Focus on being free]]></title>
-    <description><![CDATA[https://danielbernal.co]]></description>
-    <link><![CDATA[https://danielbernal.co/blog/2025/01/23/focus-on-being-free/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielbernal.co/blog/2025/01/23/focus-on-being-free/]]></guid>
-    <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/override-focus-sound-in-tvos]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/override-focus-sound-in-tvos]]></guid>
     <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI KFImage notes]]></title>
-    <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
-    <link><![CDATA[https://nemecek.be/blog/209/swiftui-kfimage-notes]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/209/swiftui-kfimage-notes]]></guid>
-    <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
