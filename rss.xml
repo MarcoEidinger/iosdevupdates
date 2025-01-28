@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Jan 2025 12:12:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jan 2025 14:09:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Testing in Swift — Part 2]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Provide macOS system-wide services from your app]]></title>
@@ -169,18 +177,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
-    <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
-    <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Generating Analytics Code with Mustache]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></guid>
+    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
+    <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
+    <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2025/swiftui-action-menu/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/swiftui-action-menu/]]></guid>
-    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Testing in Swift — Part 1]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-1-262d1ce0989e?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-1-262d1ce0989e?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
