@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 Jan 2025 06:12:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jan 2025 08:10:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Managing WebSocket messages concurrently with detached actions]]></title>
@@ -101,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></guid>
-    <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DeepSeek: Achieving More with Less - Fatbobman's Swift Weekly #68]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-068/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-068/]]></guid>
     <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/274/take-on-apple-intelligence-at-unwrap-live-2025]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/274/take-on-apple-intelligence-at-unwrap-live-2025]]></guid>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftData CRUD Operations with ModelActor]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor]]></guid>
     <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
