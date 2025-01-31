@@ -35,7 +35,7 @@ jobs:
         DEVELOPER_DIR: /Applications/Xcode_15.2.app/Contents/Developer
     - name: Copy blogs.json to content folder
       run: cp blogs.json content/
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: blogs.json
         path: content/blogs.json
