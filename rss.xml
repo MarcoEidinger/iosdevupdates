@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 31 Jan 2025 06:11:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jan 2025 08:10:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[My iPad coding wishlist for 2025]]></title>
@@ -70,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/DetachedActionsInDjangoChannelsRestFramework]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DetachedActionsInDjangoChannelsRestFramework]]></guid>
     <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Advantages of Using withAnimation]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/01/advantage-of-withAnimation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/01/advantage-of-withAnimation]]></guid>
-    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,6 +446,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></guid>
     <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fool Me Once…]]></title>
+    <description><![CDATA[https://ryanashcraft.com]]></description>
+    <link><![CDATA[https://ryanashcraft.com/fool-me-once/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/fool-me-once/]]></guid>
+    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
