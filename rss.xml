@@ -6,14 +6,54 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Jan 2025 12:12:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jan 2025 04:58:44 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Malimite 1.1]]></title>
+    <title><![CDATA[My iPad coding wishlist for 2025]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2025-01-30-ipad-coding-wishlist-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2025-01-30-ipad-coding-wishlist-2025/]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SLAP and FLOP Side-Channel Attacks]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/01/29/malimite-1-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/29/malimite-1-1/]]></guid>
-    <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    <link><![CDATA[https://mjtsai.com/blog/2025/01/30/slap-and-flop-side-channel-attacks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/01/30/slap-and-flop-side-channel-attacks/]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Welcome to the Machine]]></title>
+    <description><![CDATA[https://appdecentral.com]]></description>
+    <link><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[YouTube problem in macOS Safari]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/1/8.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/1/8.html]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Implementing tab bar in a SwiftUI app]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/implementing-tab-bar-in-a-swiftui-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-tab-bar-in-a-swiftui-app/]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #6: Krzysztof Zabłocki]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-krzysztof]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-krzysztof]]></guid>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -57,14 +97,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Writing better error messages for your apps]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/writing-better-error-messages-for-your-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/writing-better-error-messages-for-your-apps/]]></guid>
-    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Do Nothing]]></title>
     <description><![CDATA[https://danielbernal.co]]></description>
     <link><![CDATA[https://danielbernal.co/blog/2025/01/28/do-nothing/]]></link>
@@ -77,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></guid>
-    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Image Creation Tools Are Here]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/1/7.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/1/7.html]]></guid>
     <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -237,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
     <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
     <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generating Analytics Code with Mustache]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mustache-analytics]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,22 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2025/01/podcast-transcripts-with-wavoai-cursor-hugo/]]></guid>
     <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fool Me Once…]]></title>
-    <description><![CDATA[https://ryanashcraft.com]]></description>
-    <link><![CDATA[https://ryanashcraft.com/fool-me-once/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/fool-me-once/]]></guid>
-    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accomplish One Thing]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/01/10/accomplish-one-thing]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/01/10/accomplish-one-thing]]></guid>
-    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
