@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 02 Feb 2025 20:08:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Feb 2025 22:08:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Rethinking Our Color System: A Type-Safe Approach in Swift]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/drawing-maps-with-swift-charts]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/drawing-maps-with-swift-charts]]></guid>
+    <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How combine lists of Strings into natural and localized sentences in Swift]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/join-list-of-strings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/join-list-of-strings/]]></guid>
     <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -397,14 +405,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ericsspace.com/]]></description>
     <link><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></guid>
-    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to check if a modifier key is pressed when clicking on a menu bar item in macOS apps]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/menu-bar-modifier-key/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/menu-bar-modifier-key/]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
