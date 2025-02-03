@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Feb 2025 18:10:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 20:09:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What is Local-first Software?]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue31]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue31]]></guid>
+    <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Incremental Complexity in iOS Development]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2025/02/03/incremental-complexity-in-ios-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/02/03/incremental-complexity-in-ios-development/]]></guid>
     <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/hotwire-native-book-chapters]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/hotwire-native-book-chapters]]></guid>
     <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Case Study: Improving the Effeciency of Software Development Teams Dependent on Another Team]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/feature-flags-case-study/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/feature-flags-case-study/]]></guid>
-    <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
