@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Feb 2025 00:25:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 02:28:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple vs Google: AI Image Comparison]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/apple-vs-google-ai-image-comparison-7f8c3676e6e1?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/apple-vs-google-ai-image-comparison-7f8c3676e6e1?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AppleCare+ Only As a Subscription]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></guid>
-    <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is Git Flow: A branching strategy you didn’t know you needed]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/what-is-git-flow-a-branching-strategy-you-didnt-know-you-needed-ad14ef015662?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/what-is-git-flow-a-branching-strategy-you-didnt-know-you-needed-ad14ef015662?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
