@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Feb 2025 16:10:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 18:13:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Micro.blog journal]]></title>
@@ -193,6 +193,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Apple Mail app bugs finally pushed me to MailMate]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/1.html]]></guid>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[2024 in books]]></title>
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/books/]]></link>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appdecentral.com]]></description>
     <link><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></guid>
-    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[YouTube problem in macOS Safari]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/1/8.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/1/8.html]]></guid>
     <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
