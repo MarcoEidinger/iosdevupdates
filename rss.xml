@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Feb 2025 20:10:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 22:08:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Micro.blog journal]]></title>
@@ -353,7 +353,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift 1:1: Protocols]]></title>
+    <title><![CDATA[Swift 101: Protocols]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/swift-11-protocols/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/swift-11-protocols/]]></guid>
