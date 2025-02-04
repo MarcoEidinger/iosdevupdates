@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Feb 2025 18:13:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 20:10:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Micro.blog journal]]></title>
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></guid>
+    <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 254 - Accidents]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/637ba39f5bc1/254-accidents]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/637ba39f5bc1/254-accidents]]></guid>
     <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://artsabintsev.medium.com/]]></description>
     <link><![CDATA[https://medium.com/decentralized-infrastructure/grove-is-kicking-off-2025-with-a-new-website-an-xrpl-partnership-and-support-for-8-more-chains-4ebebc17c27c?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/grove-is-kicking-off-2025-with-a-new-website-an-xrpl-partnership-and-support-for-8-more-chains-4ebebc17c27c?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 97 - Driving Lessons]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/097DrivingLessons.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/097DrivingLessons.html]]></guid>
     <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
