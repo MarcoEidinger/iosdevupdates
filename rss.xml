@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Feb 2025 10:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Feb 2025 12:12:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Replit: Make Personal Apps for Yourself]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></guid>
+    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Invites]]></title>
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2025/01/25/activitykit-unavailable-on-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/01/25/activitykit-unavailable-on-macos/]]></guid>
-    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring MLX: Quantizing a Model with MLX for iOS Developers]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-mlx-quantizing-model-mlx-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-quantizing-model-mlx-ios/]]></guid>
     <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
