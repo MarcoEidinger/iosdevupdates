@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Feb 2025 20:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Feb 2025 22:08:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Changing My Approach To Journaling]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/journal-changes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/journal-changes]]></guid>
+    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tricking Xcode into Running on an ‘Unsupported’ macOS]]></title>
+    <description><![CDATA[https://marcelvoss.com/blog/]]></description>
+    <link><![CDATA[https://marcelvoss.com/2025/tricking-xcode-into-running-on-an-unsupported-macos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/tricking-xcode-into-running-on-an-unsupported-macos/]]></guid>
+    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tapestry 1.0]]></title>
@@ -173,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-sf-symbols]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-sf-symbols]]></guid>
-    <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rethinking Our Color System: A Type-Safe Approach in Swift]]></title>
-    <description><![CDATA[https://marcelvoss.com/blog/]]></description>
-    <link><![CDATA[https://marcelvoss.com/2025/rethinking-our-color-system-a-type-safe-approach-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/rethinking-our-color-system-a-type-safe-approach-in-swift/]]></guid>
     <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
-    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Remove unused code in a real-world iOS project]]></title>
-    <description><![CDATA[https://ericsspace.com/]]></description>
-    <link><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
