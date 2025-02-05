@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Feb 2025 16:10:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Feb 2025 18:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring Replit: Make Personal Apps for Yourself]]></title>
@@ -221,6 +221,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/books/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/2024/books/]]></guid>
+    <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ten Years of BuildSettingExtractor]]></title>
+    <description><![CDATA[https://jamesdempsey.net]]></description>
+    <link><![CDATA[https://jamesdempsey.net/2025/01/31/ten-years-of-buildsettingextractor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jamesdempsey.net/2025/01/31/ten-years-of-buildsettingextractor]]></guid>
     <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/remove-unused-code-in-a-real-world-ios-project]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[StoreKit 2 Refresh Receipt]]></title>
-    <description><![CDATA[https://diggingdeveloper.blog]]></description>
-    <link><![CDATA[https://diggingdeveloper.blog/2025/01/17/storekit-2-refresh-receipt/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2025/01/17/storekit-2-refresh-receipt/]]></guid>
-    <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
