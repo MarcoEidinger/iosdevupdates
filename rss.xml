@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Feb 2025 14:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 16:08:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Grouping Controls with ControlGroup]]></title>
@@ -353,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fixing the Crash: ActivityKit is Unavailable on macOS]]></title>
-    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
-    <link><![CDATA[https://twocentstudios.com/2025/01/25/activitykit-unavailable-on-macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/01/25/activitykit-unavailable-on-macos/]]></guid>
-    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why Everyone Should Create Their Own To-Do List Apps (or Systems)?]]></title>
     <description><![CDATA[https://antran.app/]]></description>
     <link><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
     <link><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></link>
     <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></guid>
+    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Effortless SwiftUI Theming]]></title>
+    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
+    <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
