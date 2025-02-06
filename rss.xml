@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Feb 2025 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 00:25:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Saga... but in Python? Or TypeScript?]]></title>
+    <description><![CDATA[https://www.loopwerk.io/]]></description>
+    <link><![CDATA[https://www.loopwerk.io/articles/2025/saga-in-python-or-typescript/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.loopwerk.io/articles/2025/saga-in-python-or-typescript/]]></guid>
+    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Changing My Approach To Journaling]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
     <link><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></link>
     <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></guid>
-    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Effortless SwiftUI Theming]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
