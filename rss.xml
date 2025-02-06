@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Feb 2025 06:12:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 08:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 5.9: Copyable Syntax]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
+    <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Saga... but in Python? Or TypeScript?]]></title>
@@ -281,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Advantages of Using withAnimation]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/01/advantage-of-withAnimation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/01/advantage-of-withAnimation]]></guid>
-    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Acorn 8.1 Preview: Scrub Zoom]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/1/acorn_8.1_preview_scrub_zoom.html]]></link>
@@ -377,14 +377,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift 101: Protocols]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/swift-11-protocols/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/swift-11-protocols/]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Making Widgets Interactive using App Intents 🕹]]></title>
     <description><![CDATA[https://tiagohenriques.vercel.app/]]></description>
     <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fbernutz.github.io/ios/]]></description>
     <link><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></link>
     <guid isPermaLink="true"><![CDATA[https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting]]></guid>
+    <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Effortless SwiftUI Theming]]></title>
+    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
+    <link><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming]]></guid>
     <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
