@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 08 Feb 2025 10:08:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Feb 2025 12:11:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What is MVVM truly for SwiftUI?]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI - Navigation If Needed]]></title>
+    <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
+    <link><![CDATA[https://www.joshholtz.com/blog/2025/02/08/swiftui-navigation-if-needed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2025/02/08/swiftui-navigation-if-needed]]></guid>
+    <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Making Software Fun]]></title>
@@ -445,22 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/how-to-build-a-dream-team-a-guide-to-recruiting-great-mobile-developers/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-build-a-dream-team-a-guide-to-recruiting-great-mobile-developers/]]></guid>
-    <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Year of Lifting]]></title>
-    <description><![CDATA[https://harshil.net/]]></description>
-    <link><![CDATA[https://harshil.net/blog/the-year-of-lifting]]></link>
-    <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/the-year-of-lifting]]></guid>
-    <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Observing properties on an @Observable class outside of SwiftUI views]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/observing-properties-on-an-observable-class-outside-of-swiftui-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/observing-properties-on-an-observable-class-outside-of-swiftui-views/]]></guid>
     <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
