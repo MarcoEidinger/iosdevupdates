@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 07 Feb 2025 22:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Feb 2025 00:24:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Making Software Fun]]></title>
+    <description><![CDATA[https://furbo.org]]></description>
+    <link><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></guid>
+    <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[UK Orders Apple to Break iCloud Advanced Data Protection]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/observing-properties-on-an-observable-class-outside-of-swiftui-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/observing-properties-on-an-observable-class-outside-of-swiftui-views/]]></guid>
     <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The backyard ultra timer]]></title>
-    <description><![CDATA[https://blog.skagedal.tech]]></description>
-    <link><![CDATA[https://blog.skagedal.tech/2025/01/21/backyard-ultra.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/01/21/backyard-ultra.html]]></guid>
-    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
