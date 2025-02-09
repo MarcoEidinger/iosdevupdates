@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 09 Feb 2025 16:08:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Feb 2025 18:09:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[🎓 How to Write Better Pull Requests ✍️]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue32]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue32]]></guid>
+    <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deep Dish Swift - CFP Speaker Selection]]></title>
+    <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
+    <link><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></guid>
     <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI - Navigation View If Needed]]></title>
-    <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
-    <link><![CDATA[https://www.joshholtz.com/blog/2025/02/08/swiftui-navigation-view-if-needed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2025/02/08/swiftui-navigation-view-if-needed]]></guid>
     <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
