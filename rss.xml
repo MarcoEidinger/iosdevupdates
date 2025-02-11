@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Feb 2025 12:13:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Feb 2025 14:08:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Pioneering Spatial Computing Education: From iOS to visionOS]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/pioneering-spatial-computing-education-from-ios-to-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/pioneering-spatial-computing-education-from-ios-to-visionos/]]></guid>
+    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Rebranding the obvious]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/3.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/3.html]]></guid>
+    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Task Cancellation in Swift Concurrency]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/02/11/task-cancellation-in-swift-concurrency]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/02/11/task-cancellation-in-swift-concurrency]]></guid>
     <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Displaying tabular data in SwiftUI using Table View]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/displaying-tabular-data-in-swiftui-using-table-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/displaying-tabular-data-in-swiftui-using-table-view/]]></guid>
-    <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Interactive & Beautiful CLI Tools with Noora]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/noora-package]]></link>
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
     <link><![CDATA[https://www.cephalopod.studio/blog/going-to-the-3rd-dimension]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/going-to-the-3rd-dimension]]></guid>
-    <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mastering TaskGroups in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/02/04/mastering-task-groups-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/02/04/mastering-task-groups-in-swift]]></guid>
     <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
