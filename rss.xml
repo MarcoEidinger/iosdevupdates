@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 12 Feb 2025 18:11:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 20:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Migrating Apple Account Purchases Between Accounts]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/12/migrating-apple-account-purchases-between-accounts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/12/migrating-apple-account-purchases-between-accounts/]]></guid>
+    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Localization in 2025: Best Practices You Couldn’t Use Before]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 15.3.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/11/macos-15-3-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/11/macos-15-3-1/]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
