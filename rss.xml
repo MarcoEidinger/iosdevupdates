@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Feb 2025 06:11:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Feb 2025 08:11:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Build a macOS menu bar utility in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/BuildAMacOSMenuBarUtilityInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildAMacOSMenuBarUtilityInSwiftUI]]></guid>
+    <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple is counter-attacking KMP hegemony, Jetbrains has reacted!]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></guid>
-    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Testing SceneStorage state persistence in Xcode]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/TestingSceneStorageStatePersistenceInXcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TestingSceneStorageStatePersistenceInXcode]]></guid>
     <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
