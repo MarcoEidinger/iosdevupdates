@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Feb 2025 20:09:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Feb 2025 22:09:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reuters Wins AI Copyright Case]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/13/reuters-wins-ai-copyright-case/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/13/reuters-wins-ai-copyright-case/]]></guid>
+    <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Timelines and RSS Feeds]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/timelines-and-rss-feeds]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/timelines-and-rss-feeds]]></guid>
+    <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Choose TDD Over Writing Tests After the Code?]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Migrating Apple Account Purchases Between Accounts]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/12/migrating-apple-account-purchases-between-accounts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/12/migrating-apple-account-purchases-between-accounts/]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -86,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Some Cool Terminal Things I've Found Recently]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/some-cool-terminal-things]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/some-cool-terminal-things]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
