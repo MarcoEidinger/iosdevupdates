@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Feb 2025 12:12:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Feb 2025 14:08:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating CarPlay apps within a SwiftUI app lifecycle]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-carplay-apps-within-a-swiftui-app-lifecyle/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-carplay-apps-within-a-swiftui-app-lifecyle/]]></guid>
+    <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Build a macOS menu bar utility in SwiftUI]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/some-cool-terminal-things]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/some-cool-terminal-things]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pioneering Spatial Computing Education: From iOS to visionOS]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/pioneering-spatial-computing-education-from-ios-to-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/pioneering-spatial-computing-education-from-ios-to-visionos/]]></guid>
     <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2025/02/06/avcapturemoviefileoutput-recordedduration-is-inaccurate/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/02/06/avcapturemoviefileoutput-recordedduration-is-inaccurate/]]></guid>
-    <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 5.9: Copyable Syntax]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
     <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></link>
     <guid isPermaLink="true"><![CDATA[https://tiagohenriques.vercel.app/blog/interactive-widgets-using-app-intents]]></guid>
     <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[LucaP  ERP part 3: The General Journal]]></title>
+    <description><![CDATA[https://makeapppie.com/]]></description>
+    <link><![CDATA[https://makeapppie.com/2025/01/23/lucap-erp-part-3-the-general-journal/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/01/23/lucap-erp-part-3-the-general-journal/]]></guid>
+    <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
