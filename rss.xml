@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Feb 2025 02:30:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Feb 2025 04:11:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Arithmetic Word Problem Compendium: Using a New Math Word Problem Dataset as a Benchmark for LLMs]]></title>
+    <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
+    <link><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Reuters Wins AI Copyright Case]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></guid>
-    <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Going to the 3rd dimension: one-year anniversary of Passage on the Apple Vision Pro Part 3/3]]></title>
-    <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
-    <link><![CDATA[https://www.cephalopod.studio/blog/going-to-the-3rd-dimension]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/going-to-the-3rd-dimension]]></guid>
     <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
