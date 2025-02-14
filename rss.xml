@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Feb 2025 16:10:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Feb 2025 18:10:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Presenting and Managing Expandable Sections in SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/presenting-and-managing-expandable-sections-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/presenting-and-managing-expandable-sections-in-swiftui/]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Inaccessible .bnnsir files on macOS Sequoia]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
     <link><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></link>
     <guid isPermaLink="true"><![CDATA[https://antran.app/2025/todo_for_minimalists/]]></guid>
     <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Swift Concurrency Glossary]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/concurrency-glossary]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/concurrency-glossary]]></guid>
-    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How do headers like C’s stdint.h work?]]></title>
-    <description><![CDATA[https://orangejuiceliberationfront.com]]></description>
-    <link><![CDATA[https://orangejuiceliberationfront.com/how-do-headers-like-stdint-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://orangejuiceliberationfront.com/how-do-headers-like-stdint-work]]></guid>
-    <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
