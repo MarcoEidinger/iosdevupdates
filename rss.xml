@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Feb 2025 14:09:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Feb 2025 16:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Inaccessible .bnnsir files on macOS Sequoia]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/4.html]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Detecting documents in an image with the Vision framework]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/how-to-develop-an-app-for-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/how-to-develop-an-app-for-ios/]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple software update "bug" enables Apple Intelligence]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/3.html]]></guid>
     <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
