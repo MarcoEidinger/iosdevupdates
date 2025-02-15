@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Feb 2025 22:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Feb 2025 00:24:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MLX Swift: Getting Started with Tool Use]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-getting-started-with-tool-use/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-getting-started-with-tool-use/]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Netflix Content Accidentally in TV App]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/presenting-and-managing-expandable-sections-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/presenting-and-managing-expandable-sections-in-swiftui/]]></guid>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 99 - Deliberate]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/099Deliberate.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/099Deliberate.html]]></guid>
     <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring Replit: Make Personal Apps for Yourself]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-replit-make-personal-apps-for-yourself/]]></guid>
-    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Saga... but in Python? Or TypeScript?]]></title>
     <description><![CDATA[https://www.loopwerk.io/]]></description>
     <link><![CDATA[https://www.loopwerk.io/articles/2025/saga-in-python-or-typescript/]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/posts/swiftui/nodebug/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/nodebug/]]></guid>
     <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The gaps between the processes]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/01/the-gaps-between-the-processes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/01/the-gaps-between-the-processes/]]></guid>
-    <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
