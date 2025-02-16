@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Feb 2025 18:10:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Feb 2025 20:10:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Extracting structured data from PDFs using Gemini 2.0 and Genkit]]></title>
+    <description><![CDATA[https://peterfriese.dev]]></description>
+    <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-strucuted-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-strucuted-data/]]></guid>
+    <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On Nostalgia for Physical Media]]></title>
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2025/2/what-is-local-first-software/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/2/what-is-local-first-software/]]></guid>
-    <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding SwiftUI Preferences]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2025/swiftui-preferences-swift6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/swiftui-preferences-swift6/]]></guid>
     <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
