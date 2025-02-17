@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Feb 2025 06:11:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Feb 2025 08:11:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Mac Menubar and SwiftUI]]></title>
+    <description><![CDATA[https://troz.net/]]></description>
+    <link><![CDATA[https://troz.net/post/2025/mac_menu_data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2025/mac_menu_data/]]></guid>
+    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Martin Pilkington, RIP]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Introducing-Scores-for-NCAA-Sports-Division-1-2-and-3]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Introducing-Scores-for-NCAA-Sports-Division-1-2-and-3]]></guid>
     <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Snacks & Cereals of 2024]]></title>
-    <description><![CDATA[https://cabel.com/]]></description>
-    <link><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/]]></guid>
-    <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
