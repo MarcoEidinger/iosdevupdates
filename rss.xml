@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Feb 2025 00:27:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Feb 2025 02:29:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift Proposal: InlineArray]]></title>
@@ -217,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Mastering SwiftUI Scrolling: Implementing Custom Paging]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/mastering-swiftui-scrolling-implementing-custom-paging/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/mastering-swiftui-scrolling-implementing-custom-paging/]]></guid>
-    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Catching up with modern developer experiences through macOS virtualization ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></link>
@@ -417,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Cracking the Localizable Strings in iOS]]></title>
-    <description><![CDATA[https://radu-ionut-dan.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/geekculture/cracking-the-localizable-strings-in-ios-2c5f28d4a45b?source=rss-dee343eb346a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/geekculture/cracking-the-localizable-strings-in-ios-2c5f28d4a45b?source=rss-dee343eb346a------2]]></guid>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[2024 in books]]></title>
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/books/]]></link>
@@ -462,6 +446,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></guid>
     <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Acorn 8.1 Preview: Scrub Zoom]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/1/acorn_8.1_preview_scrub_zoom.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/1/acorn_8.1_preview_scrub_zoom.html]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Testing in Swift — Part 2]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/testing-in-swift-part-2-9754e92182dc?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
