@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Feb 2025 10:10:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Feb 2025 12:12:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The invisible traits]]></title>
+    <description><![CDATA[https://danielbernal.co]]></description>
+    <link><![CDATA[https://danielbernal.co/blog/2025/02/18/the-invisible-traits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielbernal.co/blog/2025/02/18/the-invisible-traits/]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI Fundamentals: a deeper look into the framework]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/SwiftUIFundamentalsReleaseAnnouncement]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUIFundamentalsReleaseAnnouncement]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Yielding and debouncing in Swift Concurrency]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/02/18/yielding-and-debouncing-in-swift-concurrency]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/02/18/yielding-and-debouncing-in-swift-concurrency]]></guid>
     <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -91,8 +107,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Extracting structured data from PDFs using Gemini 2.0 and Genkit]]></title>
     <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-strucuted-data/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-strucuted-data/]]></guid>
+    <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></guid>
     <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -222,22 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/12/vm]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rebranding the obvious]]></title>
-    <description><![CDATA[https://danielbernal.co]]></description>
-    <link><![CDATA[https://danielbernal.co/blog/2025/02/11/rebranding-the-obvious/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielbernal.co/blog/2025/02/11/rebranding-the-obvious/]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Task Cancellation in Swift Concurrency]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/02/11/task-cancellation-in-swift-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/02/11/task-cancellation-in-swift-concurrency]]></guid>
-    <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
