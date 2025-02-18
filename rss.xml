@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Feb 2025 12:12:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Feb 2025 22:09:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 256 - You]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[BenQ PD2730S 5K Display]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/18/benq-pd2730s-5k-display/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/18/benq-pd2730s-5k-display/]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Enabling Interaction with Table View in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/enabling-interaction-with-table-view-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enabling-interaction-with-table-view-in-swiftui/]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Android Apps with Swift - Fatbobman's Swift Weekly #71]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-071/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-071/]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The invisible traits]]></title>
@@ -30,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/02/18/yielding-and-debouncing-in-swift-concurrency]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/02/18/yielding-and-debouncing-in-swift-concurrency]]></guid>
     <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Proposal: InlineArray]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/17/swift-proposal-inlinearray/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/17/swift-proposal-inlinearray/]]></guid>
-    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -137,26 +161,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 99 - Deliberate]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/099Deliberate.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/099Deliberate.html]]></guid>
-    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Inaccessible .bnnsir files on macOS Sequoia]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/4.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/4.html]]></guid>
-    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Detecting documents in an image with the Vision framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/detecting-documents-in-an-image-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-documents-in-an-image-with-the-vision-framework/]]></guid>
     <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -326,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
     <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Saga... but in Python? Or TypeScript?]]></title>
-    <description><![CDATA[https://www.loopwerk.io/]]></description>
-    <link><![CDATA[https://www.loopwerk.io/articles/2025/saga-in-python-or-typescript/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.loopwerk.io/articles/2025/saga-in-python-or-typescript/]]></guid>
-    <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
