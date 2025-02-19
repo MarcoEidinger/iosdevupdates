@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Feb 2025 12:12:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Feb 2025 14:09:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[When Getting Sherlocked Leads to Something Better: The TranslateKit Journey]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></guid>
+    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Call for Application at the Apple Developer Academy 2025]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/call-for-application-at-the-apple-developer-academy-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/call-for-application-at-the-apple-developer-academy-2025/]]></guid>
+    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Use One Image Instead of Many in SwiftUI]]></title>
@@ -33,22 +49,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Enabling Interaction with Table View in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/enabling-interaction-with-table-view-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enabling-interaction-with-table-view-in-swiftui/]]></guid>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Android Apps with Swift - Fatbobman's Swift Weekly #71]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-071/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-071/]]></guid>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The invisible traits]]></title>
     <description><![CDATA[https://danielbernal.co]]></description>
     <link><![CDATA[https://danielbernal.co/blog/2025/02/18/the-invisible-traits/]]></link>
@@ -65,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Personal Timeline]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/personal-timeline/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/personal-timeline/]]></guid>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Yielding and debouncing in Swift Concurrency]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/02/18/yielding-and-debouncing-in-swift-concurrency]]></link>
@@ -73,10 +81,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Announcing our first Tuist ambassadors ]]></title>
+    <title><![CDATA[ Selective testing for all Xcode projects ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/02/18/ambassadors]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/18/ambassadors]]></guid>
+    <link><![CDATA[https://tuist.dev/blog/2025/02/18/selective-testing-for-xcode-projects]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/18/selective-testing-for-xcode-projects]]></guid>
     <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Localization in 2025: Best Practices You Couldn’t Use Before]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/swift-localization-in-2025-best-practices-you-couldnt-use-before/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-localization-in-2025-best-practices-you-couldnt-use-before/]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
