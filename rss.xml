@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Feb 2025 20:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Feb 2025 22:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iPhone 16e]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/19/iphone-16e/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/19/iphone-16e/]]></guid>
+    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Effective Learning]]></title>
+    <description><![CDATA[https://qstrnd.github.io/]]></description>
+    <link><![CDATA[https://qstrnd.github.io/posts/effective-learning/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/effective-learning/]]></guid>
+    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Hiding the Keyboard Using FocusState in SwiftUI]]></title>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></guid>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[BenQ PD2730S 5K Display]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/18/benq-pd2730s-5k-display/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/18/benq-pd2730s-5k-display/]]></guid>
     <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mutatingfunc.github.io/blog/2025-01-31-swift-playgrounds-4-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2025-01-31-swift-playgrounds-4-6/]]></guid>
     <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Welcome to the Machine]]></title>
-    <description><![CDATA[https://appdecentral.com]]></description>
-    <link><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appdecentral.com/2025/01/30/welcome-to-the-machine/]]></guid>
-    <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
