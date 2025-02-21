@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Feb 2025 20:09:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Feb 2025 22:08:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Pulls iCloud Advanced Data Protection From UK]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/21/apple-pulls-icloud-advanced-data-protection-from-uk/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/21/apple-pulls-icloud-advanced-data-protection-from-uk/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The containerRelativeFrame Modifier In SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-containerrelativeframe-modifier-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-containerrelativeframe-modifier-in-swiftui/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 100 - Today]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/100Today.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/100Today.html]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -33,18 +49,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -110,14 +126,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@jpmtech/how-to-use-one-image-instead-of-many-in-swiftui-c48d086584f4?source=rss-940b7d9329f2------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/how-to-use-one-image-instead-of-many-in-swiftui-c48d086584f4?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 256 - You]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2a461ee81a8b/256-you]]></guid>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2024/books/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/2024/books/]]></guid>
-    <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ten Years of BuildSettingExtractor]]></title>
-    <description><![CDATA[https://jamesdempsey.net]]></description>
-    <link><![CDATA[https://jamesdempsey.net/2025/01/31/ten-years-of-buildsettingextractor]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jamesdempsey.net/2025/01/31/ten-years-of-buildsettingextractor]]></guid>
     <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
 </item>
 
