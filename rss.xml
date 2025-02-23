@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 22 Feb 2025 22:08:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Feb 2025 00:28:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Welcome to my new new website!]]></title>
+    <description><![CDATA[https://zmknox.com/]]></description>
+    <link><![CDATA[https://zmknox.com/2025/02/welcome-to-my-new-new-website/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/02/welcome-to-my-new-new-website/]]></guid>
+    <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Blog Server]]></title>
@@ -65,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/join-list-of-strings/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/join-list-of-strings/]]></guid>
     <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cracking the Localizable Strings in iOS]]></title>
-    <description><![CDATA[https://radu-ionut-dan.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/geekculture/cracking-the-localizable-strings-in-ios-2c5f28d4a45b?source=rss-dee343eb346a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/geekculture/cracking-the-localizable-strings-in-ios-2c5f28d4a45b?source=rss-dee343eb346a------2]]></guid>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
