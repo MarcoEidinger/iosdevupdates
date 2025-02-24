@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Feb 2025 20:10:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Feb 2025 22:08:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ProVUE at the First Macworld Expo]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/24/provue-at-the-first-macworld-expo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/24/provue-at-the-first-macworld-expo/]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode constantly phones home]]></title>
@@ -121,14 +129,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[New Blog Server]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/22/new-blog-server/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/22/new-blog-server/]]></guid>
-    <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Advice I Wish I Had Gotten Earlier]]></title>
     <description><![CDATA[https://www.manu.show/]]></description>
     <link><![CDATA[https://manu.show/advice-i-wish-i-had-gotten-earlier]]></link>
@@ -177,18 +177,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
