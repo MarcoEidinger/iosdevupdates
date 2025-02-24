@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Feb 2025 06:11:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Feb 2025 08:10:58 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Something I Miss When Coding Swift]]></title>
@@ -97,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></guid>
-    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[🔶 How matchedGeometryEffect() came to the rescue 🦸‍♂️]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue33]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue33]]></guid>
     <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/02/03/incremental-complexity-in-ios-development/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/02/03/incremental-complexity-in-ios-development/]]></guid>
+    <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue 077: C++]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-77-cpp/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-77-cpp/]]></guid>
     <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
