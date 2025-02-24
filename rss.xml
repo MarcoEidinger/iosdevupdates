@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Feb 2025 12:12:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Feb 2025 14:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Beyond X: The Swift Community Embraces Mastodon and Bluesky - Fatbobman's Swift Weekly #72]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-072/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-072/]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Task.sleep() vs. Task.yield(): The differences explained]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Push Notification Service Extension in Swift]]></title>
+    <description><![CDATA[https://medium.com/@jpmtech]]></description>
+    <link><![CDATA[https://medium.com/@jpmtech/push-notification-service-extension-in-swift-b1a0b68051d6?source=rss-940b7d9329f2------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/push-notification-service-extension-in-swift-b1a0b68051d6?source=rss-940b7d9329f2------2]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[😎 Using SwiftUI's Improved TabView with Sidebar on iOS 18 🙌]]></title>
@@ -161,26 +185,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Host to Serverless: A Blog Architecture Migration Journey]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/from-host-to-serverless/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/from-host-to-serverless/]]></guid>
-    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[When Getting Sherlocked Leads to Something Better: The TranslateKit Journey]]></title>
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></guid>
-    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Use One Image Instead of Many in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@jpmtech]]></description>
-    <link><![CDATA[https://medium.com/@jpmtech/how-to-use-one-image-instead-of-many-in-swiftui-c48d086584f4?source=rss-940b7d9329f2------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@jpmtech/how-to-use-one-image-instead-of-many-in-swiftui-c48d086584f4?source=rss-940b7d9329f2------2]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></guid>
-    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6: What’s New and How to Migrate]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/swift-6-migrating-xcode-projects-packages/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-6-migrating-xcode-projects-packages/]]></guid>
     <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
