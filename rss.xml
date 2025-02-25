@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Feb 2025 08:10:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Feb 2025 10:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Imperative, Functional, Functional Reactive: Do you know the difference?]]></title>
@@ -201,18 +209,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -353,27 +361,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
-    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why Choose TDD Over Writing Tests After the Code?]]></title>
     <description><![CDATA[https://diggingdeveloper.blog]]></description>
     <link><![CDATA[https://diggingdeveloper.blog/2025/02/13/why-choose-tdd-over-writing-tests-after-the-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2025/02/13/why-choose-tdd-over-writing-tests-after-the-code/]]></guid>
     <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using SwiftUI Property Wrappers Outside of Views]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></guid>
-    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@razanau]]></description>
     <link><![CDATA[https://medium.com/@razanau/ios-app-localization-4ba78ee8ba30?source=rss-76e0032ec1a6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@razanau/ios-app-localization-4ba78ee8ba30?source=rss-76e0032ec1a6------2]]></guid>
+    <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[DejalNews #89: year in review, 2025 plans, new theme, Time Out tip]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejalnews-89-year-in-review-2025-plans-new-theme-time-out-tip/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-89-year-in-review-2025-plans-new-theme-time-out-tip/]]></guid>
     <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
