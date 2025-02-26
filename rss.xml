@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Feb 2025 18:12:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Feb 2025 20:10:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Testimony on External Purchase Fee and Scare Screens]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/02/26/testimony-on-external-purchase-fee-and-scare-screens/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/26/testimony-on-external-purchase-fee-and-scare-screens/]]></guid>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Generating images programmatically with Image Playground]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2025-reading-2-fall-of-numenor]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2025-reading-2-fall-of-numenor]]></guid>
-    <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[FBI Also Wants to Break iCloud Advanced Data Protection]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/25/fbi-also-wants-to-break-icloud-advanced-data-protection/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/25/fbi-also-wants-to-break-icloud-advanced-data-protection/]]></guid>
     <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,18 +257,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
