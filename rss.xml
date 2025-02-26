@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Feb 2025 22:09:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Feb 2025 00:25:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[📚 2025 Reading #2]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2025-reading-2-fall-of-numenor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2025-reading-2-fall-of-numenor]]></guid>
+    <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[FBI Also Wants to Break iCloud Advanced Data Protection]]></title>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://qstrnd.github.io/]]></description>
     <link><![CDATA[https://qstrnd.github.io/posts/effective-learning/]]></link>
     <guid isPermaLink="true"><![CDATA[https://qstrnd.github.io/posts/effective-learning/]]></guid>
-    <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hiding the Keyboard Using FocusState in SwiftUI]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/hiding-the-keyboard-using-focus-state-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/hiding-the-keyboard-using-focus-state-swiftui]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
