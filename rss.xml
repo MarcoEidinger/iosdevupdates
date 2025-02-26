@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Feb 2025 14:09:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Feb 2025 16:10:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Generating images programmatically with Image Playground]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/generating-images-programmatically-with-image-playground/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/generating-images-programmatically-with-image-playground/]]></guid>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Visual Studio Code setup for iOS development with Copilot]]></title>
@@ -233,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Implementing Look Around with MapKit in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/implementing-look-around-with-mapkit-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-look-around-with-mapkit-in-swiftui/]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tapestry Connectors]]></title>
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/tapestry-connectors/]]></link>
@@ -409,6 +409,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Is Software Engineering over as we know it?]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Introducing Ealain for macOS v1.0]]></title>
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-ealain-for-macos-v1-0/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
     <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Micro.blog journal]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/02/04/micro-blog-journal/]]></guid>
-    <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
