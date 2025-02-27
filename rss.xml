@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 27 Feb 2025 14:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Feb 2025 16:09:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Symmetrical and asymmetrical transitions in SwiftUI with the Scroll Transition modifier]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/whats-new-in-swift-6-1/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/whats-new-in-swift-6-1/]]></guid>
+    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Simple Modularization setup for a New App]]></title>
+    <description><![CDATA[https://www.manu.show/]]></description>
+    <link><![CDATA[https://manu.show/simple-modularization-setup]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/simple-modularization-setup]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,18 +193,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
-    <description><![CDATA[https://khanlou.com/]]></description>
-    <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -241,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Advice I Wish I Had Gotten Earlier]]></title>
-    <description><![CDATA[https://www.manu.show/]]></description>
-    <link><![CDATA[https://manu.show/advice-i-wish-i-had-gotten-earlier]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/advice-i-wish-i-had-gotten-earlier]]></guid>
-    <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Clean your dead code with Periphery 3.0 on iOS  — Ultimate guide]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/clean-your-dead-code-with-periphery-3-0-on-ios-ultimate-guide-23b86aa93fc5?source=rss-1b318de51cdd------2]]></link>
@@ -273,18 +273,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
-    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let's Build: The tree Program - Part II]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-tree-2]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
