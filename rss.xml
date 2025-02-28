@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Feb 2025 14:09:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Feb 2025 16:11:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 101 - Viewpoint]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/101Viewpoint.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/101Viewpoint.html]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Detecting face landmarks with the Vision framework]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dev Conversations #7: Natalia Panferova]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-natalia]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-natalia]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Momentum ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/02/28/momentum]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/28/momentum]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -37,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></guid>
-    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Symmetrical and asymmetrical transitions in SwiftUI with the Scroll Transition modifier]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/symmetrical-and-asymmetrical-transitions-in-swiftui-with-the-scroll-transition-modifier/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/symmetrical-and-asymmetrical-transitions-in-swiftui-with-the-scroll-transition-modifier/]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobiledevdiary.com]]></description>
     <link><![CDATA[https://www.mobiledevdiary.com/posts/imperative-functional-frp/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/imperative-functional-frp/]]></guid>
-    <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Why you might want to generate your Xcode projects in 2025 ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/02/25/project-generation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/25/project-generation]]></guid>
     <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></guid>
     <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 5.9: Copyable Syntax]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
-    <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
