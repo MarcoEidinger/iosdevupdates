@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Feb 2025 20:10:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Feb 2025 22:08:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Mozilla Changes Firefox Terms of Use]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Lights, Camera, Action Button]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></guid>
-    <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Open Source Framework RealityShaderExtension: Transfer Shaders from Unity and Unreal to visionOS]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></guid>
     <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
