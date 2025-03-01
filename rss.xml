@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 01 Mar 2025 04:11:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Mar 2025 06:10:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[It’s Our 25th Anniversary!]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 1]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-face-landmarks-with-the-vision-framework/]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Lights, Camera, Action Button]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -409,6 +425,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Using SwiftUI Property Wrappers Outside of Views]]></title>
+    <description><![CDATA[https://www.magnuskahr.dk]]></description>
+    <link><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></link>
+    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></guid>
+    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The Frustrating State of Navigation Bars on iOS]]></title>
     <description><![CDATA[https://marcelvoss.com/blog/]]></description>
     <link><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></link>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></guid>
     <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making Software Fun]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/02/07/making-software-fun/]]></guid>
-    <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Open Source Framework RealityShaderExtension: Transfer Shaders from Unity and Unreal to visionOS]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/open-source-framework-realityshaderextension-transfer-shaders-from-unity-and-unreal-to-visionos/]]></guid>
-    <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 5.9: Copyable Syntax]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-the-is-a-copyable-2/]]></guid>
-    <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
