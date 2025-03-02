@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 02 Mar 2025 18:10:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Mar 2025 20:10:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Tarmak]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/tarmak/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/tarmak/]]></guid>
+    <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create with Swift at Let's Vision 2025]]></title>
@@ -358,14 +366,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Personal Timeline]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/personal-timeline/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/personal-timeline/]]></guid>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
