@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 02 Mar 2025 00:27:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Mar 2025 02:34:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Create with Swift at Let's Vision 2025]]></title>
@@ -257,18 +257,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
     <description><![CDATA[https://khanlou.com/]]></description>
     <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -449,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Software Engineering over as we know it?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Ealain for macOS v1.0]]></title>
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-ealain-for-macos-v1-0/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://theempathicdev.de/blog/hate-love-kotlin]]></link>
     <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/hate-love-kotlin]]></guid>
     <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What is MVVM truly for SwiftUI?]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-is-mvvm-truly-for-swiftui-0bb7cbdd6863?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
