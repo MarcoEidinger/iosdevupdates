@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Mar 2025 00:26:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Mar 2025 02:33:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Scripting Editors Keeps Getting Harder]]></title>
+    <description><![CDATA[https://collin.blog/]]></description>
+    <link><![CDATA[https://collin.blog/2025/03/02/scripting-editors-keeps-getting-harder/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/03/02/scripting-editors-keeps-getting-harder/]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tarmak]]></title>
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-home-screen-quick-actions]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-home-screen-quick-actions]]></guid>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Something I Miss When Coding Swift]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2025/02/22/something-i-miss-when-coding-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/02/22/something-i-miss-when-coding-swift/]]></guid>
     <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
