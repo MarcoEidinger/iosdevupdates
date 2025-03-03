@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Mar 2025 04:10:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Mar 2025 06:10:59 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Scripting Editors Keeps Getting Harder]]></title>
+    <title><![CDATA[Designing a custom lazy list in SwiftUI with better performance]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/CustomLazyListInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CustomLazyListInSwiftUI]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Shell Script Template]]></title>
     <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2025/03/02/scripting-editors-keeps-getting-harder/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/03/02/scripting-editors-keeps-getting-harder/]]></guid>
+    <link><![CDATA[https://collin.blog/2025/03/02/shell-script-template/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/03/02/shell-script-template/]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue 078: Computer Magazines]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
     <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
-    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Detecting the focused window on macOS in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/DetectFocusedWindowOnMacOS]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DetectFocusedWindowOnMacOS]]></guid>
     <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
     <link><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></guid>
-    <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Hated Kotlin... Until I Didn’t – Why KMP Might Be Worth It for iOS Developers]]></title>
-    <description><![CDATA[https://theempathicdev.de/blog]]></description>
-    <link><![CDATA[https://theempathicdev.de/blog/hate-love-kotlin]]></link>
-    <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/hate-love-kotlin]]></guid>
     <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
