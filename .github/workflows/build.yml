@@ -18,7 +18,7 @@ jobs:
         node-version: 16
     - name: Cache/Restore Mint packages
       id: mint-cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
           path: ${{ github.workspace }}/mint
           key: ${{ runner.os }}-mint-${{ hashFiles('**/Mintfile') }}
