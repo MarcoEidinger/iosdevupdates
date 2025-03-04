@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Mar 2025 12:12:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Mar 2025 14:08:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adapting widgets for tint mode and dark mode in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/adapting-widgets-for-tint-mode-and-dark-mode-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adapting-widgets-for-tint-mode-and-dark-mode-in-swiftui/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Clean Xcode Junk and Reclaim Valuable Disk Space on Your Mac]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Setting Up Sign in with Apple with Server Side Swift and SwiftUI]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></guid>
     <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/tarmak/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/tarmak/]]></guid>
     <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create with Swift at Let's Vision 2025]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/create-with-swift-at-lets-vision-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/create-with-swift-at-lets-vision-2025/]]></guid>
-    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></link>
     <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></guid>
     <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Frustrating State of Navigation Bars on iOS]]></title>
-    <description><![CDATA[https://marcelvoss.com/blog/]]></description>
-    <link><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></guid>
-    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
