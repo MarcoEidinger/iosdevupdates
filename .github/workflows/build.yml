@@ -12,7 +12,7 @@ jobs:
     runs-on: macos-13
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
       with:
         node-version: 16
@@ -40,7 +40,7 @@ jobs:
         name: blogs.json
         path: content/blogs.json
     - name: Cache node modules
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         # npm cache files are stored in `~/.npm` on Linux/macOS
         path: ~/.npm
