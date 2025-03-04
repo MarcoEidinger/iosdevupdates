@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 04 Mar 2025 20:09:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Mar 2025 22:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AI Code review is always wrong]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2025/03/04/ai-code-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/03/04/ai-code-review/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iPad Air (M3, 7th Generation)]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/04/ipad-air-m3-7th-generation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/04/ipad-air-m3-7th-generation/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 258 - Unqualified]]></title>
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></guid>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Citibank’s $81 Trillion Error]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/03/citibanks-81-trillion-error/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/03/citibanks-81-trillion-error/]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobiledevdiary.com/posts/imperative-functional-frp/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/imperative-functional-frp/]]></guid>
     <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Tip: spell checking]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2025/02/24/xcode-tip-spell-check/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/02/24/xcode-tip-spell-check/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
