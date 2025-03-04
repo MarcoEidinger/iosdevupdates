@@ -6,7 +6,71 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Mar 2025 06:10:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Mar 2025 12:12:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Clean Xcode Junk and Reclaim Valuable Disk Space on Your Mac]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/how-to-clean-xcode-on-your-mac?utm_source=rss&utm_medium=rss&utm_campaign=how-to-clean-xcode-on-your-mac]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/how-to-clean-xcode-on-your-mac?utm_source=rss&utm_medium=rss&utm_campaign=how-to-clean-xcode-on-your-mac]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Book Review: Radical Respect ✊]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Experiencing the Passion of Apple Developers at the Carnival - Fatbobman's Swift Weekly #73]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-073/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-073/]]></guid>
+    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What is Structured Concurrency?]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Citibank’s $81 Trillion Error]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/03/citibanks-81-trillion-error/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/03/citibanks-81-trillion-error/]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iCloud remotely triggers iMessage sign-in and sync]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/3/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/3/1.html]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Useful String Extensions]]></title>
+    <description><![CDATA[https://www.manu.show/]]></description>
+    <link><![CDATA[https://manu.show/useful-string-extensions]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/useful-string-extensions]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[🥸 Using UIKit's New UITab Class with Sidebar on iOS 18 👌]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue35]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue35]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Designing a custom lazy list in SwiftUI with better performance]]></title>
@@ -30,6 +94,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Synchronous Work]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://www.massicotte.org/synchronous-work]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/synchronous-work]]></guid>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Phase Animation "Bug"]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/swiftui-phase-animation-bug]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-phase-animation-bug]]></guid>
+    <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -69,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://orangejuiceliberationfront.com]]></description>
     <link><![CDATA[https://orangejuiceliberationfront.com/pilky]]></link>
     <guid isPermaLink="true"><![CDATA[https://orangejuiceliberationfront.com/pilky]]></guid>
-    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mozilla Changes Firefox Terms of Use]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/02/28/mozilla-changes-firefox-terms-of-use/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/02/28/mozilla-changes-firefox-terms-of-use/]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Simple Modularization setup for a New App]]></title>
-    <description><![CDATA[https://www.manu.show/]]></description>
-    <link><![CDATA[https://manu.show/simple-modularization-setup]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/simple-modularization-setup]]></guid>
-    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Your in-app purchase has been returned]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
@@ -161,18 +225,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Visual Studio Code setup for iOS development with Copilot]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></guid>
+    <title><![CDATA[Understanding the Bindable property wrapper in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-observation-bindable]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-observation-bindable]]></guid>
     <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Animatable Protocol: Taming Unruly SwiftUI Animations]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/animatable-protocol-taming-unruly-swiftui-animation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/animatable-protocol-taming-unruly-swiftui-animation/]]></guid>
+    <title><![CDATA[Visual Studio Code setup for iOS development with Copilot]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></guid>
     <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -217,26 +281,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Xcode constantly phones home]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/2/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/2/5.html]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Xcode Tip: spell checking]]></title>
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2025/02/24/xcode-tip-spell-check/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/02/24/xcode-tip-spell-check/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Task.sleep() vs. Task.yield(): The differences explained]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[😎 Using SwiftUI's Improved TabView with Sidebar on iOS 18 🙌]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue34]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue34]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Separating Concerns in SwiftData Models, or: @Query Considered Harmful]]></title>
     <description><![CDATA[https://pado.name/blog/]]></description>
     <link><![CDATA[https://pado.name/blog/2025/02/swiftdata-query/]]></link>
@@ -277,6 +317,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Serverless Swift ]]></title>
+    <description><![CDATA[https://www.ryantoken.com]]></description>
+    <link><![CDATA[https://www.ryantoken.com/blog/blog/serverless-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/blog/serverless-swift]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,26 +345,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Quick guide on home screen quick actions for SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-home-screen-quick-actions]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-home-screen-quick-actions]]></guid>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Music recognition with ShazamKit]]></title>
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/music-recognition-with-shazam-kit]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/music-recognition-with-shazam-kit]]></guid>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[New Concurrency Stuff with 6.1]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/concurrency-6_1]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/concurrency-6_1]]></guid>
     <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[NSAttributedString: Formatting Rich Text in Swift]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/nsattributedstring-swift?utm_source=rss&utm_medium=rss&utm_campaign=nsattributedstring-swift]]></guid>
-    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[When Tech Giants Bow: Reconsidering My Relationship with US Tech]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></link>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></guid>
     <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Is Software Engineering over as we know it?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Ealain for macOS v1.0]]></title>
-    <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
-    <link><![CDATA[https://amiantos.net/introducing-ealain-for-macos-v1-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-ealain-for-macos-v1-0/]]></guid>
-    <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deep Dish Swift - CFP Speaker Selection]]></title>
-    <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
-    <link><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2025/02/09/deep-dish-swift-cfp-speaker-selection]]></guid>
-    <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
