@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Mar 2025 10:09:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Mar 2025 12:11:57 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[AI Code review is always wrong]]></title>
@@ -61,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
     <link><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></guid>
-    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Experiencing the Passion of Apple Developers at the Carnival - Fatbobman's Swift Weekly #73]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-073/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-073/]]></guid>
     <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://marcelvoss.com/blog/]]></description>
     <link><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></guid>
+    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Software Engineering over as we know it?]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/is-software-engineering-over-as-we-know-it-96e2c203c9d1?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
