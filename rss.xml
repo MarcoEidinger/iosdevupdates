@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Mar 2025 08:10:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Mar 2025 10:09:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[AiOS Dispatch 2]]></title>
@@ -473,11 +473,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Frustrating State of Navigation Bars on iOS]]></title>
-    <description><![CDATA[https://marcelvoss.com/blog/]]></description>
-    <link><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/the-frustrating-state-of-navigation-bars-on-ios/]]></guid>
-    <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Using SwiftUI Property Wrappers Outside of Views]]></title>
+    <description><![CDATA[https://www.magnuskahr.dk]]></description>
+    <link><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></link>
+    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></guid>
+    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
