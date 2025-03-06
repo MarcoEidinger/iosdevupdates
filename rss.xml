@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Mar 2025 18:10:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Mar 2025 20:09:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Acorn 8.1 Is Out]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/3/acorn_8.1_is_out.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/acorn_8.1_is_out.html]]></guid>
+    <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to plan a migration to Swift 6]]></title>
@@ -241,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Few Words About Indie App Business from Charlie Monroe]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/2/charlie_monroe_a_few_words_about_indie_app_business.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/2/charlie_monroe_a_few_words_about_indie_app_business.html]]></guid>
-    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Safer Swift: How ~Copyable Prevents Hidden Bugs]]></title>
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></link>
@@ -353,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
-    <description><![CDATA[https://khanlou.com/]]></description>
-    <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
+    <description><![CDATA[https://khanlou.com/]]></description>
+    <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
