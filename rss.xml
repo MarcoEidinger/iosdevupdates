@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Mar 2025 10:09:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Mar 2025 12:12:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[AiOS Dispatch 2]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/03/05/mac-studio-2025/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/05/mac-studio-2025/]]></guid>
+    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MLX Swift: Run VLMs (Image-to-Text) in iOS Apps]]></title>
+    <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
+    <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
     <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://diggingdeveloper.blog/2025/02/13/why-choose-tdd-over-writing-tests-after-the-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2025/02/13/why-choose-tdd-over-writing-tests-after-the-code/]]></guid>
     <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using SwiftUI Property Wrappers Outside of Views]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/02/using-swiftui-property-wrappers-outside-of-view]]></guid>
-    <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
