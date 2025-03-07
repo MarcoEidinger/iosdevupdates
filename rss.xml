@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 07 Mar 2025 12:12:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Mar 2025 14:08:44 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Customizing modal presentation background and color scheme in SwiftUI]]></title>
@@ -353,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Faking Value Semantics with Custom FormatStyles]]></title>
     <description><![CDATA[https://khanlou.com/]]></description>
     <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
+    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
