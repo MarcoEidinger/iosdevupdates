@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 07 Mar 2025 16:09:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Mar 2025 18:12:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The aspectRatio Modifier In SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></guid>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Brother Denies Blocking Third-Party Toner]]></title>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/what-is-structured-concurrency/]]></guid>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Video - Meet the new Tab view in SwiftUI]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/video-tutorials/video-meet-the-new-tab-view-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/video-tutorials/video-meet-the-new-tab-view-in-swiftui/]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
