@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 08 Mar 2025 20:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Mar 2025 22:08:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Git Branch in Terminal Titlebar With Fish]]></title>
@@ -41,18 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[My Home Screen - March 2025]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Model Context Protocol (MCP)]]></title>
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Home Screen - March 2025]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
