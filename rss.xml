@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 18:11:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 20:10:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Needs to Get Out of the Way With AI]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Testing Completion Handlers]]></title>
@@ -121,6 +129,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Improving result builder failures using @available]]></title>
+    <description><![CDATA[https://danieltull.co.uk/blog/]]></description>
+    <link><![CDATA[http://danieltull.co.uk//blog/2025/03/07/improving-result-builder-failures-using-available/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://danieltull.co.uk//blog/2025/03/07/improving-result-builder-failures-using-available/]]></guid>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Customizing modal presentation background and color scheme in SwiftUI]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/ModalPresentationBackgroundAndColorSchemeInSwiftUI]]></link>
@@ -134,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/r-pi]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/r-pi]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Acorn 8.1 Is Out]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/3/acorn_8.1_is_out.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/acorn_8.1_is_out.html]]></guid>
-    <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></guid>
     <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Extracting structured data from PDFs using Gemini 2.0 and Genkit]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></guid>
-    <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
