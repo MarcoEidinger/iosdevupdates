@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 14:08:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 16:09:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Testing Completion Handlers]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swift-testing-completion-handlers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-testing-completion-handlers/]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Cycle of Expectation and Disappointment: Apple's AI Dilemma and Resilience - Fatbobman's Swift Weekly #74]]></title>
@@ -46,6 +54,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Code Review: How to write reviews your team looks forward to?]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></guid>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -345,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tapping on Stack Views]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/tapping-on-stack-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/tapping-on-stack-views/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Separating Concerns in SwiftData Models, or: @Query Considered Harmful]]></title>
     <description><![CDATA[https://pado.name/blog/]]></description>
     <link><![CDATA[https://pado.name/blog/2025/02/swiftdata-query/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/]]></guid>
     <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[On Nostalgia for Physical Media]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/]]></guid>
-    <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
