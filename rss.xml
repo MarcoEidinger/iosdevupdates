@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 08:10:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 10:08:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[👨🏼‍🍳 Turning the Newsletter into an actual App! 📱]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue36]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue36]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Scaling Mutation Testing in a Large iOS Codebase]]></title>
@@ -106,7 +114,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 <item>
     <title><![CDATA[Your Problem Solving Ability]]></title>
-    <description><![CDATA[https://www.manu.show/]]></description>
+    <description><![CDATA[https://manu.show/]]></description>
     <link><![CDATA[https://manu.show/your-problem-solving-ability]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/your-problem-solving-ability]]></guid>
     <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></guid>
     <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Core Image Labo - Open Source iOS App for Core Image Experimentation]]></title>
-    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
-    <link><![CDATA[https://twocentstudios.com/2025/02/25/core-image-labo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/02/25/core-image-labo/]]></guid>
-    <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
