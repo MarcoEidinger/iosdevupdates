@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 12:12:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Rendering Pixel Art with SwiftUI]]></title>
+    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
+    <link><![CDATA[https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[👨🏼‍🍳 Turning the Newsletter into an actual App! 📱]]></title>
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
     <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lazy Initialization @State in SwiftUI: Overcoming Premature Object Creation]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/lazy-initialization-state-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/lazy-initialization-state-in-swiftui/]]></guid>
     <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
