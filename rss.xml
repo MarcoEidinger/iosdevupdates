@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 20:10:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 22:08:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Needs to Get Out of the Way With AI]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to remove unwanted Swift Package schemes in Xcode]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2025/03/10/swiftpm-schemes-in-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/03/10/swiftpm-schemes-in-xcode/]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -182,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
     <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Code review is always wrong]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2025/03/04/ai-code-review/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/03/04/ai-code-review/]]></guid>
-    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
