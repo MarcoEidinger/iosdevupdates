@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Mar 2025 02:22:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Mar 2025 04:09:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Scaling Mutation Testing in a Large iOS Codebase]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DocC for Multi-Platform Documentation]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/]]></guid>
     <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Arithmetic Word Problem Compendium: Using a New Math Word Problem Dataset as a Benchmark for LLMs]]></title>
-    <description><![CDATA[https://www.cephalopod.studio/blog]]></description>
-    <link><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.cephalopod.studio/blog/arithmetic-word-problem-compendium-using-a-new-math-word-problem-dataset-as-a-benchmark-for-llms]]></guid>
-    <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
