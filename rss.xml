@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Mar 2025 10:09:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Mar 2025 12:14:06 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Tricked Into Installing macOS Update]]></title>
@@ -190,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/aios-dispatch-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-2/]]></guid>
     <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MLX Swift: Run VLMs (Image-to-Text) in iOS Apps]]></title>
-    <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
-    <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[When Tech Giants Bow: Reconsidering My Relationship with US Tech]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></guid>
+    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
