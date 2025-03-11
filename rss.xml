@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Mar 2025 14:09:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Mar 2025 16:10:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Track the horizon angle in an image with the Vision framework]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/track-the-horizon-angle-in-an-image-with-the-vision-framework/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/track-the-horizon-angle-in-an-image-with-the-vision-framework/]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Implementing Sign in with Apple in the watchOS Simulator]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
     <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></guid>
-    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Setting Up Sign in with Apple with Server Side Swift and SwiftUI]]></title>
-    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
-    <link><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></link>
-    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/full-stack-sign-in-with-apple]]></guid>
     <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
