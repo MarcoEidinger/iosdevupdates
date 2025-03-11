@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Mar 2025 00:25:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Mar 2025 02:34:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Tricked Into Installing macOS Update]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/10/tricked-into-installing-macos-update/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/10/tricked-into-installing-macos-update/]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Conference Notes: CodeBEAM America (San Francisco) 2025]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Needs to Get Out of the Way With AI]]></title>
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Brother Denies Blocking Third-Party Toner]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/07/brother-denies-blocking-third-party-toner/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/07/brother-denies-blocking-third-party-toner/]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/sherlocked-to-success/]]></guid>
     <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[When Tech Giants Bow: Reconsidering My Relationship with US Tech]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/02/17/when-tech-giants-bow-reconsidering-my-relationship-with-us-tech]]></guid>
-    <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
