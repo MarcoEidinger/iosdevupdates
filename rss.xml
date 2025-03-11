@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Mar 2025 16:10:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Mar 2025 18:10:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Track the horizon angle in an image with the Vision framework]]></title>
@@ -102,6 +102,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Understanding structural identity in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-structural-identity]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-structural-identity]]></guid>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -326,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding the Bindable property wrapper in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-observation-bindable]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-observation-bindable]]></guid>
-    <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
