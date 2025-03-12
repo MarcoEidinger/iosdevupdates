@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 12 Mar 2025 06:11:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Mar 2025 08:10:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Why are macOS security updates re-running the Setup Assistant?]]></title>
@@ -54,6 +54,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
     <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Video - From Top Bar To Sidebar With The sidebarAdaptable TabView Style]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/video-tutorials/video-from-top-bar-to-sidebar-with-the-sidebaradaptable-tabview-style/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/video-tutorials/video-from-top-bar-to-sidebar-with-the-sidebaradaptable-tabview-style/]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -158,14 +166,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://collin.blog/2025/03/07/git-branch-in-terminal-titlebar-with-fish/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/03/07/git-branch-in-terminal-titlebar-with-fish/]]></guid>
     <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The aspectRatio Modifier In SwiftUI]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-aspectratio-modifier-in-swiftui/]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
