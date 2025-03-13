@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Mar 2025 18:11:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Mar 2025 20:09:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Proposal: Import Objective-C Completion Handler Parameters As @Sendable]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/13/swift-proposal-import-objective-c-completion-handler-parameters-as-sendable/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/13/swift-proposal-import-objective-c-completion-handler-parameters-as-sendable/]]></guid>
+    <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Indie, Not Alone]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></guid>
     <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ChatGPT Now Integrates Directly With Xcode]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/12/chatgpt-now-integrates-directly-with-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/12/chatgpt-now-integrates-directly-with-xcode/]]></guid>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
