@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Mar 2025 12:12:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Mar 2025 14:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Placing UI components within the Safe Area Inset]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/placing-ui-components-within-the-safe-area-inset/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/placing-ui-components-within-the-safe-area-inset/]]></guid>
+    <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Custom environment values in SwiftUI]]></title>
@@ -57,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Track the horizon angle in an image with the Vision framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/track-the-horizon-angle-in-an-image-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/track-the-horizon-angle-in-an-image-with-the-vision-framework/]]></guid>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shortcuts - Quickly entering regular calendar events]]></title>
     <description><![CDATA[https://danieltull.co.uk/blog/]]></description>
     <link><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></link>
@@ -77,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
     <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Own your Swift apps' automation ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/03/11/own-your-automation]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/03/11/own-your-automation]]></guid>
     <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></guid>
-    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Momentum ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/02/28/momentum]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/02/28/momentum]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
