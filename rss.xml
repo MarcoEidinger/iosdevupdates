@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Mar 2025 20:11:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Mar 2025 22:09:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How Apple Could Help Developers With AI and LLMs]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/3/how_apple_could_help_developers_with_ai_and_llms.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/how_apple_could_help_developers_with_ai_and_llms.html]]></guid>
+    <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Strongbox Acquired by Applause Group]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></link>
     <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></guid>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Needs to Get Out of the Way With AI]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
