@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Mar 2025 06:10:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Mar 2025 08:10:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift + Zed = ❤️]]></title>
     <description><![CDATA[https://tgomareli.medium.com]]></description>
     <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
+    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Composing a Resume in Markdown]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></guid>
     <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Distorted Audio when recording external microphones using AVCaptureSession]]></title>
-    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
-    <link><![CDATA[https://nonstrict.eu/blog/2025/distorted-audio-avcapturesession]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/distorted-audio-avcapturesession]]></guid>
-    <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
