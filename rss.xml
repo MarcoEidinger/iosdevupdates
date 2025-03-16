@@ -6,21 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Mar 2025 16:09:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Mar 2025 18:10:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Week 11, 2025: Links and things]]></title>
     <description><![CDATA[https://blog.skagedal.tech]]></description>
     <link><![CDATA[https://blog.skagedal.tech/2025/03/16/week-11-links-and-things.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/03/16/week-11-links-and-things.html]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
     <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otavio.cc]]></description>
     <link><![CDATA[https://otavio.cc/tapestry-connectors/]]></link>
     <guid isPermaLink="true"><![CDATA[https://otavio.cc/tapestry-connectors/]]></guid>
+    <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Fresh Look for Bento|Craft]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/bento-craft-fresh-look/]]></guid>
     <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
