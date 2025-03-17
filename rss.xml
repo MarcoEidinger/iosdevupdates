@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Mar 2025 06:11:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Mar 2025 08:11:29 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Understanding existentials and primary associated types in Swift]]></title>
@@ -233,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[👨🏼‍🍳 Turning the Newsletter into an actual App! 📱]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue36]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue36]]></guid>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Scaling Mutation Testing in a Large iOS Codebase]]></title>
     <description><![CDATA[https://ericsspace.com/]]></description>
     <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
@@ -265,18 +257,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[My Home Screen - March 2025]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Model Context Protocol (MCP)]]></title>
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Home Screen - March 2025]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/music-recognition-with-shazam-kit]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/music-recognition-with-shazam-kit]]></guid>
     <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Welcome to my new new website!]]></title>
+    <description><![CDATA[https://zmknox.com/]]></description>
+    <link><![CDATA[https://zmknox.com/2025/02/welcome-to-my-new-new-website/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/02/welcome-to-my-new-new-website/]]></guid>
+    <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
