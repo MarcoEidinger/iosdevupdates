@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Mar 2025 12:12:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Mar 2025 14:09:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Performing your app actions with Siri through App Shortcuts Provider]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/performing-your-app-actions-with-siri-through-app-shortcuts-provider/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/performing-your-app-actions-with-siri-through-app-shortcuts-provider/]]></guid>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Convenient amnesia]]></title>
     <description><![CDATA[https://danielbernal.co]]></description>
     <link><![CDATA[https://danielbernal.co/blog/2025/03/18/convenient-amnesia/]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielbernal.co/blog/2025/03/18/convenient-amnesia/]]></guid>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deprecation of Micro.publish]]></title>
+    <description><![CDATA[https://otavio.cc]]></description>
+    <link><![CDATA[https://otavio.cc/deprecation-of-micropublish/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://otavio.cc/deprecation-of-micropublish/]]></guid>
     <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Identifying individual sounds in an audio file]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/identifying-individual-sounds-in-an-audio-file/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/identifying-individual-sounds-in-an-audio-file/]]></guid>
-    <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Indie, Not Alone]]></title>
     <description><![CDATA[https://ryanashcraft.com]]></description>
     <link><![CDATA[https://ryanashcraft.com/indie-not-alone/]]></link>
@@ -281,18 +289,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Model Context Protocol (MCP)]]></title>
-    <description><![CDATA[https://nshipster.com]]></description>
-    <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[My Home Screen - March 2025]]></title>
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2025-03]]></guid>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Model Context Protocol (MCP)]]></title>
+    <description><![CDATA[https://nshipster.com]]></description>
+    <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://khanlou.com/]]></description>
     <link><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanlou.com/2025/02/faking-value-semantics-with-custom-formatstyles/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
