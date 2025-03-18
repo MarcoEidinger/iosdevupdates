@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Mar 2025 16:10:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Mar 2025 18:11:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Performing your app actions with Siri through App Shortcuts Provider]]></title>
@@ -198,6 +198,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></guid>
     <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 259 - Learning]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/7fddbcf028db/259-education]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/7fddbcf028db/259-education]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -449,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Two new chapters and recent podcast appearances]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Serverless Swift ]]></title>
     <description><![CDATA[https://www.ryantoken.com]]></description>
     <link><![CDATA[https://www.ryantoken.com/blog/blog/serverless-swift]]></link>
@@ -473,10 +473,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An Ode to Swift Enums: The View Models That Could]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Swift-Enums-as-Lighweight-View-models]]></guid>
+    <title><![CDATA[Two new chapters and recent podcast appearances]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
