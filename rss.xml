@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Mar 2025 22:09:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Mar 2025 00:25:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Encrypted RCS Standard]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/]]></guid>
+    <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Communication Etiquette]]></title>
+    <description><![CDATA[https://manu.show/]]></description>
+    <link><![CDATA[https://manu.show/communication-etiquette]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/communication-etiquette]]></guid>
     <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/identifying-individual-sounds-in-an-audio-file/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/identifying-individual-sounds-in-an-audio-file/]]></guid>
-    <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My thoughts on AI Agents]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/ai-agents-thoughts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/ai-agents-thoughts]]></guid>
     <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
