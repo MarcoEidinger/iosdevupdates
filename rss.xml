@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Mar 2025 18:11:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Mar 2025 20:10:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Lifetime Dependencies in Swift 6.2 and Beyond]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/19/lifetime-dependencies-in-swift-6-2-and-beyond/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/19/lifetime-dependencies-in-swift-6-2-and-beyond/]]></guid>
+    <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using Proxyman to Intercept and Simulate iPhone App Network Requests]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/why-i-avoid-group]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/why-i-avoid-group]]></guid>
-    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac SSD Performance]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/18/mac-ssd-performance/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/18/mac-ssd-performance/]]></guid>
     <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -149,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.skagedal.tech]]></description>
     <link><![CDATA[https://blog.skagedal.tech/2025/03/16/week-11-links-and-things.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/03/16/week-11-links-and-things.html]]></guid>
+    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift + Zed = ❤️]]></title>
+    <description><![CDATA[https://tgomareli.medium.com]]></description>
+    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
     <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Serverless Swift ]]></title>
-    <description><![CDATA[https://www.ryantoken.com]]></description>
-    <link><![CDATA[https://www.ryantoken.com/blog/blog/serverless-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/blog/serverless-swift]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
