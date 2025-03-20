@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Mar 2025 22:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Mar 2025 00:26:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A 3D Stroke Effect: Getting Started with Shader Graph Effects on visionOS]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></guid>
+    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Lifetime Dependencies in Swift 6.2 and Beyond]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pado.name/blog/]]></description>
     <link><![CDATA[https://pado.name/blog/2025/02/swiftdata-query/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pado.name/blog/2025/02/swiftdata-query/]]></guid>
-    <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Two new chapters and recent podcast appearances]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/new-chapters-and-podcasts]]></guid>
     <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
