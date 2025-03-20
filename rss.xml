@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Mar 2025 06:11:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Mar 2025 08:12:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A 3D Stroke Effect: Getting Started with Shader Graph Effects on visionOS]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/why-i-avoid-group]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/why-i-avoid-group]]></guid>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 260 - Fired]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/6c67f569a778/260-fired]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/6c67f569a778/260-fired]]></guid>
     <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -230,14 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></guid>
     <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 259 - Learning]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/7fddbcf028db/259-education]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/7fddbcf028db/259-education]]></guid>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
