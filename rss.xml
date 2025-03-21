@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Mar 2025 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Mar 2025 12:12:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Announcing FlowNavigation]]></title>
     <description><![CDATA[https://www.magnuskahr.dk]]></description>
     <link><![CDATA[https://magnuskahr.dk/posts/2025/03/announcing-FlowNavigation]]></link>
     <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/03/announcing-FlowNavigation]]></guid>
+    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Wally - A 13-Year Journey]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/03/21/wally-a-13-year-journey]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/03/21/wally-a-13-year-journey]]></guid>
     <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Visual Studio Code setup for iOS development with Copilot]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></guid>
-    <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
