@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Mar 2025 12:12:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Mar 2025 14:10:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Announcing FlowNavigation]]></title>
@@ -29,6 +29,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AdaptingImagesAndSymbolsToDynamicTypeSizesInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AdaptingImagesAndSymbolsToDynamicTypeSizesInSwiftUI]]></guid>
+    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tim, don’t kill my vibe]]></title>
+    <description><![CDATA[https://irace.me/]]></description>
+    <link><![CDATA[http://irace.me/vibe]]></link>
+    <guid isPermaLink="true"><![CDATA[http://irace.me/vibe]]></guid>
+    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deploying a Swift Server App to Fly.io and Railway]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></guid>
     <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Git Hooks 🤝 Swift]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/git-hooks]]></guid>
-    <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shortcuts - Quickly entering regular calendar events]]></title>
     <description><![CDATA[https://danieltull.co.uk/blog/]]></description>
     <link><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></guid>
-    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your in-app purchase has been returned]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
