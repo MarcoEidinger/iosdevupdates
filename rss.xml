@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Mar 2025 16:11:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Mar 2025 18:10:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Detecting body poses in a live video feed]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></guid>
+    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Strategies to avoid merge conflicts in Xcode Projects ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/03/21/git-conflicts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/03/21/git-conflicts]]></guid>
     <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -301,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
     <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Own your Swift apps' automation ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/03/11/own-your-automation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/03/11/own-your-automation]]></guid>
     <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></guid>
+    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Your in-app purchase has been returned]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
