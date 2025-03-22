@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 22 Mar 2025 12:11:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Mar 2025 14:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ModelActor is Just Weird]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://www.massicotte.org/model-actor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/model-actor]]></guid>
+    <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Testing Proposal: Exit Tests]]></title>
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></guid>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Synchronous Work]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/synchronous-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/synchronous-work]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
