@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Mar 2025 20:10:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Mar 2025 22:10:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fantastical 4.0.7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/24/fantastical-4-0-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/24/fantastical-4-0-7/]]></guid>
+    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 4]]></title>
@@ -65,6 +73,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Awaiting multiple async tasks in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/03/24/awaiting-multiple-async-tasks-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/03/24/awaiting-multiple-async-tasks-in-swift]]></guid>
+    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Public-key cryptography with CryptoKit for iOS]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/cryptokit-public-key-cryptography]]></link>
@@ -102,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/model-actor]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/model-actor]]></guid>
     <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Testing Proposal: Exit Tests]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/21/swift-testing-proposal-exit-tests/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/21/swift-testing-proposal-exit-tests/]]></guid>
-    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -421,14 +429,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/book-review-radical-respect-2/]]></guid>
-    <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Performance - How to use UIKit]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/03/04/swiftui-performance-how-to-use-uikit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/03/04/swiftui-performance-how-to-use-uikit]]></guid>
     <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
