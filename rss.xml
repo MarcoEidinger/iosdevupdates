@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Mar 2025 12:13:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Mar 2025 14:10:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Photographing My Fur Babies - Fatbobman's Swift Weekly #76]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-076/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-076/]]></guid>
+    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI TabView: Explained with Code Examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/tabview-tabbed-views/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/tabview-tabbed-views/]]></guid>
+    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Composable Architecture: How Architectural Design Decisions Influence Performance]]></title>
@@ -77,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/03/21/swift-testing-proposal-exit-tests/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/21/swift-testing-proposal-exit-tests/]]></guid>
+    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 104 - Why]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/104Why.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/104Why.html]]></guid>
     <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 260 - Fired]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/6c67f569a778/260-fired]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/6c67f569a778/260-fired]]></guid>
-    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The new Vapor Toolbox]]></title>
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/toolbox-rewrite]]></link>
@@ -233,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Concurrency Course: Modern Concurrency & Swift 6]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/]]></guid>
-    <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building a MCP server in Swift]]></title>
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2025/03/building-a-mcp-server-in-swift/]]></link>
@@ -262,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
