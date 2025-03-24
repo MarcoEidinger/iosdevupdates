@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Mar 2025 16:11:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Mar 2025 18:11:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to automate perfect screenshots for the Mac App Store]]></title>
+    <description><![CDATA[https://www.jessesquires.com]]></description>
+    <link><![CDATA[https://www.jessesquires.com/blog/2025/03/24/automate-perfect-mac-screenshots/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/03/24/automate-perfect-mac-screenshots/]]></guid>
+    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Photographing My Fur Babies - Fatbobman's Swift Weekly #76]]></title>
@@ -345,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to remove unwanted Swift Package schemes in Xcode]]></title>
-    <description><![CDATA[https://www.jessesquires.com]]></description>
-    <link><![CDATA[https://www.jessesquires.com/blog/2025/03/10/swiftpm-schemes-in-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/03/10/swiftpm-schemes-in-xcode/]]></guid>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Rendering Pixel Art with SwiftUI]]></title>
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/]]></link>
@@ -441,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[It’s Our 25th Anniversary!]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
-    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Pilky]]></title>
     <description><![CDATA[https://orangejuiceliberationfront.com]]></description>
     <link><![CDATA[https://orangejuiceliberationfront.com/pilky]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/02/27/your_in_app_purchase_has_been_returned]]></guid>
     <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Visual Studio Code setup for iOS development with Copilot]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/vscode-ios-setup/]]></guid>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
