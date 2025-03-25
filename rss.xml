@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Mar 2025 10:09:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Mar 2025 12:12:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[I’m doing a talk at iOSKonf25]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/03/25/im-doing-a-talk-at-ioskonf25]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/03/25/im-doing-a-talk-at-ioskonf25]]></guid>
+    <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -209,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How we used LLMs to help us find the perfect piece of land for our home]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
@@ -302,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/02/28/lights-camera-action-button/]]></guid>
     <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Safer Swift: How ~Copyable Prevents Hidden Bugs]]></title>
+    <description><![CDATA[https://arturgruchala.com/]]></description>
+    <link><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/]]></guid>
+    <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
