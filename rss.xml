@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Mar 2025 14:09:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 16:11:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Environment: Concepts and Practice]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/swiftui-environment-concepts-and-practice/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftui-environment-concepts-and-practice/]]></guid>
+    <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Retrieving the customer’s appTransactionID]]></title>
@@ -61,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Optimize your Swift test suite to run faster ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/03/25/tests]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/03/25/tests]]></guid>
     <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/deploy-fly-railway]]></guid>
-    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Strategies to avoid merge conflicts in Xcode Projects ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/03/21/git-conflicts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/03/21/git-conflicts]]></guid>
     <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></guid>
     <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MLX Swift: Run VLMs (Image-to-Text) in iOS Apps]]></title>
-    <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
-    <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
