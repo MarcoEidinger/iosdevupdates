@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 27 Mar 2025 00:26:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Mar 2025 02:36:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using StoreKit’s ExternalPurchaseLink]]></title>
+    <description><![CDATA[https://alexpaul.dev/]]></description>
+    <link><![CDATA[https://alexpaul.dev/2025/03/27/using-storekit-externalpurchaselink/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/03/27/using-storekit-externalpurchaselink/]]></guid>
+    <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building Flexible, Styled ListItems in SwiftUI]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://manu.show/]]></description>
     <link><![CDATA[https://manu.show/dx-changed-modules-tests]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/dx-changed-modules-tests]]></guid>
-    <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Retrieving the customer’s appTransactionID]]></title>
-    <description><![CDATA[https://alexpaul.dev/]]></description>
-    <link><![CDATA[https://alexpaul.dev/2025/03/26/retrieving-the-customers-apptransactionid/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/03/26/retrieving-the-customers-apptransactionid/]]></guid>
     <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -473,11 +473,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Pilky]]></title>
-    <description><![CDATA[https://orangejuiceliberationfront.com]]></description>
-    <link><![CDATA[https://orangejuiceliberationfront.com/pilky]]></link>
-    <guid isPermaLink="true"><![CDATA[https://orangejuiceliberationfront.com/pilky]]></guid>
-    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[It’s Our 25th Anniversary!]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
