@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Mar 2025 00:25:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 02:35:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SuperDuper 3.10 Beta Works Around asr Bug]]></title>
@@ -345,14 +345,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/tarmak/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/tarmak/]]></guid>
     <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[It’s Our 25th Anniversary!]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
