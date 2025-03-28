@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Mar 2025 06:11:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 08:10:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Method dispatch mechanisms in Swift: static and dynamic dispatch]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/MethodDispatchMechanismsInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/MethodDispatchMechanismsInSwift]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SuperDuper 3.10 Beta Works Around asr Bug]]></title>
@@ -217,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Adapting images and symbols to Dynamic Type sizes in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/AdaptingImagesAndSymbolsToDynamicTypeSizesInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AdaptingImagesAndSymbolsToDynamicTypeSizesInSwiftUI]]></guid>
-    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tim, don’t kill my vibe]]></title>
     <description><![CDATA[https://irace.me/]]></description>
     <link><![CDATA[http://irace.me/vibe]]></link>
@@ -253,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -342,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +462,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/tarmak/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/tarmak/]]></guid>
     <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[It’s Our 25th Anniversary!]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/its-our-25th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=its-our-25th-anniversary]]></guid>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pilky]]></title>
+    <description><![CDATA[https://orangejuiceliberationfront.com]]></description>
+    <link><![CDATA[https://orangejuiceliberationfront.com/pilky]]></link>
+    <guid isPermaLink="true"><![CDATA[https://orangejuiceliberationfront.com/pilky]]></guid>
+    <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
