@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Mar 2025 20:09:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 22:11:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Why Building Mobile Apps Is So Much Harder Than It Looks]]></title>
@@ -281,6 +281,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Where is Swift Assist?]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How we used LLMs to help us find the perfect piece of land for our home]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
@@ -358,14 +366,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
