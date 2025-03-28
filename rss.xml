@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Mar 2025 18:10:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 20:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why Building Mobile Apps Is So Much Harder Than It Looks]]></title>
+    <description><![CDATA[https://www.thomashanning.com]]></description>
+    <link><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS 15.4 Adds TCC Events to Endpoint Security]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/03/28/macos-15-4-adds-tcc-events-to-endpoint-security/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/28/macos-15-4-adds-tcc-events-to-endpoint-security/]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Handling Incoming URLs With onOpenURL In SwiftUI]]></title>
@@ -49,11 +65,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SuperDuper 3.10 Beta Works Around asr Bug]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/03/27/superduper-3-10-beta-works-around-asr-bug/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/27/superduper-3-10-beta-works-around-asr-bug/]]></guid>
-    <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[A Trick For Opening Magic Links in Your RSS Reader]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How we used LLMs to help us find the perfect piece of land for our home]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></guid>
     <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MLX Swift: Run VLMs (Image-to-Text) in iOS Apps]]></title>
-    <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
-    <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
