@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Mar 2025 12:14:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 14:09:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Integrating the Search Intent using Assistant Schemas]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/integrating-the-search-intent-using-assistant-schemas/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/integrating-the-search-intent-using-assistant-schemas/]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dock App]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/03/27/superduper-3-10-beta-works-around-asr-bug/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/03/27/superduper-3-10-beta-works-around-asr-bug/]]></guid>
-    <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Detecting Barcodes on an image with the Vision Framework]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/detecting-barcodes-on-an-image-with-the-vision-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/detecting-barcodes-on-an-image-with-the-vision-framework/]]></guid>
     <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -353,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-78-computer-magazines/]]></guid>
     <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tarmak]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/tarmak/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/tarmak/]]></guid>
+    <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
