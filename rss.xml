@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 29 Mar 2025 16:09:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Mar 2025 18:10:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[GlanceCam’s 7th birthday, a big announcement and version 4.5 with Alternate Glances]]></title>
@@ -377,14 +377,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></guid>
     <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MLX Swift: Run VLMs (Image-to-Text) in iOS Apps]]></title>
+    <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
+    <link><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/mlx-swift-run-vlms-image-to-text-in-ios-apps-ae34caa33c9b?source=rss-e7d608c3cf73------2]]></guid>
+    <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
