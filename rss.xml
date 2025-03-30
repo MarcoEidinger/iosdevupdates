@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 29 Mar 2025 22:08:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Mar 2025 00:30:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[GlanceCam’s 7th birthday, a big announcement and version 4.5 with Alternate Glances]]></title>
@@ -385,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
     <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to plan a migration to Swift 6]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/]]></guid>
+    <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
