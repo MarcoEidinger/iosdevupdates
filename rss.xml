@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Mar 2025 08:10:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Mar 2025 10:08:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swiftly by Swift team Unveiled: A Major Step Towards a Community-Driven IDE Rivaling Xcode!]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/swiftly-by-swift-team-unveiled-a-major-step-towards-a-community-driven-ide-rivaling-xcode-1db7a8e4fd4b?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/swiftly-by-swift-team-unveiled-a-major-step-towards-a-community-driven-ide-rivaling-xcode-1db7a8e4fd4b?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[GlanceCam’s 7th birthday, a big announcement and version 4.5 with Alternate Glances]]></title>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
