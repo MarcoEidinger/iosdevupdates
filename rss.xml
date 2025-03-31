@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 31 Mar 2025 12:13:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Mar 2025 14:10:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Rise of MCP and Apple's AI Framework Vision - Fatbobman's Swift Weekly #77]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-077/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-077/]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pocket Network’s Shannon Upgrade has been successfully Soft Launched!]]></title>
+    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/decentralized-infrastructure/pocket-networks-shannon-upgrade-has-been-successfully-soft-launched-f91f1af8039c?source=rss-d59564ad49f6------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/pocket-networks-shannon-upgrade-has-been-successfully-soft-launched-f91f1af8039c?source=rss-d59564ad49f6------2]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Grid, LazyVGrid, LazyHGrid Explained with Code Examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/grid-lazyvgrid-lazyhgrid-gridviews/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/grid-lazyvgrid-lazyhgrid-gridviews/]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create a Custom Multi-Select Button in SwiftUI]]></title>
@@ -233,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI TabView: Explained with Code Examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/tabview-tabbed-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/tabview-tabbed-views/]]></guid>
-    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Composable Architecture: How Architectural Design Decisions Influence Performance]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/the-composable-architecture-performance?utm_source=rss&utm_medium=rss&utm_campaign=the-composable-architecture-performance]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></guid>
     <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Git Branch in Terminal Titlebar With Fish]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2025/03/07/git-branch-in-terminal-titlebar-with-fish/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/03/07/git-branch-in-terminal-titlebar-with-fish/]]></guid>
-    <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Model Context Protocol (MCP)]]></title>
-    <description><![CDATA[https://nshipster.com]]></description>
-    <link><![CDATA[https://nshipster.com/model-context-protocol]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nshipster.com/model-context-protocol]]></guid>
-    <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
