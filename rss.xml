@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 31 Mar 2025 14:10:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Mar 2025 16:11:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift — Functions & Closures — Part II]]></title>
+    <description><![CDATA[https://medium.com/hash-coding]]></description>
+    <link><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Rise of MCP and Apple's AI Framework Vision - Fatbobman's Swift Weekly #77]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Code Review: How to write reviews your team looks forward to?]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/code-review-how-to-write-reviews-your-team-looks-forward-to/]]></guid>
-    <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
