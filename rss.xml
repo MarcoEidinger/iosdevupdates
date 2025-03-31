@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 31 Mar 2025 18:12:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Mar 2025 20:10:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Software Update dark pattern]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/3/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/3/4.html]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I Am Visible]]></title>
@@ -329,6 +337,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Where is Swift Assist?]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How we used LLMs to help us find the perfect piece of land for our home]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
@@ -373,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2025/03/17/optimism]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/03/17/optimism]]></guid>
-    <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[For sale: 16-inch M1 MacBook Pro with new battery]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/3/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/3/3.html]]></guid>
     <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/]]></guid>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Scaling Mutation Testing in a Large iOS Codebase]]></title>
-    <description><![CDATA[https://ericsspace.com/]]></description>
-    <link><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/scaling-mutation-testing-in-a-large-ios-codebase]]></guid>
     <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
