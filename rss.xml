@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 31 Mar 2025 16:11:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Mar 2025 18:12:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Am Visible]]></title>
+    <description><![CDATA[https://zmknox.com/]]></description>
+    <link><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift — Functions & Closures — Part II]]></title>
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
