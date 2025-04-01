@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Apr 2025 04:12:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Apr 2025 06:12:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Documenting your code with DocC]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/04/01/documenting-your-code-with-docc]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/01/documenting-your-code-with-docc]]></guid>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building a dependency injection framework]]></title>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/the-composable-architecture-performance?utm_source=rss&utm_medium=rss&utm_campaign=the-composable-architecture-performance]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/the-composable-architecture-performance?utm_source=rss&utm_medium=rss&utm_campaign=the-composable-architecture-performance]]></guid>
-    <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Awaiting multiple async tasks in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/03/24/awaiting-multiple-async-tasks-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/03/24/awaiting-multiple-async-tasks-in-swift]]></guid>
     <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
