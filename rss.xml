@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Apr 2025 14:08:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Apr 2025 16:10:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 262 - Drip]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/f968aa1d57d5/262-drip]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/f968aa1d57d5/262-drip]]></guid>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple starts accepting GitHub sponsorships for Swift]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/275/apple-starts-accepting-github-sponsorships-for-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/275/apple-starts-accepting-github-sponsorships-for-swift]]></guid>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Presenting an Inspector with SwiftUI]]></title>
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 105 - Connection]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/105Connection.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/105Connection.html]]></guid>
-    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Dock App]]></title>
     <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
     <link><![CDATA[https://medium.com/@alessandromanilii/dock-app-e8aaf2793ce3?source=rss-71ad5f0d2495------2]]></link>
@@ -357,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
