@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Apr 2025 08:11:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Apr 2025 10:10:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Implementing Task timeout with Swift Concurrency]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/implementing-task-timeout-with-swift-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/implementing-task-timeout-with-swift-concurrency/]]></guid>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Text concatenation vs Text interpolation in SwiftUI]]></title>
@@ -425,6 +433,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift + Zed = ❤️]]></title>
+    <description><![CDATA[https://tgomareli.medium.com]]></description>
+    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
+    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></link>
     <guid isPermaLink="true"><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></guid>
     <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Sign in with Apple in the watchOS Simulator]]></title>
-    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
-    <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
-    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Conference Notes: CodeBEAM America (San Francisco) 2025]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></guid>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
