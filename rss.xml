@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Apr 2025 20:09:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Apr 2025 22:09:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Clean Architecture for Swift]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/the-clean-architecture-for-swift-6889c6b80a18?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/the-clean-architecture-for-swift-6889c6b80a18?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Region-Specific Language Control: Implementing Forced Localization in iOS Apps]]></title>
+    <description><![CDATA[https://kunat.dev/notes/]]></description>
+    <link><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></guid>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Moving Targets]]></title>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Composing a Resume in Markdown]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
