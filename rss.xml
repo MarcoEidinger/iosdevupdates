@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Apr 2025 14:09:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Apr 2025 16:10:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Say Goodbye to dismiss: A State-Driven Path to More Maintainable SwiftUI]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/say-goodbye-to-dismiss/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/say-goodbye-to-dismiss/]]></guid>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Create a Custom Single Select Button in SwiftUI]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2025/04/01/the-quest-for-fixed-costs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/04/01/the-quest-for-fixed-costs/]]></guid>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 262 - Drip]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/f968aa1d57d5/262-drip]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/f968aa1d57d5/262-drip]]></guid>
     <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,14 +369,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Where is Swift Assist?]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How we used LLMs to help us find the perfect piece of land for our home]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
@@ -446,6 +438,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift + Zed = ❤️]]></title>
+    <description><![CDATA[https://tgomareli.medium.com]]></description>
+    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
+    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
