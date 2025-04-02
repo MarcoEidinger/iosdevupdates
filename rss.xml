@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Apr 2025 12:12:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Apr 2025 14:09:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Create a Custom Single Select Button in SwiftUI]]></title>
@@ -449,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift + Zed = ❤️]]></title>
-    <description><![CDATA[https://tgomareli.medium.com]]></description>
-    <link><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425?source=rss-e061295e669a------2]]></guid>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Composing a Resume in Markdown]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ryanashcraft.com]]></description>
     <link><![CDATA[https://ryanashcraft.com/indie-not-alone/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/indie-not-alone/]]></guid>
+    <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why did Apple pre-announce “more personalised Siri”?]]></title>
+    <description><![CDATA[https://www.amyworrall.com]]></description>
+    <link><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></guid>
     <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
