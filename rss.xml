@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Apr 2025 08:12:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Apr 2025 10:10:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift Testing: Test Scoping Traits]]></title>
@@ -37,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/275/apple-starts-accepting-github-sponsorships-for-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/275/apple-starts-accepting-github-sponsorships-for-swift]]></guid>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Presenting an Inspector with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/presenting-an-inspector-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/presenting-an-inspector-with-swiftui/]]></guid>
     <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -209,14 +201,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why Building Mobile Apps Is So Much Harder Than It Looks]]></title>
-    <description><![CDATA[https://www.thomashanning.com]]></description>
-    <link><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></guid>
-    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Handling Incoming URLs With onOpenURL In SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/handling-incoming-urls-with-onopenurl-in-swiftui/]]></link>
@@ -289,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AiOS Dispatch 5]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/aios-dispatch-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-5/]]></guid>
-    <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I’m doing a talk at iOSKonf25]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/03/25/im-doing-a-talk-at-ioskonf25]]></link>
@@ -365,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/binding-with-get-set]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/binding-with-get-set]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Solving Swift Macro Trust Issues in Xcode Cloud Builds]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +438,38 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/03/15/composing-a-resume-in-markdown/]]></guid>
     <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why did Apple pre-announce “more personalised Siri”?]]></title>
+    <description><![CDATA[https://www.amyworrall.com]]></description>
+    <link><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/why-did-apple-pre-announce-more-personalised-siri]]></guid>
+    <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Shortcuts - Quickly entering regular calendar events]]></title>
+    <description><![CDATA[https://danieltull.co.uk/blog/]]></description>
+    <link><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://danieltull.co.uk//blog/2025/03/11/shortcuts-quick-calendar-events/]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Implementing Sign in with Apple in the watchOS Simulator]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/signin-apple-watchos-simulator]]></guid>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Conference Notes: CodeBEAM America (San Francisco) 2025]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/3/code-beam-america-notes/]]></guid>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
