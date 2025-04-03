@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 03 Apr 2025 14:09:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Apr 2025 16:11:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Distributed Apple Intelligence]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Blog/2025/04/03-DistributedAppleIntelligence.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Blog/2025/04/03-DistributedAppleIntelligence.html]]></guid>
+    <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Controlling the visibility of the baseplate of volumes in visionOS]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html]]></guid>
-    <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI's editMode environment]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
