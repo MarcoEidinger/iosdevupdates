@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Apr 2025 00:26:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Apr 2025 02:35:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Altair Basic Source Code]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/04/03/altair-basic-source-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/03/altair-basic-source-code/]]></guid>
+    <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2025 Tools Audit]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[http://mikezornek.com/posts/2025/4/2025-tools-audit/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://mikezornek.com/posts/2025/4/2025-tools-audit/]]></guid>
     <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2025/03/building-a-mcp-server-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2025/03/building-a-mcp-server-in-swift/]]></guid>
-    <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Seattle Xcoders Presentation Meetings Return]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html]]></guid>
     <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
