@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Apr 2025 12:14:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Apr 2025 14:09:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mastering Forms in SwiftUI: Toggles]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-toggles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-toggles/]]></guid>
+    <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Altair Basic Source Code]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Blog/2025/04/03-DistributedAppleIntelligence.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Blog/2025/04/03-DistributedAppleIntelligence.html]]></guid>
-    <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Controlling the visibility of the baseplate of volumes in visionOS]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/controlling-the-visibility-of-the-baseplate-of-volumes-in-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/controlling-the-visibility-of-the-baseplate-of-volumes-in-visionos/]]></guid>
     <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
