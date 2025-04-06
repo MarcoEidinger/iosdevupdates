@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 06 Apr 2025 18:10:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Apr 2025 20:10:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Structured Spacing for Scalable Mobile UIs]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></guid>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Great App That Nobody Knows About]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/A-Great-App-That-No-one-Knows-About]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/A-Great-App-That-No-one-Knows-About]]></guid>
     <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -265,18 +273,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why I never subclass UITableViewCell or UICollectionViewCell]]></title>
-    <description><![CDATA[https://dev.srdanstanic.com/]]></description>
-    <link><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></guid>
-    <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Week 13, 2025: Links and things]]></title>
     <description><![CDATA[https://blog.skagedal.tech]]></description>
     <link><![CDATA[https://blog.skagedal.tech/2025/03/30/week-13-links-and-things.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/03/30/week-13-links-and-things.html]]></guid>
+    <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I never subclass UITableViewCell or UICollectionViewCell]]></title>
+    <description><![CDATA[https://dev.srdanstanic.com/]]></description>
+    <link><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></guid>
     <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MVVM in SwiftUI for a Better Architecture [with Example]]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-mvvm/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-mvvm/]]></guid>
-    <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
