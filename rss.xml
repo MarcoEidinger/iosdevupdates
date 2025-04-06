@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 06 Apr 2025 06:10:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Apr 2025 08:12:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Structured Spacing for Scalable Mobile UIs]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></guid>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 6]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://matteomanferdini.com/swiftui-mvvm/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-mvvm/]]></guid>
     <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The new Vapor Toolbox]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/toolbox-rewrite]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/toolbox-rewrite]]></guid>
-    <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
