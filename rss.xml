@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Apr 2025 06:12:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Apr 2025 08:11:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Issue 079: Trust]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-79-trust/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-79-trust/]]></guid>
+    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Distribute your Swift CLIs for macOS]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></guid>
     <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,22 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[👨‍🎨 Implementing Views Using Mock Data 🚧]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue39]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue39]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dev Conversations #8: Pedro and Marek, from Tuist]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/dc-pedro-and-marek]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-pedro-and-marek]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swiftly by Swift team Unveiled: A Major Step Towards a Community-Driven IDE Rivaling Xcode!]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/swiftly-by-swift-team-unveiled-a-major-step-towards-a-community-driven-ide-rivaling-xcode-1db7a8e4fd4b?source=rss-1b318de51cdd------2]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://krausefx.com/]]></description>
     <link><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/how-we-used-llms-to-help-us-find-the-perfect-piece-of-land-for-our-future-home]]></guid>
+    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A 3D Stroke Effect: Getting Started with Shader Graph Effects on visionOS]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/a-3d-stroke-effect-getting-you-started-with-shader-graph-effects-on-visionos/]]></guid>
     <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
