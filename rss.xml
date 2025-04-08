@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 08 Apr 2025 12:14:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Apr 2025 14:08:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Create flexible interfaces in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/create-flexible-interfaces-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/create-flexible-interfaces-in-swiftui/]]></guid>
+    <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA["Swift Gems" book update: new techniques from recent and past Swift releases]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/SwiftGemsUpdateApril2025]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftGemsUpdateApril2025]]></guid>
+    <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC25 wishes]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/04/08/wwdc25-wishes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/08/wwdc25-wishes]]></guid>
     <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/2.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/2.html]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Napoli Meetup Newsletter #2]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/napoli-meetup-newsletter-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/napoli-meetup-newsletter-2/]]></guid>
     <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/implementing-task-timeout-with-swift-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/implementing-task-timeout-with-swift-concurrency/]]></guid>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Documenting your code with DocC]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/04/01/documenting-your-code-with-docc]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/01/documenting-your-code-with-docc]]></guid>
     <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
