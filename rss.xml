@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Apr 2025 14:11:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Apr 2025 16:10:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building WASM Applications with Swift]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/building-wasm-applications-with-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/building-wasm-applications-with-swift/]]></guid>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Buttons in SwiftUI]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/staying-productive-as-an-indie-developer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/staying-productive-as-an-indie-developer/]]></guid>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to inspect .ipa files and secure your iOS app from common mistakes]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/how-to-inspect-ipa-files]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/how-to-inspect-ipa-files]]></guid>
     <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,22 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/model-actor]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/model-actor]]></guid>
     <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tim, don’t kill my vibe]]></title>
-    <description><![CDATA[https://irace.me/]]></description>
-    <link><![CDATA[http://irace.me/vibe]]></link>
-    <guid isPermaLink="true"><![CDATA[http://irace.me/vibe]]></guid>
-    <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bindings]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/binding-with-get-set]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/binding-with-get-set]]></guid>
-    <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
