@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Apr 2025 20:09:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Apr 2025 22:08:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Unable to Send Messages With Apple Mail on macOS 15.4]]></title>
@@ -153,18 +153,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Complexity part 0. Introduction.]]></title>
-    <description><![CDATA[https://dmtopolog.com]]></description>
-    <link><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></link>
-    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Distribute your Swift CLIs for macOS]]></title>
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></guid>
+    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Complexity part 0. Introduction.]]></title>
+    <description><![CDATA[https://dmtopolog.com]]></description>
+    <link><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></link>
+    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></guid>
     <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
