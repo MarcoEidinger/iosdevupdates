@@ -6,21 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 11 Apr 2025 12:14:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Apr 2025 14:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Make your app content show on Spotlight]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/make-your-app-content-show-on-spotlight/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/make-your-app-content-show-on-spotlight/]]></guid>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Plurals with SwiftUI]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></guid>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Responsive SwiftUI Layout for iPhone and iPad (with Bonus Mac Compatibility)]]></title>
+    <description><![CDATA[https://www.devfright.com]]></description>
+    <link><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></guid>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Awaiting APIs]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/04/10/awaiting-apis/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/10/awaiting-apis/]]></guid>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Integrating TimelineView in a SwiftUI app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/integrating-timelineview-in-a-swiftui-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/integrating-timelineview-in-a-swiftui-app/]]></guid>
     <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,22 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftyplace.com/blog/the-composable-architecture-performance?utm_source=rss&utm_medium=rss&utm_campaign=the-composable-architecture-performance]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/the-composable-architecture-performance?utm_source=rss&utm_medium=rss&utm_campaign=the-composable-architecture-performance]]></guid>
     <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[📚 2025 Reading #3]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/reading/2024/2023-reading-3-the-lion-the-witch-the-wardrobe]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2024/2023-reading-3-the-lion-the-witch-the-wardrobe]]></guid>
-    <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ModelActor is Just Weird]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/model-actor]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/model-actor]]></guid>
-    <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
