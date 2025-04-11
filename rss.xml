@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 11 Apr 2025 18:11:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Apr 2025 20:11:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Failed Software Update on the External Drive of an Apple Silicon Mac]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/11/failed-software-update-on-the-external-drive-of-an-apple-silicon-mac/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/11/failed-software-update-on-the-external-drive-of-an-apple-silicon-mac/]]></guid>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[RIP: Aircraft Radar Skill for Amazon Alexa]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/]]></guid>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI Colors – Exploring Overlooked Features]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></guid>
     <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Awaiting APIs]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/10/awaiting-apis/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/10/awaiting-apis/]]></guid>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/81a6e7aec4bc/263-bipolar]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/81a6e7aec4bc/263-bipolar]]></guid>
-    <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Some TODOs for the new site]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/04/some-todos-for-the-new-site/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/04/some-todos-for-the-new-site/]]></guid>
     <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
