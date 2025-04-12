@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Apr 2025 10:10:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Apr 2025 12:11:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Guide to the SwiftUI @Environment]]></title>
+    <description><![CDATA[https://www.devfright.com]]></description>
+    <link><![CDATA[https://www.devfright.com/a-guide-to-the-swiftui-environment/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/a-guide-to-the-swiftui-environment/]]></guid>
+    <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I Built a New Feature for FlexiBackup Using Cursor + Claude 3.7 Sonnet]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></guid>
-    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a Responsive SwiftUI Layout for iPhone and iPad (with Bonus Mac Compatibility)]]></title>
-    <description><![CDATA[https://www.devfright.com]]></description>
-    <link><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/creating-a-responsive-swiftui-layout-for-iphone-and-ipad-with-bonus-mac-compatibility/]]></guid>
     <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
