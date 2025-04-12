@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Apr 2025 14:08:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Apr 2025 16:09:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Guide to the SwiftUI @Environment]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftsenpai.com/]]></description>
     <link><![CDATA[https://swiftsenpai.com/development/built-new-feature-with-cursor/?utm_source=rss&utm_medium=rss&utm_campaign=built-new-feature-with-cursor]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftsenpai.com/development/built-new-feature-with-cursor/?utm_source=rss&utm_medium=rss&utm_campaign=built-new-feature-with-cursor]]></guid>
+    <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Showing What’s New Screens using @AppStorage]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Simply-Whats-New-Logic-in-SwiftUI-iOS-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Simply-Whats-New-Logic-in-SwiftUI-iOS-apps]]></guid>
     <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></guid>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Great App That Nobody Knows About]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/A-Great-App-That-No-one-Knows-About]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/A-Great-App-That-No-one-Knows-About]]></guid>
     <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
