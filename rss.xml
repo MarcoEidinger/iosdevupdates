@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 13 Apr 2025 04:35:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Apr 2025 06:11:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AiOS Dispatch 7]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/aios-dispatch-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-7/]]></guid>
+    <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Guide to the SwiftUI @Environment]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></guid>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AiOS Dispatch 6]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-6/]]></guid>
     <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
