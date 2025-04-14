@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Apr 2025 20:10:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Apr 2025 22:09:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Create a Custom Loading Spinner in SwiftUI]]></title>
+    <description><![CDATA[https://www.devfright.com]]></description>
+    <link><![CDATA[https://www.devfright.com/how-to-create-a-custom-loading-spinner-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/how-to-create-a-custom-loading-spinner-in-swiftui/]]></guid>
+    <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Geoffrey Litt's Stevens AI Assistant]]></title>
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dev.to/imthath_m/]]></description>
     <link><![CDATA[https://dev.to/imthath_m/why-appreciation-matters-5a0k]]></link>
     <guid isPermaLink="true"><![CDATA[https://dev.to/imthath_m/why-appreciation-matters-5a0k]]></guid>
-    <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Guide to the SwiftUI @Environment]]></title>
-    <description><![CDATA[https://www.devfright.com]]></description>
-    <link><![CDATA[https://www.devfright.com/a-guide-to-the-swiftui-environment/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/a-guide-to-the-swiftui-environment/]]></guid>
     <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
