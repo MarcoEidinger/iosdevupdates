@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Apr 2025 08:11:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Apr 2025 10:09:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[👋 Introducing Unit Tests with Swift Testing 🧪]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue41]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue41]]></guid>
+    <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Complexity part 1. Low-level decisions in code.]]></title>
+    <description><![CDATA[https://dmtopolog.com]]></description>
+    <link><![CDATA[http://dmtopolog.com/complexity-1-decisions-in-code]]></link>
+    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-1-decisions-in-code]]></guid>
+    <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 7]]></title>
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[🧑‍🔧 Implementing Error Handling 🦺]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue40]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue40]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ten Years Older, Ten Times Bolder]]></title>
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/ten-years-older-ten-times-bolder]]></link>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swifttoolkit.dev/]]></description>
     <link><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/distribute-swift-clis]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Complexity part 0. Introduction.]]></title>
-    <description><![CDATA[https://dmtopolog.com]]></description>
-    <link><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></link>
-    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-0-introduction]]></guid>
     <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
