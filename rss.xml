@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Apr 2025 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Apr 2025 16:09:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using Swift’s defer keyword within async and throwing contexts]]></title>
+    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
+    <link><![CDATA[https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[【Tips】How to Test Core Data Code in VSCode/Cursor]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/snippet/how-to-test-core-data-code-in-vscode-cursor/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/how-to-test-core-data-code-in-vscode-cursor/]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I Got Rid of My Google-Hosted Web Fonts]]></title>
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Swift Testing. Scoping.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/04/15/introducing-swift-testing-scoping]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/15/introducing-swift-testing-scoping]]></guid>
     <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[WWDC25 wishes]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/04/08/wwdc25-wishes]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/08/wwdc25-wishes]]></guid>
-    <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Keyboard Shortcut Scope]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-keyboard-shortcut-scope/]]></link>
@@ -361,14 +377,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Modern URL construction in Swift]]></title>
-    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
-    <link><![CDATA[https://www.swiftbysundell.com/articles/modern-url-construction-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/modern-url-construction-in-swift]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Studio Display Camera occasionally fails to produce frames]]></title>
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/studio-display-camera-fails]]></link>
@@ -446,14 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/bridge-component-library]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/bridge-component-library]]></guid>
     <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Flexible, Styled ListItems in SwiftUI]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/03/building-flexible-styled-listitems-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/03/building-flexible-styled-listitems-in-swiftui]]></guid>
-    <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
