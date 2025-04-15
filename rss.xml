@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Apr 2025 10:10:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Apr 2025 12:13:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How I'm using AI to improve my software engineering productivity (and why it will not steal your job)]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://swiftrocks.com/how-im-using-ai-for-software-engineering]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/how-im-using-ai-for-software-engineering]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Reduce: Combining elements into a single value]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ways to customize text color in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI]]></guid>
     <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA["Swift Gems" book update: new techniques from recent and past Swift releases]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/SwiftGemsUpdateApril2025]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftGemsUpdateApril2025]]></guid>
-    <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WWDC25 wishes]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/04/08/wwdc25-wishes]]></link>
@@ -385,18 +393,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[GlanceCam’s 7th birthday, a big announcement and version 4.5 with Alternate Glances]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/03/29/glancecam_is_7_years_old_and_ios_is_coming]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/03/29/glancecam_is_7_years_old_and_ios_is_coming]]></guid>
-    <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[My Unfolding Experiment With Foldables]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2025-03-29-my-unfolding-experiment-with-foldables/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2025-03-29-my-unfolding-experiment-with-foldables/]]></guid>
+    <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[GlanceCam’s 7th birthday, a big announcement and version 4.5 with Alternate Glances]]></title>
+    <description><![CDATA[https://cdf1982.com/blog]]></description>
+    <link><![CDATA[https://cdf1982.com/2025/03/29/glancecam_is_7_years_old_and_ios_is_coming]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/03/29/glancecam_is_7_years_old_and_ios_is_coming]]></guid>
     <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.magnuskahr.dk]]></description>
     <link><![CDATA[https://magnuskahr.dk/posts/2025/03/building-flexible-styled-listitems-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/03/building-flexible-styled-listitems-in-swiftui]]></guid>
-    <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DX: Only run unit tests for changed modules]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/dx-changed-modules-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/dx-changed-modules-tests]]></guid>
     <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
