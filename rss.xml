@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Apr 2025 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Apr 2025 16:10:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Hopes for Xcode]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/my-hopes-for-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/my-hopes-for-xcode/]]></guid>
+    <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Responding to gestures: Tapping]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/responding-to-gestures-tapping/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/responding-to-gestures-tapping/]]></guid>
+    <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Live Activities Part 4 - Debugging]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/liveactivities/4-debugging/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/liveactivities/4-debugging/]]></guid>
     <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,6 +129,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[ Automate your Swift projects ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/04/15/automation-in-swift-projects]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/04/15/automation-in-swift-projects]]></guid>
+    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Geoffrey Litt's Stevens AI Assistant]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/4/stevens_ai_assistant.html]]></link>
@@ -201,27 +225,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Actors: few random notes]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/]]></guid>
-    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Plurals with SwiftUI]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></guid>
     <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Shaping a one-stop shop for app developers ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/04/10/one-stop-shop]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/04/10/one-stop-shop]]></guid>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2025/03/28/swiftdata-architecture-patterns-and-practices]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/03/28/swiftdata-architecture-patterns-and-practices]]></guid>
-    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Trick For Opening Magic Links in Your RSS Reader]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></guid>
     <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
