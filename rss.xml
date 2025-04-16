@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Apr 2025 16:10:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Apr 2025 18:12:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Carbon Copy Cloner 7.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/16/carbon-copy-cloner-7-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/16/carbon-copy-cloner-7-1/]]></guid>
+    <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My Hopes for Xcode]]></title>
@@ -25,10 +33,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Live Activities Part 4 - Debugging]]></title>
+    <title><![CDATA[Live Activities Part 1 - Problem Statement]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/liveactivities/4-debugging/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/liveactivities/4-debugging/]]></guid>
+    <link><![CDATA[https://mfaani.com/posts/liveactivities/1-intro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/liveactivities/1-intro/]]></guid>
     <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -70,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/sake-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/sake-1]]></guid>
     <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[dlsym Considered Harmful on iOS 18.4]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/15/dlsym-considered-harmful-on-ios-18-4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/15/dlsym-considered-harmful-on-ios-18-4/]]></guid>
-    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -165,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-navigation-path-with-tabview]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-navigation-path-with-tabview]]></guid>
-    <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[BenQ ScreenBar Pro Review: The Desk Light You Didn’t Know You Needed]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></guid>
     <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,6 +437,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2025/03/28/swiftdata-architecture-patterns-and-practices]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/03/28/swiftdata-architecture-patterns-and-practices]]></guid>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Trick For Opening Magic Links in Your RSS Reader]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/]]></guid>
     <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
