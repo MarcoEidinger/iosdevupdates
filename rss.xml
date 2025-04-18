@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 18 Apr 2025 08:11:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Apr 2025 10:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Advice to My Younger Self]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/advice-to-younger-self/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/advice-to-younger-self/]]></guid>
+    <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Actors: What Are They For?]]></title>
@@ -77,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/creating-mcp-servers-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/creating-mcp-servers-in-swift]]></guid>
+    <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Testing Challange - Can you refactor this?]]></title>
+    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
+    <link><![CDATA[https://www.mobiledevdiary.com/posts/swift-testing-challange-can-you-refactor-this/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/swift-testing-challange-can-you-refactor-this/]]></guid>
     <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[#3 Swift code refactor in action - a sneaky problem hidden in code snippet]]></title>
-    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
-    <link><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-code-refactor/3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/series/swift-code-refactor/3/]]></guid>
-    <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Supercharging SwiftUI Text with Dynamic Content Styling]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/04/08/supercharging-swiftui-text-with-dynamic-content-styling]]></link>
@@ -309,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.skagedal.tech]]></description>
     <link><![CDATA[https://blog.skagedal.tech/2025/04/07/week-14-links-and-things.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/2025/04/07/week-14-links-and-things.html]]></guid>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Structuring Spacing for Scalable Mobile UIs]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/design-system-spacing/]]></guid>
     <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
