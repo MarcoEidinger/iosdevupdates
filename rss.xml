@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 19 Apr 2025 14:08:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Apr 2025 16:09:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[UIApplication delegate deprecation coming in iOS 19 SDK]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/5.html]]></guid>
+    <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Adding extensions to sqlite-net]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></guid>
+    <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Subjective Charms of Objective-C]]></title>
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/swift-actors-what-are-they-for-fd40b4264d9a?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swift-actors-what-are-they-for-fd40b4264d9a?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Inaccessible .bnnsir files on macOS Sequoia, Part 3]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/4.html]]></guid>
     <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mutatingfunc.github.io/blog/2025-03-29-my-unfolding-experiment-with-foldables/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2025-03-29-my-unfolding-experiment-with-foldables/]]></guid>
     <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Building Mobile Apps Is So Much Harder Than It Looks]]></title>
-    <description><![CDATA[https://www.thomashanning.com]]></description>
-    <link><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/]]></guid>
-    <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
