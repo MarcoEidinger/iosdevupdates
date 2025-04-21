@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 21 Apr 2025 20:09:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 22:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 15.4.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/21/macos-15-4-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/21/macos-15-4-1/]]></guid>
+    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to automatically update Detekt on your Android Project (without Gradle)]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://denzhadanov.com/]]></description>
     <link><![CDATA[https://denzhadanov.com/ted-2025-reimagining-humanity-in-the-age-of-ai-113c419bf6da?source=rss----5255a3782276---4]]></link>
     <guid isPermaLink="true"><![CDATA[https://denzhadanov.com/ted-2025-reimagining-humanity-in-the-age-of-ai-113c419bf6da?source=rss----5255a3782276---4]]></guid>
-    <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Returning to macOS After 20+ Years on Windows]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/18/returning-to-macos-after-20-years-on-windows/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/18/returning-to-macos-after-20-years-on-windows/]]></guid>
     <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
