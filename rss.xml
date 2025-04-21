@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 21 Apr 2025 08:12:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 10:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[👫 Leveraging Social Platforms to Grow the Newsletter ⬆️]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue42]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue42]]></guid>
+    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What is @MainActor In Swift?]]></title>
@@ -14,6 +22,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></guid>
     <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Complexity part 2. Code and logic distribution.]]></title>
+    <description><![CDATA[https://dmtopolog.com]]></description>
+    <link><![CDATA[http://dmtopolog.com/complexity-2-logic-code-disctribution]]></link>
+    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-2-logic-code-disctribution]]></guid>
+    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to persist navigation state in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-navigation-persist-state]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-navigation-persist-state]]></guid>
+    <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -241,22 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Complexity part 1. Low-level decisions in code.]]></title>
-    <description><![CDATA[https://dmtopolog.com]]></description>
-    <link><![CDATA[http://dmtopolog.com/complexity-1-decisions-in-code]]></link>
-    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-1-decisions-in-code]]></guid>
-    <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using NavigationPath with TabView in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-navigation-path-with-tabview]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-navigation-path-with-tabview]]></guid>
-    <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[BenQ ScreenBar Pro Review: The Desk Light You Didn’t Know You Needed]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></link>
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@SaezChristopher/swiftly-by-swift-team-unveiled-a-major-step-towards-a-community-driven-ide-rivaling-xcode-1db7a8e4fd4b?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/swiftly-by-swift-team-unveiled-a-major-step-towards-a-community-driven-ide-rivaling-xcode-1db7a8e4fd4b?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I never subclass UITableViewCell or UICollectionViewCell]]></title>
-    <description><![CDATA[https://dev.srdanstanic.com/]]></description>
-    <link><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dev.srdanstanic.com/how-to-get-rid-of-cell-subclasses/]]></guid>
-    <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
