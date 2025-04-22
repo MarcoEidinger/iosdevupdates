@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Apr 2025 08:12:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Apr 2025 10:09:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 6.2: A first look at how it’s changing Concurrency]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/concurrency/swift-6-2-concurrency-changes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-6-2-concurrency-changes/]]></guid>
+    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best Practices for Managing Third-Party Libraries in Multi-Module iOS Apps]]></title>
+    <description><![CDATA[https://huypham85.medium.com/]]></description>
+    <link><![CDATA[https://towardsdev.com/best-practices-for-managing-third-party-libraries-in-multi-module-ios-apps-146de53ba769?source=rss-b87ab2bbc03b------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://towardsdev.com/best-practices-for-managing-third-party-libraries-in-multi-module-ios-apps-146de53ba769?source=rss-b87ab2bbc03b------2]]></guid>
+    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Series of Unfortunate Events: April 14 Foodnoms Outage Postmortem]]></title>
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Reduce: Combining elements into a single value]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/]]></guid>
-    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Swift Testing. Scoping.]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/04/15/introducing-swift-testing-scoping]]></link>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://zmknox.com/]]></description>
     <link><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></link>
     <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift — Functions & Closures — Part II]]></title>
-    <description><![CDATA[https://medium.com/hash-coding]]></description>
-    <link><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></guid>
     <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
