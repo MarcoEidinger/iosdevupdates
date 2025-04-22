@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Apr 2025 18:11:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Apr 2025 20:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Elegy for the Video Screenshot]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/22/elegy-for-the-video-screenshot/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/22/elegy-for-the-video-screenshot/]]></guid>
+    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Recall is not a good thing]]></title>
@@ -62,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ryanashcraft.com/april-14-2025-foodnoms-outage-postmortem/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/april-14-2025-foodnoms-outage-postmortem/]]></guid>
     <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 15.4.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/21/macos-15-4-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/21/macos-15-4-1/]]></guid>
-    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
