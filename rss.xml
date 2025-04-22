@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Apr 2025 16:10:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Apr 2025 18:11:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Recall is not a good thing]]></title>
+    <description><![CDATA[https://makeapppie.com/]]></description>
+    <link><![CDATA[https://makeapppie.com/2025/04/22/recall-is-not-a-good-thing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/04/22/recall-is-not-a-good-thing/]]></guid>
+    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 8]]></title>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></guid>
     <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Quest for Fixed Costs]]></title>
-    <description><![CDATA[https://makeapppie.com/]]></description>
-    <link><![CDATA[https://makeapppie.com/2025/04/01/the-quest-for-fixed-costs/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/04/01/the-quest-for-fixed-costs/]]></guid>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
