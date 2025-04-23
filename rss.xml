@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Apr 2025 06:11:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Apr 2025 08:12:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Create a fully custom About window for a Mac app in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></guid>
+    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Elegy for the Video Screenshot]]></title>
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-instruments-to-profile-a-swiftui-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-instruments-to-profile-a-swiftui-app/]]></guid>
-    <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automatic image accessibility labels from localized strings in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/ImageAccessibilityLabelsFromLocalizableStringsFiles]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ImageAccessibilityLabelsFromLocalizableStringsFiles]]></guid>
     <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
