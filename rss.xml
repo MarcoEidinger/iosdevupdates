@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Apr 2025 20:10:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Apr 2025 22:11:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Curation]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/6.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/6.html]]></guid>
+    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[EU Fines Apple and Meta Over DMA Violations]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/23/eu-fines-apple-and-meta-over-dma-violations/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/23/eu-fines-apple-and-meta-over-dma-violations/]]></guid>
+    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building Type‑Safe, High‑Performance SwiftData / Core Data Models]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></guid>
     <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Elegy for the Video Screenshot]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/22/elegy-for-the-video-screenshot/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/22/elegy-for-the-video-screenshot/]]></guid>
-    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/bay-area-transit-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/bay-area-transit-app/]]></guid>
-    <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[UIApplication delegate deprecation coming in iOS 19 SDK]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/5.html]]></guid>
     <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
