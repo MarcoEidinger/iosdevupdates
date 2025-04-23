@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Apr 2025 10:12:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Apr 2025 12:13:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using singletons in Swift 6]]></title>
@@ -101,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/how-to-automatically-update-detekt-on-your-android-project-without-gradle-d275e1c214df?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/how-to-automatically-update-detekt-on-your-android-project-without-gradle-d275e1c214df?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shorter Validity, Longer Shelf Life - Fatbobman's Swift Weekly #80]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-080/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-080/]]></guid>
     <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,6 +437,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://zmknox.com/]]></description>
     <link><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></link>
     <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></guid>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift — Functions & Closures — Part II]]></title>
+    <description><![CDATA[https://medium.com/hash-coding]]></description>
+    <link><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></guid>
     <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
