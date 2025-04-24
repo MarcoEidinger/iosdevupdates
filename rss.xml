@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Apr 2025 00:27:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Apr 2025 02:37:48 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Handling Deep Links in SwiftUI with URL Schemes]]></title>
