@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Apr 2025 14:10:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Apr 2025 16:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The weirdest HTML feature (or bug?): display your head]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/7.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/7.html]]></guid>
+    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[【Tips】Fixing SwiftLint Configuration Not Working in Monorepo Projects]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/snippet/fixing-swiftlint-configuration-not-working-in-monorepo-projects/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/fixing-swiftlint-configuration-not-working-in-monorepo-projects/]]></guid>
+    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using the share sheet to share content in a SwiftUI app]]></title>
@@ -25,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[NavigationRouter]]></title>
+    <description><![CDATA[https://manu.show/]]></description>
+    <link><![CDATA[https://manu.show/ep84-navigation-router]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/ep84-navigation-router]]></guid>
+    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Exploring Cursor: Generating Cursor Rules]]></title>
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-cursor-generating-cursor-rules/]]></link>
@@ -38,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/sake-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/sake-2]]></guid>
     <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store Curation]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/6.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/6.html]]></guid>
-    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -165,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/4/how_to_bake_in_pdf_redactions_using_retrobatch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/4/how_to_bake_in_pdf_redactions_using_retrobatch.html]]></guid>
-    <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Should you automate your Design System?]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/ep83-automate-design-system]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/ep83-automate-design-system]]></guid>
     <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://zmknox.com/]]></description>
     <link><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></link>
     <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift — Functions & Closures — Part II]]></title>
-    <description><![CDATA[https://medium.com/hash-coding]]></description>
-    <link><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/hash-coding/swift-functions-closures-part-ii-eaf240c684d6?source=rss----8167d64d21a9---4]]></guid>
     <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
