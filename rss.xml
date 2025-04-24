@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Apr 2025 16:10:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Apr 2025 18:11:01 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[The weirdest HTML feature (or bug?): display your head]]></title>
+    <title><![CDATA[Careless People]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/24/careless-people/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/24/careless-people/]]></guid>
+    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Gatekeeper change in macOS 15.4]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/7.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/7.html]]></guid>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/8.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/8.html]]></guid>
     <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -65,10 +73,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[EU Fines Apple and Meta Over DMA Violations]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/23/eu-fines-apple-and-meta-over-dma-violations/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/23/eu-fines-apple-and-meta-over-dma-violations/]]></guid>
+    <title><![CDATA[Behind the Scenes of DataScout: A SwiftData Debugging Tool]]></title>
+    <description><![CDATA[https://medium.com/@djalex566]]></description>
+    <link><![CDATA[https://medium.com/@djalex566/behind-the-scenes-of-datascout-a-swiftdata-debugging-tool-dcfc880f0733?source=rss-da87d9f8912c------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/behind-the-scenes-of-datascout-a-swiftdata-debugging-tool-dcfc880f0733?source=rss-da87d9f8912c------2]]></guid>
     <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2025/03/xcode-urlsession-bug-how-to-fix-and-prevent-it/?utm_source=rss&utm_medium=rss&utm_campaign=xcode-urlsession-bug-how-to-fix-and-prevent-it]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/03/xcode-urlsession-bug-how-to-fix-and-prevent-it/?utm_source=rss&utm_medium=rss&utm_campaign=xcode-urlsession-bug-how-to-fix-and-prevent-it]]></guid>
-    <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Am Visible]]></title>
-    <description><![CDATA[https://zmknox.com/]]></description>
-    <link><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://zmknox.com/2025/03/i-am-visible/]]></guid>
     <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
 </item>
 
