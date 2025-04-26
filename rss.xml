@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 26 Apr 2025 10:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Apr 2025 12:11:44 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Notes]]></title>
@@ -37,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/109Convenience.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/109Convenience.html]]></guid>
-    <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Handling App Lifecycle In SwiftUI With scenePhase]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/handling-app-lifecycle-in-swiftui-with-scenephase/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/handling-app-lifecycle-in-swiftui-with-scenephase/]]></guid>
     <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexpaul.dev/2025/04/03/getting-the-customers-transaction-id/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/04/03/getting-the-customers-transaction-id/]]></guid>
     <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Region-Specific Language Control: Implementing Forced Localization in iOS Apps]]></title>
+    <description><![CDATA[https://kunat.dev/notes/]]></description>
+    <link><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/removing-unwanted-localization-files/]]></guid>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
