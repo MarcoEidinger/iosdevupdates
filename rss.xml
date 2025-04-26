@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 25 Apr 2025 22:10:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Apr 2025 00:25:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to build a Clipboard History App with UIPasteboard, Images, and Strings in SwiftUI]]></title>
+    <description><![CDATA[https://www.devfright.com]]></description>
+    <link><![CDATA[https://www.devfright.com/how-to-build-a-clipboard-history-app-with-uipasteboard-images-and-strings-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/how-to-build-a-clipboard-history-app-with-uipasteboard-images-and-strings-in-swiftui/]]></guid>
+    <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Virus Protection for Phone]]></title>
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/snippet/fixing-swiftlint-configuration-not-working-in-monorepo-projects/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/fixing-swiftlint-configuration-not-working-in-monorepo-projects/]]></guid>
-    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Add Tap to Copy with UIPasteboard in SwiftUI]]></title>
-    <description><![CDATA[https://www.devfright.com]]></description>
-    <link><![CDATA[https://www.devfright.com/how-to-add-tap-to-copy-with-uipasteboard-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.devfright.com/how-to-add-tap-to-copy-with-uipasteboard-in-swiftui/]]></guid>
     <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
