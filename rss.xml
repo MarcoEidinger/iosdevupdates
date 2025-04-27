@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 27 Apr 2025 04:11:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Apr 2025 06:10:57 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[About The Confession]]></title>
@@ -457,11 +457,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Week 14, 2025: Links and things]]></title>
-    <description><![CDATA[https://blog.skagedal.tech]]></description>
-    <link><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></guid>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[20 Years In Business]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/20-years-in-business/?utm_source=rss&utm_medium=rss&utm_campaign=20-years-in-business]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/20-years-in-business/?utm_source=rss&utm_medium=rss&utm_campaign=20-years-in-business]]></guid>
+    <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
