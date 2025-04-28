@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Apr 2025 08:25:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 10:42:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI ForEach Explained with Code Examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring MCP: GitHub MCP for iOS Dev in VS Code, Cursor & Windsurf]]></title>
@@ -30,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://dmtopolog.com/complexity-3-problem-solution-mismatch]]></link>
     <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-3-problem-solution-mismatch]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bridging interfaces with the Adapter pattern in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-design-patterns-adapter]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-design-patterns-adapter]]></guid>
+    <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift 6.2: A first look at how it’s changing Concurrency]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/swift-6-2-concurrency-changes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-6-2-concurrency-changes/]]></guid>
-    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best Practices for Managing Third-Party Libraries in Multi-Module iOS Apps]]></title>
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://towardsdev.com/best-practices-for-managing-third-party-libraries-in-multi-module-ios-apps-146de53ba769?source=rss-b87ab2bbc03b------2]]></link>
@@ -254,14 +262,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></guid>
     <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to persist navigation state in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-navigation-persist-state]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-navigation-persist-state]]></guid>
-    <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
