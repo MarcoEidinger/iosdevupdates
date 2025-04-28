@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Apr 2025 06:17:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 08:25:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MCP: GitHub MCP for iOS Dev in VS Code, Cursor & Windsurf]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Chrome Paradox: Could DOJ’s Antitrust Remedy Create OpenAI’s Next Monopoly? - Fatbobman's Swift Weekly #81]]></title>
@@ -17,11 +25,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring Cursor: Midnight Theme for Cursor and VS Code]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-cursor-midnight-theme-for-cursor-vs-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-cursor-midnight-theme-for-cursor-vs-code/]]></guid>
-    <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Complexity part 3. Problem-solution mismatch]]></title>
+    <description><![CDATA[https://dmtopolog.com]]></description>
+    <link><![CDATA[http://dmtopolog.com/complexity-3-problem-solution-mismatch]]></link>
+    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-3-problem-solution-mismatch]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -249,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Complexity part 2. Code and logic distribution.]]></title>
-    <description><![CDATA[https://dmtopolog.com]]></description>
-    <link><![CDATA[http://dmtopolog.com/complexity-2-logic-code-disctribution]]></link>
-    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-2-logic-code-disctribution]]></guid>
-    <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to persist navigation state in SwiftUI]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-navigation-persist-state]]></link>
@@ -458,7 +458,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 <item>
     <title><![CDATA[Week 14, 2025: Links and things]]></title>
-    <description><![CDATA[https://blog.skagedal.tech]]></description>
+    <description><![CDATA[https://skagedal.tech/]]></description>
     <link><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></guid>
     <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
