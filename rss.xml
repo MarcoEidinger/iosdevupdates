@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Apr 2025 16:11:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 18:12:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Things That You Don’t Know About Git – Part 1]]></title>
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-081/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-081/]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Performance Review: Claude 3.7 Sonnet]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/04/28/PerformanceReview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/04/28/PerformanceReview/]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/04/11/plurals-with-swiftui/]]></guid>
     <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ten Years Older, Ten Times Bolder]]></title>
-    <description><![CDATA[https://byla.lt/tags/apple/]]></description>
-    <link><![CDATA[https://byla.lt/posts/ten-years-older-ten-times-bolder]]></link>
-    <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ten-years-older-ten-times-bolder]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
