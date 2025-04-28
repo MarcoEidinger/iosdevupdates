@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Apr 2025 14:13:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 16:11:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Things That You Don’t Know About Git – Part 1]]></title>
+    <description><![CDATA[https://wojciechkulik.pl]]></description>
+    <link><![CDATA[https://wojciechkulik.pl/tools/things-that-you-dont-know-about-git-part-1]]></link>
+    <guid isPermaLink="true"><![CDATA[https://wojciechkulik.pl/tools/things-that-you-dont-know-about-git-part-1]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Unlocking the Real Power of Swift 6's Typed Throws with Error Chains]]></title>
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/swift-6-typed-throws-error-chains/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-6-typed-throws-error-chains/]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Label and Button Style View Modifiers]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftui-label-and-button-style-view-modifiers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-label-and-button-style-view-modifiers/]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></guid>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I use AI as an iOS developer]]></title>
+    <description><![CDATA[https://dasdom.dev]]></description>
+    <link><![CDATA[https://dasdom.dev/how-i-use-ai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/how-i-use-ai]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -433,35 +457,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI Keyboard Shortcut Scope]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-keyboard-shortcut-scope/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-keyboard-shortcut-scope/]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ten Years Older, Ten Times Bolder]]></title>
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/ten-years-older-ten-times-bolder]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ten-years-older-ten-times-bolder]]></guid>
     <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue 079: Trust]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-79-trust/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-79-trust/]]></guid>
-    <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Week 14, 2025: Links and things]]></title>
-    <description><![CDATA[https://skagedal.tech/]]></description>
-    <link><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.skagedal.tech/posts/2025-04-07-week-14-links-and-things]]></guid>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
