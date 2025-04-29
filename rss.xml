@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Apr 2025 16:11:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Apr 2025 20:10:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MCP: XcodeBuildMCP for Building & Running iOS Projects in VS Code, Cursor & Windsurf]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-building-running-ios-projects-vs-code-cursor-windsurf/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-building-running-ios-projects-vs-code-cursor-windsurf/]]></guid>
+    <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI macOS Toolbar Examples]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/04/29/swiftui-macos-toolbar-examples/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/29/swiftui-macos-toolbar-examples/]]></guid>
+    <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using equatable() to Avoid the NavigationLink Pre-Build Pitfall]]></title>
@@ -25,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Localization - Pluralizations]]></title>
+    <description><![CDATA[https://manu.show/]]></description>
+    <link><![CDATA[https://manu.show/ep86-localization-handling-plurals]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/ep86-localization-handling-plurals]]></guid>
+    <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Keep downloading with a background session]]></title>
     <description><![CDATA[https://williamboles.com/]]></description>
     <link><![CDATA[https://williamboles.com/keep-downloading-with-a-background-session/]]></link>
@@ -38,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Three-Key-Takeaways-from-my-Deep-Dish-Swift-Talk-on-Indie-Marketing]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Three-Key-Takeaways-from-my-Deep-Dish-Swift-Talk-on-Indie-Marketing]]></guid>
     <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Revisiting ZFS for Mac]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/04/28/revisiting-zfs-for-mac/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/04/28/revisiting-zfs-for-mac/]]></guid>
-    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -77,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></guid>
-    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring MCP: GitHub MCP for iOS Dev in VS Code, Cursor & Windsurf]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-github-mcp-ios-dev-vs-code-cursor-windsurf/]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rambo.codes]]></description>
     <link><![CDATA[https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone]]></link>
     <guid isPermaLink="true"><![CDATA[https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone]]></guid>
-    <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deep Work]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/ep85-deep-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/ep85-deep-work]]></guid>
     <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
