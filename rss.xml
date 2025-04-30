@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Apr 2025 00:27:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 02:36:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Google Chrome 136 automatically upgrades your accounts to use passkeys]]></title>
@@ -342,6 +342,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></guid>
     <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[TED 2025: Reimagining Humanity in the Age of AI]]></title>
+    <description><![CDATA[https://denzhadanov.com/]]></description>
+    <link><![CDATA[https://denzhadanov.com/ted-2025-reimagining-humanity-in-the-age-of-ai-113c419bf6da?source=rss----5255a3782276---4]]></link>
+    <guid isPermaLink="true"><![CDATA[https://denzhadanov.com/ted-2025-reimagining-humanity-in-the-age-of-ai-113c419bf6da?source=rss----5255a3782276---4]]></guid>
+    <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
