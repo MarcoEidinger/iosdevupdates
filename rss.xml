@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Apr 2025 16:11:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 18:10:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring MLX Swift: Testing LLMs and VLMs with llm-tool]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-mlx-swift-testing-llms-vlms-llm-tool/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mlx-swift-testing-llms-vlms-llm-tool/]]></guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Whither Help Scout?]]></title>
@@ -33,18 +41,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Simple A/B testing with TelemetryDeck]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/ab-testing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/ab-testing]]></guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dependency container on top of task local values in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/04/30/dependency-container-on-top-of-task-local-values-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/30/dependency-container-on-top-of-task-local-values-in-swift]]></guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Google Chrome 136 automatically upgrades your accounts to use passkeys]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/4/9.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/4/9.html]]></guid>
-    <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring MCP: XcodeBuildMCP for Building & Running iOS Projects in VS Code, Cursor & Windsurf]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-building-running-ios-projects-vs-code-cursor-windsurf/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-building-running-ios-projects-vs-code-cursor-windsurf/]]></guid>
     <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -433,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing Swift Testing. Scoping.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/04/15/introducing-swift-testing-scoping]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/04/15/introducing-swift-testing-scoping]]></guid>
-    <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[BenQ ScreenBar Pro Review: The Desk Light You Didn’t Know You Needed]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftsenpai.com/development/built-new-feature-with-cursor/?utm_source=rss&utm_medium=rss&utm_campaign=built-new-feature-with-cursor]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftsenpai.com/development/built-new-feature-with-cursor/?utm_source=rss&utm_medium=rss&utm_campaign=built-new-feature-with-cursor]]></guid>
     <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[RIP: Aircraft Radar Skill for Amazon Alexa]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/]]></guid>
-    <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
