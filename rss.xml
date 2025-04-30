@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Apr 2025 04:10:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 06:11:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Embedding a custom font into a macOS app bundle]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/EmbeddingACustomFontIntoAMacOSAppBundle]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/EmbeddingACustomFontIntoAMacOSAppBundle]]></guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Google Chrome 136 automatically upgrades your accounts to use passkeys]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/04/23/extracting-more-value-from-your-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/04/23/extracting-more-value-from-your-apps]]></guid>
-    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create a fully custom About window for a Mac app in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FullyCustomAboutWindowForAMacAppInSwiftUI]]></guid>
     <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
