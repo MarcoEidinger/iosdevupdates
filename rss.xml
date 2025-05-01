@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 May 2025 16:10:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 18:12:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Applying to, prepping for, and speaking at Deep Dish Swift]]></title>
+    <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
+    <link><![CDATA[https://JacobZivanDesign.com/technology/preparing-my-first-talk]]></link>
+    <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/preparing-my-first-talk]]></guid>
+    <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why some Mac apps launch slowly: A follow-up]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftrocks.com/how-im-using-ai-for-software-engineering]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/how-im-using-ai-for-software-engineering]]></guid>
     <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[BenQ ScreenBar Pro Review: The Desk Light You Didn’t Know You Needed]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/benq-screenbar-pro-review]]></guid>
-    <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
