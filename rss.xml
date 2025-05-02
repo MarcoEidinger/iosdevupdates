@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 May 2025 06:11:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 08:11:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Format long parameter lists into separate lines in Xcode]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/FormatLongParameterListsIntoSeparateLinesInXcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FormatLongParameterListsIntoSeparateLinesInXcode]]></guid>
+    <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ranked Vote Flick Demo]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/protecting-mutable-state-with-mutex-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/protecting-mutable-state-with-mutex-in-swift/]]></guid>
-    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Embedding a custom font into a macOS app bundle]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/EmbeddingACustomFontIntoAMacOSAppBundle]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/EmbeddingACustomFontIntoAMacOSAppBundle]]></guid>
     <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
