@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 May 2025 08:11:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 10:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Road to Senior: What iOS Developers do wrong?]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/road-to-senior-what-ios-developers-do-wrong-56321f06a473?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/road-to-senior-what-ios-developers-do-wrong-56321f06a473?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Format long parameter lists into separate lines in Xcode]]></title>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/advice-to-younger-self/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/advice-to-younger-self/]]></guid>
     <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Actors: What Are They For?]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/swift-actors-what-are-they-for-fd40b4264d9a?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swift-actors-what-are-they-for-fd40b4264d9a?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
