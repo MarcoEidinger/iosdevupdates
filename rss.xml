@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 May 2025 12:13:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 14:09:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Pays the Price for Its Arrogance - Fatbobman's Swift Weekly #82]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-082/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-082/]]></guid>
+    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Better Error Reporting in Swift Apps: Automatic Logs + Analytics]]></title>
+    <description><![CDATA[https://www.fline.dev/]]></description>
+    <link><![CDATA[https://www.fline.dev/better-error-reporting-in-swift-apps-automatic-logs-analytics/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/better-error-reporting-in-swift-apps-automatic-logs-analytics/]]></guid>
+    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[👨‍🏭 Implementing the Issues Detail View 🦫]]></title>
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unlocking the Real Power of Swift 6's Typed Throws with Error Chains]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/swift-6-typed-throws-error-chains/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/swift-6-typed-throws-error-chains/]]></guid>
-    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Label and Button Style View Modifiers]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-label-and-button-style-view-modifiers/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/04/17/meet-new-tuist]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/04/17/meet-new-tuist]]></guid>
     <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Live Activities Part 1 - Problem Statement]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/liveactivities/1-intro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/liveactivities/1-intro/]]></guid>
-    <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
