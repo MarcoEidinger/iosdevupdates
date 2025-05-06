@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 May 2025 10:10:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 12:14:24 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Why a Design System Matters to Developers]]></title>
@@ -30,6 +30,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-faster-incremental-builds-vs-code-cursor-windsurf/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-mcp-xcodebuildmcp-faster-incremental-builds-vs-code-cursor-windsurf/]]></guid>
     <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI View Model Ownership]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></guid>
+    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -86,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://dmtopolog.com/complexity-4-abstraction]]></link>
     <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-4-abstraction]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Alignment Guide Bug]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/swiftui-alignment-guide-bug]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-alignment-guide-bug]]></guid>
-    <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
