@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 May 2025 12:14:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 14:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Najpopularniji slot naslovi među PSK Casino igračima]]></title>
+    <description><![CDATA[https://theswiftdeveloper.com]]></description>
+    <link><![CDATA[https://theswiftdeveloper.com/2025/05/06/najpopularniji-slot-naslovi-medu-psk-casino/?utm_source=rss&utm_medium=rss&utm_campaign=najpopularniji-slot-naslovi-medu-psk-casino]]></link>
+    <guid isPermaLink="true"><![CDATA[https://theswiftdeveloper.com/2025/05/06/najpopularniji-slot-naslovi-medu-psk-casino/?utm_source=rss&utm_medium=rss&utm_campaign=najpopularniji-slot-naslovi-medu-psk-casino]]></guid>
+    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating an Intent using AppIntent and AppEnum protocols]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-an-intent-using-appintent-and-appenum-protocols/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-an-intent-using-appintent-and-appenum-protocols/]]></guid>
+    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why a Design System Matters to Developers]]></title>
@@ -149,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/110Birthday.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/110Birthday.html]]></guid>
-    <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Live Activities in a SwiftUI app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/implementing-live-activities-in-a-swiftui-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-live-activities-in-a-swiftui-app/]]></guid>
     <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://otbivnoe.ru]]></description>
     <link><![CDATA[https://otbivnoe.ru/2025/04/17/Alerts-Simple-but-Tricky]]></link>
     <guid isPermaLink="true"><![CDATA[https://otbivnoe.ru/2025/04/17/Alerts-Simple-but-Tricky]]></guid>
-    <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Meet the new Tuist dashboard ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/04/17/meet-new-tuist]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/04/17/meet-new-tuist]]></guid>
     <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
