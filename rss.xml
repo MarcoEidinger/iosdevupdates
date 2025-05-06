@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 May 2025 06:11:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 08:11:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Testing push notifications on the iOS simulator]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/]]></guid>
+    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring MCP: XcodeBuildMCP for Faster Incremental Builds in VS Code, Cursor & Windsurf]]></title>
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://wojciechkulik.pl]]></description>
     <link><![CDATA[https://wojciechkulik.pl/tools/things-that-you-dont-know-about-git-part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://wojciechkulik.pl/tools/things-that-you-dont-know-about-git-part-1]]></guid>
-    <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI ForEach Explained with Code Examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-foreach-loop-index/]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
