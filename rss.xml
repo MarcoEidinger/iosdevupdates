@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 May 2025 20:10:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 22:09:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[External Purchasing From the Kindle App]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/06/external-purchasing-from-the-kindle-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/06/external-purchasing-from-the-kindle-app/]]></guid>
+    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Kombinált fogadási stratégiák a Shuffle Casinón]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></guid>
-    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MailMaven Public Beta]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/05/mailmaven-public-beta/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/05/mailmaven-public-beta/]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
