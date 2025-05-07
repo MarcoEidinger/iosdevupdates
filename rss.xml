@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 May 2025 16:10:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 18:12:28 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[From 180 cm to 5′ 11″: A Complete Guide to Swift Measurement]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2025/5/returning-to-self-employment/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/returning-to-self-employment/]]></guid>
+    <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Concurrency-Safe Testing in Swift 6.1 with @TaskLocal and Test Scoping]]></title>
+    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
+    <link><![CDATA[https://www.mobiledevdiary.com/posts/concurency-safe-testing-in-swift-6-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/concurency-safe-testing-in-swift-6-1/]]></guid>
     <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-tap-again-on-tab-bar-item-to-scroll-top-in-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-tap-again-on-tab-bar-item-to-scroll-top-in-ios/]]></guid>
-    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[3 Ways to Name Parameters in Swift Parametrised Tests]]></title>
-    <description><![CDATA[https://www.mobiledevdiary.com]]></description>
-    <link><![CDATA[https://www.mobiledevdiary.com/posts/3-ways-to-name-parameters-in-swift-parametrised-tests/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/3-ways-to-name-parameters-in-swift-parametrised-tests/]]></guid>
     <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
