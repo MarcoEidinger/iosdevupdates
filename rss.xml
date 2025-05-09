@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 09 May 2025 20:09:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 22:09:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Acquires Mayday Labs]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/09/apple-acquires-mayday-labs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/09/apple-acquires-mayday-labs/]]></guid>
+    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What's new in Swift 6.2?]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris-mash.medium.com/]]></description>
     <link><![CDATA[https://chris-mash.medium.com/knowing-when-the-battle-is-lost-with-xcuitests-d8ada4d118a5?source=rss-ea8ebe82ceec------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://chris-mash.medium.com/knowing-when-the-battle-is-lost-with-xcuitests-d8ada4d118a5?source=rss-ea8ebe82ceec------2]]></guid>
-    <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Optional Values in SwiftData Predicates]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/08/optional-values-in-swiftdata-predicates/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/08/optional-values-in-swiftdata-predicates/]]></guid>
     <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
 </item>
 
