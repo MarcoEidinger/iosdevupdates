@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 May 2025 08:10:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 May 2025 10:09:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Video - The Builder Design Pattern Explained in Less Than 5 Minutes]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></guid>
+    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Acquires Mayday Labs]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2]]></guid>
+    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[**CocoaPods** Package 🌿]]></title>
+    <description><![CDATA[https://swiftyfinch.github.io/en/]]></description>
+    <link><![CDATA[https://swiftyfinch.github.io/en/2025-05-10-cocoapods-package]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftyfinch.github.io/en/2025-05-10-cocoapods-package]]></guid>
     <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-testing-with-preferencekeys?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-testing-with-preferencekeys]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-testing-with-preferencekeys?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-testing-with-preferencekeys]]></guid>
+    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Uplifting client code with a Swift Server]]></title>
+    <description><![CDATA[https://blog.aniseedapps.com/]]></description>
+    <link><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></guid>
     <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,14 +425,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Handling App Lifecycle In SwiftUI With scenePhase]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/handling-app-lifecycle-in-swiftui-with-scenephase/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/handling-app-lifecycle-in-swiftui-with-scenephase/]]></guid>
-    <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Peru impressions]]></title>
     <description><![CDATA[https://pietrorea.com/]]></description>
     <link><![CDATA[https://pietrorea.com/2025/04/25/peru-impressions?utm_source=rss&utm_medium=rss]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/what-is-mainactor-in-swift/]]></guid>
     <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Built a Bay Area Transit App to Solve My Own Commute]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/bay-area-transit-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/bay-area-transit-app/]]></guid>
-    <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adding extensions to sqlite-net]]></title>
-    <description><![CDATA[https://damian.fyi]]></description>
-    <link><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></link>
-    <guid isPermaLink="true"><![CDATA[https://damian.fyi/xamarin/2025/04/19/adding-extensions-to-sqlite-net]]></guid>
-    <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
