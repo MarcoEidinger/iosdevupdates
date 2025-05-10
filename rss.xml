@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 May 2025 14:09:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 May 2025 16:09:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Inspecting SwiftData right from your app]]></title>
+    <description><![CDATA[https://medium.com/@djalex566]]></description>
+    <link><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></guid>
+    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Video - The Builder Design Pattern Explained in Less Than 5 Minutes]]></title>
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://shapeof.com/archives/2025/4/going_back_to_the_old_gym.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/4/going_back_to_the_old_gym.html]]></guid>
     <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Behind the Scenes of DataScout: A SwiftData Debugging Tool]]></title>
-    <description><![CDATA[https://medium.com/@djalex566]]></description>
-    <link><![CDATA[https://medium.com/@djalex566/behind-the-scenes-of-datascout-a-swiftdata-debugging-tool-dcfc880f0733?source=rss-da87d9f8912c------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/behind-the-scenes-of-datascout-a-swiftdata-debugging-tool-dcfc880f0733?source=rss-da87d9f8912c------2]]></guid>
-    <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
