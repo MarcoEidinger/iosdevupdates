@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 May 2025 20:09:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 May 2025 22:08:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Building a Serial Task Executor in Swift]]></title>
@@ -345,6 +345,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[10 New Jobs for Burned-Out Software Developers]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/10-new-jobs-for-burned-out-software-developers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/10-new-jobs-for-burned-out-software-developers]]></guid>
+    <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Someone please Photoshop a “Phantom of the Opera” mask onto this grackle for me]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://huypham85.medium.com/]]></description>
     <link><![CDATA[https://towardsdev.com/best-practices-for-managing-third-party-libraries-in-multi-module-ios-apps-146de53ba769?source=rss-b87ab2bbc03b------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://towardsdev.com/best-practices-for-managing-third-party-libraries-in-multi-module-ios-apps-146de53ba769?source=rss-b87ab2bbc03b------2]]></guid>
-    <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Series of Unfortunate Events: April 14 Foodnoms Outage Postmortem]]></title>
-    <description><![CDATA[https://ryanashcraft.com]]></description>
-    <link><![CDATA[https://ryanashcraft.com/april-14-2025-foodnoms-outage-postmortem/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ryanashcraft.com/april-14-2025-foodnoms-outage-postmortem/]]></guid>
     <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
