@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 11 May 2025 16:10:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 May 2025 18:09:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Having a clear vision in a blurred world]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/having-a-clear-vision-in-a-blurred-world-44cd78d7fab6?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/having-a-clear-vision-in-a-blurred-world-44cd78d7fab6?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Model Context Protocol in iOS apps]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/using-model-context-protocol-in-ios-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-model-context-protocol-in-ios-apps]]></guid>
     <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -25,7 +33,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Inspecting SwiftData right from your app]]></title>
+    <title><![CDATA[Inspecting SwiftData (or just SQLite) right from your app]]></title>
     <description><![CDATA[https://medium.com/@djalex566]]></description>
     <link><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></guid>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://byla.lt/tags/apple/]]></description>
     <link><![CDATA[https://byla.lt/posts/ten-years-older-voice-takes-over]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ten-years-older-voice-takes-over]]></guid>
-    <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Demystifying Picture in Picture on iOS]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/demystifying-picture-in-picture-on-ios]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/demystifying-picture-in-picture-on-ios]]></guid>
     <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 </item>
 
