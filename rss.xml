@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 May 2025 14:10:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 16:11:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AiOS Dispatch 10]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/aios-dispatch-10/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-10/]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Cracking The Dave & Buster’s Anomaly]]></title>
+    <description><![CDATA[https://rambo.codes]]></description>
+    <link><![CDATA[https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Don't Let Vibe Coding Hinder Your Technical Growth - Fatbobman's Swift Weekly #83]]></title>
@@ -25,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[SwiftUI Picker With Optional Selection]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[👨‍🚀 Setting Up and Sending Remote Push Notifications 🔔]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue44]]></link>
@@ -37,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/universal-links-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/universal-links-ios/]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[You Should Feed Ducks The Good Bread]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></guid>
     <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,6 +117,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://iosdevlibrary.com/]]></description>
     <link><![CDATA[https://iosdevlibrary.com/building-a-serial-task-executor-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://iosdevlibrary.com/building-a-serial-task-executor-in-swift/]]></guid>
+    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Finally Fixing My Swift Charts Alignment Problem]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/swiftui/chartalign/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/chartalign/]]></guid>
     <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AiOS Dispatch 9]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/aios-dispatch-9/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-9/]]></guid>
-    <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Returning to Self-Employment]]></title>
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2025/5/returning-to-self-employment/]]></link>
@@ -285,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></guid>
-    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftData Predicates For Parent Relationships]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftdata-predicates-for-parent-relationships/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftdata-predicates-for-parent-relationships/]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffverkoeyen.com/blog/2025/04/28/PerformanceReview/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/04/28/PerformanceReview/]]></guid>
     <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[About The Confession]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/about-the-confession]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/about-the-confession]]></guid>
-    <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How a Single Line Of Code Could Brick Your iPhone]]></title>
-    <description><![CDATA[https://rambo.codes]]></description>
-    <link><![CDATA[https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone]]></guid>
-    <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
-    <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
