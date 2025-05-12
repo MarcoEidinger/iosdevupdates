@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 May 2025 06:12:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 08:13:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Universal Links implementation on iOS]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/universal-links-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/universal-links-ios/]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Complexity part 5. Interfaces.]]></title>
+    <description><![CDATA[https://dmtopolog.com]]></description>
+    <link><![CDATA[http://dmtopolog.com/complexity-5-interfaces]]></link>
+    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-5-interfaces]]></guid>
+    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I Built AteIQ in a Week (and Why I’m Glad I Did)]]></title>
@@ -233,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Testing push notifications on the iOS simulator]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/]]></guid>
-    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI View Model Ownership]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></link>
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-80-windows/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-80-windows/]]></guid>
-    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Complexity part 4. Abstractions.]]></title>
-    <description><![CDATA[https://dmtopolog.com]]></description>
-    <link><![CDATA[http://dmtopolog.com/complexity-4-abstraction]]></link>
-    <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-4-abstraction]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
