@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 11 May 2025 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 00:29:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How I Built AteIQ in a Week (and Why I’m Glad I Did)]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://www.stphndxn.com/how-i-built-ateiq-in-a-week-and-why-im-glad-i-did/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/how-i-built-ateiq-in-a-week-and-why-im-glad-i-did/]]></guid>
+    <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Having a clear vision in a blurred world]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></guid>
+    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Uplifting client code with a Swift Server]]></title>
+    <description><![CDATA[https://blog.aniseedapps.com/]]></description>
+    <link><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></guid>
     <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></guid>
-    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Uplifting client code with a Swift Server]]></title>
-    <description><![CDATA[https://blog.aniseedapps.com/]]></description>
-    <link><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></guid>
     <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pietrorea.com/2025/04/25/peru-impressions?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2025/04/25/peru-impressions?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Going Back to the Old Gym]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/4/going_back_to_the_old_gym.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/4/going_back_to_the_old_gym.html]]></guid>
-    <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
