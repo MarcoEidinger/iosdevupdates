@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 May 2025 20:10:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 22:09:32 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[HDR in Forthcoming Halide 3]]></title>
@@ -197,6 +197,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-local-notification-triggers]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-local-notification-triggers]]></guid>
+    <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Having a clear vision in a blurred world]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/having-a-clear-vision-in-a-blurred-world-44cd78d7fab6?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/having-a-clear-vision-in-a-blurred-world-44cd78d7fab6?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bitsplitting.org/]]></description>
     <link><![CDATA[https://bitsplitting.org/2025/04/30/whither-help-scout/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2025/04/30/whither-help-scout/]]></guid>
-    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Simple A/B testing with TelemetryDeck]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/ab-testing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/ab-testing]]></guid>
     <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
 </item>
 
