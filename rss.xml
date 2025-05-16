@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 16 May 2025 16:11:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 18:12:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Programmatically Setting Focus on SwiftUI Text Fields with FocusState]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/programmatically-setting-focus-on-swiftui-text-fields-with-focusstate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/programmatically-setting-focus-on-swiftui-text-fields-with-focusstate/]]></guid>
+    <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring creative coding with Swift and SwiftUI]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://theempathicdev.de/blog]]></description>
     <link><![CDATA[https://theempathicdev.de/blog/advanced-navigation-split-view-bugs]]></link>
     <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/advanced-navigation-split-view-bugs]]></guid>
+    <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let's Build: PrettyPrint, a Better CLI Output]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/LB-pretty-print]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-pretty-print]]></guid>
     <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Video - The Builder Design Pattern Explained in Less Than 5 Minutes]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/video-tutorials/video-the-builder-design-pattern-explained-in-less-than-5-minutes/]]></guid>
-    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Uplifting client code with a Swift Server]]></title>
     <description><![CDATA[https://blog.aniseedapps.com/]]></description>
     <link><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></link>
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></guid>
-    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Developing Swift HTTP Lambdas Locally]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/local-lambda]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/local-lambda]]></guid>
     <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
 </item>
 
