@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 May 2025 14:08:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 May 2025 16:08:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Exploring Conferences: Preparing for WWDC 2025!]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/exploring-conferences-preparing-wwdc-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/exploring-conferences-preparing-wwdc-2025/]]></guid>
+    <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Concurrency Riddle - TaskLocal]]></title>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rambo.codes]]></description>
     <link><![CDATA[https://rambo.codes/posts/2025-05-12-a-privacy-mechanism-that-backfired]]></link>
     <guid isPermaLink="true"><![CDATA[https://rambo.codes/posts/2025-05-12-a-privacy-mechanism-that-backfired]]></guid>
-    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AiOS Dispatch 10]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/aios-dispatch-10/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-10/]]></guid>
     <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 </item>
 
