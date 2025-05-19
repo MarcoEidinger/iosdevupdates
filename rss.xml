@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 May 2025 14:10:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 16:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple is not blocking Epic Games from updating Fortnite in the European Union]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/5/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/5/5.html]]></guid>
+    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introduction to XCTest: How to Write Unit Tests for iOS apps]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/unit-testing-xctest-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-xctest-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/unit-testing-xctest-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-xctest-swiftui]]></guid>
+    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Awaiting WWDC 2025 with Serenity - Fatbobman's Swift Weekly #84]]></title>
@@ -65,6 +81,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Joy of Vibe Marketing]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/The-Joy-of-Vibe-Marketing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Joy-of-Vibe-Marketing]]></guid>
+    <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swift Concurrency Riddle - TaskLocal]]></title>
     <description><![CDATA[https://www.mobiledevdiary.com]]></description>
     <link><![CDATA[https://www.mobiledevdiary.com/posts/task-local-riddle/]]></link>
@@ -105,14 +129,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A look at a Mac App Store top grosser]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/5/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/5/4.html]]></guid>
-    <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Should you use network connectivity checks in Swift?]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/should-you-use-network-connectivity-checks-in-swift/]]></link>
@@ -134,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/LB-pretty-print]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/LB-pretty-print]]></guid>
     <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Started with Unit Testing for iOS Development]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/unit-testing-ios-apps?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-ios-apps]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/unit-testing-ios-apps?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-ios-apps]]></guid>
-    <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/]]></guid>
-    <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Applying to, prepping for, and speaking at Deep Dish Swift]]></title>
-    <description><![CDATA[https://jacobzivandesign.com/technology/]]></description>
-    <link><![CDATA[https://JacobZivanDesign.com/technology/preparing-my-first-talk]]></link>
-    <guid isPermaLink="true"><![CDATA[https://JacobZivanDesign.com/technology/preparing-my-first-talk]]></guid>
     <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
 </item>
 
