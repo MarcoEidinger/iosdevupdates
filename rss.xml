@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 May 2025 18:11:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 20:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Epic Files Motion to Enforce Injunction]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/19/epic-files-motion-to-enforce-injunction/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/19/epic-files-motion-to-enforce-injunction/]]></guid>
+    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple is not blocking Epic Games from updating Fortnite in the European Union]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/optimization/institutional-purchases-volume-purchase-program/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/institutional-purchases-volume-purchase-program/]]></guid>
+    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The ONE Thing]]></title>
+    <description><![CDATA[https://manu.show/]]></description>
+    <link><![CDATA[https://manu.show/ep088-the-one-thing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://manu.show/ep088-the-one-thing]]></guid>
     <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -94,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobiledevdiary.com/posts/task-local-riddle/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/task-local-riddle/]]></guid>
     <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[In Praise of the iPad mini 7]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/16/in-praise-of-the-ipad-mini-7/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/16/in-praise-of-the-ipad-mini-7/]]></guid>
-    <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://byla.lt/posts/ten-years-older-voice-takes-over]]></link>
     <guid isPermaLink="true"><![CDATA[https://byla.lt/posts/ten-years-older-voice-takes-over]]></guid>
     <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sheets Manipulation]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/ep087-sheets-manipulation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/ep087-sheets-manipulation]]></guid>
-    <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
