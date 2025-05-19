@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 May 2025 20:10:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 22:09:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Microsoft Edit Is Now Open Source]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/5/microsoft_edit_is_now_open_source.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/5/microsoft_edit_is_now_open_source.html]]></guid>
+    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Epic Files Motion to Enforce Injunction]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://appforce1.net/blog/10-new-jobs-for-burned-out-software-developers]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/10-new-jobs-for-burned-out-software-developers]]></guid>
     <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Someone please Photoshop a “Phantom of the Opera” mask onto this grackle for me]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/]]></guid>
-    <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
