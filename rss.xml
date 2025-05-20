@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 May 2025 20:13:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 22:09:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why Apple Still Hasn’t Cracked AI]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/20/why-apple-still-hasnt-cracked-ai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/20/why-apple-still-hasnt-cracked-ai/]]></guid>
+    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[🎸 2025 Music #3]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/5/microsoft_edit_is_now_open_source.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/5/microsoft_edit_is_now_open_source.html]]></guid>
-    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Epic Files Motion to Enforce Injunction]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/19/epic-files-motion-to-enforce-injunction/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/19/epic-files-motion-to-enforce-injunction/]]></guid>
     <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
 </item>
 
