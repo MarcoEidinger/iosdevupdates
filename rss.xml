@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 May 2025 18:11:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 20:13:02 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[🎸 2025 Music #3]]></title>
@@ -33,10 +33,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Napoli Meetup Newsletter #3]]></title>
+    <title><![CDATA[Combining gestures and animations with SwiftUI]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/napoli-meetup-newsletter-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/napoli-meetup-newsletter-3/]]></guid>
+    <link><![CDATA[https://www.createwithswift.com/combining-gestures-and-animations-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/combining-gestures-and-animations-with-swiftui/]]></guid>
     <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
 </item>
 
