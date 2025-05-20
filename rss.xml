@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 May 2025 10:10:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 12:13:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stop using Timer.publish in your SwiftUI views]]></title>
+    <description><![CDATA[https://olegdreyman.medium.com]]></description>
+    <link><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></guid>
+    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring concurrency changes in Swift 6.2]]></title>
@@ -390,14 +398,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mikezornek.com/posts/2025/5/returning-to-self-employment/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/returning-to-self-employment/]]></guid>
     <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Kombinált fogadási stratégiák a Shuffle Casinón]]></title>
-    <description><![CDATA[https://theswiftdeveloper.com]]></description>
-    <link><![CDATA[https://theswiftdeveloper.com/2025/05/06/kombinalt-fogadasi-strategiak-a-shuffle-casinon/?utm_source=rss&utm_medium=rss&utm_campaign=kombinalt-fogadasi-strategiak-a-shuffle-casinon]]></link>
-    <guid isPermaLink="true"><![CDATA[https://theswiftdeveloper.com/2025/05/06/kombinalt-fogadasi-strategiak-a-shuffle-casinon/?utm_source=rss&utm_medium=rss&utm_campaign=kombinalt-fogadasi-strategiak-a-shuffle-casinon]]></guid>
-    <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
