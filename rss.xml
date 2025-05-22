@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 May 2025 12:14:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 14:10:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting to Grips with MCP: My Early Learnings (and Why You Should Care)]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://www.stphndxn.com/getting-to-grips-with-mcp-my-early-learnings-and-why-you-should-care/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/getting-to-grips-with-mcp-my-early-learnings-and-why-you-should-care/]]></guid>
+    <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The re-emergence of sound interfaces with Siri and Artificial Intelligence]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/the-re-emergence-of-sound-interfaces-with-siri-and-artificial-intelligence/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/the-re-emergence-of-sound-interfaces-with-siri-and-artificial-intelligence/]]></guid>
+    <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OpenAI Acquires Jony Ive’s io]]></title>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/05/tips-on-brazing-copper-and-stainless-steel/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/tips-on-brazing-copper-and-stainless-steel/]]></guid>
-    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Combining gestures and animations with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/combining-gestures-and-animations-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/combining-gestures-and-animations-with-swiftui/]]></guid>
     <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.tiagohenriques.dev/blog/testing-push-notifications-ios-simulators]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.tiagohenriques.dev/blog/testing-push-notifications-ios-simulators]]></guid>
     <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I Built AteIQ in a Week (and Why I’m Glad I Did)]]></title>
-    <description><![CDATA[https://www.stphndxn.com/]]></description>
-    <link><![CDATA[https://www.stphndxn.com/how-i-built-ateiq-in-a-week-and-why-im-glad-i-did/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/how-i-built-ateiq-in-a-week-and-why-im-glad-i-did/]]></guid>
-    <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
