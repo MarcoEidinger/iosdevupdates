@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 May 2025 18:12:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 20:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shutting Down Pocket]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/22/shutting-down-pocket/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/22/shutting-down-pocket/]]></guid>
+    <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Getting to Grips with MCP: My Early Learnings (and Why You Should Care)]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.createwithswift.com/the-re-emergence-of-sound-interfaces-with-siri-and-artificial-intelligence/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/the-re-emergence-of-sound-interfaces-with-siri-and-artificial-intelligence/]]></guid>
     <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OpenAI Acquires Jony Ive’s io]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/21/openai-acquires-jony-ives-io/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/21/openai-acquires-jony-ives-io/]]></guid>
-    <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
