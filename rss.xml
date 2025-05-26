@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 May 2025 10:13:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 12:13:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[📋 Localizing An App with a String Catalog 🌎]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue46]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue46]]></guid>
+    <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Enable scrolling based on content size in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/EnableScrollingBasedOnContentSizeInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/EnableScrollingBasedOnContentSizeInSwiftUI]]></guid>
+    <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making your iOS app more accessible with dynamic type]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/dynamic-type]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/dynamic-type]]></guid>
     <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Experience the Charm of Swift: One-Click DataFrame Export]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/experience-the-charm-of-swift-one-click-export-dataframe/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/experience-the-charm-of-swift-one-click-export-dataframe/]]></guid>
-    <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A Pragmatic Guide to Migrating from Native to React Native (or choosing not to)]]></title>
     <description><![CDATA[https://dcordero.me/]]></description>
     <link><![CDATA[https://www.dcordero.me/posts/the-pragmatic-guide-from-native-to-react-native]]></link>
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.rudrank.com/]]></description>
     <link><![CDATA[https://www.rudrank.com/aios-dispatch-11/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-11/]]></guid>
-    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mesh gradients in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/MeshGradientsInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/MeshGradientsInSwiftUI]]></guid>
     <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
 </item>
 
