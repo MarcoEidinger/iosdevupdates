@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 May 2025 08:14:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 10:13:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[📋 Localizing An App with a String Catalog 🌎]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue46]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue46]]></guid>
+    <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Learn to build adaptive layouts with SwiftUI's ViewThatFits container.]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2025/05/02/xcodes-predictive-code-completion-is-worse-than-nothing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/05/02/xcodes-predictive-code-completion-is-worse-than-nothing/]]></guid>
-    <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apps using external purchases as of Judge Yvonne Gonzalez Rogers ruling]]></title>
-    <description><![CDATA[https://alexpaul.dev/]]></description>
-    <link><![CDATA[https://alexpaul.dev/2025/05/02/apps-using-external-purchases-as-of-judge-yvonne-gonzalez-rogers-ruling/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/05/02/apps-using-external-purchases-as-of-judge-yvonne-gonzalez-rogers-ruling/]]></guid>
     <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
 </item>
 
