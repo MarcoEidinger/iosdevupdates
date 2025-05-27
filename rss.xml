@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 May 2025 12:13:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 14:10:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Host Inventory for a (not-) Homelab]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating shapes using Path in the SwiftUI Canvas view]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-shapes-using-path-in-the-swiftui-canvas-view/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-shapes-using-path-in-the-swiftui-canvas-view/]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Visual Tour of Phoenix's Updated 'magic link' Authentication Code Generator]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Billing Grace Period Explained: How It Works and Why It Matters]]></title>
@@ -17,19 +41,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Microapps architecture in Swift. Scaling.]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/05/27/microapps-architecture-in-swift-scaling]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/05/27/microapps-architecture-in-swift-scaling]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Turning Singleton Usage into Testable Code]]></title>
     <description><![CDATA[https://www.mobiledevdiary.com]]></description>
     <link><![CDATA[https://www.mobiledevdiary.com/posts/turning-singleton-usage-into-testable-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/turning-singleton-usage-into-testable-code/]]></guid>
     <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Open for Software Dev Coffee Talk]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2025/5/open-software-dev-coffee-talk/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/open-software-dev-coffee-talk/]]></guid>
-    <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -153,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating Xcode source editor extensions]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-xcode-source-editor-extensions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-xcode-source-editor-extensions/]]></guid>
-    <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Resolve]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://www.massicotte.org/resolve]]></link>
@@ -214,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dcordero.me/posts/the-pragmatic-guide-from-native-to-react-native]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/the-pragmatic-guide-from-native-to-react-native]]></guid>
     <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tips on Brazing Copper and Stainless Steel]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/05/tips-on-brazing-copper-and-stainless-steel/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/tips-on-brazing-copper-and-stainless-steel/]]></guid>
-    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -325,14 +333,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/the-calm-theme-cant-log-in-how-can-i-still-use-calm/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/the-calm-theme-cant-log-in-how-can-i-still-use-calm/]]></guid>
-    <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Optimized mathematical computations in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/05/13/optimized-mathematical-computations-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/05/13/optimized-mathematical-computations-in-swift]]></guid>
     <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
 </item>
 
