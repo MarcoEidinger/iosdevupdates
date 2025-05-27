@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 May 2025 16:12:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 18:10:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stop The Mac App Store minor update]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/5/7.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/5/7.html]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 270 - Revisiting]]></title>
@@ -206,14 +214,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></guid>
     <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Turntable]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/5/6.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/5/6.html]]></guid>
-    <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -441,6 +441,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Debug crashes in iOS using MetricKit]]></title>
+    <description><![CDATA[https://ohmyswift.com/blog/]]></description>
+    <link><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit]]></guid>
+    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Knowing when the battle is lost with XCUITests]]></title>
     <description><![CDATA[https://chris-mash.medium.com/]]></description>
     <link><![CDATA[https://chris-mash.medium.com/knowing-when-the-battle-is-lost-with-xcuitests-d8ada4d118a5?source=rss-ea8ebe82ceec------2]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></guid>
-    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue 080: Windows]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-80-windows/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-80-windows/]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
