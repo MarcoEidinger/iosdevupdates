@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 May 2025 12:14:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 14:09:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 6 Refactoring in a Camera App - SLIT_STUDIO Development Log]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/swift6-refactoring-in-a-camera-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swift6-refactoring-in-a-camera-app/]]></guid>
+    <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AiOS Dispatch 12]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-view-model]]></guid>
-    <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why a Design System Matters to Developers]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/why-design-system-matters/]]></guid>
     <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
 </item>
 
