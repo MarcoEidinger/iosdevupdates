@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 May 2025 18:11:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 20:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[DropDMG 3.6.9]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/28/dropdmg-3-6-9/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/28/dropdmg-3-6-9/]]></guid>
+    <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I’ve been playing Doom lately]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923?source=rss-11158e34626c------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923?source=rss-11158e34626c------2]]></guid>
     <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[External Payments From the HEY App]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/27/external-payments-from-the-hey-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/27/external-payments-from-the-hey-app/]]></guid>
-    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
