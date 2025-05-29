@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 May 2025 12:13:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 14:09:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Integrating App Intents with Control Action]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/integrating-app-intents-with-control-action/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/integrating-app-intents-with-control-action/]]></guid>
+    <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My WWDC 2025 Expectations]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://levelup.gitconnected.com/my-wwdc-2025-expectations-1a582f7991d1?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/my-wwdc-2025-expectations-1a582f7991d1?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #9: Shai Mishali]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-shai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-shai]]></guid>
     <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/]]></guid>
-    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating shapes using Path in the SwiftUI Canvas view]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-shapes-using-path-in-the-swiftui-canvas-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-shapes-using-path-in-the-swiftui-canvas-view/]]></guid>
     <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://www.massicotte.org/resolve]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/resolve]]></guid>
-    <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reading Piped Input in Swift Executables]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/pipe]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/pipe]]></guid>
     <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
 </item>
 
