@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 May 2025 18:11:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 20:10:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Grammarly Raises $1 Billion]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/05/30/grammarly-raises-1-billion/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/30/grammarly-raises-1-billion/]]></guid>
+    <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Retreating to Safety]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks]]></guid>
     <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SpamSieve 3.1.3]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/05/29/spamsieve-3-1-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/05/29/spamsieve-3-1-3/]]></guid>
-    <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
