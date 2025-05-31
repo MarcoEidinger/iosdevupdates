@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 31 May 2025 18:09:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 May 2025 20:10:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What iOS Apps do Wrong?]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Lifecycle: Handling willEnterForeground in AppDelegate and SceneDelegate]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2025/05/ios-lifecycle-handling-willenterforeground-in-appdelegate-and-scenedelegate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/05/ios-lifecycle-handling-willenterforeground-in-appdelegate-and-scenedelegate/]]></guid>
+    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Insane web design on apple dot com]]></title>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/inspecting-swiftdata-right-from-your-app-3e79ef5a6bf6?source=rss-da87d9f8912c------2]]></guid>
     <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Uplifting client code with a Swift Server]]></title>
-    <description><![CDATA[https://blog.aniseedapps.com/]]></description>
-    <link><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.aniseedapps.com/uplifting-client-code-with-a-swift-server/]]></guid>
-    <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What's new in Swift 6.2?]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2]]></guid>
-    <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
