@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Jun 2025 20:09:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 22:10:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AiOS Dispatch 13]]></title>
+    <description><![CDATA[https://www.rudrank.com/]]></description>
+    <link><![CDATA[https://www.rudrank.com/aios-dispatch-13/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-13/]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Let‘s Get Started]]></title>
@@ -225,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AiOS Dispatch 12]]></title>
-    <description><![CDATA[https://www.rudrank.com/]]></description>
-    <link><![CDATA[https://www.rudrank.com/aios-dispatch-12/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rudrank.com/aios-dispatch-12/]]></guid>
-    <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Automatic SwiftUI View Tracing with Swift Macros]]></title>
     <description><![CDATA[https://medium.com/@alexandercohen]]></description>
     <link><![CDATA[https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923?source=rss-11158e34626c------2]]></link>
@@ -261,6 +261,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></guid>
+    <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[This Thursday: Hotwire Native Live #1]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-live]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-live]]></guid>
     <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/making-swift-error-messages-human-friendly-together/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/making-swift-error-messages-human-friendly-together/]]></guid>
-    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[You Should Feed Ducks The Good Bread]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></guid>
     <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 </item>
 
