@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Jun 2025 10:10:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 12:14:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI in 2025: Forget MVVM]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/swiftui-in-2025-forget-mvvm-262ff2bbd2ed?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/swiftui-in-2025-forget-mvvm-262ff2bbd2ed?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[👨‍🎨 Creating an App Icon with Zero Design Skills 🎨]]></title>
@@ -25,19 +33,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Art of the State]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2025/06/02/art-of-the-state/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/06/02/art-of-the-state/]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Issue 081: Compilers]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></guid>
     <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fun with SwiftUI and custom components]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://levelup.gitconnected.com/fun-with-swiftui-and-custom-components-7b030e728ac8?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/fun-with-swiftui-and-custom-components-7b030e728ac8?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -65,10 +73,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing FlipKit - a flippin’ good library for SwiftUI]]></title>
+    <title><![CDATA[A Clarified Blog Purpose]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2025/06/01/Introducing-FlipKit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/06/01/Introducing-FlipKit]]></guid>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/06/01/a-clarified-blog-purpose]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/06/01/a-clarified-blog-purpose]]></guid>
     <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -174,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-shai]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-shai]]></guid>
     <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6 Refactoring in a Camera App - SLIT_STUDIO Development Log]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/swift6-refactoring-in-a-camera-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swift6-refactoring-in-a-camera-app/]]></guid>
-    <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
