@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Jun 2025 22:08:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 00:29:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fun with SwiftUI and custom components]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://levelup.gitconnected.com/fun-with-swiftui-and-custom-components-7b030e728ac8?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://levelup.gitconnected.com/fun-with-swiftui-and-custom-components-7b030e728ac8?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[📚 2025 Reading #4]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/reading/2025/2025-reading-4-changer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/reading/2025/2025-reading-4-changer]]></guid>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Script Debugger Retired]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://damian.fyi]]></description>
     <link><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing AppRouter]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/introducing-approuter-1332a3be7cfe?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/introducing-approuter-1332a3be7cfe?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></guid>
     <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[🎸 2025 Music #4]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-4-destruction-by-definition]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-4-destruction-by-definition]]></guid>
-    <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
