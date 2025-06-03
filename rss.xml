@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Jun 2025 04:14:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 06:11:49 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Separate Expressions for +alloc and -init]]></title>
@@ -93,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Adding Wasm and Android compatibility testing]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/adding-wasm-and-android-compatibility-testing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/adding-wasm-and-android-compatibility-testing]]></guid>
     <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.fline.dev/]]></description>
     <link><![CDATA[https://www.fline.dev/making-swift-error-messages-human-friendly-together/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.fline.dev/making-swift-error-messages-human-friendly-together/]]></guid>
-    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[You Should Feed Ducks The Good Bread]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/]]></guid>
     <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 </item>
 
