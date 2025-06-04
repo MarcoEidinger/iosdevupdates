@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 04 Jun 2025 08:11:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 10:09:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Launching Bezel 3.0]]></title>
+    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
+    <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Prepare for a Mobile System Design Interview]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/how-to-prepare-for-a-mobile-system-design-interview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/how-to-prepare-for-a-mobile-system-design-interview/]]></guid>
+    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Postalgic]]></title>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://swiftandmemes.com/ultimate-guide-to-dependency-injection-for-modular-ios-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/ultimate-guide-to-dependency-injection-for-modular-ios-apps/]]></guid>
     <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Calm theme can’t log in; how can I still use Calm?]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/the-calm-theme-cant-log-in-how-can-i-still-use-calm/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/the-calm-theme-cant-log-in-how-can-i-still-use-calm/]]></guid>
-    <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Privacy Mechanism That Backfired]]></title>
-    <description><![CDATA[https://rambo.codes]]></description>
-    <link><![CDATA[https://rambo.codes/posts/2025-05-12-a-privacy-mechanism-that-backfired]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rambo.codes/posts/2025-05-12-a-privacy-mechanism-that-backfired]]></guid>
-    <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
