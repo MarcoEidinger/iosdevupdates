@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 05 Jun 2025 12:13:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 14:11:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating a Live Audio Waveform in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-a-live-audio-waveform-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-a-live-audio-waveform-in-swiftui/]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Code Signing and Notarization: Sparkle and Tears]]></title>
+    <description><![CDATA[https://www.steipete.com/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/code-signing-and-notarization-sparkle-and-tears/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/code-signing-and-notarization-sparkle-and-tears/]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[EagleFiler 1.9.17]]></title>
@@ -65,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Vibe Meter: Monitor Your AI Costs]]></title>
-    <description><![CDATA[https://www.steipete.com/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/vibe-meter-monitor-your-ai-costs/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibe-meter-monitor-your-ai-costs/]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Launching Bezel 3.0]]></title>
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/spm-support-objc-project/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/spm-support-objc-project/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Applying Transformations Within the Graphics Context of a SwiftUI Canvas View]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/applying-transformations-within-the-graphics-context-of-a-swiftui-canvas-view/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/applying-transformations-within-the-graphics-context-of-a-swiftui-canvas-view/]]></guid>
     <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
