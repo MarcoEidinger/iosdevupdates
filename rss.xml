@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Jun 2025 00:28:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 02:40:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[【Tips】Speed Up Compilation with Prebuilt Swift-Syntax]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/snippet/speed-up-compilation-with-prebuilt-swift-syntax/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/speed-up-compilation-with-prebuilt-swift-syntax/]]></guid>
+    <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ToothFairy 2.8.6]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notepad.exe: A Lightweight Swift Code Editor]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/notepad-exe-a-lightweight-swift-code-editor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notepad-exe-a-lightweight-swift-code-editor/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -197,6 +197,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue47]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue47]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unique values in Swift: Removing duplicates from an array]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/unique-values-removing-duplicates-array/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/unique-values-removing-duplicates-array/]]></guid>
     <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/programmatically-setting-focus-on-swiftui-text-fields-with-focusstate/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/programmatically-setting-focus-on-swiftui-text-fields-with-focusstate/]]></guid>
-    <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[NavigationSplitView's Hidden Trap – Don't Get Stuck Like I Did]]></title>
-    <description><![CDATA[https://theempathicdev.de/blog]]></description>
-    <link><![CDATA[https://theempathicdev.de/blog/advanced-navigation-split-view-bugs]]></link>
-    <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/advanced-navigation-split-view-bugs]]></guid>
     <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
 </item>
 
