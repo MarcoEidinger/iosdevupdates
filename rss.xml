@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 07 Jun 2025 14:09:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Jun 2025 16:09:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Caveats Using Read-only SQLite Databases from the App Bundle]]></title>
+    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
+    <link><![CDATA[https://twocentstudios.com/2025/06/07/sql-databases-bundle/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/06/07/sql-databases-bundle/]]></guid>
+    <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift: New Design, New Case Study, New Experience - Fatbobman's Swift Weekly #87]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
