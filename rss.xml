@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Jun 2025 02:44:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Jun 2025 04:17:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2025]]></title>
@@ -129,6 +129,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -165,6 +173,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></guid>
     <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Exploring concurrency changes in Swift 6.2]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/exploring-concurrency-changes-in-swift-6-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/exploring-concurrency-changes-in-swift-6-2/]]></guid>
-    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introduction to XCTest: How to Write Unit Tests for iOS apps]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/unit-testing-xctest-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-xctest-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/unit-testing-xctest-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=unit-testing-xctest-swiftui]]></guid>
-    <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
