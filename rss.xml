@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Jun 2025 12:13:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 14:10:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[👨‍🚀 Launching the App to the App Store 🚀]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue48]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue48]]></guid>
+    <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ A New Day(sheets) Dawns ]]></title>
+    <description><![CDATA[https://www.ryantoken.com]]></description>
+    <link><![CDATA[https://www.ryantoken.com/blog/blog/a-new-day-dawns]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/blog/a-new-day-dawns]]></guid>
     <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -157,6 +165,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
     <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/WWDC-2025-The-Pregame-Quiz]]></guid>
     <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Pragmatic Guide to Migrating from Native to React Native (or choosing not to)]]></title>
-    <description><![CDATA[https://dcordero.me/]]></description>
-    <link><![CDATA[https://www.dcordero.me/posts/the-pragmatic-guide-from-native-to-react-native]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dcordero.me/posts/the-pragmatic-guide-from-native-to-react-native]]></guid>
-    <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stop using Timer.publish in your SwiftUI views]]></title>
-    <description><![CDATA[https://olegdreyman.medium.com]]></description>
-    <link><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/parable-engineering/stop-using-timer-publish-in-your-swiftui-views-498ff270860f?source=rss-7872af0bbed1------2]]></guid>
-    <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
