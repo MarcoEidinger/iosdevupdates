@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Jun 2025 10:10:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 12:16:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode’s Code Assistant Introduced at WWDC 2025]]></title>
+    <description><![CDATA[https://alexpaul.dev/]]></description>
+    <link><![CDATA[https://alexpaul.dev/2025/06/10/xcodes-code-assistant-introduced-at-wwdc-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/06/10/xcodes-code-assistant-introduced-at-wwdc-2025/]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Opting your app out of the Liquid Glass redesign with Xcode 26]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.roger.ml]]></description>
     <link><![CDATA[https://www.roger.ml/p/apple-deprecates-template-name]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.roger.ml/p/apple-deprecates-template-name]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Open sourcing Noora for the web ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/06/10/open-sourcing-noora-for-the-web]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/06/10/open-sourcing-noora-for-the-web]]></guid>
     <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,26 +217,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Building data-driven dev environments for Apple platforms ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/06/06/data-informed-decisions]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/06/06/data-informed-decisions]]></guid>
-    <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why does Apple make a minority of developers finance the entire App Store?]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></guid>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Five years of the Swift Package Index]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
     <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -253,6 +253,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://dmtopolog.com/complexity-7-organisation]]></link>
     <guid isPermaLink="true"><![CDATA[http://dmtopolog.com/complexity-7-organisation]]></guid>
     <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How CodeRabbit helped me improve my SwiftUI Code]]></title>
-    <description><![CDATA[https://www.swiftanytime.com/blog]]></description>
-    <link><![CDATA[https://www.swiftanytime.com/blog/how-coderabbit-helped-me-improve-my-swiftui-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/how-coderabbit-helped-me-improve-my-swiftui-code]]></guid>
-    <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
