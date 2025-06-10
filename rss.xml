@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Jun 2025 06:12:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 08:12:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Setting default actor isolation in Xcode 26]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/setting-default-actor-isolation-in-xcode-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/setting-default-actor-isolation-in-xcode-26/]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode 26 is here, with Code Intelligence]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/xcode-26-is-here-with-code-intelligence-93563624da81?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/xcode-26-is-here-with-code-intelligence-93563624da81?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[🛑 Apple Deprecates template_name for Provisioning Profiles]]></title>
@@ -213,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftonserver.com/]]></description>
     <link><![CDATA[https://swiftonserver.com/faster-github-actions-ci-for-swift-projects/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftonserver.com/faster-github-actions-ci-for-swift-projects/]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building iOS apps with Cursor and Claude Code]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/building-ios-apps-with-cursor-and-claude-code-ee7635edde24?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/building-ios-apps-with-cursor-and-claude-code-ee7635edde24?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftanytime.com/blog/how-coderabbit-helped-me-improve-my-swiftui-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftanytime.com/blog/how-coderabbit-helped-me-improve-my-swiftui-code]]></guid>
     <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Resolve]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/resolve]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/resolve]]></guid>
-    <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
