@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Jun 2025 00:29:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 02:42:49 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to create Liquid Glass Button in SwiftUI?]]></title>
@@ -189,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></guid>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Five years of the Swift Package Index]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
     <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/resolve]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/resolve]]></guid>
     <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MV-HEVC with x265 and NVIDIA]]></title>
+    <description><![CDATA[https://blog.mikeswanson.com/]]></description>
+    <link><![CDATA[https://blog.mikeswanson.com/mv-hevc-with-x265-and-nvidia/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/mv-hevc-with-x265-and-nvidia/]]></guid>
+    <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
