@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Jun 2025 16:12:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 18:14:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Use Xcode 16's Buildable Folders with CocoaPods]]></title>
+    <description><![CDATA[https://kunat.dev/notes/]]></description>
+    <link><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></guid>
+    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[🎸 2025 Music #5]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-5-lechuza]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-5-lechuza]]></guid>
+    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS Tahoe forces all app icons into iOS squircles]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/2.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/2.html]]></guid>
+    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Vibe Coding in Swift and iOS: The Promises and Pitfalls]]></title>
@@ -289,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why does Apple make a minority of developers finance the entire App Store?]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/1.html]]></guid>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Five years of the Swift Package Index]]></title>
     <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
     <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
@@ -357,14 +373,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-postalgic/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-postalgic/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adding Swift Package Manager Support to a Legacy Objective-C Project]]></title>
-    <description><![CDATA[https://kunat.dev/notes/]]></description>
-    <link><![CDATA[https://kunat.dev/notes/spm-support-objc-project/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/spm-support-objc-project/]]></guid>
     <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/camera-time/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/camera-time/]]></guid>
     <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Retreating to Safety]]></title>
-    <description><![CDATA[https://marco.org/]]></description>
-    <link><![CDATA[https://marco.org/2025/05/30/retreat]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marco.org/2025/05/30/retreat]]></guid>
-    <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
