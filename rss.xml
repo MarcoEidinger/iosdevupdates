@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Jun 2025 18:14:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 20:10:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stop Uploading Your Data to Google]]></title>
+    <description><![CDATA[https://ignorethecode.net/blog/]]></description>
+    <link><![CDATA[http://ignorethecode.net/blog/2025/06/11/stop_uploading_your_data_to_google/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://ignorethecode.net/blog/2025/06/11/stop_uploading_your_data_to_google/]]></guid>
+    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Use Xcode 16's Buildable Folders with CocoaPods]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://damian.fyi]]></description>
     <link><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Camera Time]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/camera-time/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/camera-time/]]></guid>
     <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
