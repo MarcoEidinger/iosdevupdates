@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Jun 2025 22:09:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 00:28:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Rule #1: No HIG Exceptions, No Custom UI]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Which are the new frameworks in Xcode 26?]]></title>
@@ -297,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to Prepare for a Mobile System Design Interview]]></title>
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/how-to-prepare-for-a-mobile-system-design-interview/]]></link>
@@ -317,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-postalgic/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-postalgic/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Essential Nature of Adventure: My Bob Graham Round]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/06/03/bob-graham]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/03/bob-graham]]></guid>
     <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/5/phoenix-magic-link-authentication/]]></guid>
     <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Enable scrolling based on content size in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/EnableScrollingBasedOnContentSizeInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/EnableScrollingBasedOnContentSizeInSwiftUI]]></guid>
+    <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
