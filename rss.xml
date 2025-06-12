@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Jun 2025 04:14:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 06:13:39 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stop Uploading Your Data to Google]]></title>
@@ -109,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2025/06/which-are-the-new-frameworks-in-xcode-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/06/which-are-the-new-frameworks-in-xcode-26/]]></guid>
-    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ending macOS Intel Support]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></guid>
     <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -349,6 +341,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
