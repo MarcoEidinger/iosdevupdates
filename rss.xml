@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Jun 2025 20:10:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 22:11:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple’s Spin on AI and iPadOS Multitasking]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/06/12/apples-spin-on-ai-and-ipados-multitasking/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/12/apples-spin-on-ai-and-ipados-multitasking/]]></guid>
+    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to create Liquid glass for custom view in Swift?]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></guid>
-    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ending macOS Intel Support]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></guid>
     <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sharing Content in SwiftUI with ShareLink]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/sharing-content-in-swiftui-with-sharelink/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/sharing-content-in-swiftui-with-sharelink/]]></guid>
-    <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Keep Two Thoughts Podcast 115 - Choice]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/115Choice.html]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://shapeof.com/archives/2025/6/script_debugger_retired.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/6/script_debugger_retired.html]]></guid>
     <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What iOS Apps do Wrong?]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
