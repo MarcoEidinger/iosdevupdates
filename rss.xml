@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Jun 2025 14:10:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 16:12:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ramblin’ Rod]]></title>
+    <description><![CDATA[https://cabel.com/]]></description>
+    <link><![CDATA[https://cabel.com/2025/06/12/ramblin-rod/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cabel.com/2025/06/12/ramblin-rod/]]></guid>
+    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Becoming an Accessibility Ally: My Early Journey and Resources]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2025/6/becoming-an-accessibility-ally/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/6/becoming-an-accessibility-ally/]]></guid>
+    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC 2025 Developer Special Edition - Fatbobman's Swift Weekly #88]]></title>
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts]]></guid>
+    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS 26, Hotwire Native LIVE #3, and a new bridge component]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/newsletter/ios-26]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/ios-26]]></guid>
     <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,6 +353,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -381,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
     <link><![CDATA[https://amiantos.net/introducing-postalgic/]]></link>
     <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-postalgic/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Book sale, Hotwire Native LIVE #2, and Hotwire Native around the web]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/newsletter/book-sale-and-hotwire-native-live-episode-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/book-sale-and-hotwire-native-live-episode-2]]></guid>
     <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://shapeof.com/archives/2025/6/script_debugger_retired.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/6/script_debugger_retired.html]]></guid>
     <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What iOS Apps do Wrong?]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Embedding Godot games in iOS apps is easy now]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2025/05/godot-ios-interop/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/05/godot-ios-interop/]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ploze now supports the Model Context Protocol]]></title>
-    <description><![CDATA[https://damian.fyi]]></description>
-    <link><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></link>
-    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
