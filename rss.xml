@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Jun 2025 08:11:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 10:09:44 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Building a Real-Time Pattern Detector with iOS 26’s TextEditor and AttributedString]]></title>
@@ -109,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2025/06/which-are-the-new-frameworks-in-xcode-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/06/which-are-the-new-frameworks-in-xcode-26/]]></guid>
+    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ending macOS Intel Support]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/]]></guid>
     <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,6 +313,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://marco.org/2025/05/30/retreat]]></link>
     <guid isPermaLink="true"><![CDATA[https://marco.org/2025/05/30/retreat]]></guid>
     <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tips and tricks for when using SwiftUI’s ViewBuilder]]></title>
-    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
-    <link><![CDATA[https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks]]></guid>
-    <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automatic SwiftUI View Tracing with Swift Macros]]></title>
-    <description><![CDATA[https://medium.com/@alexandercohen]]></description>
-    <link><![CDATA[https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923?source=rss-11158e34626c------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923?source=rss-11158e34626c------2]]></guid>
-    <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
