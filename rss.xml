@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Jun 2025 12:13:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 14:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC 2025: What's new for the Apple community?]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/wwdc-2025-whats-new-for-the-apple-community/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/wwdc-2025-whats-new-for-the-apple-community/]]></guid>
+    <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple’s Spin on AI and iPadOS Multitasking]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2025/6/becoming-an-accessibility-ally/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/6/becoming-an-accessibility-ally/]]></guid>
-    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Crafting Liquid Glass app icons with Icon Composer]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/crafting-liquid-glass-app-icons-with-icon-composer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/crafting-liquid-glass-app-icons-with-icon-composer/]]></guid>
     <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -345,6 +345,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -373,6 +381,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Embedding Godot games in iOS apps is easy now]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2025/05/godot-ios-interop/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/05/godot-ios-interop/]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ploze now supports the Model Context Protocol]]></title>
-    <description><![CDATA[https://damian.fyi]]></description>
-    <link><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></link>
-    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/05/31/ploze-now-supports-the-model-context-protocol]]></guid>
     <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
