@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Jun 2025 16:16:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 18:11:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2025: What's new for the Apple community?]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/wwdc-2025-whats-new-for-the-apple-community/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/wwdc-2025-whats-new-for-the-apple-community/]]></guid>
+    <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Analyze .ipa Bundles with Rosalind]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/rosalind-package]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/rosalind-package]]></guid>
     <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2025/06/06/how-to-setup-a-swift-package-registry-in-artifactory/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2025/06/06/how-to-setup-a-swift-package-registry-in-artifactory/]]></guid>
-    <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Installing Swift Executables From Source With Mise]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/mise-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/mise-swift]]></guid>
     <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
