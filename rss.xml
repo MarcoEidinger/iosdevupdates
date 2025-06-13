@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Jun 2025 18:11:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 20:10:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2025: What's new for the Apple community?]]></title>
@@ -329,6 +329,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Sharing Content in SwiftUI with ShareLink]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/sharing-content-in-swiftui-with-sharelink/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/sharing-content-in-swiftui-with-sharelink/]]></guid>
+    <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Keep Two Thoughts Podcast 115 - Choice]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/115Choice.html]]></link>
@@ -342,14 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://albertodebortoli.com/2025/06/06/how-to-setup-a-swift-package-registry-in-artifactory/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2025/06/06/how-to-setup-a-swift-package-registry-in-artifactory/]]></guid>
     <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Five years of the Swift Package Index]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
