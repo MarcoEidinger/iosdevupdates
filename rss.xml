@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Jun 2025 16:09:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Jun 2025 18:10:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Designing Context On-Device: What Foundation Models Mean for AI-Native Apps]]></title>
@@ -385,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Five years of the Swift Package Index]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -421,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +461,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/syncing-tipkit-with-cloudkit/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/syncing-tipkit-with-cloudkit/]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Art of the State]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2025/06/02/art-of-the-state/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/06/02/art-of-the-state/]]></guid>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Frames in the iOS simulator in landscape]]></title>
+    <description><![CDATA[https://dasdom.dev]]></description>
+    <link><![CDATA[https://dasdom.dev/frames-in-the-ios-simulator-in-landscape]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/frames-in-the-ios-simulator-in-landscape]]></guid>
     <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
