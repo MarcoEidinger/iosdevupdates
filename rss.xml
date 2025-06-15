@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Jun 2025 06:10:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Jun 2025 08:10:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Acorn in the f'n WWDC 2025 Keynote]]></title>
@@ -478,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-81-compilers/]]></guid>
     <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What iOS Apps do Wrong?]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-ios-apps-do-wrong-3c75456cbea7?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
