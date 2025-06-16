@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Jun 2025 16:10:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 18:11:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC25 Areas of Ongoing Interests]]></title>
+    <description><![CDATA[https://alexpaul.dev/]]></description>
+    <link><![CDATA[https://alexpaul.dev/2025/06/16/wwdc25-areas-of-ongoing-interests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/06/16/wwdc25-areas-of-ongoing-interests/]]></guid>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC 2025: A Return to Pragmatism - Fatbobman's Swift Weekly #89]]></title>
@@ -273,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Xcode’s Code Assistant Introduced at WWDC 2025]]></title>
-    <description><![CDATA[https://alexpaul.dev/]]></description>
-    <link><![CDATA[https://alexpaul.dev/2025/06/10/xcodes-code-assistant-introduced-at-wwdc-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/06/10/xcodes-code-assistant-introduced-at-wwdc-2025/]]></guid>
-    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WebView is Finally Coming to SwiftUI]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/06/10/webview-is-finally-coming-to-swiftui]]></link>
@@ -409,6 +409,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/launching-bezel-3.0]]></guid>
-    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
