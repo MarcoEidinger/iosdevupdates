@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Jun 2025 10:11:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 12:14:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Don‘t Liquid Glass All the Things]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/06/17/design-dary-liquid-glass-everything]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/17/design-dary-liquid-glass-everything]]></guid>
+    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Say hello to the Apple's new Liquid Glass design]]></title>
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/extensionkit-intro]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/extensionkit-intro]]></guid>
     <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rule #1: No HIG Exceptions, No Custom UI]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/10/design-diary-no-exceptions]]></guid>
-    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
