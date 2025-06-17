@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Jun 2025 08:12:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 10:11:58 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Say hello to the Apple's new Liquid Glass design]]></title>
@@ -14,6 +14,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobiledevdiary.com/posts/wwdc-2025-liquid-glass-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/wwdc-2025-liquid-glass-design/]]></guid>
     <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reducing the Friction Between Designers and Developers]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/reducing-friction-designers-developers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/reducing-friction-designers-developers/]]></guid>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -425,6 +433,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Five years of the Swift Package Index]]></title>
+    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
+    <link><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/five-years-of-the-swift-package-index]]></guid>
+    <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Updated instructions for installing my Debian package repositories]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/]]></link>
@@ -457,27 +473,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to Prepare for a Mobile System Design Interview]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/how-to-prepare-for-a-mobile-system-design-interview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/how-to-prepare-for-a-mobile-system-design-interview/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Postalgic]]></title>
-    <description><![CDATA[https://amiantos.net/tags/programming/]]></description>
-    <link><![CDATA[https://amiantos.net/introducing-postalgic/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://amiantos.net/introducing-postalgic/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[New Rivian? Check out these 5 tips]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/rivian-tips/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/rivian-tips/]]></guid>
-    <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
