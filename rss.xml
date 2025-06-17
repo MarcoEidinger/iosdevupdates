@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Jun 2025 18:13:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 20:09:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 273 - Images]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/2d73f1b93ed1/273-images]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/2d73f1b93ed1/273-images]]></guid>
+    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[From Massive SwiftUI Views to Reusable Components: The Root MVVM Approach to Modular Interfaces]]></title>
@@ -49,6 +57,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Showing Settings from macOS Menu Bar Items: A 5-Hour Journey]]></title>
+    <description><![CDATA[https://www.steipete.com/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/showing-settings-from-macos-menu-bar-items/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/showing-settings-from-macos-menu-bar-items/]]></guid>
+    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Say hello to the Apple's new Liquid Glass design]]></title>
     <description><![CDATA[https://www.mobiledevdiary.com]]></description>
     <link><![CDATA[https://www.mobiledevdiary.com/posts/wwdc-2025-liquid-glass-design/]]></link>
@@ -85,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-089/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-089/]]></guid>
-    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[VibeTunnel: Turn Any Browser into Your Mac's Terminal]]></title>
-    <description><![CDATA[https://www.steipete.com/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal/]]></guid>
     <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/06/13/wwdc-2025-links/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/13/wwdc-2025-links/]]></guid>
-    <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 116 - Plant a Flower]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/116PlantAFlower.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/116PlantAFlower.html]]></guid>
     <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
