@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 18 Jun 2025 14:09:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 16:10:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[stats.store: Privacy-First Sparkle Analytics]]></title>
@@ -33,11 +33,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What is Mobile System Design?]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></guid>
-    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[ The evolution of Mobile CI: Navigating the shift to Infrastructure-as-a-Service ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/06/18/mobile-ci]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/06/18/mobile-ci]]></guid>
+    <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -102,6 +102,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobiledevdiary.com/posts/wwdc-2025-liquid-glass-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobiledevdiary.com/posts/wwdc-2025-liquid-glass-design/]]></guid>
     <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reducing the Friction Between Designers and Developers]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/reducing-friction-designers-developers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/reducing-friction-designers-developers/]]></guid>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -365,14 +373,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/iOS-26-Notable-UIKit-Additions]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/iOS-26-Notable-UIKit-Additions]]></guid>
-    <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Developer experience wins from WWDC25 ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/06/10/wwdc]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/06/10/wwdc]]></guid>
     <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
