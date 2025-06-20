@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 20 Jun 2025 18:12:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 20:09:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Simple Checklist for Debugging Regressions]]></title>
+    <description><![CDATA[https://pilotcoder.com]]></description>
+    <link><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></guid>
+    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 117 - Teaching]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://furbo.org/2025/06/08/history-repeats/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/06/08/history-repeats/]]></guid>
     <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2025]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2025/06/07/wwdc-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2025/06/07/wwdc-2025/]]></guid>
-    <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
