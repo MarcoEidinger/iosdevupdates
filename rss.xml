@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 21 Jun 2025 00:28:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Jun 2025 02:39:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The new iOS26 Icon template]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/wwdc25-guide-to-the-latest-in-spatial-computing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc25-guide-to-the-latest-in-spatial-computing/]]></guid>
+    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Design System Considerations: Semantic Colors]]></title>
+    <description><![CDATA[https://www.magnuskahr.dk]]></description>
+    <link><![CDATA[https://magnuskahr.dk/posts/2025/06/swiftui-design-system-considerations-semantic-colors]]></link>
+    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/06/swiftui-design-system-considerations-semantic-colors]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ryantoken.com]]></description>
     <link><![CDATA[https://www.ryantoken.com/blog/blog/a-new-day-dawns]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/blog/a-new-day-dawns]]></guid>
-    <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Get Paid While You Sleep 🤑 😴]]></title>
-    <description><![CDATA[https://www.tiagohenriques.dev/]]></description>
-    <link><![CDATA[https://www.tiagohenriques.dev/blog/get-paid-while-you-sleep]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.tiagohenriques.dev/blog/get-paid-while-you-sleep]]></guid>
     <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
