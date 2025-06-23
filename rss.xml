@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Jun 2025 16:10:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 18:11:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Show an Alert from a Menu Item in a SwiftUI Mac App]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Safari web app strange connection behavior]]></title>
@@ -93,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Loading. Error. All Good.]]></title>
+    <description><![CDATA[https://snopia.net/en]]></description>
+    <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
+    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +345,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Open Document-like Windows Using SwiftUI WindowGroup]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-window-group/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/swiftui-window-group/]]></guid>
-    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WWDC25 Areas of Ongoing Interests]]></title>
     <description><![CDATA[https://alexpaul.dev/]]></description>
     <link><![CDATA[https://alexpaul.dev/2025/06/16/wwdc25-areas-of-ongoing-interests/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-playground-in-swift-file/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-playground-in-swift-file/]]></guid>
-    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hi, I’m Graham and I like things]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/06/hi-im-graham-and-i-like-things/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/06/hi-im-graham-and-i-like-things/]]></guid>
     <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
