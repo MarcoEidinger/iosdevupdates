@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Jun 2025 20:09:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 22:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS 26 Alarm Buttons]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/06/23/ios-26-alarm-buttons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/23/ios-26-alarm-buttons/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Show an Alert from a Menu Item in a SwiftUI Mac App]]></title>
@@ -105,18 +113,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[State of the Union: What I Took Away]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Loading. Error. All Good.]]></title>
     <description><![CDATA[https://snopia.net/en]]></description>
     <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
     <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[State of the Union: What I Took Away]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2025/06/20/the-new-ios26-icon-template/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/06/20/the-new-ios26-icon-template/]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Subtle Swift Retain Cycle]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/06/20/subtle-swift-retain-cycle/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/20/subtle-swift-retain-cycle/]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
