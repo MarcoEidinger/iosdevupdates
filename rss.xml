@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Jun 2025 18:11:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 20:09:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Show an Alert from a Menu Item in a SwiftUI Mac App]]></title>
@@ -93,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://patrickbalestra.com/blog/]]></description>
     <link><![CDATA[https://balestrapatrick.github.io/blog/2025/06/23/the-effects-of-ai-coding-agents-on-developer-infrastructure]]></link>
     <guid isPermaLink="true"><![CDATA[https://balestrapatrick.github.io/blog/2025/06/23/the-effects-of-ai-coding-agents-on-developer-infrastructure]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fixing Safari in macOS Tahoe]]></title>
+    <description><![CDATA[https://www.thermalcorner.net]]></description>
+    <link><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://iosapptemplates.com/blog]]></description>
     <link><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></link>
     <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></guid>
-    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use playground in Swift file]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-use-playground-in-swift-file/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-playground-in-swift-file/]]></guid>
     <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
