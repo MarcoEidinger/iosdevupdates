@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Jun 2025 06:12:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Jun 2025 08:13:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[#Playground Macro: Running Code Snippets in Xcode’s canvas]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/]]></guid>
+    <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using enumerated() with SwiftUI List and ForEach to show item numbers]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/UsingEnumeratedWithListAndForEach]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/UsingEnumeratedWithListAndForEach]]></guid>
+    <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS 26 Alarm Buttons]]></title>
@@ -369,26 +385,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Default Actor Isolation in Swift 6.2]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/default-actor-isolation-in-swift-6-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/default-actor-isolation-in-swift-6-2/]]></guid>
-    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WWDC25]]></title>
     <description><![CDATA[https://codingwithvera.com]]></description>
     <link><![CDATA[https://codingwithvera.com/wwdc25/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/wwdc25/]]></guid>
-    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stretchy header in SwiftUI with visualEffect()]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/StretchyHeaderInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/StretchyHeaderInSwiftUI]]></guid>
     <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
