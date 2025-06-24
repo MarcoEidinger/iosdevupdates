@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Jun 2025 22:10:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Jun 2025 00:30:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iOS 26 Alarm Buttons]]></title>
@@ -97,6 +97,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Bias Towards Helpfulness]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/bias-towards-helpfulness/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/bias-towards-helpfulness/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The Effects of AI Coding Agents on Developer Infrastructure]]></title>
     <description><![CDATA[https://patrickbalestra.com/blog/]]></description>
     <link><![CDATA[https://balestrapatrick.github.io/blog/2025/06/23/the-effects-of-ai-coding-agents-on-developer-infrastructure]]></link>
@@ -113,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Loading. Error. All Good.]]></title>
-    <description><![CDATA[https://snopia.net/en]]></description>
-    <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
-    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[State of the Union: What I Took Away]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
@@ -129,18 +129,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Loading. Error. All Good.]]></title>
+    <description><![CDATA[https://snopia.net/en]]></description>
+    <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
+    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Using WebKit with SwiftUI to manage web content]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-webkit]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-webkit]]></guid>
-    <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Foresight]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/foresight/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/foresight/]]></guid>
     <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
