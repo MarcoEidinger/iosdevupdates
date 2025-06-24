@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Jun 2025 16:12:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Jun 2025 18:12:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Responding to gestures: Long pressing]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/UsingEnumeratedWithListAndForEach]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/UsingEnumeratedWithListAndForEach]]></guid>
+    <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Glassifying tabs in SwiftUI]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/06/24/glassifying-tabs-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/06/24/glassifying-tabs-in-swiftui]]></guid>
     <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></guid>
-    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Vibe Coding in Swift and iOS: The Promises and Pitfalls]]></title>
-    <description><![CDATA[https://iosapptemplates.com/blog]]></description>
-    <link><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></link>
-    <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></guid>
     <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
