@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Jun 2025 16:10:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Jun 2025 18:12:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[NotificationCenter.Message: A New Concurrency-Safe Notification Experience in Swift 6.2]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></guid>
+    <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hotwire Native v1.2.x and Hotwire Native LIVE #4]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts]]></guid>
-    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS 26, Hotwire Native LIVE #3, and a new bridge component]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/newsletter/ios-26]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/ios-26]]></guid>
     <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
