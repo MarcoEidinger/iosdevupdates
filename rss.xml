@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Jun 2025 10:11:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Jun 2025 12:13:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS Tahoe Beta Forces Sharing FileVault Key]]></title>
@@ -77,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kean.blog/]]></description>
     <link><![CDATA[https://kean.blog/post/experiencing-claude-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://kean.blog/post/experiencing-claude-code]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[You Only Realize Its Value Once It’s Gone - Fatbobman's Swift Weekly #90]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-090/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-090/]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/xcode16-folders-pods/]]></guid>
+    <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Vibe Coding in Swift and iOS: The Promises and Pitfalls]]></title>
+    <description><![CDATA[https://iosapptemplates.com/blog]]></description>
+    <link><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></link>
+    <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/vibe-coding/vibe-coding-in-swift-and-ios-the-promises-and-pitfalls]]></guid>
     <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
