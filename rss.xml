@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 26 Jun 2025 00:29:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Jun 2025 02:40:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Roundrect Dictator]]></title>
@@ -25,18 +25,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[NotificationCenter.Message: A New Concurrency-Safe Notification Experience in Swift 6.2]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></guid>
+    <title><![CDATA[When AI Meets Madness: Peter's 16-Hour Days Building Apps at the Speed of Thought]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days/]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[My AI Workflow for Understanding Any Codebase]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow/]]></guid>
+    <title><![CDATA[NotificationCenter.Message: A New Concurrency-Safe Notification Experience in Swift 6.2]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
