@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Jun 2025 08:11:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Jun 2025 10:09:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Considerations for New iOS Versions]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/06/27/requiring-26]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/27/requiring-26]]></guid>
+    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Software Is Changing (Again)]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/swift-6-2-java-interoperability-in-practice/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/swift-6-2-java-interoperability-in-practice/]]></guid>
+    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing ComponentsKit Pro]]></title>
+    <description><![CDATA[https://componentskit.io/]]></description>
+    <link><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></link>
+    <guid isPermaLink="true"><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></guid>
     <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +401,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Don‘t Liquid Glass All the Things]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/06/17/design-dary-liquid-glass-everything]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/17/design-dary-liquid-glass-everything]]></guid>
-    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Great Mental Models - Volume I]]></title>
     <description><![CDATA[https://manu.show/]]></description>
     <link><![CDATA[https://manu.show/ep090-the-great-mental-models-1]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashishkakkad.com/]]></description>
     <link><![CDATA[https://ashishkakkad.com/2025/06/how-to-create-liquid-glass-for-custom-view-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/06/how-to-create-liquid-glass-for-custom-view-in-swift/]]></guid>
-    <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ramblin’ Rod]]></title>
-    <description><![CDATA[https://cabel.com/]]></description>
-    <link><![CDATA[https://cabel.com/2025/06/12/ramblin-rod/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cabel.com/2025/06/12/ramblin-rod/]]></guid>
     <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
