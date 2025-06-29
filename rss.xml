@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 29 Jun 2025 16:09:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Jun 2025 18:11:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Becoming unspammable with a domain and catch-all email aliases]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></guid>
+    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting Started with Apple's Foundation Models]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/getting-started-with-apple-foundation-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/getting-started-with-apple-foundation-models]]></guid>
     <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,14 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/things-i-am-learn-as-a-solopreneur-starting-up-again]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/things-i-am-learn-as-a-solopreneur-starting-up-again]]></guid>
-    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC25]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/wwdc25/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/wwdc25/]]></guid>
     <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
