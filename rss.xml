@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Jun 2025 10:09:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Jun 2025 12:14:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sparkle: Distribution apps in- and out of the Mac App Store]]></title>
@@ -38,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></guid>
     <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to support Dynamic Type accessibility in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-accessibility-dynamic-type]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-dynamic-type]]></guid>
+    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -169,6 +177,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Introducing ComponentsKit Pro]]></title>
+    <description><![CDATA[https://componentskit.io/]]></description>
+    <link><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></link>
+    <guid isPermaLink="true"><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></guid>
+    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Coding With AI All The Time]]></title>
     <description><![CDATA[https://kocienda.micro.blog]]></description>
     <link><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></link>
@@ -185,10 +201,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[NotificationCenter.Message: A New Concurrency-Safe Notification Experience in Swift 6.2]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></guid>
+    <title><![CDATA[Hotwire Native v1.2.x and Hotwire Native LIVE #4]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -294,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
     <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using WebKit with SwiftUI to manage web content]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-webkit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-webkit]]></guid>
-    <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
