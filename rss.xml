@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Jun 2025 06:12:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Jun 2025 08:13:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How I use Claude Code]]></title>
@@ -249,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[⬆️ Top WWDC Reads from the iOS Community 📖]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue50]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue50]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Color Contrast Calculator]]></title>
     <description><![CDATA[https://xcode.tips]]></description>
     <link><![CDATA[https://xcode.tips/color-contrast-calculator]]></link>
@@ -485,6 +477,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexpaul.dev/]]></description>
     <link><![CDATA[https://alexpaul.dev/2025/06/16/wwdc25-areas-of-ongoing-interests/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/06/16/wwdc25-areas-of-ongoing-interests/]]></guid>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC25]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/wwdc25/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/wwdc25/]]></guid>
     <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
