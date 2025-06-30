@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Jun 2025 08:13:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Jun 2025 10:09:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Sparkle: Distribution apps in- and out of the Mac App Store]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/xcode/sparkle-distribution-apps-in-and-out-of-the-mac-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/sparkle-distribution-apps-in-and-out-of-the-mac-app-store/]]></guid>
+    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[✍️ Keeping My README Up-to-Date with a Swift CLI Tool and GitHub Actions 👌]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue51]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue51]]></guid>
+    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I use Claude Code]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/how-i-use-claude-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/how-i-use-claude-code]]></guid>
+    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #11: Finn Voorhees]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></guid>
     <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing ComponentsKit Pro]]></title>
-    <description><![CDATA[https://componentskit.io/]]></description>
-    <link><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></link>
-    <guid isPermaLink="true"><![CDATA[https://componentskit.io/blog/componentskit-pro-launch]]></guid>
-    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Coding With AI All The Time]]></title>
     <description><![CDATA[https://kocienda.micro.blog]]></description>
     <link><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></link>
@@ -174,22 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/notificationcentermessage-a-new-concurrency-safe-notification-experience-in-swift-62/]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hotwire Native v1.2.x and Hotwire Native LIVE #4]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></guid>
-    <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[#Playground Macro: Running Code Snippets in Xcode’s canvas]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/]]></guid>
-    <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -373,14 +373,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kristaps.me]]></description>
     <link><![CDATA[https://kristaps.me/blog/dappcon-2025-berlin]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/dappcon-2025-berlin]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The New Container Tool: Docker-free Swift on Linux?]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/container]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/container]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
