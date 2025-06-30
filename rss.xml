@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Jun 2025 18:12:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Jun 2025 20:09:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Proton v. Apple]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/06/30/proton-v-apple/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/30/proton-v-apple/]]></guid>
+    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A slept on upscaling tool for macOS]]></title>
@@ -118,14 +126,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://furbo.org/2025/06/28/ipados-windows/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/06/28/ipados-windows/]]></guid>
     <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[EU App Store Tiers and Core Technology Commission]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/06/27/eu-app-store-tiers-and-core-technology-commission/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/27/eu-app-store-tiers-and-core-technology-commission/]]></guid>
-    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2025/06/18/the-ultimate-guide-to-the-foundation-models-framework]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/06/18/the-ultimate-guide-to-the-foundation-models-framework]]></guid>
     <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[From Massive SwiftUI Views to Reusable Components: The Root MVVM Approach to Modular Interfaces]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-massive-reusable-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-massive-reusable-views/]]></guid>
-    <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
