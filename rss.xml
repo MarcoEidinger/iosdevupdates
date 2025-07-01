@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Jul 2025 18:13:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Jul 2025 20:10:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Brazil Recommends Sanctions for Apple Over App Store and NFC Rules]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/01/brazil-recommends-sanctions-for-apple-over-app-store-and-nfc-rules/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/01/brazil-recommends-sanctions-for-apple-over-app-store-and-nfc-rules/]]></guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Designing custom UI with Liquid Glass on iOS 26]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/designing-custom-ui-with-liquid-glass-on-ios-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/designing-custom-ui-with-liquid-glass-on-ios-26/]]></guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Is 2025 the Year for Linux?]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Proton v. Apple]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/06/30/proton-v-apple/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/06/30/proton-v-apple/]]></guid>
     <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/4.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/4.html]]></guid>
-    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Solving actor-isolated protocol conformance related errors in Swift 6.2]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/solving-actor-isolated-protocol-conformance-related-errors-in-swift-6-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/solving-actor-isolated-protocol-conformance-related-errors-in-swift-6-2/]]></guid>
     <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -361,18 +361,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[State of the Union: What I Took Away]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Loading. Error. All Good.]]></title>
     <description><![CDATA[https://snopia.net/en]]></description>
     <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
     <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[State of the Union: What I Took Away]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
