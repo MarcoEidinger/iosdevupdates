@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Jul 2025 10:10:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Jul 2025 12:14:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Finding Inspiration]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/07/01/inspo-driven]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/07/01/inspo-driven]]></guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Presentation: Attribute Graph]]></title>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></guid>
-    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Considerations for New iOS Versions]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/06/27/requiring-26]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/06/27/requiring-26]]></guid>
     <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
