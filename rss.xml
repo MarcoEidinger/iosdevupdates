@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Jul 2025 16:11:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Jul 2025 18:12:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Dancing with AI: My Month with Claude Code]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/grouping-liquid-glass-components-using-glasseffectunion-on-ios-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/grouping-liquid-glass-components-using-glasseffectunion-on-ios-26/]]></guid>
+    <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Flywheel of tech debt]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2025/07/02/flywheel-of-tech-debt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/07/02/flywheel-of-tech-debt/]]></guid>
     <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/responding-to-gestures-dragging/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/responding-to-gestures-dragging/]]></guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Essential Reading for Agentic Engineers]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/essential-reading/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/essential-reading/]]></guid>
     <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Slot Machines for Programmers: How Peter Builds Apps 20x Faster with AI]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days/]]></guid>
-    <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hotwire Native v1.2.x and Hotwire Native LIVE #4]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-v1.2.x]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/06/19/using-videokit-to-add-video-to-your-swiftui-app]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/06/19/using-videokit-to-add-video-to-your-swiftui-app]]></guid>
-    <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I was wrong]]></title>
-    <description><![CDATA[https://dasdom.dev]]></description>
-    <link><![CDATA[https://dasdom.dev/i-was-wrong-kind-of]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/i-was-wrong-kind-of]]></guid>
     <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
