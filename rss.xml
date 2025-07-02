@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Jul 2025 12:14:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Jul 2025 14:10:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Finding my Way]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 275 - Preamble]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/35d4aa30f2f3/275-preamble]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/35d4aa30f2f3/275-preamble]]></guid>
     <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -405,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 117 - Teaching]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/117Teaching.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/117Teaching.html]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
