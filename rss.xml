@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 03 Jul 2025 08:12:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Jul 2025 10:12:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC25 updates to Transwwdcripts & Resourwwdces]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/wwdc25-updates-to-transwwdcripts-resourwwdces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc25-updates-to-transwwdcripts-resourwwdces/]]></guid>
+    <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Schedule a countdown timer with AlarmKit]]></title>
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Guide to the latest in Spatial Computing (WWDC25)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/wwdc25-guide-to-the-latest-in-spatial-computing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc25-guide-to-the-latest-in-spatial-computing/]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
