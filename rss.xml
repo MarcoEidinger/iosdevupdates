@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 06 Jul 2025 12:12:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Jul 2025 14:08:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple in China, Ripoff in Amazon]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/5.html]]></guid>
+    <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Understanding approve() in ERC-20: Why It Matters and How to Use It Safely]]></title>
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/meet-the-inspector-view-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/meet-the-inspector-view-in-swiftui/]]></guid>
-    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store search is not a user feature]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/6/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/6/4.html]]></guid>
     <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
