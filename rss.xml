@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Jul 2025 12:14:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Jul 2025 14:10:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[High Temperatures and Strange Atmospheric Phenomena - Fatbobman's Swift Weekly #92]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-092/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-092/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Singapore Buses 2025.6.1]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2025/07/singapore-buses-2025-6-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/singapore-buses-2025-6-1/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to make ScrollView content fill available space]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/07/07/how-to-make-scrollview-content-fill-available-space/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/07/07/how-to-make-scrollview-content-fill-available-space/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[🆕 Kicking Off a New Series on Apple's Machine Learning Tools 🤖]]></title>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/a-simple-checklist-for-debugging-regressions/]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Design System Considerations: Semantic Colors]]></title>
-    <description><![CDATA[https://www.magnuskahr.dk]]></description>
-    <link><![CDATA[https://magnuskahr.dk/posts/2025/06/swiftui-design-system-considerations-semantic-colors]]></link>
-    <guid isPermaLink="true"><![CDATA[https://magnuskahr.dk/posts/2025/06/swiftui-design-system-considerations-semantic-colors]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Swift Intents: Where AI Meets Apple Platforms]]></title>
-    <description><![CDATA[https://www.stphndxn.com/]]></description>
-    <link><![CDATA[https://www.stphndxn.com/introducing-swift-intents-where-ai-meets-apple-platforms/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/introducing-swift-intents-where-ai-meets-apple-platforms/]]></guid>
-    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What's new in SwiftUI for iOS 26]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26]]></guid>
-    <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
