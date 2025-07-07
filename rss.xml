@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Jul 2025 18:11:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Jul 2025 20:12:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS Tahoe 26 Developer Beta 3]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/07/macos-tahoe-26-developer-beta-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/07/macos-tahoe-26-developer-beta-3/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ternary operator in Swift explained]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/ternary-expressions-in-swift-explained/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/ternary-expressions-in-swift-explained/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[High Temperatures and Strange Atmospheric Phenomena - Fatbobman's Swift Weekly #92]]></title>
@@ -89,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[DOJ’s iPhone Monopoly Case Moves Forward]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/04/dojs-iphone-monopoly-case-moves-forward/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/04/dojs-iphone-monopoly-case-moves-forward/]]></guid>
-    <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Create a web AR experience with AR Quick Look]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/create-a-web-ar-experience-with-ar-quick-look/]]></link>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2025/07/04/new-home]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/07/04/new-home]]></guid>
-    <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Supporting Universal Links on iOS]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/supporting-universal-links-on-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/supporting-universal-links-on-ios/]]></guid>
     <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -433,18 +433,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[State of the Union: What I Took Away]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Loading. Error. All Good.]]></title>
     <description><![CDATA[https://snopia.net/en]]></description>
     <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
     <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[State of the Union: What I Took Away]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
