@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 07 Jul 2025 14:10:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Jul 2025 16:11:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[High Temperatures and Strange Atmospheric Phenomena - Fatbobman's Swift Weekly #92]]></title>
@@ -49,11 +49,27 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Using WebKit to load web content in SwiftUI]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/using-webkit-to-load-web-content-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-webkit-to-load-web-content-in-swiftui]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Hotwire Native at RailsConf]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-at-railsconf]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-at-railsconf]]></guid>
     <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Supporting sufficient contrast accessibility with Xcode's Color Contrast Calculator]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-accessibility-contrast]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-contrast]]></guid>
+    <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -249,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to support Dynamic Type accessibility in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-accessibility-dynamic-type]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-dynamic-type]]></guid>
-    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Reducing email spam with a domain and catch-all aliases]]></title>
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></link>
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></guid>
-    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Started with Apple's Foundation Models]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/getting-started-with-apple-foundation-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/getting-started-with-apple-foundation-models]]></guid>
     <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
