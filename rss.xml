@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 06 Jul 2025 22:09:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Jul 2025 00:30:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A 3D Stroke Effect to Get You Started with Shader Graph on visionOS]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/post/3d-stroke-effect-to-get-you-started-with-shader-graph-on-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/3d-stroke-effect-to-get-you-started-with-shader-graph-on-visionos/]]></guid>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple in China, Ripoff in Amazon]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.stphndxn.com/introducing-swift-intents-where-ai-meets-apple-platforms/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/introducing-swift-intents-where-ai-meets-apple-platforms/]]></guid>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What's new in SwiftUI for iOS 26]]></title>
-    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
-    <link><![CDATA[https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26]]></guid>
-    <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
