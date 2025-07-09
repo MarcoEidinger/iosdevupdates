@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Jul 2025 10:10:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Jul 2025 12:13:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What is Approachable Concurrency in Xcode 26?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/]]></guid>
+    <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Techniques for Engaging CLIs with the Terminal Utilities Package]]></title>
@@ -57,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What you need to know before migrating to Swift Testing]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Grouping elements within a Glass Effect Container in SwiftUI]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/grouping-elements-within-a-glass-effect-container-in-swiftui/]]></link>
@@ -97,14 +97,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
@@ -113,26 +105,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[title.love]]></title>
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2025/07/07/title-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/07/07/title-love/]]></guid>
-    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ternary operator in Swift explained]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/ternary-expressions-in-swift-explained/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/ternary-expressions-in-swift-explained/]]></guid>
-    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[High Temperatures and Strange Atmospheric Phenomena - Fatbobman's Swift Weekly #92]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-092/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-092/]]></guid>
     <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +461,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[State of the Union: What I Took Away]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Loading. Error. All Good.]]></title>
+    <description><![CDATA[https://snopia.net/en]]></description>
+    <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
+    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
