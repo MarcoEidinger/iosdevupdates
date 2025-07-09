@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Jul 2025 18:12:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Jul 2025 20:09:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Archaeology 1.3]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/09/archaeology-1-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/09/archaeology-1-3/]]></guid>
+    <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Detect Text Truncation in SwiftUI?]]></title>
@@ -41,10 +49,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Vienna RSS at 20]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/08/vienna-rss-at-20/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/08/vienna-rss-at-20/]]></guid>
+    <title><![CDATA[6 Mistakes That Slow Down Mobile Feature Development]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/six-feature-development-mistakes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/six-feature-development-mistakes/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,18 +121,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></guid>
     <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is Mobile System Design?]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-mobile-system-design/]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -473,10 +473,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Loading. Error. All Good.]]></title>
-    <description><![CDATA[https://snopia.net/en]]></description>
-    <link><![CDATA[https://snopia.net/en/blog/data-state]]></link>
-    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/data-state]]></guid>
+    <title><![CDATA[Fixing Safari in macOS Tahoe]]></title>
+    <description><![CDATA[https://www.thermalcorner.net]]></description>
+    <link><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
