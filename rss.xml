@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 09 Jul 2025 08:11:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Jul 2025 10:10:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Techniques for Engaging CLIs with the Terminal Utilities Package]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/terminal-utilities]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/terminal-utilities]]></guid>
+    <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[LLMs for "Real Projects"]]></title>
@@ -85,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/07/08/introducing-animatable-macro-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/08/introducing-animatable-macro-in-swiftui]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dev Conversations #11: Finn Voorhees]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-finn]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Reducing email spam with a domain and catch-all aliases]]></title>
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[State of the Union: What I Took Away]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/state-of-the-union-what-i-took-away]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
