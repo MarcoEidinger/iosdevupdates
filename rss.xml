@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 10 Jul 2025 12:13:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Jul 2025 14:10:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Safely Renaming Your Xcode Project]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/safely-renaming-your-xcode-project/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/safely-renaming-your-xcode-project/]]></guid>
+    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fresh Workouts]]></title>
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Grouping elements within a Glass Effect Container in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/grouping-elements-within-a-glass-effect-container-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/grouping-elements-within-a-glass-effect-container-in-swiftui/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
