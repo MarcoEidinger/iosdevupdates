@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 10 Jul 2025 18:12:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Jul 2025 20:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Almost Fired for Color Picker Poetry]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/10/almost-fired-for-color-picker-poetry/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/10/almost-fired-for-color-picker-poetry/]]></guid>
+    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Curious Case of Missing Mastodon Verification]]></title>
@@ -33,11 +41,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Archaeology 1.3]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/09/archaeology-1-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/09/archaeology-1-3/]]></guid>
-    <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Confirmation and Result Interactive Snippets]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/App-Intents-Interactive-Snippets-Confirm-vs-Result]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/App-Intents-Interactive-Snippets-Confirm-vs-Result]]></guid>
+    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://patrickbalestra.com/blog/]]></description>
     <link><![CDATA[https://balestrapatrick.github.io/blog/2025/06/23/the-effects-of-ai-coding-agents-on-developer-infrastructure]]></link>
     <guid isPermaLink="true"><![CDATA[https://balestrapatrick.github.io/blog/2025/06/23/the-effects-of-ai-coding-agents-on-developer-infrastructure]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fixing Safari in macOS Tahoe]]></title>
-    <description><![CDATA[https://www.thermalcorner.net]]></description>
-    <link><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/fixing-safari-in-macos-tahoe/]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
