@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 11 Jul 2025 12:13:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Jul 2025 14:12:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift and C++ interoperability in practice]]></title>
+    <description><![CDATA[https://arturgruchala.com/]]></description>
+    <link><![CDATA[https://arturgruchala.com/swift-and-c-interoperability-in-practice/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/swift-and-c-interoperability-in-practice/]]></guid>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating and customizing the Menu Bar of a SwiftUI app]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-and-customizing-the-menu-bar-of-a-swiftui-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-and-customizing-the-menu-bar-of-a-swiftui-app/]]></guid>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Aesthetics of Immersion]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></guid>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Accounts on title.love]]></title>
@@ -37,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2025/07/the-curious-case-of-missing-mastodon-verification/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/the-curious-case-of-missing-mastodon-verification/]]></guid>
-    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Safely Renaming Your Xcode Project]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/safely-renaming-your-xcode-project/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/safely-renaming-your-xcode-project/]]></guid>
     <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -153,18 +169,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
     <description><![CDATA[https://xreality.zone/en/]]></description>
     <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/2025/applescript-cli-macos-complete-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/applescript-cli-macos-complete-guide/]]></guid>
-    <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC25 updates to Transwwdcripts & Resourwwdces]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/wwdc25-updates-to-transwwdcripts-resourwwdces/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/wwdc25-updates-to-transwwdcripts-resourwwdces/]]></guid>
     <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://theswiftdev.com/]]></description>
     <link><![CDATA[https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/]]></guid>
-    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6.2 Java interoperability in practice]]></title>
-    <description><![CDATA[https://arturgruchala.com/]]></description>
-    <link><![CDATA[https://arturgruchala.com/swift-6-2-java-interoperability-in-practice/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/swift-6-2-java-interoperability-in-practice/]]></guid>
     <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
