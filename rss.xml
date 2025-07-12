@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Jul 2025 00:29:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Jul 2025 02:45:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WPFail2Ban]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2025/07/wpfail2ban/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/wpfail2ban/]]></guid>
+    <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple vs. the Law]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/120GoldilocksGoals.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/120GoldilocksGoals.html]]></guid>
-    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adopting Liquid Glass, Part I]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2025/07/adopting-liquid-glass-part-i/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/adopting-liquid-glass-part-i/]]></guid>
     <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
