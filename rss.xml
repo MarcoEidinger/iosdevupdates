@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Jul 2025 08:12:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 10:10:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[📝 Translating Text into Another Language Using Just a Single Line of Code 😱]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></guid>
+    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Implement a Decentralised CLI Tool Manager]]></title>
@@ -209,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Tuist Server is Now Source Available ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/07/08/server-fcl]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
+    <description><![CDATA[https://xreality.zone/en/]]></description>
+    <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Color Contrast Calculator]]></title>
-    <description><![CDATA[https://xcode.tips]]></description>
-    <link><![CDATA[https://xcode.tips/color-contrast-calculator]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xcode.tips/color-contrast-calculator]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
