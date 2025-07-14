@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Jul 2025 16:10:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 18:11:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Google “Acquires” Windsurf]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/14/google-acquires-windsurf/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/14/google-acquires-windsurf/]]></guid>
+    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Dimmer Liquid Glass and the Disappearance of Apple Intelligence - Fatbobman's Swift Weekly #93]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></guid>
+    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Handling WebView navigation in SwiftUI]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/handling-webview-navigation-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/handling-webview-navigation-in-swiftui]]></guid>
     <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://stuartbreckenridge.net/2025/07/financial-broadsheet-for-netnewswire/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/financial-broadsheet-for-netnewswire/]]></guid>
     <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple vs. the Law]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/11/apple-vs-the-law/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/11/apple-vs-the-law/]]></guid>
-    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-82-futurism/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-82-futurism/]]></guid>
-    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using WebKit to load web content in SwiftUI]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/using-webkit-to-load-web-content-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-webkit-to-load-web-content-in-swiftui]]></guid>
     <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
