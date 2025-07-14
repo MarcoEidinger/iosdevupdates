@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Jul 2025 06:13:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 08:12:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Implement a Decentralised CLI Tool Manager]]></title>
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2025/07/13/how-to-implement-a-decentralised-cli-tool-manager/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2025/07/13/how-to-implement-a-decentralised-cli-tool-manager/]]></guid>
+    <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Supporting Reduced Motion accessibility setting in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-accessibility-reduced-motion]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-reduced-motion]]></guid>
     <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[🆕 Kicking Off a New Series on Apple's Machine Learning Tools 🤖]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue52]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue52]]></guid>
-    <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Issue 082: Futurism]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-82-futurism/]]></link>
@@ -262,14 +262,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rwapp.co.uk/blog/speaking]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rwapp.co.uk/blog/speaking]]></guid>
     <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Supporting sufficient contrast accessibility with Xcode's Color Contrast Calculator]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-accessibility-contrast]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-contrast]]></guid>
-    <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Color Contrast Calculator]]></title>
+    <description><![CDATA[https://xcode.tips]]></description>
+    <link><![CDATA[https://xcode.tips/color-contrast-calculator]]></link>
+    <guid isPermaLink="true"><![CDATA[https://xcode.tips/color-contrast-calculator]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
