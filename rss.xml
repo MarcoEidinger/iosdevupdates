@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Jul 2025 10:12:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Jul 2025 12:15:48 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Hitting the target with TestHelpers]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/07/14/google-acquires-windsurf/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/14/google-acquires-windsurf/]]></guid>
+    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Longplay comes to the Mac]]></title>
+    <description><![CDATA[https://adrian.schoenig.me]]></description>
+    <link><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></guid>
     <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kean.blog/]]></description>
     <link><![CDATA[https://kean.blog/post/experiencing-claude-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://kean.blog/post/experiencing-claude-code]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Top 10 Developer Tools Apple introduced at WWDC25]]></title>
-    <description><![CDATA[https://www.fline.dev/]]></description>
-    <link><![CDATA[https://www.fline.dev/top-10-developer-tools-apple-introduced-at-wwdc25/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fline.dev/top-10-developer-tools-apple-introduced-at-wwdc25/]]></guid>
     <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
