@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Jul 2025 16:10:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Jul 2025 18:11:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Rumoured iPhone 17 Pro Colours Are As Dull As You’d Expect]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></guid>
+    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[for no particular reason other than I think it's fun,]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/]]></guid>
+    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Icon Composer: Tackling Challenges]]></title>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/07/15/apples-browser-engine-ban-persists-even-under-the-dma/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/15/apples-browser-engine-ban-persists-even-under-the-dma/]]></guid>
-    <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I've long been worried that Apple will drop support for AppleScript automation in macOS updates, or at least allow it to decay into a horrible broken state.]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/ive-lobeen-worried-that-apple-will-drop-support-for-applescript-automation-in-macos-updates-or-at-least-allow-it-to-decay-into-a-horrible-broken-state/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/ive-lobeen-worried-that-apple-will-drop-support-for-applescript-automation-in-macos-updates-or-at-least-allow-it-to-decay-into-a-horrible-broken-state/]]></guid>
     <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -150,14 +158,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tanaschita.com/ios-accessibility-reduced-motion]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-reduced-motion]]></guid>
     <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Financial Broadsheet for NetNewsWire]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2025/07/financial-broadsheet-for-netnewswire/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/financial-broadsheet-for-netnewswire/]]></guid>
-    <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
