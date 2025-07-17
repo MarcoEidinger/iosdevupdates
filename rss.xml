@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 17 Jul 2025 14:09:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Jul 2025 16:10:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep your code simple for the End Times]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/keep-your-code-simple-for-the-end-times-974790082606?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/keep-your-code-simple-for-the-end-times-974790082606?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing direct object interaction in visionOS]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/07/16/glassifying-custom-swiftui-views]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/16/glassifying-custom-swiftui-views]]></guid>
     <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[LucaERP 10: ForEach and Binding Variables]]></title>
-    <description><![CDATA[https://makeapppie.com/]]></description>
-    <link><![CDATA[https://makeapppie.com/2025/07/15/lucaerp-10-foreach-and-binding-variables/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/07/15/lucaerp-10-foreach-and-binding-variables/]]></guid>
-    <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -297,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing HyperGit: Lightning-Fast GitHub Search]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/introducing-hypergit-lightning-fast-github-search-f6a189c2756a?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/introducing-hypergit-lightning-fast-github-search-f6a189c2756a?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[My 10 Tips for Using Claude Code]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Show an Alert from a Menu Item in a SwiftUI Mac App]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></guid>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
