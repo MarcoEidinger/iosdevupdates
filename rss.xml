@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 17 Jul 2025 20:10:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Jul 2025 22:09:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A History of Mac Settings]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/]]></guid>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let's Build: Digital Rain (Matrix Code)]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/lb-digital-rain]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/lb-digital-rain]]></guid>
     <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/]]></guid>
-    <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Techniques for Engaging CLIs with the Terminal Utilities Package]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/terminal-utilities]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/terminal-utilities]]></guid>
     <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
