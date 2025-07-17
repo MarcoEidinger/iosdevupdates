@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 16 Jul 2025 22:10:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Jul 2025 00:31:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A rule of thumb, that I need to keep in mind, is that it will take about the same amount of time to edit photos as I spent shooting them.]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/]]></guid>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Longplay for Mac]]></title>
@@ -17,18 +25,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Rumoured iPhone 17 Pro Colours Are As Dull As You’d Expect]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></guid>
+    <title><![CDATA[🎸 2025 Music #6]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-6-catalyst-new-found-glory]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-6-catalyst-new-found-glory]]></guid>
     <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[for no particular reason other than I think it's fun,]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/]]></guid>
+    <title><![CDATA[VibeTunnel's first AI-anniversary]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></guid>
+    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Rumoured iPhone 17 Pro Colours Are As Dull As You’d Expect]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/rumoured-iphone-17-pro-colours-are-as-dull-as-youd-expect/]]></guid>
     <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2025/07/16/glassifying-custom-swiftui-views]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/16/glassifying-custom-swiftui-views]]></guid>
-    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[VibeTunnel's first AI-anniversary]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></guid>
     <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://kocienda.micro.blog/2025/06/25/coding-with-ai-all-the.html]]></guid>
     <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Show an Alert from a Menu Item in a SwiftUI Mac App]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/show-swiftui-alert-from-mac-menu/]]></guid>
-    <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
