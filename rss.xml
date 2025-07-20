@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 19 Jul 2025 22:10:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Jul 2025 00:32:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Setting up a dev env for Lychee]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/setting-up-a-dev-env-for-lychee/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/setting-up-a-dev-env-for-lychee/]]></guid>
+    <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing LandTransportKit]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/PresentingLiquidGlassSheetsInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PresentingLiquidGlassSheetsInSwiftUI]]></guid>
-    <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[🙄]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/687999645019130001001e05/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/687999645019130001001e05/]]></guid>
     <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
