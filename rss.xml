@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 20 Jul 2025 10:09:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Jul 2025 12:13:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Setting up a dev env for Lychee]]></title>
@@ -337,6 +337,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[What you need to know before migrating to Swift Testing]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[My 10 Tips for Using Claude Code]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></guid>
     <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I lost £25,000 running a successful conference]]></title>
-    <description><![CDATA[https://www.timc.dev]]></description>
-    <link><![CDATA[https://www.timc.dev/posts/the-cost-of-running-a-conference]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/the-cost-of-running-a-conference]]></guid>
-    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
