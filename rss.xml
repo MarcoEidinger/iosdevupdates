@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 21 Jul 2025 06:12:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Jul 2025 08:13:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Neat Image noise profiles for the Sigma sd Quattro H]]></title>
@@ -205,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adrian.schoenig.me]]></description>
     <link><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></guid>
-    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[📝 Translating Text into Another Language Using Just a Single Line of Code 😱]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue53]]></guid>
     <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2025/creating-equatable-tuples-swift-parameter-packs]]></guid>
     <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I lost £25,000 running a successful conference]]></title>
+    <description><![CDATA[https://www.timc.dev]]></description>
+    <link><![CDATA[https://www.timc.dev/posts/the-cost-of-running-a-conference]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/the-cost-of-running-a-conference]]></guid>
+    <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
