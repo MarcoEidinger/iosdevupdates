@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Jul 2025 10:10:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Jul 2025 12:13:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[New Watch]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/07/22/new-watch]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/07/22/new-watch]]></guid>
+    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Peek into My Debugging Process (With Real Examples)]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/how-i-fix-bugs-in-my-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/how-i-fix-bugs-in-my-apps/]]></guid>
+    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Threads vs. Tasks in Swift Concurrency]]></title>
@@ -305,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fresh Workouts]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/07/10/new-workout]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/07/10/new-workout]]></guid>
-    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Confirmation and Result Interactive Snippets]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/App-Intents-Interactive-Snippets-Confirm-vs-Result]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/06/28/why-liquid-glass-is-making-developers-rethink-flutter]]></guid>
     <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iPadOS Windows]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2025/06/28/ipados-windows/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/06/28/ipados-windows/]]></guid>
-    <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
