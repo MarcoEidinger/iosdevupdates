@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Jul 2025 12:13:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Jul 2025 14:10:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Functional Documentation]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/functional-documentation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/functional-documentation/]]></guid>
+    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Some third-party Mac apps I use]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/7/2.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/7/2.html]]></guid>
+    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Enable horizontal and vertical scrolling with ScrollView]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/enable-horizontal-and-vertical-scrolling-with-scrollview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enable-horizontal-and-vertical-scrolling-with-scrollview/]]></guid>
+    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Watch]]></title>
@@ -89,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Neat Image noise profiles for the Sigma sd Quattro H]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/neat-image-noise-profiles-for-the-sigma-sd-quattro-h/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/neat-image-noise-profiles-for-the-sigma-sd-quattro-h/]]></guid>
-    <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing LandTransportKit]]></title>
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2025/07/introducing-landtransportkit/]]></link>
@@ -125,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/121Immediately.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/121Immediately.html]]></guid>
-    <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mastering Forms in SwiftUI: Sliders and Steppers]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-sliders-and-steppers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/mastering-forms-in-swiftui-sliders-and-steppers/]]></guid>
     <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></guid>
-    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Liquid Crass]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/7/1.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/7/1.html]]></guid>
     <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
