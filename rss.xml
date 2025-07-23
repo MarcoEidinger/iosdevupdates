@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Jul 2025 14:11:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Jul 2025 16:11:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AdaptivePaddingScrollView in SwiftUI]]></title>
+    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
+    <link><![CDATA[https://medium.com/@alessandromanilii/adaptivepaddingscrollview-in-swiftui-36acce65519c?source=rss-71ad5f0d2495------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/adaptivepaddingscrollview-in-swiftui-36acce65519c?source=rss-71ad5f0d2495------2]]></guid>
+    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Core Data Migration Incident Analysis: The Hidden Traps We Overlooked]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2025/07/the-betas-4-are-out/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2025/07/the-betas-4-are-out/]]></guid>
+    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Artifacts]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2025/07/23/artifacts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/07/23/artifacts/]]></guid>
     <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/decentralized-infrastructure/xrpl-evm-is-live-powered-by-grove-and-pocket-c371ee1fda1d?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/xrpl-evm-is-live-powered-by-grove-and-pocket-c371ee1fda1d?source=rss-d59564ad49f6------2]]></guid>
     <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I use Claude Code]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/how-i-use-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/how-i-use-claude-code]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reducing email spam with a domain and catch-all aliases]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></guid>
-    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
