@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Jul 2025 14:10:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Jul 2025 16:10:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Use Your Type System]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/use-your-type-system/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/use-your-type-system/]]></guid>
+    <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Understanding spatial layout in visionOS 26]]></title>
@@ -102,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/07/23/glassifying-custom-swiftui-views-groups]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/23/glassifying-custom-swiftui-views-groups]]></guid>
     <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[CO2 Monitoring and Alerting with Aranet4 + an4mon]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/]]></guid>
-    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
