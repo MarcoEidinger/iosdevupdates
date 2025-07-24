@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Jul 2025 06:13:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Jul 2025 08:11:49 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[LUCAP_ERP11 The Hybrid Template with Predicates]]></title>
@@ -217,6 +217,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Just another network framework?]]></title>
+    <description><![CDATA[https://snopia.net/en]]></description>
+    <link><![CDATA[https://snopia.net/en/blog/just-another-network-framework]]></link>
+    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/just-another-network-framework]]></guid>
+    <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Duct Tape and Bailing Wire]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/7/duct_tape_and_bailing_wire.html]]></link>
@@ -333,6 +341,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2025/07/repaste-macbook/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/07/repaste-macbook/]]></guid>
+    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Is a Suspension Point In Swift?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></guid>
     <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/decentralized-infrastructure/xrpl-evm-is-live-powered-by-grove-and-pocket-c371ee1fda1d?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/xrpl-evm-is-live-powered-by-grove-and-pocket-c371ee1fda1d?source=rss-d59564ad49f6------2]]></guid>
     <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I use Claude Code]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/how-i-use-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/how-i-use-claude-code]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reducing email spam with a domain and catch-all aliases]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases]]></guid>
-    <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
