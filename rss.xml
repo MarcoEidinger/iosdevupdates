@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Jul 2025 18:13:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Jul 2025 20:09:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[appleOS 26 Public Betas]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/24/appleos-26-public-betas/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/24/appleos-26-public-betas/]]></guid>
+    <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Find the Slow Spots in Your Code with the CPU Profiler Instrument]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/cpu-profiler/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/cpu-profiler/]]></guid>
+    <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Use Your Type System]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elegantchaos.com/2025/07/24/to-do.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/07/24/to-do.html]]></guid>
     <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ways SwiftData’s ModelContainer Can Error on Creation]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/23/ways-swiftdatas-modelcontainer-can-error-on-creation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/23/ways-swiftdatas-modelcontainer-can-error-on-creation/]]></guid>
-    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/is-2025-the-year-for-linux-4021e59c8c03?source=rss-a279959eb187------2]]></guid>
     <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Social media update 2025]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2025/06/30/socials-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/06/30/socials-2025/]]></guid>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
