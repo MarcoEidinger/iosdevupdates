@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Jul 2025 06:13:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Jul 2025 08:14:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SwiftUI Search Enhancements in iOS and iPadOS 26]]></title>
@@ -17,11 +17,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building an AI Chatbot in SwiftUI with Foundation Models Framework]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/foundation-models-framework?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-framework]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/foundation-models-framework?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-framework]]></guid>
-    <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[The Importance of Soft Skills as a Software Developer]]></title>
+    <description><![CDATA[https://www.codewithkasetti.com/]]></description>
+    <link><![CDATA[https://www.codewithkasetti.com/posts/soft_skills_for_software_engineers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.codewithkasetti.com/posts/soft_skills_for_software_engineers]]></guid>
+    <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -229,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-views/]]></guid>
-    <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[🔎 Identifying Text in an Image Using the Vision framework 👀]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue54]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue54]]></guid>
     <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kristaps.me/blog/solidity-erc-20-approve]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/solidity-erc-20-approve]]></guid>
     <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Self-hosting macOS GitHub Runners]]></title>
+    <description><![CDATA[https://josephduffy.co.uk/posts]]></description>
+    <link><![CDATA[https://josephduffy.co.uk/posts/self-hosting-macos-github-runners]]></link>
+    <guid isPermaLink="true"><![CDATA[https://josephduffy.co.uk/posts/self-hosting-macos-github-runners]]></guid>
+    <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
