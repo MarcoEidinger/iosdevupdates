@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Jul 2025 16:10:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Jul 2025 18:13:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[I vibe-coded an AI photo organizer for Lychee]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.codewithkasetti.com/]]></description>
     <link><![CDATA[https://www.codewithkasetti.com/posts/soft_skills_for_software_engineers]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.codewithkasetti.com/posts/soft_skills_for_software_engineers]]></guid>
+    <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Business and the Boutique]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></guid>
     <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></guid>
-    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Confirmation and Result Interactive Snippets]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/App-Intents-Interactive-Snippets-Confirm-vs-Result]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/App-Intents-Interactive-Snippets-Confirm-vs-Result]]></guid>
     <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
