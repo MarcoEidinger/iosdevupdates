@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Jul 2025 10:13:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Jul 2025 12:14:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[feedfilter: an RSS feed postprocessing tool]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/]]></guid>
+    <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Combine and Swift Concurrency: A threading risk]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/07/28/uk-online-safety-act/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/28/uk-online-safety-act/]]></guid>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I vibe-coded an AI photo organizer for Lychee]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/07/i-vibe-coded-an-ai-photo-organizer-for-lychee/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/07/i-vibe-coded-an-ai-photo-organizer-for-lychee/]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
