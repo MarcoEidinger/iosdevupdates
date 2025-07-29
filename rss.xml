@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Jul 2025 16:11:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Jul 2025 18:12:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Logging Privacy Shenanigans]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/logging-privacy-shenanigans/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/logging-privacy-shenanigans/]]></guid>
+    <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Define how scrolling behaves with Scroll Target Behavior in SwiftUI]]></title>
@@ -61,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/SwiftUISearchEnhancementsIniOSAndiPadOS26]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUISearchEnhancementsIniOSAndiPadOS26]]></guid>
+    <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Working with partially generated content in Xcode previews]]></title>
+    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,14 +337,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[VibeTunnel's first AI-anniversary]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/vibetunnel-first-anniversary/]]></guid>
-    <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Reliable Bluetooth headphone switching on macOS using Raycast and scripts]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/bluetooth-headphone-switching-macos/]]></link>
@@ -357,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adrian.schoenig.me]]></description>
     <link><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adrian.schoenig.me/blog/2025/07/15/longplay-for-mac/]]></guid>
-    <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Handling WebView navigation in SwiftUI]]></title>
-    <description><![CDATA[https://www.artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/handling-webview-navigation-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/handling-webview-navigation-in-swiftui]]></guid>
     <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
