@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Jul 2025 18:11:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Jul 2025 20:10:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iCloud Backups Lawsuit]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/07/30/icloud-backups-lawsuit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/30/icloud-backups-lawsuit/]]></guid>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Default Actor Isolation: New Problems from Good Intentions]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></guid>
     <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 15.6]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/07/29/macos-15-6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/29/macos-15-6/]]></guid>
-    <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
