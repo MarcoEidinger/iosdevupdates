@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Jul 2025 10:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Jul 2025 12:15:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using Git worktrees for development]]></title>
@@ -65,10 +65,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Blender is Developing an iPad Version - Fatbobman's Swift Weekly #95]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-095/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-095/]]></guid>
+    <title><![CDATA[What is a Mobile Platform Engineer?]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -126,6 +126,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></guid>
     <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building an AI Chatbot in SwiftUI with Foundation Models Framework]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/foundation-models-framework?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-framework]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/foundation-models-framework?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-framework]]></guid>
+    <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -421,14 +429,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[6 Mistakes That Slow Down Mobile Feature Development]]></title>
-    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
-    <link><![CDATA[https://www.mobilesystemdesign.com/blog/six-feature-development-mistakes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/six-feature-development-mistakes/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
