@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Jul 2025 22:12:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Jul 2025 00:30:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 15.6]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/07/29/macos-15-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/07/29/macos-15-6/]]></guid>
+    <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 279 - Bullies]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/92bb261fbb48/279-bullies]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/92bb261fbb48/279-bullies]]></guid>
     <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -110,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Business-and-the-Boutique]]></guid>
     <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 122 - Teeth]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/122Teeth.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/122Teeth.html]]></guid>
-    <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
