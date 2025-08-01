@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 01 Aug 2025 18:11:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 20:11:52 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Gruber and Snell on Liquid Glass]]></title>
+    <title><![CDATA[Apple Developer Relations Over the Years]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/8/gruber_and_snell_on_liquid_glass.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/gruber_and_snell_on_liquid_glass.html]]></guid>
+    <link><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></guid>
     <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -65,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Self-Hosting AI Models After Claude's Usage Limits]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/self-hosting-ai-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/self-hosting-ai-models/]]></guid>
+    <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[RailsConf workshop recording and Ruby Friends v1.2]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/newsletter/railsconf-workshop-recording]]></link>
@@ -102,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></guid>
     <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Logging Privacy Shenanigans]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/logging-privacy-shenanigans/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/logging-privacy-shenanigans/]]></guid>
-    <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
