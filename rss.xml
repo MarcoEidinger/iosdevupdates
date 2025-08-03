@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 03 Aug 2025 16:10:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 Aug 2025 18:12:08 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Playdate Season 2 — Weeks One and Two]]></title>
@@ -17,10 +17,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Essential Reading for Agentic Engineers - July 2025]]></title>
+    <title><![CDATA[Don't read this Startup Slop]]></title>
     <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/essential-reading-july-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/essential-reading-july-2025/]]></guid>
+    <link><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></guid>
     <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
