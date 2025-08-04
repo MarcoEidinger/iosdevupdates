@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Aug 2025 06:15:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Aug 2025 08:12:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Issue 083: PHP]]></title>
@@ -14,6 +14,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-83-php/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-83-php/]]></guid>
     <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use the @available attribute in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swift-available-attribute]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-available-attribute]]></guid>
+    <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -153,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[🤝 Why Sticking with Writing actually Matters ✍️]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue55]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue55]]></guid>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Search Enhancements in iOS and iPadOS 26]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/SwiftUISearchEnhancementsIniOSAndiPadOS26]]></link>
@@ -182,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.rwapp.co.uk/blog/swifts]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.rwapp.co.uk/blog/swifts]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Overview on Accessibility Nutrition Labels for iOS development]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-accessibility-nutrition-labels]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-accessibility-nutrition-labels]]></guid>
-    <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My 10 Tips for Using Claude Code]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
