@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 Aug 2025 18:11:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Aug 2025 20:11:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SuperDuper 4.0 Beta]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/04/superduper-4-0-beta/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/04/superduper-4-0-beta/]]></guid>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Lychee photo library tool for titling photos]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-096/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-096/]]></guid>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Observations AsyncSequence for State Changes]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swift-observations-asyncsequence-for-state-changes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-observations-asyncsequence-for-state-changes/]]></guid>
     <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -86,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></guid>
     <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple’s Q3 2025 Results]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/01/apples-q3-2025-results/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/01/apples-q3-2025-results/]]></guid>
-    <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -349,14 +357,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-views/]]></guid>
-    <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Approachable Concurrency in Swift Packages]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/approachable-concurrency-in-swift-packages/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/approachable-concurrency-in-swift-packages/]]></guid>
     <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
