@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 03 Aug 2025 22:10:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Aug 2025 00:33:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How Vibe Coding Is Hurting Your Critical Thinking]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2025/08/03/how-vibe-coding-is-hurting-your-critical-thinking]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/08/03/how-vibe-coding-is-hurting-your-critical-thinking]]></guid>
+    <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Playdate Season 2 — Weeks One and Two]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Use MPS and CIFilter to Achieve Special Visual Effects on visionOS]]></title>
-    <description><![CDATA[https://xreality.zone/en/]]></description>
-    <link><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://xreality.zone/en/post/how-to-use-mps-and-cifilter-to-achieve-special-visual-effects-on-visionos/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
