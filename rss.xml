@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Aug 2025 20:11:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 Aug 2025 22:10:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Vibing with Copilot]]></title>
+    <description><![CDATA[https://raulriera.medium.com/]]></description>
+    <link><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></guid>
+    <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Tahoe 26 Developer Beta 5]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/concurrency/global-actor/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/global-actor/]]></guid>
+    <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 280 - Meetings]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/cee9aa82e09f/280-meetings]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/cee9aa82e09f/280-meetings]]></guid>
     <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></guid>
-    <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 123 - Rights]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/123Rights.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/123Rights.html]]></guid>
     <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What you need to know before migrating to Swift Testing]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-need-to-know-before-migrating-to-swift-testing-b9c1d749ebd5?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
