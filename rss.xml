@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Aug 2025 10:11:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Aug 2025 12:17:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Vibing with Copilot]]></title>
@@ -77,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/8/2.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/8/2.html]]></guid>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode 26 beta 4: If We're Going Down, We're Going Down Together - Fatbobman's Swift Weekly #96]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-096/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-096/]]></guid>
     <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></guid>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Accessibility Improvements From My WWDC25 Lab]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
