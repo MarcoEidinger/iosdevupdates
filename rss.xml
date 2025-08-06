@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 Aug 2025 22:10:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Aug 2025 00:30:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Vibing with Copilot]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/cee9aa82e09f/280-meetings]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/cee9aa82e09f/280-meetings]]></guid>
+    <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Poltergeist: The Ghost That Keeps Your Builds Fresh]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh/]]></guid>
     <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,6 +121,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Building iOS and Mac apps in Zed instead of Xcode]]></title>
+    <description><![CDATA[https://luxmentis.org]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></guid>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to use the @available attribute in Swift]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swift-available-attribute]]></link>
@@ -133,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2025/08/high-quality-low-filesize-gifs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/08/high-quality-low-filesize-gifs/]]></guid>
-    <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Don't read this Startup Slop]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/startup-slop/]]></guid>
     <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accessibility Improvements From My WWDC25 Lab]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
