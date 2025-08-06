@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 Aug 2025 12:17:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Aug 2025 14:12:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 6: Sendable, @unchecked Sendable, @Sendable, sending and nonsending]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/sendable-sending-nonsending/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/sendable-sending-nonsending/]]></guid>
+    <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Vibing with Copilot]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/llms-real-code]]></guid>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Accessibility Improvements From My WWDC25 Lab]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/swiftui/a11ywwdc25/]]></guid>
     <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
