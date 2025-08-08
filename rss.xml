@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 Aug 2025 18:12:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Aug 2025 20:10:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Separate Icons for macOS Tahoe vs. Earlier]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/08/separate-icons-for-macos-tahoe-vs-earlier/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/08/separate-icons-for-macos-tahoe-vs-earlier/]]></guid>
+    <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I Can’t Get Ghost 6 ActivityPub To Work When Self-Hosting]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mokacoding.com/blog/how-to-add-custom-roms-to-rg35xx-plus]]></link>
     <guid isPermaLink="true"><![CDATA[https://mokacoding.com/blog/how-to-add-custom-roms-to-rg35xx-plus]]></guid>
     <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sendable, @unchecked Sendable, @Sendable, sending, and nonsending]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/07/sendable-unchecked-sendable-sendable-sending-and-nonsending/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/07/sendable-unchecked-sendable-sendable-sending-and-nonsending/]]></guid>
-    <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
