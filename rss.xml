@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 09 Aug 2025 14:09:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 Aug 2025 16:10:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Still Believe That AI Will Replace Developers: 18 Months Later — Career switch ?]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Separate Icons for macOS Tahoe vs. Earlier]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></guid>
     <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Is a Suspension Point In Swift?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-is-a-suspension-point/]]></guid>
-    <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
