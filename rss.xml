@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 Aug 2025 06:13:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 Aug 2025 08:15:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Core Spotlight integration for Spotlight and internal app search]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/CoreSpotlightIntegration]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/CoreSpotlightIntegration]]></guid>
+    <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Async await in Swift explained with code examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/async-await/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/async-await/]]></guid>
+    <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I Can't Get Ghost 6 ActivityPub To Work When Using Ghost(Pro)]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/i-cant-get-ghost-6-activitypub-to-work-when-using-ghost-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/i-cant-get-ghost-6-activitypub-to-work-when-using-ghost-pro/]]></guid>
+    <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The X.com embed disaster: Still broken, but we have a reverse engineered solution]]></title>
@@ -125,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://raulriera.medium.com/]]></description>
     <link><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></guid>
-    <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Global actor in Swift Concurrency explained with code examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/global-actor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/global-actor/]]></guid>
     <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></guid>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Search Enhancements in iOS and iPadOS 26]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/SwiftUISearchEnhancementsIniOSAndiPadOS26]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUISearchEnhancementsIniOSAndiPadOS26]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/07/is-foundation-a-utopian-vision/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/07/is-foundation-a-utopian-vision/]]></guid>
-    <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Aesthetics of Immersion]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/the-aesthetics-of-immersion/]]></guid>
     <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
