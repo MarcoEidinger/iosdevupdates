@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 Aug 2025 18:12:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 Aug 2025 20:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reddit Will Block the Internet Archive]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/]]></guid>
+    <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 281 - Damn Lies]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/68d11ec06977/281-damn-lies]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/68d11ec06977/281-damn-lies]]></guid>
+    <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Designing custom AlarmKit interfaces in SwiftUI]]></title>
@@ -25,10 +41,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS 26 Developer Beta 6]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/11/ios-26-developer-beta-6/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/11/ios-26-developer-beta-6/]]></guid>
+    <title><![CDATA[How to create a custom reusable toolbar in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-reusable-toolbar]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-reusable-toolbar]]></guid>
     <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -94,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 124 - Call]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/124Call.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/124Call.html]]></guid>
-    <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></guid>
     <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use the @available attribute in Swift]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swift-available-attribute]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-available-attribute]]></guid>
-    <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
