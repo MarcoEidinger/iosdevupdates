@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Aug 2025 20:14:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Aug 2025 22:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Promotion and X/Grok]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/13/app-store-promotion-and-x-grok/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/13/app-store-promotion-and-x-grok/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Digs]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://sebvidal.com]]></description>
     <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
-    <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reddit Will Block the Internet Archive]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/]]></guid>
     <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
