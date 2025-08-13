@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 Aug 2025 12:13:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Aug 2025 14:11:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adopting Liquid Glass, Part III (NetNewsWire iOS)]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-iii-netnewswire-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-iii-netnewswire-ios/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Minimalist home network monitoring with shell scripts and ntfy.sh]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mobidevtalk.com/]]></description>
     <link><![CDATA[https://mobidevtalk.com/mastering-ios-app-store-submission-from-basics-to-automation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mobidevtalk.com/mastering-ios-app-store-submission-from-basics-to-automation/]]></guid>
-    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adopting Liquid Glass, Part II (NetNewsWire Mac)]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-ii-netnewswire-mac/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-ii-netnewswire-mac/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
