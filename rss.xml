@@ -6,10 +6,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 Aug 2025 08:12:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Aug 2025 10:10:31 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Apple Maps ‘Detailed City Experience’ Adds Singapore]]></title>
+    <title><![CDATA[Apple Maps ‘Detailed City Experience’ Expands to Singapore]]></title>
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/apple-maps-detailed-city-experience-adds-singapore/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/apple-maps-detailed-city-experience-adds-singapore/]]></guid>
@@ -41,19 +41,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[What's New in UIKit]]></title>
+    <description><![CDATA[https://sebvidal.com]]></description>
+    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI App Localization in Xcode — Easy, Scalable]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What's New in UIKit]]></title>
-    <description><![CDATA[https://sebvidal.com]]></description>
-    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
-    <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
