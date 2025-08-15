@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 Aug 2025 18:12:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Aug 2025 20:11:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Woz’s Ongoing YouTube Lawsuit]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/]]></guid>
+    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 125 - Enough]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.krzyzanowskim.com/]]></description>
     <link><![CDATA[https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/]]></guid>
-    <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Return of Blood Oxygen for Apple Watch]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/14/the-return-of-blood-oxygen-for-apple-watch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/14/the-return-of-blood-oxygen-for-apple-watch/]]></guid>
     <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
