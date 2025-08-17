@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Aug 2025 08:13:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 10:10:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adopting Liquid Glass, Part IV (Singapore Buses, Revisiting the Tab Bar)]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-iv-singapore-buses-revisiting-the-tab-bar/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-iv-singapore-buses-revisiting-the-tab-bar/]]></guid>
+    <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Woz’s Ongoing YouTube Lawsuit]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/working-with-the-main-menu-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/working-with-the-main-menu-in-swiftui/]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[eSIMs as a Profit Centre]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/esims-as-a-profit-centre/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/esims-as-a-profit-centre/]]></guid>
     <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
