@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 Aug 2025 14:09:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 16:10:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS simulator Files app broken by symlink]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/8/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/8/5.html]]></guid>
+    <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why I'm Not Using Xcode 26's AI Chat Integration (And What Could Change My Mind)]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/125Enough.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/125Enough.html]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Academic philosophy: my quixotic quest]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/8/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/8/4.html]]></guid>
     <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
