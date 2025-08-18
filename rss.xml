@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Aug 2025 18:13:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 20:11:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Macrowave is pretty cool]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/8/macrowave.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/macrowave.html]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS Tahoe 26 Developer Beta 7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/18/macos-tahoe-26-developer-beta-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/18/macos-tahoe-26-developer-beta-7/]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Breakpoints Show Thursday in Seattle]]></title>
@@ -78,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2025/08/17/effective-communication-between-observable-stores]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/08/17/effective-communication-between-observable-stores]]></guid>
     <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Woz’s Ongoing YouTube Lawsuit]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -350,14 +358,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://christianselig.com/2025/08/high-quality-low-filesize-gifs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/08/high-quality-low-filesize-gifs/]]></guid>
     <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Developer Relations Over the Years]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/apple_developer_relations_over_the_years.html]]></guid>
-    <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
