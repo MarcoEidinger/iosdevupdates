@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Aug 2025 12:14:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 14:12:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Almost Lost Patton (My Dog) - Fatbobman's Swift Weekly #98]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-098/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-098/]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reverse Engineering Apple's on-demand resource Asset Packs: How to Recreate .assetpack Files with Standard Unix Tools]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Playdate Development Is Incredibly Fun]]></title>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://david-smith.org/blog/2025/07/22/new-watch]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/07/22/new-watch]]></guid>
     <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Peek into My Debugging Process (With Real Examples)]]></title>
-    <description><![CDATA[https://www.polpiella.dev]]></description>
-    <link><![CDATA[https://polpiella.dev/how-i-fix-bugs-in-my-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/how-i-fix-bugs-in-my-apps/]]></guid>
-    <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Create and Combine SwiftUI Views Without Getting Lost in Deep Nesting and Complex Layouts]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-views/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-views/]]></guid>
-    <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
