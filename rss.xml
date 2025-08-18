@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 Aug 2025 20:11:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 22:10:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My new book on architecture & design patterns for iOS]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/book-ios-architecture-design-patterns]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/book-ios-architecture-design-patterns]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Macrowave is pretty cool]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Privacy]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/privacy/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/privacy/]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Build, run and debug iOS and Mac apps in Zed instead of Xcode]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></guid>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[High Level Anatomy of a Camera Capturing Session]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/ios/swiftui-camera-learnings/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/let-vs-var-for-swift-struct-properties]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/let-vs-var-for-swift-struct-properties]]></guid>
-    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Artifacts]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2025/07/23/artifacts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2025/07/23/artifacts/]]></guid>
     <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
