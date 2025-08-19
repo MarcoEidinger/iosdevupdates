@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Aug 2025 06:12:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Aug 2025 08:11:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The Betas 7 Are Out]]></title>
@@ -61,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Custom SwiftUI transitions with Metal]]></title>
+    <description><![CDATA[https://medium.com/@victorbaro]]></description>
+    <link><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://makeapppie.com/2025/07/23/lucap_erp11-the-hybrid-template-with-predicates/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/07/23/lucap_erp11-the-hybrid-template-with-predicates/]]></guid>
     <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Everywhere: Web Edition]]></title>
-    <description><![CDATA[https://www.ryantoken.com]]></description>
-    <link><![CDATA[https://www.ryantoken.com/blog/swift-everywhere-web]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/swift-everywhere-web]]></guid>
-    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
