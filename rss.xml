@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Aug 2025 18:12:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Aug 2025 20:11:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Newsletter 282 - Washing Machine]]></title>
@@ -29,6 +29,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/property-wrappers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/property-wrappers/]]></guid>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Just One More Prompt]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/just-one-more-prompt/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/just-one-more-prompt/]]></guid>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building AI features using Foundation Models]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/08/19/building-ai-features-using-foundation-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/08/19/building-ai-features-using-foundation-models]]></guid>
     <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Poltergeist: The Ghost That Keeps Your Builds Fresh]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh/]]></guid>
-    <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[👶 One and a half years of iOS Coffee Break ☕]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue56]]></link>
@@ -406,14 +414,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/newsletter/railsconf-workshop-recording]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/railsconf-workshop-recording]]></guid>
     <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Streaming changes with Observations]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations]]></guid>
-    <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
