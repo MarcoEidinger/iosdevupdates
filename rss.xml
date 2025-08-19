@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 Aug 2025 12:14:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Aug 2025 14:10:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fetching events from the user’s calendar]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/fetching-events-from-the-users-calendar/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/fetching-events-from-the-users-calendar/]]></guid>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Property Wrappers in Swift explained with code examples]]></title>
@@ -73,6 +81,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Raw Identifiers]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/swift-raw-identifiers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-raw-identifiers/]]></guid>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Custom SwiftUI transitions with Metal]]></title>
     <description><![CDATA[https://medium.com/@victorbaro]]></description>
     <link><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></link>
@@ -129,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 125 - Enough]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/125Enough.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/125Enough.html]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Working with the Main Menu in SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/working-with-the-main-menu-in-swiftui/]]></link>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/the-morning-code-review-programming-in-2040-5706fbd3aee8?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-morning-code-review-programming-in-2040-5706fbd3aee8?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating and saving calendar events]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-and-saving-calendar-events/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-and-saving-calendar-events/]]></guid>
     <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Observations AsyncSequence for State Changes]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swift-observations-asyncsequence-for-state-changes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-observations-asyncsequence-for-state-changes/]]></guid>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[👶 One and a half years of iOS Coffee Break ☕]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue56]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://makeapppie.com/2025/07/23/lucap_erp11-the-hybrid-template-with-predicates/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/07/23/lucap_erp11-the-hybrid-template-with-predicates/]]></guid>
     <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Everywhere: Web Edition]]></title>
+    <description><![CDATA[https://www.ryantoken.com]]></description>
+    <link><![CDATA[https://www.ryantoken.com/blog/swift-everywhere-web]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/swift-everywhere-web]]></guid>
+    <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
