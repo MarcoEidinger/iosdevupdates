@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 Aug 2025 20:10:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 Aug 2025 22:08:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Base 3.0]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/20/base-3-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/20/base-3-0/]]></guid>
+    <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mark Twain on the Book of Mormon]]></title>
+    <description><![CDATA[https://collin.blog/]]></description>
+    <link><![CDATA[https://collin.blog/2025/08/20/mark-twain-on-the-book-of-mormon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/08/20/mark-twain-on-the-book-of-mormon/]]></guid>
+    <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DeltaDB From Zed (the Code Editor)]]></title>
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/08/20/managing-code-deprecations-on-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/08/20/managing-code-deprecations-on-ios/]]></guid>
-    <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[EagleFiler 1.9.18]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/19/eaglefiler-1-9-18/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/19/eaglefiler-1-9-18/]]></guid>
     <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -158,14 +166,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/privacy/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/privacy/]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Playdate Development Is Incredibly Fun]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2025/08/17/playdate-development-is-incredibly-fun/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2025/08/17/playdate-development-is-incredibly-fun/]]></guid>
-    <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
