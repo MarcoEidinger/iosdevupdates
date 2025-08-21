@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 21 Aug 2025 12:14:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 Aug 2025 14:09:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Setting alarms for calendar events]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/setting-alarms-for-calendar-events/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/setting-alarms-for-calendar-events/]]></guid>
+    <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Corner concentricity in SwiftUI on iOS 26]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/c7929e65423e/282-washing-machine]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/c7929e65423e/282-washing-machine]]></guid>
-    <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fetching events from the user’s calendar]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/fetching-events-from-the-users-calendar/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/fetching-events-from-the-users-calendar/]]></guid>
     <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
