@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 Aug 2025 00:28:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 Aug 2025 02:38:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[PADD for NetNewsWire]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/padd-for-netnewswire/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/padd-for-netnewswire/]]></guid>
+    <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Removing XSLT From the Web Platform]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Open-Intent-Additions-iOS26-In-AppIntents]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Open-Intent-Additions-iOS26-In-AppIntents]]></guid>
     <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Betas 7 Are Out]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/the-betas-7-are-out/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/the-betas-7-are-out/]]></guid>
-    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
