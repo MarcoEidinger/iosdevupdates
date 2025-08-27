@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Aug 2025 00:27:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 02:37:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What Is a Color Space?]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/adapting-toolbar-elements-to-the-liquid-glass-design-system/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adapting-toolbar-elements-to-the-liquid-glass-design-system/]]></guid>
+    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Yet Another Blog Rewrite]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -334,14 +342,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Murderbot Blog]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/the-murderbot-blog/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-murderbot-blog/]]></guid>
-    <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
