@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Aug 2025 14:09:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 16:11:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Migrations: From Stone Age to AI Mastery]]></title>
+    <description><![CDATA[https://radu-ionut-dan.medium.com/]]></description>
+    <link><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></guid>
+    <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Adopting Liquid Glass, Part V (Singapore Buses, Finishing Touches)]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-v-singapore-buses-finis/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/adopting-liquid-glass-part-v-singapore-buses-finis/]]></guid>
+    <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Archaeology 1.4]]></title>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/c93bb98e09d2/283-purchase]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/c93bb98e09d2/283-purchase]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Betas 8 Are Out]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/the-betas-8-are-out/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/the-betas-8-are-out/]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/what-is-a-mobile-platform-engineer/]]></guid>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Working with partially generated content in Xcode previews]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews]]></guid>
     <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
 </item>
 
