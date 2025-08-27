@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 Aug 2025 12:13:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 14:09:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Archaeology 1.4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/27/archaeology-1-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/27/archaeology-1-4/]]></guid>
+    <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What Is a Color Space?]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2025/08/26/fb19914338/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/08/26/fb19914338/]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The “trash” Command]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/26/the-trash-command/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/26/the-trash-command/]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
