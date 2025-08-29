@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 Aug 2025 18:13:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 Aug 2025 22:09:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SpotTest 1.1]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/08/29/spottest-1-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/29/spottest-1-1/]]></guid>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Design as brand: The power of choice and belief]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-tibor]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-tibor]]></guid>
     <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode 26 Beta 7]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/28/xcode-26-beta-7/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/28/xcode-26-beta-7/]]></guid>
-    <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
