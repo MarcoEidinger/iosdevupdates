@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 Aug 2025 00:25:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Aug 2025 02:34:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What I Learned from A Mind For Numbers by Barbara Oakley]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-a-mind-for-numbers-by-barbara-oakley]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-a-mind-for-numbers-by-barbara-oakley]]></guid>
+    <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SpotTest 1.1]]></title>
@@ -190,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tanaschita.com/swift-await-async-in-synchronious-swift-code-with-tasks]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-await-async-in-synchronious-swift-code-with-tasks]]></guid>
     <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What I Learned from Atomic Habits by James Clear]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-atomic-habits-by-james-clear]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-atomic-habits-by-james-clear]]></guid>
-    <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
