@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 31 Aug 2025 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 12:12:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[@ViewBuilder usage explained with code examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/viewbuilder/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/viewbuilder/]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[KeyboardKit 10]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/08/31/keyboardkit-10-developer-preview]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/08/31/keyboardkit-10-developer-preview]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Turning the iPhone into a Laboratory Microscope with AI and BLE]]></title>
@@ -173,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></guid>
-    <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Computed Property: Code Examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/computed-property/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/computed-property/]]></guid>
     <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -377,18 +385,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What's New in UIKit]]></title>
-    <description><![CDATA[https://sebvidal.com]]></description>
-    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
-    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI App Localization in Xcode — Easy, Scalable]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What's New in UIKit]]></title>
+    <description><![CDATA[https://sebvidal.com]]></description>
+    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-83-php/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-83-php/]]></guid>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build, run and debug iOS and Mac apps in Zed instead of Xcode]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></guid>
     <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
