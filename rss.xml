@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 31 Aug 2025 16:09:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 18:13:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How I Use Voice and AI to Turn Messy Thoughts Into Clear Plans]]></title>
+    <description><![CDATA[https://pilotcoder.com]]></description>
+    <link><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building a design system at Genius Scan]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/vibing-with-copilot-81a05b50641a?source=rss-8501090bb2de------2]]></guid>
     <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[@isolated(any)]]></title>
-    <description><![CDATA[https://nshipster.com]]></description>
-    <link><![CDATA[https://nshipster.com/isolated-any]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nshipster.com/isolated-any]]></guid>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
