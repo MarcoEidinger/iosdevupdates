@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 31 Aug 2025 22:10:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 00:32:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Leeds]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/swiftleeds/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/swiftleeds/]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How I Use Voice and AI to Turn Messy Thoughts Into Clear Plans]]></title>
@@ -309,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@victorbaro]]></description>
     <link><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></guid>
-    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Privacy]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/privacy/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/privacy/]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
