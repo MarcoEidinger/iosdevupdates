@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Sep 2025 18:12:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 20:11:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Documentation for App Store Business Model Changes]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/01/documentation-for-app-store-business-model-changes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/01/documentation-for-app-store-business-model-changes/]]></guid>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[One Size Does Not Fit All]]></title>
+    <description><![CDATA[https://furbo.org]]></description>
+    <link><![CDATA[https://furbo.org/2025/09/01/one-size-does-not-fit-all/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/09/01/one-size-does-not-fit-all/]]></guid>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[For This Journey, and for My Future Self - Fatbobman's Swift Weekly #100]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-100/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-100/]]></guid>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Treating Warnings As Errors In Swift Packages]]></title>
+    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
+    <link><![CDATA[https://useyourloaf.com/blog/treating-warnings-as-errors-in-swift-packages/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/treating-warnings-as-errors-in-swift-packages/]]></guid>
     <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -94,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-a-mind-for-numbers-by-barbara-oakley]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/loud-letters/what-i-learned-from-a-mind-for-numbers-by-barbara-oakley]]></guid>
     <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SpotTest 1.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/08/29/spottest-1-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/08/29/spottest-1-1/]]></guid>
-    <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/8/what_is_a_color_space.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/what_is_a_color_space.html]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[FB19914338]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2025/08/26/fb19914338/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/08/26/fb19914338/]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
-    <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Open Intent in iOS 26]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Open-Intent-Additions-iOS26-In-AppIntents]]></link>
@@ -309,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></guid>
-    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Raw Identifiers]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swift-raw-identifiers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-raw-identifiers/]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -409,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[What's New in UIKit]]></title>
+    <description><![CDATA[https://sebvidal.com]]></description>
+    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI App Localization in Xcode — Easy, Scalable]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
@@ -417,11 +417,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What's New in UIKit]]></title>
-    <description><![CDATA[https://sebvidal.com]]></description>
-    <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
-    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Now]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/now/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/now/]]></guid>
+    <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
