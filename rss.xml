@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Sep 2025 12:13:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 14:10:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Pedometer++ Redesign Walkthrough]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></guid>
+    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Adapting your widgets for visionOS]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/adapting-your-widgets-for-visionos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adapting-your-widgets-for-visionos/]]></guid>
+    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WhatsApp and Instagram for iPad, Finally]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/c52a2639e58f/284-nuance]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/c52a2639e58f/284-nuance]]></guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Enhancing the tab bar with a bottom accessory]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/enhancing-the-tab-bar-with-a-bottom-accessory/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enhancing-the-tab-bar-with-a-bottom-accessory/]]></guid>
     <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/]]></guid>
-    <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Organized Views in SwiftUI]]></title>
-    <description><![CDATA[https://medium.com/@alessandromanilii]]></description>
-    <link><![CDATA[https://medium.com/@alessandromanilii/organized-views-in-swiftui-9901cc1caf64?source=rss-71ad5f0d2495------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alessandromanilii/organized-views-in-swiftui-9901cc1caf64?source=rss-71ad5f0d2495------2]]></guid>
     <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
