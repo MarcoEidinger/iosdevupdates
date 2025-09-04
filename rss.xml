@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Sep 2025 18:11:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 20:11:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Atlassian Acquires The Browser Company]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/04/atlassian-acquires-the-browser-company/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/04/atlassian-acquires-the-browser-company/]]></guid>
+    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Acorn 8.2 and macOS 26 Tahoe + Liquid Glass Plans]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/9/acorn_8.2_and_tahoe_plans.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/9/acorn_8.2_and_tahoe_plans.html]]></guid>
+    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Pedometer++ Redesign Walkthrough]]></title>
@@ -22,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.createwithswift.com/adapting-your-widgets-for-visionos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/adapting-your-widgets-for-visionos/]]></guid>
     <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WhatsApp and Instagram for iPad, Finally]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/03/whatsapp-and-instagram-for-ipad-finally/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/03/whatsapp-and-instagram-for-ipad-finally/]]></guid>
-    <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -238,14 +246,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></guid>
     <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Is a Color Space?]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/8/what_is_a_color_space.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/8/what_is_a_color_space.html]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
