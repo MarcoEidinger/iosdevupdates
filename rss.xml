@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Sep 2025 14:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 16:11:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Pedometer++ Redesign Walkthrough]]></title>
@@ -49,6 +49,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Why a 'Done List' Might Be the Productivity Tool You're Missing]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></guid>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Newsletter 284 - Nuance]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/c52a2639e58f/284-nuance]]></link>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ralfebert.com/blog/]]></description>
     <link><![CDATA[https://www.ralfebert.com/blog/moving-to-swiftui-garden/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ralfebert.com/blog/moving-to-swiftui-garden/]]></guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Dismissing View Models in SwiftUI is Stifling your App’s Maintainability and Testability (And the Proven Principles for a Better Architecture)]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></guid>
     <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
