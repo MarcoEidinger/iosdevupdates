@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Sep 2025 16:11:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 18:11:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Pedometer++ Redesign Walkthrough]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ralfebert.com/blog/]]></description>
     <link><![CDATA[https://www.ralfebert.com/blog/moving-to-swiftui-garden/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ralfebert.com/blog/moving-to-swiftui-garden/]]></guid>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why Dismissing View Models in SwiftUI is Stifling your App’s Maintainability and Testability (And the Proven Principles for a Better Architecture)]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></guid>
     <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-still-believe-that-ai-will-replace-developers-18-months-later-career-switch-90242261b310?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Good Results from Claude Code]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/]]></guid>
-    <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
