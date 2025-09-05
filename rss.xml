@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Sep 2025 18:10:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Sep 2025 20:09:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mario Guzman's Mac Layout Guidelines]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2025/9/mario_guzman_layout_guidelines.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/9/mario_guzman_layout_guidelines.html]]></guid>
+    <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Liquid Glass: The Song]]></title>
+    <description><![CDATA[https://jamesdempsey.net]]></description>
+    <link><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></guid>
+    <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[reMarkable Paper Pro Move]]></title>
@@ -38,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://brightdigit.com/tutorials/swift-build]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swift-build]]></guid>
     <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Acorn 8.2 and macOS 26 Tahoe + Liquid Glass Plans]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/9/acorn_8.2_and_tahoe_plans.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/9/acorn_8.2_and_tahoe_plans.html]]></guid>
-    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://sebvidal.com]]></description>
     <link><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://sebvidal.com/blog/whats-new-in-uikit-26/]]></guid>
-    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI App Localization in Xcode — Easy, Scalable]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
