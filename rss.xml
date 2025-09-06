@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 06 Sep 2025 08:09:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Sep 2025 10:09:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What I Learned from The Almanack of Naval Ravikant by Eric Jorgenson]]></title>
@@ -417,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Morning Code Review: Programming in 2040]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/the-morning-code-review-programming-in-2040-5706fbd3aee8?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-morning-code-review-programming-in-2040-5706fbd3aee8?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building a type-safe event system in Swift]]></title>
     <description><![CDATA[https://dev.kalhoej.com]]></description>
     <link><![CDATA[https://dev.kalhoej.com/blog/2025/events]]></link>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mobidevtalk.com/]]></description>
     <link><![CDATA[https://mobidevtalk.com/mastering-ios-app-store-submission-from-basics-to-automation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mobidevtalk.com/mastering-ios-app-store-submission-from-basics-to-automation/]]></guid>
+    <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI App Localization in Xcode — Easy, Scalable]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-app-localization-in-xcode/]]></guid>
     <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
