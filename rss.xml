@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Sep 2025 22:08:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 00:29:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SDF in Metal: Adding the Liquid to the Glass]]></title>
+    <description><![CDATA[https://medium.com/@victorbaro]]></description>
+    <link><![CDATA[https://medium.com/@victorbaro/sdf-in-metal-adding-the-liquid-to-the-glass-69abd57e2151?source=rss-11fcfb2d5448------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/sdf-in-metal-adding-the-liquid-to-the-glass-69abd57e2151?source=rss-11fcfb2d5448------2]]></guid>
+    <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Default Value in String Interpolations]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ralfebert.com/blog/]]></description>
     <link><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></guid>
+    <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating Light and Dark Mode Icons using Icon Composer]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/How-To-Make-Dark-And-Light-Mode-Icons-Different-In-Icon-Composer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/How-To-Make-Dark-And-Light-Mode-Icons-Different-In-Icon-Composer]]></guid>
     <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,26 +401,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Open Intent in iOS 26]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Open-Intent-Additions-iOS26-In-AppIntents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Open-Intent-Additions-iOS26-In-AppIntents]]></guid>
-    <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Reverse Engineering Apple's on-demand resource Asset Packs: How to Recreate .assetpack Files with Standard Unix Tools]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2025/08/18/reverse-engineering-apples-ondemand-resource.html]]></guid>
-    <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Custom SwiftUI transitions with Metal]]></title>
-    <description><![CDATA[https://medium.com/@victorbaro]]></description>
-    <link><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/custom-swiftui-transitions-with-metal-680d4e31a49b?source=rss-11fcfb2d5448------2]]></guid>
     <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
