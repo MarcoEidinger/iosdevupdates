@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Sep 2025 16:10:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 18:12:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Newsletter 285 - All rise]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/toggle-switch-a-complete-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/toggle-switch-a-complete-guide/]]></guid>
+    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Claude Code Anonymous]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/claude-code-anonymous/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/claude-code-anonymous/]]></guid>
     <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -139,16 +147,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[The Beautiful Chaos of Building Something Bigger Than Yourself]]></title>
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
-    <link><![CDATA[http://0.0.0.0:4000/blog/2025/09/06/the-beautiful-chaos-of-building-something-bigger-than-yourself]]></link>
-    <guid isPermaLink="true"><![CDATA[http://0.0.0.0:4000/blog/2025/09/06/the-beautiful-chaos-of-building-something-bigger-than-yourself]]></guid>
-    <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Live Coding Session: Building Arena]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/live-coding-session-building-arena/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/live-coding-session-building-arena/]]></guid>
+    <link><![CDATA[https://ohmyswift.com/blog/2025/09/06/the-beautiful-chaos-of-building-something-bigger-than-yourself]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/09/06/the-beautiful-chaos-of-building-something-bigger-than-yourself]]></guid>
     <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
