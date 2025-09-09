@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Sep 2025 06:14:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 08:12:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Liquid Glass sheets with NavigationStack and Form]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/LiquidGlassSheetsWithNavigationStackAndForm]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/LiquidGlassSheetsWithNavigationStackAndForm]]></guid>
+    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Commandline Access to SF Symbols]]></title>
@@ -273,6 +281,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Cupertino Ghost in the Machine: An Analysis of Xcode's New AI Assistant]]></title>
+    <description><![CDATA[https://wezzard.com/]]></description>
+    <link><![CDATA[https://wezzard.com/post/2025/08/the-cupertino-ghost-in-the-machine-9ee3]]></link>
+    <guid isPermaLink="true"><![CDATA[https://wezzard.com/post/2025/08/the-cupertino-ghost-in-the-machine-9ee3]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Turning the iPhone into a Laboratory Microscope with AI and BLE]]></title>
     <description><![CDATA[https://amin.benarieb.com/]]></description>
     <link><![CDATA[https://amin.benarieb.com/posts/iphone-laboratory-microscope-ai-ble/]]></link>
@@ -393,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Corner concentricity in SwiftUI on iOS 26]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/ConcentricRectangleInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ConcentricRectangleInSwiftUI]]></guid>
-    <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hotwire Native at Rails World]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-at-rails-world]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.krzyzanowskim.com/]]></description>
     <link><![CDATA[https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/]]></guid>
-    <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How we approach releases at Vapor]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/how-we-do-vapor-releases]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/how-we-do-vapor-releases]]></guid>
     <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
