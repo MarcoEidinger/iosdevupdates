@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Sep 2025 14:08:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 16:10:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 285 - All rise]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/669a00bd1573/285-all-rise]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/669a00bd1573/285-all-rise]]></guid>
+    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Lazy-loading views with LazyVStack in SwiftUI]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/LiquidGlassSheetsWithNavigationStackAndForm]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/LiquidGlassSheetsWithNavigationStackAndForm]]></guid>
+    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Action Abstraction]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2025/09/09/swiftui-action-abstraction.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/09/09/swiftui-action-abstraction.html]]></guid>
     <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -129,6 +145,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Live Coding Session: Building Arena]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/live-coding-session-building-arena/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/live-coding-session-building-arena/]]></guid>
+    <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[When should you use an actor?]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://www.massicotte.org/actors]]></link>
@@ -161,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 128 - Still Counting]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/128StillCounting.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/128StillCounting.html]]></guid>
-    <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Liquid Marmite]]></title>
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/liquid-marmite]]></link>
@@ -190,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></guid>
     <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Matching Strings In Unit Tests]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2025/09/03/matching-strings-in-unit-tests.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/09/03/matching-strings-in-unit-tests.html]]></guid>
-    <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -397,14 +405,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></guid>
-    <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Current AI Dev Workflow]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/optimal-ai-development-workflow/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/optimal-ai-development-workflow/]]></guid>
     <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
