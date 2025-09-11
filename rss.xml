@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Sep 2025 12:12:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Sep 2025 14:09:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Should you opt-in to Swift 6.2’s Main Actor isolation?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/]]></guid>
+    <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Displaying web content in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/displaying-web-content-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/displaying-web-content-in-swiftui/]]></guid>
+    <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[13 New Chains + WebSockets, Batching, and 1M Free Relays]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/669a00bd1573/285-all-rise]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/669a00bd1573/285-all-rise]]></guid>
-    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lazy-loading views with LazyVStack in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/lazy-loading-views-with-lazyvstack-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/lazy-loading-views-with-lazyvstack-in-swiftui/]]></guid>
     <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-viewmodel/]]></guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Debugging Swift Concurrency: “Am I on the Main Actor?” (Not the Main Thread)]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/debugging-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=debugging-swift-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/debugging-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=debugging-swift-concurrency]]></guid>
     <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
