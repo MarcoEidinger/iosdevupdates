@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Sep 2025 12:12:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 14:09:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Have You Completed Your Liquid Glass Adaptation? - Fatbobman's Swift Weekly #102]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-102/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-102/]]></guid>
+    <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Updating Sunbeam for Liquid Glass]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/newsletter/hotwire-native-at-rails-world]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/newsletter/hotwire-native-at-rails-world]]></guid>
     <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introduction to AT Protocol]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2025/08/20/introduction-to-atproto/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/08/20/introduction-to-atproto/]]></guid>
-    <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
