@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Sep 2025 18:13:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 20:09:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The many, many, many JavaScript runtimes of the last decade]]></title>
@@ -46,6 +46,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2025/09/15/lifepace_build_habits_that_last]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/09/15/lifepace_build_habits_that_last]]></guid>
     <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to manage app lifecycle events in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-app-lifecycle-events]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-app-lifecycle-events]]></guid>
+    <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></guid>
     <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding SwiftUI's liquid glass button styles]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-glass-button-style]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-glass-button-style]]></guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
