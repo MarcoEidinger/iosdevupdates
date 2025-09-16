@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Sep 2025 14:11:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Sep 2025 16:11:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Creating custom layouts with SwiftUI]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2025/09/16/dual-universe.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/09/16/dual-universe.html]]></guid>
+    <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Feature flags in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/09/16/feature-flags-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/09/16/feature-flags-in-swift]]></guid>
     <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building AI features using Foundation Models. Structured Content.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/08/26/building-ai-features-using-foundation-models-structured-content]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/08/26/building-ai-features-using-foundation-models-structured-content]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
