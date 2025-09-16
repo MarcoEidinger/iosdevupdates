@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Sep 2025 16:11:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Sep 2025 18:13:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 6.2 Released]]></title>
+    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
+    <link><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></guid>
+    <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating custom layouts with SwiftUI]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/9/the_many_many_many_javascript_runtimes_of_the_last_decade.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/9/the_many_many_many_javascript_runtimes_of_the_last_decade.html]]></guid>
-    <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Memory Integrity Enforcement]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-memory-integrity-enforcement/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-memory-integrity-enforcement/]]></guid>
     <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,14 +337,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Debugging Swift Concurrency: “Am I on the Main Actor?” (Not the Main Thread)]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/debugging-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=debugging-swift-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/debugging-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=debugging-swift-concurrency]]></guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[About]]></title>
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/about/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/yet-another-blog-rewrite/]]></guid>
     <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Fix Claude Code's Trailing Whitespace Problem for Swift]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/]]></guid>
+    <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
