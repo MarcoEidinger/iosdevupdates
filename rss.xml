@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Sep 2025 12:15:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 14:09:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to use [weak self] in Swift Concurrency Tasks?]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/how-to-use-weak-self-in-swift-concurrency-tasks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-to-use-weak-self-in-swift-concurrency-tasks/]]></guid>
+    <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Widgetsmith Five Years Later]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2025/09/18/widgetsmith-at-five]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/09/18/widgetsmith-at-five]]></guid>
+    <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting started with the Contacts framework]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/getting-started-with-the-contacts-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/getting-started-with-the-contacts-framework/]]></guid>
+    <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tahoe AppleScript Timeouts]]></title>
@@ -21,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></guid>
-    <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating custom layouts with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-custom-layouts-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-custom-layouts-with-swiftui/]]></guid>
     <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -134,14 +150,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></guid>
     <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Should you opt-in to Swift 6.2’s Main Actor isolation?]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/]]></guid>
-    <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -257,18 +265,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ConcentricRectangle and ContainerRelativeShape]]></title>
-    <description><![CDATA[https://swiftui-garden.com/]]></description>
-    <link><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></guid>
-    <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Creating Light and Dark Mode Icons using Icon Composer]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/How-To-Make-Dark-And-Light-Mode-Icons-Different-In-Icon-Composer]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/How-To-Make-Dark-And-Light-Mode-Icons-Different-In-Icon-Composer]]></guid>
+    <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ConcentricRectangle and ContainerRelativeShape]]></title>
+    <description><![CDATA[https://swiftui-garden.com/]]></description>
+    <link><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftui-garden.com/Shapes/ConcentricRectangle-and-ContainerRelativeShape]]></guid>
     <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -310,14 +318,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://brightdigit.com/tutorials/swift-build]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/swift-build]]></guid>
     <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pedometer++ Redesign Walkthrough]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/09/04/pedometer-redesign]]></guid>
-    <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
