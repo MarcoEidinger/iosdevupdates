@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 21 Sep 2025 18:09:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 20:10:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Git Stack in 2025]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/my-git-stack-in-2025-8e4c2fd47c4e?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/my-git-stack-in-2025-8e4c2fd47c4e?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Hard Mode]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></guid>
     <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Re: UIKit/AppKit-Free SwiftUI App]]></title>
-    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
-    <link><![CDATA[https://lazarevzubov.medium.com/re-uikit-appkit-free-swiftui-app-6ba599776402?source=rss-63310a0d2b01------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/re-uikit-appkit-free-swiftui-app-6ba599776402?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
