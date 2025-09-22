@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Sep 2025 14:09:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 16:11:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting the new portrait artwork from the iOS 26 Apple TV app]]></title>
+    <description><![CDATA[https://bendodson.com/weblog/]]></description>
+    <link><![CDATA[https://bendodson.com/weblog/2025/09/22/portrait-artwork-ios-26-apple-tv-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bendodson.com/weblog/2025/09/22/portrait-artwork-ios-26-apple-tv-app/]]></guid>
+    <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ Swift 6.2 Is Here - Fatbobman's Swift Weekly #103]]></title>
@@ -38,6 +46,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.neilmacy.co.uk/fiction/hard-mode]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/fiction/hard-mode]]></guid>
     <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Beyond the Digital Gatekeeper: Strategies to Make Your CV ATS-Friendly]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/beyond-the-digital-gatekeeper-strategies-to-make-your-cv-ats-friendly/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/beyond-the-digital-gatekeeper-strategies-to-make-your-cv-ats-friendly/]]></guid>
+    <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.hackingwithswift.com/articles/279/level-up-your-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/279/level-up-your-swiftui]]></guid>
     <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unintended consequences]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/08/unintended-consequences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/08/unintended-consequences/]]></guid>
-    <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Migrations: From Stone Age to AI Mastery]]></title>
-    <description><![CDATA[https://radu-ionut-dan.medium.com/]]></description>
-    <link><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://radu-ionut-dan.medium.com/xcode-migrations-from-stone-age-to-ai-mastery-33640d58eb5c?source=rss-dee343eb346a------2]]></guid>
-    <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
