@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Sep 2025 06:11:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 08:10:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Optimization: Real-world Best Practices]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/optimization/app-store-optimization-real-world-best-practices/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/app-store-optimization-real-world-best-practices/]]></guid>
+    <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Amazon to End Inventory Commingling]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></guid>
-    <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Diagnostics: Improved Debugging and User Support]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/debugging/introducing-diagnostics-improved-debugging-and-user-support/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/debugging/introducing-diagnostics-improved-debugging-and-user-support/]]></guid>
     <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
