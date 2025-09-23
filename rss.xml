@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Sep 2025 18:12:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 20:08:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Rapid Security Responses Become Background Security Improvements]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/23/rapid-security-responses-become-background-security-improvements/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/23/rapid-security-responses-become-background-security-improvements/]]></guid>
+    <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Playing a video in a SwiftUI app]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elegantchaos.com/2025/09/23/ai-toe-dipping.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/09/23/ai-toe-dipping.html]]></guid>
     <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Amazon to End Inventory Commingling]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/22/amazon-to-end-inventory-commingling/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/22/amazon-to-end-inventory-commingling/]]></guid>
-    <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
