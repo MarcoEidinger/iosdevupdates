@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 24 Sep 2025 14:07:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 16:12:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using the Observations framework to observe model properties]]></title>
@@ -190,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://david-smith.org/blog/2025/09/18/widgetsmith-at-five]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2025/09/18/widgetsmith-at-five]]></guid>
     <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift 6.2 Released]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-6-2-released/]]></guid>
-    <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/08/31/keyboardkit-10-developer-preview]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/08/31/keyboardkit-10-developer-preview]]></guid>
+    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Cupertino Ghost in the Machine: An Analysis of Xcode's New AI Assistant]]></title>
+    <description><![CDATA[https://wezzard.com/]]></description>
+    <link><![CDATA[https://wezzard.com/post/2025/08/the-cupertino-ghost-in-the-machine-9ee3]]></link>
+    <guid isPermaLink="true"><![CDATA[https://wezzard.com/post/2025/08/the-cupertino-ghost-in-the-machine-9ee3]]></guid>
     <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
