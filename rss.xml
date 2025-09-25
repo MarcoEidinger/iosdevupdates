@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Sep 2025 12:13:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Sep 2025 14:10:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Playback controls for video in a SwiftUI app]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/playback-controls-for-video-in-a-swiftui-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/playback-controls-for-video-in-a-swiftui-app/]]></guid>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Lawsuit About WhatsApp Security]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></guid>
     <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Playing a video in a SwiftUI app]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/playing-a-video-in-a-swiftui-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/playing-a-video-in-a-swiftui-app/]]></guid>
-    <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
