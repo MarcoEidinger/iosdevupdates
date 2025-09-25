@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Sep 2025 20:09:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Sep 2025 22:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Developers should not have access to eye tracking information]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></guid>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple’s Thoughts on the DMA]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/]]></guid>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Playback controls for video in a SwiftUI app]]></title>
@@ -14,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.createwithswift.com/playback-controls-for-video-in-a-swiftui-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/playback-controls-for-video-in-a-swiftui-app/]]></guid>
     <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lawsuit About WhatsApp Security]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/24/lawsuit-about-whatsapp-security/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/24/lawsuit-about-whatsapp-security/]]></guid>
-    <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></guid>
-    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building a design system at Genius Scan]]></title>
-    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
-    <link><![CDATA[https://www.swiftbysundell.com/articles/building-a-design-system-at-genius-scan]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/building-a-design-system-at-genius-scan]]></guid>
     <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
