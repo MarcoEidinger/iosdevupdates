@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 26 Sep 2025 08:11:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Sep 2025 10:09:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Secret Sauce at MacDev|360]]></title>
+    <description><![CDATA[https://alanquatermain.me]]></description>
+    <link><![CDATA[http://localhost:4000/programming/secret-sauce-macdev360]]></link>
+    <guid isPermaLink="true"><![CDATA[http://localhost:4000/programming/secret-sauce-macdev360]]></guid>
+    <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Developers should not have access to eye tracking information]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-84-spreadsheets/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-84-spreadsheets/]]></guid>
     <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I Use Voice and AI to Turn Messy Thoughts Into Clear Plans]]></title>
-    <description><![CDATA[https://pilotcoder.com]]></description>
-    <link><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/how-i-use-voice-and-ai-to-turn-messy-thoughts-into-clear-plans/]]></guid>
-    <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
