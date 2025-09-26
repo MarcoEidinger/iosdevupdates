@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 26 Sep 2025 20:10:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Sep 2025 22:07:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Tahoe’s Mac App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/26/tahoes-mac-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/26/tahoes-mac-app-store/]]></guid>
+    <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The one software tweak the iPhone Air needs]]></title>
@@ -27,8 +35,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[Secret Sauce at MacDev|360]]></title>
     <description><![CDATA[https://alanquatermain.me]]></description>
-    <link><![CDATA[http://localhost:4000/programming/secret-sauce-macdev360]]></link>
-    <guid isPermaLink="true"><![CDATA[http://localhost:4000/programming/secret-sauce-macdev360]]></guid>
+    <link><![CDATA[https://alanquatermain.me/programming/secret-sauce-macdev360]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alanquatermain.me/programming/secret-sauce-macdev360]]></guid>
     <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.elkraneo.com/]]></description>
     <link><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></guid>
-    <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple’s Thoughts on the DMA]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/]]></guid>
     <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
