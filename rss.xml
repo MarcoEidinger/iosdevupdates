@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 27 Sep 2025 14:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Sep 2025 16:11:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[GitHub-hosted copycat Mac app malware scam proliferates]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/3.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/3.html]]></guid>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ All about Swift Package Manager Traits ]]></title>
@@ -78,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/]]></guid>
     <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Safari 26 changed address bar copying]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/2.html]]></guid>
-    <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
