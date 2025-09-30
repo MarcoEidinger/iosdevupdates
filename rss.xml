@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Sep 2025 20:10:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Sep 2025 22:09:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Teaser for upcoming Claude Code posts]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/]]></guid>
+    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[URL/NSURL double-encodes characters unnecessarily]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></guid>
+    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Explaining Regex Locally With Xcode]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/09/30/explaining-regex-locally-with-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/30/explaining-regex-locally-with-xcode/]]></guid>
+    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Presenting critical information in SwiftUI with alerts]]></title>
@@ -41,26 +65,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS 26.0.1 and iPadOS 26.0.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/29/ios-26-0-1-and-ipados-26-0-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/29/ios-26-0-1-and-ipados-26-0-1/]]></guid>
-    <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The File Importer in SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-file-importer-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-file-importer-in-swiftui/]]></guid>
-    <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Safari 26 advanced fingerprinting protection: A confusing feature]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/4.html]]></guid>
     <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.massicotte.org/actors]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/actors]]></guid>
     <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Liquid Glass: The Song]]></title>
-    <description><![CDATA[https://jamesdempsey.net]]></description>
-    <link><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></guid>
-    <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
