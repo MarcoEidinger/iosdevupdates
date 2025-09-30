@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Sep 2025 16:11:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Sep 2025 18:12:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Presenting critical information in SwiftUI with alerts]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></guid>
+    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #14: Antoine van Der Lee]]></title>
+    <description><![CDATA[https://swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-antoine]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-antoine]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2025/09/19/localization-troubles-with-swift-pm/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/09/19/localization-troubles-with-swift-pm/]]></guid>
-    <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hidden Gems in the Swift Argument Parser - Part II]]></title>
-    <description><![CDATA[https://swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/argument-parser-gems-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/argument-parser-gems-2]]></guid>
     <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
