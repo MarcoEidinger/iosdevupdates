@@ -6,21 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Sep 2025 14:08:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Sep 2025 16:11:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Presenting critical information in SwiftUI with alerts]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></guid>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[In case I’m not writing anymore]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2025/09/30/in-case-im-not-writing-anymore]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/09/30/in-case-im-not-writing-anymore]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></link>
     <guid isPermaLink="true"><![CDATA[https://jamesdempsey.net/2025/09/05/liquid-glass-the-song]]></guid>
     <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why a 'Done List' Might Be the Productivity Tool You're Missing]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/the-power-of-a-done-list/]]></guid>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
