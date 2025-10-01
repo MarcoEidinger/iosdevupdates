@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 Oct 2025 20:10:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Oct 2025 22:08:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[UK Again Wants iCloud Backdoor]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/10/01/uk-again-wants-icloud-backdoor/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/01/uk-again-wants-icloud-backdoor/]]></guid>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[LucaP ERP 12: Transitioning for Persistence with SwiftData]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/10/ask-claude-code-to-fix-ci/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/10/ask-claude-code-to-fix-ci/]]></guid>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Manim]]></title>
+    <description><![CDATA[https://nshipster.com]]></description>
+    <link><![CDATA[https://nshipster.com/manim]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nshipster.com/manim]]></guid>
     <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></guid>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Explaining Regex Locally With Xcode]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/09/30/explaining-regex-locally-with-xcode/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/09/30/explaining-regex-locally-with-xcode/]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swift-default-value-in-string-interpolations/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swift-default-value-in-string-interpolations/]]></guid>
-    <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using z.ai with Claude Code for Cheaper]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/using-z-ai-with-claude-code-for-cheaper]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/using-z-ai-with-claude-code-for-cheaper]]></guid>
     <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
