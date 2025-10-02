@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 02 Oct 2025 12:12:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Oct 2025 14:12:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Implementing draw animations for SF Symbols in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/implementing-draw-animations-for-sf-symbols-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-draw-animations-for-sf-symbols-in-swiftui/]]></guid>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[UK Again Wants iCloud Backdoor]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></guid>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Presenting critical information in SwiftUI with alerts]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/presenting-critical-information-in-swiftui-with-alerts/]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
