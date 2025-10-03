@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 02 Oct 2025 22:09:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Oct 2025 00:27:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Export a Mac .icon File With the Proper Margins]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/10/02/how-to-export-a-mac-icon-file-with-the-proper-margins/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/02/how-to-export-a-mac-icon-file-with-the-proper-margins/]]></guid>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Celebrating 250(+) Public GitHub Repositories]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.createwithswift.com/implementing-draw-animations-for-sf-symbols-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-draw-animations-for-sf-symbols-in-swiftui/]]></guid>
     <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[UK Again Wants iCloud Backdoor]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/10/01/uk-again-wants-icloud-backdoor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/01/uk-again-wants-icloud-backdoor/]]></guid>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
