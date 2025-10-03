@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 03 Oct 2025 10:11:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Oct 2025 12:13:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[LLM + MCP Use Case: GitHub Actions Workflow Updates]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/]]></guid>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[First Impressions of macOS 26]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/10/02/how-to-export-a-mac-icon-file-with-the-proper-margins/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/02/how-to-export-a-mac-icon-file-with-the-proper-margins/]]></guid>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Celebrating 250(+) Public GitHub Repositories]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/10/celebrating-250-public-github-repositories/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/10/celebrating-250-public-github-repositories/]]></guid>
     <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
