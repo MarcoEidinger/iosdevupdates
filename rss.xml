@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Oct 2025 14:09:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 16:12:29 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sora 2: A Great Model, but Not Necessarily a Great Business - Fatbobman's Swift Weekly #105]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/now/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/now/]]></guid>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Work At Your Spikes]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/work-at-your-spikes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/work-at-your-spikes/]]></guid>
     <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2025/09/iphone-air-macro-need/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/09/iphone-air-macro-need/]]></guid>
-    <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Floating On]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/floating-on/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/floating-on/]]></guid>
     <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
