@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Oct 2025 12:13:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 14:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Sora 2: A Great Model, but Not Necessarily a Great Business - Fatbobman's Swift Weekly #105]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></guid>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[👩‍🔬 Testing Swift CLI Tools with GitHub Actions 🧪]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/2025/claude-code-anonymous/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/claude-code-anonymous/]]></guid>
-    <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Accessibility Review drop in session]]></title>
-    <description><![CDATA[https://rwapp.co.uk/]]></description>
-    <link><![CDATA[https://www.rwapp.co.uk/blog/swift-leeds-ax-review]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.rwapp.co.uk/blog/swift-leeds-ax-review]]></guid>
     <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
