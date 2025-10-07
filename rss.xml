@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 Oct 2025 10:10:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 12:12:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The 5 biggest mistakes iOS Developers make with async/await]]></title>
@@ -86,6 +86,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/work-at-your-spikes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/work-at-your-spikes/]]></guid>
     <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to add custom actions to iOS push and local notifications in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-notifications-custom-actions]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-notifications-custom-actions]]></guid>
+    <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments]]></guid>
     <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Structuring universal links in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-navigation-universal-links-architecture]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-navigation-universal-links-architecture]]></guid>
-    <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
