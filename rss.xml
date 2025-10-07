@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 Oct 2025 12:12:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 14:08:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bridging AI Agents and Blockchains with MCP]]></title>
+    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></guid>
+    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Performing search with SwiftData in a SwiftUI app]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/performing-search-with-swiftdata-in-a-swiftui-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/performing-search-with-swiftdata-in-a-swiftui-app/]]></guid>
+    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The 5 biggest mistakes iOS Developers make with async/await]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/concurrency/the-5-biggest-mistakes-ios-developers-make-with-async-await/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/the-5-biggest-mistakes-ios-developers-make-with-async-await/]]></guid>
+    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Evolving AltStore PAL]]></title>
+    <description><![CDATA[https://rileytestut.com/blog/]]></description>
+    <link><![CDATA[http://rileytestut.com/blog/2025/10/07/evolving-altstore-pal]]></link>
+    <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2025/10/07/evolving-altstore-pal]]></guid>
     <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alanquatermain.me]]></description>
     <link><![CDATA[https://alanquatermain.me/programming/technology/interactive-fiction-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://alanquatermain.me/programming/technology/interactive-fiction-in-swift]]></guid>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Programmatic navigation with navigation destination in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/programmatic-navigation-with-navigation-destination-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/programmatic-navigation-with-navigation-destination-in-swiftui/]]></guid>
     <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></guid>
     <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[13 New Chains + WebSockets, Batching, and 1M Free Relays]]></title>
-    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/decentralized-infrastructure/13-new-chains-websockets-batching-and-1m-free-relays-5391ecc08056?source=rss-d59564ad49f6------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/13-new-chains-websockets-batching-and-1m-free-relays-5391ecc08056?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[We Need to Talk About Observation]]></title>
-    <description><![CDATA[https://jaredsinclair.com/]]></description>
-    <link><![CDATA[https://jaredsinclair.com/2025/09/10/observation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jaredsinclair.com/2025/09/10/observation]]></guid>
-    <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
