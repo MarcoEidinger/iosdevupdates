@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 Oct 2025 14:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 16:10:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 289 - Expectations]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/57b5abe677ec/289-expectations]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/57b5abe677ec/289-expectations]]></guid>
+    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Bridging AI Agents and Blockchains with MCP]]></title>
@@ -69,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></guid>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Toggle with Dynamic Image Overlay]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/swiftui-toggle-with-dynamic-image-overlay/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swiftui-toggle-with-dynamic-image-overlay/]]></guid>
     <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://shapeof.com/archives/2025/9/the_many_many_many_javascript_runtimes_of_the_last_decade.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/9/the_many_many_many_javascript_runtimes_of_the_last_decade.html]]></guid>
     <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updating Sunbeam for Liquid Glass]]></title>
-    <description><![CDATA[https://richardj.org]]></description>
-    <link><![CDATA[https://richardj.org/2025/09/15/updating-sunbeam-for-liquid-glass/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://richardj.org/2025/09/15/updating-sunbeam-for-liquid-glass/]]></guid>
-    <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Turn Your Photos Into Miniature Magic with Nano Banana]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2025/gemini-nano-banana-ios/]]></guid>
-    <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
