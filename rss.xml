@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Oct 2025 06:11:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Oct 2025 08:11:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Detecting Text Language with NLLanguageRecognizer in Swift]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swift/detecting-text-language-with-nllanguagerecognizer-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/detecting-text-language-with-nllanguagerecognizer-in-swift/]]></guid>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Prompting software or supporting engineering]]></title>
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-105/]]></guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Toggle with Dynamic Image Overlay]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/swiftui-toggle-with-dynamic-image-overlay/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swiftui-toggle-with-dynamic-image-overlay/]]></guid>
     <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
