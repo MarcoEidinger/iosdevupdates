@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Oct 2025 16:09:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Oct 2025 18:09:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[10 Game-Changing Claude Code Tips That Will Increase Your Productivity]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/10-game-changing-claude-code-tips-that-will-increase-your-productivity-a00a4954dae7?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/10-game-changing-claude-code-tips-that-will-increase-your-productivity-a00a4954dae7?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftLeeds - Questions &amp; Answers]]></title>
@@ -430,14 +438,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/09/22/scale]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/09/22/scale]]></guid>
     <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Git Stack in 2025]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/my-git-stack-in-2025-8e4c2fd47c4e?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/my-git-stack-in-2025-8e4c2fd47c4e?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
