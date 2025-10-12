@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 12 Oct 2025 12:12:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Oct 2025 14:08:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Yabancı Çalışanlarla Uygulama Yazılım Süreci]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[10 Game-Changing Claude Code Tips That Will Increase Your Productivity]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2025/09/20/lifepace_1_1]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/09/20/lifepace_1_1]]></guid>
     <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Localization troubles with Swift PM]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2025/09/19/localization-troubles-with-swift-pm/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2025/09/19/localization-troubles-with-swift-pm/]]></guid>
-    <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
