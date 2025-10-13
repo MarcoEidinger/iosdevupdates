@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 12 Oct 2025 22:09:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 00:29:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Clips Discontinued]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/10/12/clips-discontinued/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/12/clips-discontinued/]]></guid>
+    <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Cultivated Task Cancellation]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2025/10/11/swiftleeds-questions-and-answers]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/10/11/swiftleeds-questions-and-answers]]></guid>
     <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Evolution of Apple Security Bounty Program]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/10/10/evolution-of-apple-security-bounty-program/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/10/evolution-of-apple-security-bounty-program/]]></guid>
-    <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
