@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 Oct 2025 12:15:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 14:09:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Image caching in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/image-caching-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/image-caching-in-swiftui/]]></guid>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Swift Migration Tooling Matters]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/concurrency/swift-migration-tooling-upcoming-swift-features/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-migration-tooling-upcoming-swift-features/]]></guid>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Joining Wealthsimple]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/joining-wealthsimple/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/joining-wealthsimple/]]></guid>
     <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -129,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building for Love: Creating Authentic Connections]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/building-for-love-creating-authentic-connections/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/building-for-love-creating-authentic-connections/]]></guid>
-    <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[LLMs and reinforcement learning]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/10/llms-and-reinforcement-learning/]]></link>
@@ -165,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swift/detecting-text-language-with-nllanguagerecognizer-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/detecting-text-language-with-nllanguagerecognizer-in-swift/]]></guid>
-    <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Eleventy Launch]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/eleventy-launch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/eleventy-launch/]]></guid>
     <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
