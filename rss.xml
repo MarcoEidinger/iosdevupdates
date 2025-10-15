@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 Oct 2025 14:10:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Oct 2025 16:11:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[GitHub Copilot and Unhonored Branch Protection]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2025/10/github-copilot-and-unhonored-branch-protection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/10/github-copilot-and-unhonored-branch-protection/]]></guid>
+    <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Show icons only in SwiftUI swipe actions on iOS 26]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/10/14/neo-network-utility-2-0/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/14/neo-network-utility-2-0/]]></guid>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 290 - 1492]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/9f64a2c9ae5b/290-1492]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/9f64a2c9ae5b/290-1492]]></guid>
     <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
