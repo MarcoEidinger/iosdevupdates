@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Oct 2025 12:17:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Oct 2025 14:11:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting Started with Multipeer Connectivity in Swift]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/getting-started-with-multipeer-connectivity-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/getting-started-with-multipeer-connectivity-in-swift/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Dangers of Mixing Locks with Core Data]]></title>
@@ -17,10 +25,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using rich text in the TextEditor with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/using-rich-text-in-the-texteditor-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/using-rich-text-in-the-texteditor-with-swiftui/]]></guid>
+    <title><![CDATA[Caveat Emptor]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2025/10/17/caveat-emptor.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/17/caveat-emptor.html]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 290 - 1492]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/9f64a2c9ae5b/290-1492]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/9f64a2c9ae5b/290-1492]]></guid>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Just Talk To It - the no-bs Way of Agentic Engineering]]></title>
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/just-talk-to-it/]]></link>
@@ -141,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/joining-wealthsimple/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/joining-wealthsimple/]]></guid>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Release Tools Tagging]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2025/10/14/rt-tagging.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/14/rt-tagging.html]]></guid>
     <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-observations-to-observe-observable-model-properties/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-observations-to-observe-observable-model-properties/]]></guid>
+    <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Decode ISO 8601 date format with fractional seconds in Swift]]></title>
+    <description><![CDATA[https://medium.com/@andr3a88]]></description>
+    <link><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></guid>
     <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
