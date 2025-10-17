@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Oct 2025 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Oct 2025 12:17:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Dangers of Mixing Locks with Core Data]]></title>
+    <description><![CDATA[https://pilotcoder.com]]></description>
+    <link><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using rich text in the TextEditor with SwiftUI]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/using-observations-to-observe-observable-model-properties/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/using-observations-to-observe-observable-model-properties/]]></guid>
-    <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Decode ISO 8601 date format with fractional seconds in Swift]]></title>
-    <description><![CDATA[https://medium.com/@andr3a88]]></description>
-    <link><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/decode-iso-8601-date-format-with-fractional-seconds-in-swift-3c6750491bdd?source=rss-520fb01db98d------2]]></guid>
     <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
