@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Oct 2025 20:10:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 22:08:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[I Want My 3D Movies — Paramount Has Removed 3D Movie Assets From the Canadian iTunes Store]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/10/19/adding-dsyms-from-a-closed-source-sdk-to-your-app]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/10/19/adding-dsyms-from-a-closed-source-sdk-to-your-app]]></guid>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Singletons with Swift Concurrency]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://www.massicotte.org/singletons]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/singletons]]></guid>
     <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://theswiftdev.com/]]></description>
     <link><![CDATA[https://theswiftdev.com/2025/all-about-swift-package-manager-traits/]]></link>
     <guid isPermaLink="true"><![CDATA[https://theswiftdev.com/2025/all-about-swift-package-manager-traits/]]></guid>
-    <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building SyntaxKit with AI: A Developer's Journey]]></title>
-    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
-    <link><![CDATA[https://brightdigit.com/tutorials/syntaxkit-swift-code-generation]]></link>
-    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/syntaxkit-swift-code-generation]]></guid>
     <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
