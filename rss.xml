@@ -6,21 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Oct 2025 14:08:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 16:11:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Transforming Glass Views with the glassEffectID in SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></guid>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[LeetCode Blind 75: Valid Parentheses]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-parentheses/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-parentheses/]]></guid>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Trip to the Apple Store for Repairs - Fatbobman's Swift Weekly #107]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></guid>
-    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[LeetCode Blind 75: Valid Anagram]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-anagram/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-anagram/]]></guid>
     <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ or  Xcode 26 — State of the Major features, bugs, crashes (with fixes)]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/or-xcode-26-state-of-the-major-features-bugs-crashes-with-fixes-c3aa66d65dc2?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/or-xcode-26-state-of-the-major-features-bugs-crashes-with-fixes-c3aa66d65dc2?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I ran one Ruby app on three SQL databases for six months]]></title>
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2025/10/15/three-bases-one-app/]]></link>
@@ -297,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Yabancı Çalışanlarla Uygulama Yazılım Süreci]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[LLMs and reinforcement learning]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/10/llms-and-reinforcement-learning/]]></link>
@@ -326,14 +318,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://snopia.net/en/blog/more-accessible-networkkit]]></link>
     <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/more-accessible-networkkit]]></guid>
     <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bridging AI Agents and Blockchains with MCP]]></title>
-    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -465,19 +449,35 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The File Importer in SwiftUI]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-file-importer-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/the-file-importer-in-swiftui/]]></guid>
-    <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Foundation Models profiling with Xcode Instruments]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/foundation-models-profiling-with-xcode-instruments]]></guid>
     <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ All about Swift Package Manager Traits ]]></title>
+    <description><![CDATA[https://theswiftdev.com/]]></description>
+    <link><![CDATA[https://theswiftdev.com/2025/all-about-swift-package-manager-traits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://theswiftdev.com/2025/all-about-swift-package-manager-traits/]]></guid>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building SyntaxKit with AI: A Developer's Journey]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/syntaxkit-swift-code-generation]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/syntaxkit-swift-code-generation]]></guid>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The one software tweak the iPhone Air needs]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2025/09/iphone-air-macro-need/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2025/09/iphone-air-macro-need/]]></guid>
+    <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
