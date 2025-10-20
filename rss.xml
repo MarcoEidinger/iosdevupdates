@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Oct 2025 10:16:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 12:15:33 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[LeetCode Blind 75: Contains Duplicate]]></title>
+    <title><![CDATA[LeetCode Blind 75: Valid Anagram]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-contains-duplicate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-contains-duplicate/]]></guid>
+    <link><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-anagram/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/dsa/leetcode-blind-75-valid-anagram/]]></guid>
     <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -21,6 +21,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AddACloseButtonToSwiftUIModalsOnIOS26]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AddACloseButtonToSwiftUIModalsOnIOS26]]></guid>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[When Not to Delegate to LLMs]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/when-not-to-delegate-to-llms/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/when-not-to-delegate-to-llms/]]></guid>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Valkey Swift Package: from Local to Serverless]]></title>
+    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/valkey-package]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/valkey-package]]></guid>
     <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Qualcomm Acquires Arduino: The Wheel of History Turns - Fatbobman's Swift Weekly #106]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-106/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-106/]]></guid>
-    <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iPhone 17 Screen Sizes]]></title>
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/iphone-17-screen-sizes/]]></link>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.polpiella.dev]]></description>
     <link><![CDATA[https://polpiella.dev/metal-toolchain-ci-cd/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/metal-toolchain-ci-cd/]]></guid>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dev Conversations #14: Antoine van Der Lee]]></title>
-    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/dc-antoine]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-antoine]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
