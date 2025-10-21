@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 21 Oct 2025 06:13:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 08:11:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Architecture: Structure Views for Reusability and Clarity]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/]]></guid>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AWS Outage]]></title>
@@ -265,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why Swift Migration Tooling Matters]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/swift-migration-tooling-upcoming-swift-features/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-migration-tooling-upcoming-swift-features/]]></guid>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Joining Wealthsimple]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/joining-wealthsimple/]]></link>
@@ -441,6 +441,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[AsyncCombine: Because Async Code Shouldn’t Be Ugly]]></title>
+    <description><![CDATA[http://lumley.io/blogs/]]></description>
+    <link><![CDATA[https://lumley.io/blogs/async-combine/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/async-combine/]]></guid>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Manim]]></title>
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/manim]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://polpiella.dev/metal-toolchain-ci-cd/]]></link>
     <guid isPermaLink="true"><![CDATA[https://polpiella.dev/metal-toolchain-ci-cd/]]></guid>
     <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Bharat – The conference like never before in India]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2025/09/swift-bharat-the-conference-like-never-before-in-india/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2025/09/swift-bharat-the-conference-like-never-before-in-india/]]></guid>
-    <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
