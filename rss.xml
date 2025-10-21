@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 21 Oct 2025 12:13:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 14:10:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Integrating Device Camera in SwiftUI Apps]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/integrating-device-camera-in-swiftui-apps/]]></guid>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Gauge vs ProgressView vs Slider in SwiftUI]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/134Skiffle.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/134Skiffle.html]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Started with Multipeer Connectivity in Swift]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/getting-started-with-multipeer-connectivity-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/getting-started-with-multipeer-connectivity-in-swift/]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
