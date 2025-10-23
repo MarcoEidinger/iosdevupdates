@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 23 Oct 2025 06:11:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 08:10:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ChatGPT Atlas]]></title>
@@ -401,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Now]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/now/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/now/]]></guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why NetNewsWire Is Not a Web App]]></title>
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html]]></link>
@@ -458,7 +458,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 <item>
     <title><![CDATA[AsyncCombine: Because Async Code Shouldn’t Be Ugly]]></title>
-    <description><![CDATA[http://lumley.io/blogs/]]></description>
+    <description><![CDATA[https://lumley.io/blogs/]]></description>
     <link><![CDATA[https://lumley.io/blogs/async-combine/]]></link>
     <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/async-combine/]]></guid>
     <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
