@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 23 Oct 2025 18:11:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 20:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[General Motors Doubles Down on Removing CarPlay]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/10/23/general-motors-doubles-down-on-removing-carplay/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/23/general-motors-doubles-down-on-removing-carplay/]]></guid>
+    <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Notes]]></title>
@@ -14,14 +22,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ChatGPT Atlas]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/10/22/chatgpt-atlas/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/10/22/chatgpt-atlas/]]></guid>
-    <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
