@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 Oct 2025 16:10:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 18:12:03 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 135 - Columns]]></title>
@@ -469,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lumley.io/blogs/]]></description>
     <link><![CDATA[https://lumley.io/blogs/async-combine/]]></link>
     <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/async-combine/]]></guid>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Manim]]></title>
-    <description><![CDATA[https://nshipster.com]]></description>
-    <link><![CDATA[https://nshipster.com/manim]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nshipster.com/manim]]></guid>
     <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
