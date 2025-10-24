@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 23 Oct 2025 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 00:26:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[General Motors Doubles Down on Removing CarPlay]]></title>
@@ -109,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></guid>
-    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Trip to the Apple Store for Repairs - Fatbobman's Swift Weekly #107]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></guid>
     <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.vbutko.com/articles/how-to-use-optionset-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.vbutko.com/articles/how-to-use-optionset-in-swift]]></guid>
     <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[URL/NSURL double-encodes characters unnecessarily]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/9/5.html]]></guid>
+    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
