@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Oct 2025 10:10:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 12:13:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Build performance analysis for speeding up Xcode builds]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/optimization/analysing-build-performance-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/analysing-build-performance-xcode/]]></guid>
+    <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to fix truncated text in SwiftUI]]></title>
@@ -161,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI Architecture: Structure Views for Reusability and Clarity]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-architecture-structure-views-for-reusability-and-clarity/]]></guid>
-    <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Is SwiftData incompatible with MVVM? The standard answer betrays a deep misunderstanding of 3 key principles that drive SwiftUI’s architecture]]></title>
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftdata-mvvm/]]></link>
@@ -181,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/transforming-glass-views-with-the-glasseffectid-modifier-in-swiftui/]]></guid>
-    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Trip to the Apple Store for Repairs - Fatbobman's Swift Weekly #107]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-107/]]></guid>
     <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://harshil.net/]]></description>
     <link><![CDATA[https://harshil.net/blog/swiftui-placeholder-jank]]></link>
     <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/swiftui-placeholder-jank]]></guid>
+    <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build a Smart App with Apple Intelligence]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-smart-app-with-apple-intelligence-wwdc25]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/build-a-smart-app-with-apple-intelligence-wwdc25]]></guid>
     <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
