@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Oct 2025 04:16:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 06:14:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Cross-Platform vs AI: The Changing Economics of Mobile Development]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/blog/cross-platform-vs-ai-the-changing-economics-of-mobile-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/cross-platform-vs-ai-the-changing-economics-of-mobile-development/]]></guid>
+    <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[🎸 2025 Music #8]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://damian.fyi]]></description>
     <link><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></guid>
-    <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Custom Progress Indicator with SwiftUI Symbol Effects]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/custom-progress-indicator-with-swiftui-symbol-effects/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/custom-progress-indicator-with-swiftui-symbol-effects/]]></guid>
     <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
