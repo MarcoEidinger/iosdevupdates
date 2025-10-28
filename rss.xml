@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Oct 2025 12:15:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 14:09:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Text Effects using TextRenderer in SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/text-effects-using-textrenderer-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/text-effects-using-textrenderer-in-swiftui/]]></guid>
+    <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Tool for Working with Git Worktrees]]></title>
@@ -137,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Exploring Widgets: Crafting glanceable experiences]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/exploring-widgets-crafting-glanceable-experiences/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/exploring-widgets-crafting-glanceable-experiences/]]></guid>
-    <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Power-Up SwiftUI Form Validation with Key Paths]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/10/24/power-up-swiftui-form-validation-with-key-paths]]></link>
@@ -201,7 +201,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is SwiftData incompatible with MVVM? The standard answer betrays a deep misunderstanding of 3 key principles that drive SwiftUI’s architecture]]></title>
+    <title><![CDATA[Is SwiftData incompatible with MVVM? The standard answer disregards some key principles driving SwiftUI’s architecture]]></title>
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftdata-mvvm/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftdata-mvvm/]]></guid>
