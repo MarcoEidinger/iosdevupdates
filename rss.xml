@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Oct 2025 20:10:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 22:08:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[One Week with Vision Pro M5]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Past, Present, and Future of AI Workshops with @mergesort]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></guid>
     <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your First Claude Skill]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/10/17/your-first-claude-skill/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/10/17/your-first-claude-skill/]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
