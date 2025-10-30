@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Oct 2025 18:13:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 20:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[One Week with Vision Pro M5]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Liquid Glass: Redefining design through Hierarchy, Harmony and Consistency]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-8-better-days]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/music/2025/2025-album-8-better-days]]></guid>
-    <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Selling An Apple Vision Pro: A Practical Guide]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/selling-an-apple-vision-pro-a-practical-guide/?utm_source=rss&utm_medium=rss&utm_campaign=selling-an-apple-vision-pro-a-practical-guide]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/selling-an-apple-vision-pro-a-practical-guide/?utm_source=rss&utm_medium=rss&utm_campaign=selling-an-apple-vision-pro-a-practical-guide]]></guid>
     <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
