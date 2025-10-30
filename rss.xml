@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Oct 2025 14:09:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 16:10:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Liquid Glass: Redefining design through Hierarchy, Harmony and Consistency]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Turning a Menu into a Mini Settings Panel in SwiftUI]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/turning-a-menu-into-a-mini-settings-panel-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/turning-a-menu-into-a-mini-settings-panel-in-swiftui/]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Storage]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #15: Pierluigi Cifani]]></title>
+    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></guid>
     <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2025/10/28/workaround-how-to-silence-deprecation-warnings-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/10/28/workaround-how-to-silence-deprecation-warnings-in-swift/]]></guid>
-    <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Text Effects using TextRenderer in SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/text-effects-using-textrenderer-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/text-effects-using-textrenderer-in-swiftui/]]></guid>
     <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -249,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Valkey Swift Package: from Local to Serverless]]></title>
-    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/valkey-package]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/valkey-package]]></guid>
-    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Task Cancellation Handlers]]></title>
     <description><![CDATA[https://macguru.dev/]]></description>
     <link><![CDATA[https://macguru.dev/task-cancellation-handlers/]]></link>
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Caveat Emptor]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2025/10/17/caveat-emptor.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/17/caveat-emptor.html]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
