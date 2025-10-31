@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 31 Oct 2025 18:12:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 20:10:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Combined Affinity Studio Now Free]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/five-years-in-new-brunswick/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/five-years-in-new-brunswick/]]></guid>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Problem With Combine Annotations]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://www.massicotte.org/combine-annotations]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/combine-annotations]]></guid>
     <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2025/10/25/secret-xcode-docs-for-claude-code-sosumi-mcp/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/10/25/secret-xcode-docs-for-claude-code-sosumi-mcp/]]></guid>
-    <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Concurrency Step-by-Step: Conforming to Protocols]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/step-by-step-conforming-to-protocols]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/step-by-step-conforming-to-protocols]]></guid>
     <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
