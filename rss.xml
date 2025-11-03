@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Nov 2025 14:10:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 16:10:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[You can still just do things]]></title>
+    <description><![CDATA[https://raulriera.medium.com/]]></description>
+    <link><![CDATA[https://raulriera.medium.com/you-can-still-just-do-things-c2ec465e2677?source=rss-8501090bb2de------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/you-can-still-just-do-things-c2ec465e2677?source=rss-8501090bb2de------2]]></guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dangerous but Fortunate — Twice! - Fatbobman's Swift Weekly #109]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-109/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-109/]]></guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Debugging an Xcodebuild hang, when the Swift compiler gets stuck]]></title>
+    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2025/debugging-xcodebuild-hang-swift-compiler-stuck/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2025/debugging-xcodebuild-hang-swift-compiler-stuck/]]></guid>
     <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/bridging-ai-agents-and-blockchains-with-mcp-ced8a65c5207?source=rss-d59564ad49f6------2]]></guid>
     <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Evolving AltStore PAL]]></title>
-    <description><![CDATA[https://rileytestut.com/blog/]]></description>
-    <link><![CDATA[http://rileytestut.com/blog/2025/10/07/evolving-altstore-pal]]></link>
-    <guid isPermaLink="true"><![CDATA[http://rileytestut.com/blog/2025/10/07/evolving-altstore-pal]]></guid>
-    <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Everything That Happened at OpenAI DevDay 2025 (And Why It Matters to You)]]></title>
-    <description><![CDATA[https://www.stphndxn.com/]]></description>
-    <link><![CDATA[https://www.stphndxn.com/everything-that-happened-at-openai-devday-2025-and-why-it-matters-to-you/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/everything-that-happened-at-openai-devday-2025-and-why-it-matters-to-you/]]></guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
