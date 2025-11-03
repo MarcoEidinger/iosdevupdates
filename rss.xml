@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Nov 2025 04:16:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 06:17:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Issue 086: Borland]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-86-borland/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-86-borland/]]></guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New Xcode Project - "Untitled" tvOS app]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://www.stphndxn.com/everything-that-happened-at-openai-devday-2025-and-why-it-matters-to-you/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/everything-that-happened-at-openai-devday-2025-and-why-it-matters-to-you/]]></guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Tahoe Electron Detector]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2025/10/06/tahoe-electron-detector/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2025/10/06/tahoe-electron-detector/]]></guid>
     <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
