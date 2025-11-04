@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Nov 2025 22:10:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 00:27:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Numerology: 17 Years in the App Store (Part 2)]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-2/]]></guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Web Version of the App Store]]></title>
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/]]></guid>
-    <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Healthcare for the Self-Employed or Unemployed (and to preserve your sanity)]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/crowdhealth/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/crowdhealth/]]></guid>
     <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
