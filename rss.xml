@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Nov 2025 06:12:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 08:14:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Backing up my repositories to self-hosted Gitea]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></guid>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 26.1]]></title>
@@ -134,6 +142,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tanaschita.com/swift-async-task-vs-task-detached]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-async-task-vs-task-detached]]></guid>
     <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 136 - Profits]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/136Profits.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/136Profits.html]]></guid>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -281,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 135 - Columns]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/135Columns.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/135Columns.html]]></guid>
-    <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Power-Up SwiftUI Form Validation with Key Paths]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2025/10/24/power-up-swiftui-form-validation-with-key-paths]]></link>
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I used to like software development... but not anymore]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/i-used-to-like-software-development-but-not-anymore/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-used-to-like-software-development-but-not-anymore/]]></guid>
-    <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
