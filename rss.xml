@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Nov 2025 18:11:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 20:10:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A deep dive into Collections, Sequences, and Iterators in Swift]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></guid>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Cleanup for "Untitled" tvOS App]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/cleanup-for-untitled-tvos-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/cleanup-for-untitled-tvos-app/]]></guid>
     <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/how-can-i-look-for-changes-in-a-large-binary-file-on-a-site/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/how-can-i-look-for-changes-in-a-large-binary-file-on-a-site/]]></guid>
-    <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MVP for "Untitled" tvOS App]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/mvp-for-untitled-tvos-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/mvp-for-untitled-tvos-app/]]></guid>
     <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
