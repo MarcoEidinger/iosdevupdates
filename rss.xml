@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Nov 2025 22:10:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Nov 2025 00:28:27 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[NetNewsWire 6.2: RSS Plus Markdown]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/self-hosted-gitea-backup/]]></guid>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Accessibility Inspector in Your Terminal]]></title>
+    <description><![CDATA[https://ldomaradzki.com]]></description>
+    <link><![CDATA[https://ldomaradzki.com/blog/xctree-accessibility-cli]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ldomaradzki.com/blog/xctree-accessibility-cli]]></guid>
     <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.mobilesystemdesign.com/blog/mobile-testing-strategies/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/mobile-testing-strategies/]]></guid>
     <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Yabancı Çalışanlarla Uygulama Yazılım Süreci]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/yabanc%C4%B1-%C3%A7al%C4%B1%C5%9Fanlarla-uygulama-yaz%C4%B1l%C4%B1m-s%C3%BCreci-60be70052d2b?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
