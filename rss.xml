@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 07 Nov 2025 14:10:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 16:11:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 137 - Language]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/137Language.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/137Language.html]]></guid>
+    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Smoothly Switching Between Layouts in SwiftUI with AnyLayout]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/smoothly-switching-between-layouts-in-swiftui-with-anylayout/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/smoothly-switching-between-layouts-in-swiftui-with-anylayout/]]></guid>
+    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating Ornaments in visionOS]]></title>
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Turning a Menu into a Mini Settings Panel in SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/turning-a-menu-into-a-mini-settings-panel-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/turning-a-menu-into-a-mini-settings-panel-in-swiftui/]]></guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Storage]]></title>
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/new-store]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/new-store]]></guid>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automatically Copy macOS Screenshot Path for Claude Code]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/automatically-copy-macos-screenshot-path-for-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/automatically-copy-macos-screenshot-path-for-claude-code]]></guid>
     <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
