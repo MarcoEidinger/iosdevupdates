@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 08 Nov 2025 20:08:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 22:07:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AlfredSwitchWindows now supports Ghostty tabs]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/]]></guid>
+    <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[That One]]></title>
@@ -310,14 +318,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></guid>
     <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[#latergram: Wild Birds at the Detroit Zoo, April 2024]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/]]></guid>
-    <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
