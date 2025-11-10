@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Nov 2025 18:12:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 20:10:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Thanks for Under the Radar]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/]]></guid>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Numerology: 17 Years in the App Store (Part 3)]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://dimsumthinking.com/Blog/2025/11/08-ThatOne.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Blog/2025/11/08-ThatOne.html]]></guid>
     <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Acorn 8.3 With Liquid Glass]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/11/07/acorn-8-3-with-liquid-glass/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/07/acorn-8-3-with-liquid-glass/]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -253,6 +253,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/]]></guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Find the SwiftUI Views that Update the Most Using Instruments]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/]]></guid>
     <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Saving $4000+/month with self-hosted runners]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
