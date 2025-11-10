@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Nov 2025 14:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 16:11:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[pdate: Date/Time Parsing for Programmers, DevOps, and SRE]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/]]></guid>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Grove’s Next Chapter: Moving Up the Stack]]></title>
+    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></guid>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Skip Fuse Now Free for Indie Devs! - Fatbobman's Swift Weekly #110]]></title>
@@ -62,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2025/11/09/building-closed-source-binaries-with-github-actions]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/11/09/building-closed-source-binaries-with-github-actions]]></guid>
     <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AlfredSwitchWindows now supports Ghostty tabs]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/]]></guid>
-    <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Saving $4000+/month with self-hosted runners]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></guid>
     <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
