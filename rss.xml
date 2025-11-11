@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Nov 2025 22:12:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 00:28:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[One Swift mistake everyone should stop making today]]></title>
@@ -305,6 +305,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to Build Modern async/await Location Manager with Swift Concurrency]]></title>
+    <description><![CDATA[https://www.vbutko.com]]></description>
+    <link><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></guid>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[I Gave My First Conference Talk!]]></title>
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/speaking/sl2025/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://theempathicdev.de/blog/my-vibe-coding-setup]]></link>
     <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/my-vibe-coding-setup]]></guid>
     <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Fast Engineer Trap]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></guid>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
