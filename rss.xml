@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 13 Nov 2025 22:10:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 00:28:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Mini Apps Partner Program]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/11/13/mini-apps-partner-program/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/13/mini-apps-partner-program/]]></guid>
+    <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use custom variable fonts in UIKit]]></title>
+    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2025/using-variable-custom-font-4-italic-condensed-black/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2025/using-variable-custom-font-4-italic-condensed-black/]]></guid>
+    <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Prompting users to review your app]]></title>
@@ -25,26 +41,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Digital ID]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/11/12/apple-digital-id/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/12/apple-digital-id/]]></guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Not everything in your todo list needs to be a proper GTD Next Action]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/]]></guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Mystery of black italic condensed UIFont]]></title>
-    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
-    <link><![CDATA[https://aplus.rs/2025/custom-width-weight-italic-uifont/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2025/custom-width-weight-italic-uifont/]]></guid>
     <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
