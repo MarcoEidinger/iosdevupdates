@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Nov 2025 10:11:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 12:12:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Handling Non-Breaking Numbers in Dynamic Text]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/handling-non-breaking-numbers-in-dynamic-text/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/handling-non-breaking-numbers-in-dynamic-text/]]></guid>
+    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Technical Debt AI Migration Tools Leave Behind]]></title>
@@ -93,22 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/]]></guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Grow on iOS 26: Liquid Glass Adaptation in UIKit + SwiftUI Hybrid Architecture]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/grow-on-ios26/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/grow-on-ios26/]]></guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Full-Screen Pop Gesture in UIKit]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/uikit/full-screen-pop-gesture-in-uikit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/uikit/full-screen-pop-gesture-in-uikit/]]></guid>
     <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></guid>
     <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ATP made me do it: Ubiquiti and Tailscale]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></guid>
+    <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
