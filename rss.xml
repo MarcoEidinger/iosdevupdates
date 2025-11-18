@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Nov 2025 22:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 00:27:17 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[pdate.dzdz.cz: A website for pdate]]></title>
+    <title><![CDATA[Automatically sort trail camera images with trailcamai]]></title>
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/]]></guid>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/]]></guid>
+    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Attach to Multiple Processes]]></title>
+    <description><![CDATA[https://indiestack.com/]]></description>
+    <link><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></guid>
     <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/swiftui-custom-url-schemes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-custom-url-schemes/]]></guid>
-    <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to fix truncated text in SwiftUI]]></title>
-    <description><![CDATA[https://codingwithvera.com]]></description>
-    <link><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></guid>
     <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
