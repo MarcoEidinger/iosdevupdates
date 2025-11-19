@@ -6,7 +6,47 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Nov 2025 12:15:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 00:28:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Beavers in Dexter, MI]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fitting User Content Without Clipping]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/dynamic-widget-sizing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/dynamic-widget-sizing/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ATProto blog posts collection]]></title>
+    <description><![CDATA[https://mackuba.eu]]></description>
+    <link><![CDATA[https://mackuba.eu/2025/11/18/atproto-blog-posts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2025/11/18/atproto-blog-posts/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Embedded Swift Improvements Coming in Swift 6.3]]></title>
+    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
+    <link><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Peer-to-Peer Sessions: Sending and Receiving Data with Multipeer Connectivity]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-sending-and-receiving-data-with-multipeer-connectivity/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-sending-and-receiving-data-with-multipeer-connectivity/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[An approximative world]]></title>
@@ -22,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mjtsai.com/blog/2025/11/17/spamsieve-3-2-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/17/spamsieve-3-2-2/]]></guid>
     <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automatically sort trail camera images with trailcamai]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/]]></guid>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -105,11 +137,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Peer-to-Peer Sessions: Advertising and Browsing Devices]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-advertising-and-browsing-devices/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-advertising-and-browsing-devices/]]></guid>
-    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Writing Tools + Apple Intelligence]]></title>
+    <description><![CDATA[https://medium.com/@arthurofbabylon]]></description>
+    <link><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></guid>
+    <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -419,8 +451,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[The Problem With Combine Annotations]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://www.massicotte.org/combine-annotations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.massicotte.org/combine-annotations]]></guid>
+    <link><![CDATA[https://massicotte.org/combine-annotations/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/combine-annotations/]]></guid>
     <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,38 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></guid>
     <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Storage]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dev Conversations #15: Pierluigi Cifani]]></title>
-    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-pier]]></guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ScrollView snapping in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/ScrollViewSnappingInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ScrollViewSnappingInSwiftUI]]></guid>
-    <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Custom URL Schemes]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/swiftui-custom-url-schemes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/swiftui-custom-url-schemes/]]></guid>
-    <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
