@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Nov 2025 04:12:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 06:12:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Localizing Swift Packages in an iOS App]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/localizing-swift-packages-in-an-ios-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/localizing-swift-packages-in-an-ios-app/]]></guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Needy Software]]></title>
@@ -57,42 +65,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An approximative world]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/an-approximative-world-85cc2fa4270b?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/an-approximative-world-85cc2fa4270b?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Attach to Multiple Processes]]></title>
     <description><![CDATA[https://indiestack.com/]]></description>
     <link><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></guid>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parallel Vector Drawing to a CGBitmapContext]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2025/11/drawing_to_a_cgbitmapcontext_with_multiple_threads.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/11/drawing_to_a_cgbitmapcontext_with_multiple_threads.html]]></guid>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Approachable Concurrency in Swift 6.2: A Clear Guide]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/approachable-concurrency-in-swift-6-2-a-clear-guide/]]></guid>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Handling Non-Breaking Numbers in Dynamic Text]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/handling-non-breaking-numbers-in-dynamic-text/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/handling-non-breaking-numbers-in-dynamic-text/]]></guid>
     <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -102,22 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cocoacasts.com/the-technical-debt-ai-migration-tools-leave-behind]]></link>
     <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/the-technical-debt-ai-migration-tools-leave-behind]]></guid>
     <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bridging completion handlers to Swift's async/await]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swift-async-completions-to-async-await]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-async-completions-to-async-await]]></guid>
-    <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Build Scalable White-Label iOS Apps: From Multi-Target to Modular Architecture]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></guid>
-    <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -145,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An Update]]></title>
-    <description><![CDATA[https://www.thermalcorner.net]]></description>
-    <link><![CDATA[https://thermalcorner.net/post/an-update/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/an-update/]]></guid>
-    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to use custom variable fonts in UIKit]]></title>
     <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2025/using-variable-custom-font-4-italic-condensed-black/]]></link>
@@ -169,34 +121,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tony Hoare and negative space]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/11/tony-hoare-and-negative-space/]]></guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What does actor reentrancy mean?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Undercurrent]]></title>
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/fiction/undercurrent]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/fiction/undercurrent]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pitfalls of Parameterized Tests]]></title>
-    <description><![CDATA[https://swiftology.io/]]></description>
-    <link><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></guid>
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,34 +161,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Numerology: 17 Years in the App Store (Part 3)]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-3/]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Grove’s Next Chapter: Moving Up the Stack]]></title>
     <description><![CDATA[https://artsabintsev.medium.com/]]></description>
     <link><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Instrumenting Vapor 4 with Swift OTel]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Review of Whispr Flow, superwhisper, MacWhisper for vibe coding]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/]]></guid>
     <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -301,22 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roxana-nagy.com]]></description>
     <link><![CDATA[https://roxana-nagy.com/how-we-built-the-emotional-journey-of-the-green-spurt-part-i-laying-the-emotional-groundwork/]]></link>
     <guid isPermaLink="true"><![CDATA[https://roxana-nagy.com/how-we-built-the-emotional-journey-of-the-green-spurt-part-i-laying-the-emotional-groundwork/]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Changes to tabViewBottomAccessory in iOS 26.1 are Fixed in iOS 26.2]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/changes-to-tabviewbottomaccessory-in-ios-26-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/changes-to-tabviewbottomaccessory-in-ios-26-1/]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Second Chance for "Untitled" tvOS App]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/second-chance-for-untitled-tvos-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/second-chance-for-untitled-tvos-app/]]></guid>
     <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,26 +257,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Month of Marketing for Elite Hoops]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/A-Month-of-Marketing-for-Elite-Hoops]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/A-Month-of-Marketing-for-Elite-Hoops]]></guid>
-    <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Zooming With The Magnify Gesture in SwiftUI]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/zooming-with-the-magnify-gesture-in-swiftui/]]></guid>
-    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Find the SwiftUI Views that Update the Most Using Instruments]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/swiftui-frequent-view-updates/]]></guid>
     <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -417,22 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Designing the new marketing site ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/11/03/website-redesign]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/11/03/website-redesign]]></guid>
-    <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Build Modern async/await Location Manager with Swift Concurrency]]></title>
-    <description><![CDATA[https://www.vbutko.com]]></description>
-    <link><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></guid>
-    <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Gave My First Conference Talk!]]></title>
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/speaking/sl2025/]]></link>
@@ -457,19 +313,155 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[One Week with Vision Pro M5]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Past, Present, and Future of AI Workshops with @mergesort]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2025/10/30/ai-workshops-launch/]]></guid>
     <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Storage]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/10/30/appstorage.html]]></guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ScrollView snapping in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/ScrollViewSnappingInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ScrollViewSnappingInSwiftUI]]></guid>
+    <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to fix truncated text in SwiftUI]]></title>
+    <description><![CDATA[https://codingwithvera.com]]></description>
+    <link><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codingwithvera.com/how-to-fix-line-limit-in-swiftui/]]></guid>
+    <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ATP made me do it: Ubiquiti and Tailscale]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2025/10/26/ubiquiti-and-tailscale]]></guid>
+    <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Setting up Apple Pay Testing]]></title>
+    <description><![CDATA[https://alexpaul.dev/]]></description>
+    <link><![CDATA[https://alexpaul.dev/2025/10/24/setting-up-apple-pay-testing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2025/10/24/setting-up-apple-pay-testing/]]></guid>
+    <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[BizOneness: Production in the Sap B1 Web Client…Again]]></title>
+    <description><![CDATA[https://makeapppie.com/]]></description>
+    <link><![CDATA[https://makeapppie.com/2025/10/21/bizoneness-production-in-the-sap-b1-web-client-again/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2025/10/21/bizoneness-production-in-the-sap-b1-web-client-again/]]></guid>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is SwiftData incompatible with MVVM? The standard answer disregards some key principles driving SwiftUI’s architecture]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swiftdata-mvvm/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftdata-mvvm/]]></guid>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Task Cancellation Handlers]]></title>
+    <description><![CDATA[https://macguru.dev/]]></description>
+    <link><![CDATA[https://macguru.dev/task-cancellation-handlers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://macguru.dev/task-cancellation-handlers/]]></guid>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[With AI, I can just build things!]]></title>
+    <description><![CDATA[https://antran.app/]]></description>
+    <link><![CDATA[https://antran.app/2025/you_can_just_do_things/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://antran.app/2025/you_can_just_do_things/]]></guid>
+    <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agentic Engineering: 11 Tips for iOS Development with AI]]></title>
+    <description><![CDATA[https://theempathicdev.de/blog]]></description>
+    <link><![CDATA[https://theempathicdev.de/blog/my-vibe-coding-setup]]></link>
+    <guid isPermaLink="true"><![CDATA[https://theempathicdev.de/blog/my-vibe-coding-setup]]></guid>
+    <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Fast Engineer Trap]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/the-fast-engineer-trap/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Dangers of Mixing Locks with Core Data]]></title>
+    <description><![CDATA[https://pilotcoder.com]]></description>
+    <link><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/the-dangers-of-mixing-locks-with-core-data/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Saving $4000+/month with self-hosted runners]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Now you can test Xcode apps and Swift packages in Zed]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/test-xcode-apps-in-zed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/test-xcode-apps-in-zed/]]></guid>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[GitHub Copilot and Unhonored Branch Protection]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2025/10/github-copilot-and-unhonored-branch-protection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2025/10/github-copilot-and-unhonored-branch-protection/]]></guid>
+    <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Just Talk To It - the no-bs Way of Agentic Engineering]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/just-talk-to-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/just-talk-to-it/]]></guid>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mobile testing strategies]]></title>
+    <description><![CDATA[https://www.mobilesystemdesign.com/]]></description>
+    <link><![CDATA[https://www.mobilesystemdesign.com/blog/mobile-testing-strategies/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.mobilesystemdesign.com/blog/mobile-testing-strategies/]]></guid>
+    <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
