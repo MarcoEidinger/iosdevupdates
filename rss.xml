@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Nov 2025 12:14:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 14:12:36 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Does the code matter?]]></title>
+    <title><![CDATA[Beyond GeometryReader: Building Better SwiftUI Modifiers with onGeometryChange]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/does-the-code-matter-da4b1b36e4fc?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/does-the-code-matter-da4b1b36e4fc?source=rss-b067c9115d59------2]]></guid>
+    <link><![CDATA[https://dimillian.medium.com/beyond-geometryreader-building-better-swiftui-modifiers-with-ongeometrychange-ac976e5c9107?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/beyond-geometryreader-building-better-swiftui-modifiers-with-ongeometrychange-ac976e5c9107?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/11/18/needy-software/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/18/needy-software/]]></guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Lessons Learned Veggie Garden]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2025/11/19/lessons-learned-veggie-garden]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/11/19/lessons-learned-veggie-garden]]></guid>
     <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/combine-annotations/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/combine-annotations/]]></guid>
     <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[One Week with Vision Pro M5]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/one-week-with-vision-pro-m5/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-with-vision-pro-m5]]></guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
