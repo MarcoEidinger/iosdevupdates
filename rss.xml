@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 19 Nov 2025 14:12:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 16:11:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How SwiftData Represents AttributedString in Core Data Storage]]></title>
+    <description><![CDATA[https://medium.com/@djalex566]]></description>
+    <link><![CDATA[https://medium.com/@djalex566/how-swiftdata-represents-attributedstring-in-core-data-storage-69036a4f166a?source=rss-da87d9f8912c------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/how-swiftdata-represents-attributedstring-in-core-data-storage-69036a4f166a?source=rss-da87d9f8912c------2]]></guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deep Dive into iMessage: Behind the Making of an Agent]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/deep-dive-into-imessage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/deep-dive-into-imessage/]]></guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Beyond GeometryReader: Building Better SwiftUI Modifiers with onGeometryChange]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/beyond-geometryreader-building-better-swiftui-modifiers-with-ongeometrychange-ac976e5c9107?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/beyond-geometryreader-building-better-swiftui-modifiers-with-ongeometrychange-ac976e5c9107?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Indie, Alone, and Figuring It Out]]></title>
+    <description><![CDATA[https://danijelavrzan.com/]]></description>
+    <link><![CDATA[https://danijelavrzan.com/posts/2025/11/indie-dev/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/11/indie-dev/]]></guid>
     <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,30 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.vbutko.com/articles/swift-async-await-location-manager]]></guid>
     <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Gave My First Conference Talk!]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/speaking/sl2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/speaking/sl2025/]]></guid>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Five Years in New Brunswick]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/five-years-in-new-brunswick/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/five-years-in-new-brunswick/]]></guid>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Problem With Combine Annotations]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/combine-annotations/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/combine-annotations/]]></guid>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
