@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Nov 2025 18:12:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 20:09:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Building Generic Network Layers in Swift with RequestSpec]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></guid>
+    <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MainActor by Default]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2025/11/19/lessons-learned-veggie-garden]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/11/19/lessons-learned-veggie-garden]]></guid>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Prank Ten Years in the Making]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/ten-year-prank/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/ten-year-prank/]]></guid>
     <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
