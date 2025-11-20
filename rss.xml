@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Nov 2025 12:15:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 14:09:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Designing Humanist Data Visualization for Mobile]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></guid>
+    <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Beavers at work in West Lake Nature Preserve]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></guid>
-    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Peer-to-Peer Sessions: Sending and Receiving Data with Multipeer Connectivity]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-sending-and-receiving-data-with-multipeer-connectivity/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/building-peer-to-peer-sessions-sending-and-receiving-data-with-multipeer-connectivity/]]></guid>
     <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
