@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Nov 2025 10:09:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 12:15:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[xPLORATORIU: How we turned TEDxBaiaMare’s photo archive into a interactive story on Apple Vision Pro]]></title>
+    <description><![CDATA[https://roxana-nagy.com]]></description>
+    <link><![CDATA[https://roxana-nagy.com/xploratoriu-how-we-turned-tedxbaiamares-photo-archive-into-a-interactive-story-on-apple-vision-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roxana-nagy.com/xploratoriu-how-we-turned-tedxbaiamares-photo-archive-into-a-interactive-story-on-apple-vision-pro/]]></guid>
+    <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Automatic property observation in UIKit with @Observable]]></title>
@@ -357,14 +365,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How We Built the Emotional Journey of The Green Spurt - Part I: Laying the Emotional Groundwork]]></title>
-    <description><![CDATA[https://roxana-nagy.com]]></description>
-    <link><![CDATA[https://roxana-nagy.com/how-we-built-the-emotional-journey-of-the-green-spurt-part-i-laying-the-emotional-groundwork/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roxana-nagy.com/how-we-built-the-emotional-journey-of-the-green-spurt-part-i-laying-the-emotional-groundwork/]]></guid>
     <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
