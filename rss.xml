@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Nov 2025 12:15:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 14:11:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Managing In-App Purchases in your apps]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/managing-in-app-purchases-in-your-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/managing-in-app-purchases-in-your-apps/]]></guid>
+    <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[xPLORATORIU: How we turned TEDxBaiaMare’s photo archive into a interactive story on Apple Vision Pro]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/]]></guid>
-    <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Designing Humanist Data Visualization for Mobile]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/designing-humanist-data-visualization-for-mobile/]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -157,6 +157,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></guid>
+    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 294 - Browns]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/24272aceefef/295-money]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/24272aceefef/295-money]]></guid>
     <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -342,14 +350,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2025/11/09/building-closed-source-binaries-with-github-actions]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/11/09/building-closed-source-binaries-with-github-actions]]></guid>
     <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[That One]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Blog/2025/11/08-ThatOne.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Blog/2025/11/08-ThatOne.html]]></guid>
-    <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
