@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Nov 2025 14:11:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 16:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 139 - Post Cards]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/139PostCards.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/139PostCards.html]]></guid>
+    <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Neat Image noise profiles for the Ricoh WG6]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-ricoh-wg6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-ricoh-wg6/]]></guid>
+    <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Managing In-App Purchases in your apps]]></title>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
     <link><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Neat Image noise profiles for the Leica X1]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></guid>
-    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 294 - Browns]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/24272aceefef/295-money]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/24272aceefef/295-money]]></guid>
     <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
