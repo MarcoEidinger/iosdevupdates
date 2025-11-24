@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Nov 2025 18:13:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 20:11:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Numerology: 17 Years in the App Store (Part 5)]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-5/]]></guid>
+    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Enabling Selection, Double-Click and Context Menus in SwiftUI List Rows on macOS]]></title>
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Numerology: 17 Years in the App Store (Part 4)]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-4/]]></guid>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
