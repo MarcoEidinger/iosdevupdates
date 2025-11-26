@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Nov 2025 06:13:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 08:12:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Migrate from GitHub Pages to Cloudflare Pages]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/]]></guid>
+    <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS 26.2 to Open Up iPhone–Apple Watch Wi-Fi Sync in EU]]></title>
@@ -381,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Review of Whispr Flow, superwhisper, MacWhisper for vibe coding]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/]]></guid>
     <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
