@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 27 Nov 2025 08:11:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 10:09:32 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Internet Archive Wayback Machine Link Fixer]]></title>
@@ -110,6 +110,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danijelavrzan.com/posts/2025/11/10-skills-to-level-up/]]></link>
     <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/11/10-skills-to-level-up/]]></guid>
     <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to get offset for a specific timezone in JavaScript]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></guid>
+    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2025/11/05/rss-plus-markdown.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2025/11/05/rss-plus-markdown.html]]></guid>
-    <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A deep dive into Collections, Sequences, and Iterators in Swift]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/a-deep-dive-into-collections-sequences-and-iterators-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/a-deep-dive-into-collections-sequences-and-iterators-in-swift/]]></guid>
     <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
