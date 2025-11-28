@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Nov 2025 18:11:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 20:11:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Vibe coding and BASIC]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2025/11/vibe-coding-and-basic/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/11/vibe-coding-and-basic/]]></guid>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Feedback Assistant app mysteriously triggers IMTransferAgent]]></title>
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-selection-double-click-and-context-menus-in-swiftui-list-on-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-selection-double-click-and-context-menus-in-swiftui-list-on-macos/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Essence and accident in language model-assisted coding]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/11/essence-and-accident-in-language-model-assisted-coding/]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
