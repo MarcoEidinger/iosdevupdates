@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Nov 2025 14:08:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 16:09:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 140 - Relationships]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/140Relationships.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/140Relationships.html]]></guid>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Document Preview Options in SwiftUI]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/document-preview-options-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/document-preview-options-in-swiftui/]]></guid>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using tmux with Claude Code]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/using-tmux-with-claude-code]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/using-tmux-with-claude-code]]></guid>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Understanding the Transferable Protocol in Swift]]></title>
@@ -77,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 296 - Bend]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/6e0c1b850847/297-bend]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/6e0c1b850847/297-bend]]></guid>
     <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -197,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adrian.schoenig.me]]></description>
     <link><![CDATA[https://adrian.schoenig.me/blog/2025/11/23/capability/]]></link>
     <guid isPermaLink="true"><![CDATA[https://adrian.schoenig.me/blog/2025/11/23/capability/]]></guid>
-    <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Rediscovered 1996 Steve Jobs Interview]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/blog/a-rediscovered-1996-steve-jobs-interview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/a-rediscovered-1996-steve-jobs-interview/]]></guid>
     <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Production Analytics with PostHog: A Complete Implementation Guide]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/building-production-analytics-with-posthog-a-complete-implementation-guide]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/building-production-analytics-with-posthog-a-complete-implementation-guide]]></guid>
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
