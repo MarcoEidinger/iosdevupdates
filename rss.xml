@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Nov 2025 16:09:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 18:11:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Feedback Assistant app mysteriously triggers IMTransferAgent]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/11/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/11/5.html]]></guid>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 140 - Relationships]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Web browser status bars are nuts]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/11/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/11/4.html]]></guid>
     <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
