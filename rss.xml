@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 29 Nov 2025 00:27:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 02:38:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Configuring Cloudflare Tunnel to Expose Servers for Local Development, Webhooks etc]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/configuring-cloudflare-tunnel-to-expose-servers-for-local-development-webhooks-etc]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/configuring-cloudflare-tunnel-to-expose-servers-for-local-development-webhooks-etc]]></guid>
+    <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[David Lerner, RIP]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/document-preview-options-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/document-preview-options-in-swiftui/]]></guid>
-    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using tmux with Claude Code]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/using-tmux-with-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/using-tmux-with-claude-code]]></guid>
     <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
