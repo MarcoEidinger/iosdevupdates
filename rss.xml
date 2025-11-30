@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Nov 2025 14:08:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 16:09:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to access SFSymbols directly in Xcode]]></title>
+    <description><![CDATA[https://ohmyswift.com/blog/]]></description>
+    <link><![CDATA[https://ohmyswift.com/blog/2025/11/30/how-to-access-sfsymbols-directly-in-xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2025/11/30/how-to-access-sfsymbols-directly-in-xcode]]></guid>
+    <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Semantics into Navigation Bars]]></title>
     <description><![CDATA[https://marcelvoss.com/blog/]]></description>
     <link><![CDATA[https://marcelvoss.com/2025/introducing-semantics-into-navigation-bars/]]></link>
     <guid isPermaLink="true"><![CDATA[https://marcelvoss.com/2025/introducing-semantics-into-navigation-bars/]]></guid>
+    <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dev Conversations #16: Moritz Lang]]></title>
+    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
+    <link><![CDATA[https://swifttoolkit.dev/posts/dc-moritz]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-moritz]]></guid>
     <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Writing Single-Table DynamoDB Apps with DynamoModel]]></title>
-    <description><![CDATA[https://www.swifttoolkit.dev/]]></description>
-    <link><![CDATA[https://swifttoolkit.dev/posts/dynamo-model]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dynamo-model]]></guid>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Fitting User Content Without Clipping]]></title>
     <description><![CDATA[https://dchakarov.com]]></description>
     <link><![CDATA[https://dchakarov.com/blog/dynamic-widget-sizing/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Second Chance for "Untitled" tvOS App]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/second-chance-for-untitled-tvos-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/second-chance-for-untitled-tvos-app/]]></guid>
     <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
