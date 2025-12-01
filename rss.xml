@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Dec 2025 10:10:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 12:14:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Scribblenauts For Software]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/12/1/scribblenauts-for-software/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/12/1/scribblenauts-for-software/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[👮‍♂️ Identifying Hangs in iOS Apps 😰]]></title>
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></guid>
-    <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[From iOS to Android: A Candid Look at My Real-World Journey into Dual-Platform Development]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/from-ios-to-android/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/from-ios-to-android/]]></guid>
     <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
