@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Dec 2025 12:14:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 14:10:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[When Android Phones “Force-Compat” with AirDrop - Fatbobman's Swift Weekly #113]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-113/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-113/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Scribblenauts For Software]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-87-considered-harmful/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-87-considered-harmful/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Rebuilding MistKit with Claude Code - From CloudKit Docs to Type-Safe Swift (Part 1)]]></title>
+    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
+    <link><![CDATA[https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-1]]></link>
+    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-1]]></guid>
     <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,22 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/280/one-swift-mistake-everyone-should-stop-making-today]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/280/one-swift-mistake-everyone-should-stop-making-today]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Grove’s Next Chapter: Moving Up the Stack]]></title>
-    <description><![CDATA[https://artsabintsev.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/decentralized-infrastructure/groves-next-chapter-moving-up-the-stack-fd7ecaf0a184?source=rss-d59564ad49f6------2]]></guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Instrumenting Vapor 4 with Swift OTel]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/otel-integration]]></guid>
     <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
