@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Dec 2025 06:12:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 08:13:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The 7 changes I do for every new Xcode project]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/xcode/the-7-changes-i-do-for-every-new-xcode-project/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/the-7-changes-i-do-for-every-new-xcode-project/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using reMarkable and Claude Code to Triage My wip.md]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/using-remarkable-and-claude-code-to-triage-my-wip-md]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/using-remarkable-and-claude-code-to-triage-my-wip-md]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Issue 087: Considered Harmful]]></title>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/accessing-uiwindow-from-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/accessing-uiwindow-from-swiftui/]]></guid>
-    <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Configuring Cloudflare Tunnel to Expose Servers for Local Development, Webhooks etc]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/configuring-cloudflare-tunnel-to-expose-servers-for-local-development-webhooks-etc]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/configuring-cloudflare-tunnel-to-expose-servers-for-local-development-webhooks-etc]]></guid>
     <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -197,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Black Friday: SwiftLee Courses & RocketSim]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/general/black-friday-swiftlee-courses-rocketsim/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/general/black-friday-swiftlee-courses-rocketsim/]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
