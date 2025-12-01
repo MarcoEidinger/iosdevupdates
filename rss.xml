@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Dec 2025 02:54:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 04:28:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Issue 087: Considered Harmful]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-87-considered-harmful/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-87-considered-harmful/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to access SFSymbols directly in Xcode]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.jessesquires.com]]></description>
     <link><![CDATA[https://www.jessesquires.com/blog/2025/11/07/mariposa/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.jessesquires.com/blog/2025/11/07/mariposa/]]></guid>
-    <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to hire me (in 2026)]]></title>
-    <description><![CDATA[https://jaimzuber.com/]]></description>
-    <link><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></link>
-    <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/how-to-hire-me-2026]]></guid>
     <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
