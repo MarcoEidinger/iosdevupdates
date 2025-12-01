@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 01 Dec 2025 20:10:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 22:08:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Discontinuing Ducklet]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/01/discontinuing-ducklet/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/01/discontinuing-ducklet/]]></guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[There are no vibe engineers]]></title>
@@ -102,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://livsycode.com/swiftui/accessing-uiwindow-from-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/accessing-uiwindow-from-swiftui/]]></guid>
     <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[David Lerner, RIP]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/11/28/david-lerner-rip/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/11/28/david-lerner-rip/]]></guid>
-    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
