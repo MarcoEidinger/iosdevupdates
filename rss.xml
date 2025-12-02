@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Dec 2025 20:10:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 22:11:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Anthropic Acquires Bun]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/02/anthropic-acquires-bun/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/02/anthropic-acquires-bun/]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Streamlining my user-level CLAUDE.md]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/12/streamlining-my-user-level-claude-md/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/12/streamlining-my-user-level-claude-md/]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 297 - Inflection]]></title>
@@ -49,19 +65,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[A Better Way to Localize Swift Packages with Xcode String Catalogs]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2025/12/02/a-better-way-to-localize-swift-packages-with-xcode-string-catalogs]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/12/02/a-better-way-to-localize-swift-packages-with-xcode-string-catalogs]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Initializing @Observable classes within the SwiftUI hierarchy]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy]]></guid>
     <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Discontinuing Ducklet]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/01/discontinuing-ducklet/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/01/discontinuing-ducklet/]]></guid>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Improving Swift Package Scripts with GitHub Actions workflows]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2025/11/26/improving-swift-package-scripts-with-github-action-workflows]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2025/11/26/improving-swift-package-scripts-with-github-action-workflows]]></guid>
-    <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building iOS and Mac apps in Zed: SwiftUI Previews]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/swiftui-previews-in-zed/]]></link>
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/running-track-on-app-store]]></guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Linux server migration planning]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/]]></guid>
     <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
