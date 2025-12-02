@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Dec 2025 08:12:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 10:10:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Resisting the Whispers of a Form‑Engine]]></title>
+    <description><![CDATA[https://williamboles.com/]]></description>
+    <link><![CDATA[https://williamboles.com/resisting-the-whispers-of-a-form-engine/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://williamboles.com/resisting-the-whispers-of-a-form-engine/]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Initializing @Observable classes within the SwiftUI hierarchy]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generating images in Swift using Image Playground]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2025/11/11/generating-images-in-swift-using-image-playground]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/11/11/generating-images-in-swift-using-image-playground]]></guid>
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
