@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Dec 2025 14:10:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 16:11:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Enabling drag-and-drop and clipboard operations with the Transferable protocol]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Get Your Conference Talk Proposal Noticed]]></title>
+    <description><![CDATA[https://danijelavrzan.com/]]></description>
+    <link><![CDATA[https://danijelavrzan.com/posts/2025/11/get-your-talk-proposal-noticed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/11/get-your-talk-proposal-noticed/]]></guid>
     <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/]]></guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[10 Skills to Level Up Your Career]]></title>
-    <description><![CDATA[https://danijelavrzan.com/]]></description>
-    <link><![CDATA[https://danijelavrzan.com/posts/2025/11/10-skills-to-level-up/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/11/10-skills-to-level-up/]]></guid>
     <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
