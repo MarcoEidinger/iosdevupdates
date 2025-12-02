@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Dec 2025 12:14:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 14:10:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Enabling drag-and-drop and clipboard operations with the Transferable protocol]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/enabling-drag-and-drop-and-clipboard-operations-with-the-transferable-protocol/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/enabling-drag-and-drop-and-clipboard-operations-with-the-transferable-protocol/]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Debugging Binaries in Xcode]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Resisting the Whispers of a Form‑Engine]]></title>
@@ -150,14 +166,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://dimsumthinking.com/Podcast/2025/140Relationships.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/140Relationships.html]]></guid>
     <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding the Transferable Protocol in Swift]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/understanding-the-transferable-protocol-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/understanding-the-transferable-protocol-in-swift/]]></guid>
-    <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pitfalls of Parameterized Tests]]></title>
-    <description><![CDATA[https://swiftology.io/]]></description>
-    <link><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/pitfalls-of-parameterized-tests]]></guid>
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
