@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Dec 2025 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 16:13:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Deep Dive into SwiftUI Rich Text Layout: Beyond AttributedString — Inside MarkdownView and RichText]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/a-deep-dive-into-swiftui-rich-text-layout/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/a-deep-dive-into-swiftui-rich-text-layout/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Organizing SwiftUI Views with TabContent and @TabContentBuilder]]></title>
@@ -169,6 +177,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Understanding associated domains in iOS]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-associated-domains-basics]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-associated-domains-basics]]></guid>
+    <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to access SFSymbols directly in Xcode]]></title>
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2025/11/30/how-to-access-sfsymbols-directly-in-xcode]]></link>
@@ -270,14 +286,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cocoacasts.com/why-i-chose-core-data-over-swift-data-for-hive-notes]]></link>
     <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/why-i-chose-core-data-over-swift-data-for-hive-notes]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using associated domains alternate mode during development]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-associated-domains-alternate-mode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-associated-domains-alternate-mode]]></guid>
-    <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-task-identity]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-task-identity]]></guid>
     <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What does actor reentrancy mean?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
