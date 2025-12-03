@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Dec 2025 04:13:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 06:16:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Anthropic Acquires Bun]]></title>
@@ -125,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/using-remarkable-and-claude-code-to-triage-my-wip-md]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/using-remarkable-and-claude-code-to-triage-my-wip-md]]></guid>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[State‑Driven Navigation for Scalable Mobile Apps]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/architecture/navigation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/architecture/navigation/]]></guid>
     <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/swiftui-task-identity]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/swiftui-task-identity]]></guid>
     <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What does actor reentrancy mean?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/swift/concurrency/what-does-actor-reentrancy-mean/]]></guid>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
