@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Dec 2025 18:12:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 20:10:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[On the value of old principles]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2025/12/on-the-value-of-old-principles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/12/on-the-value-of-old-principles/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Deep Dive into SwiftUI Rich Text Layout: Beyond AttributedString — Inside MarkdownView and RichText]]></title>
@@ -206,14 +214,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swifttoolkit.dev/posts/dc-moritz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swifttoolkit.dev/posts/dc-moritz]]></guid>
     <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Vibe coding and BASIC]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2025/11/vibe-coding-and-basic/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/11/vibe-coding-and-basic/]]></guid>
-    <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
