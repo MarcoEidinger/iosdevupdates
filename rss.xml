@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Dec 2025 20:10:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 22:11:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Alan Dye Leaving Apple for Meta]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/03/alan-dye-leaving-apple-for-meta/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/03/alan-dye-leaving-apple-for-meta/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Numerology: 17 Years in the App Store (Part 6)]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-6/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-6/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On the value of old principles]]></title>
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2025/12/03/test-insights]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/03/test-insights]]></guid>
     <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Anthropic Acquires Bun]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/02/anthropic-acquires-bun/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/02/anthropic-acquires-bun/]]></guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Numerology: 17 Years in the App Store (Part 5)]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/numerology-history-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/numerology-history-5/]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
