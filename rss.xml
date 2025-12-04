@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Dec 2025 14:09:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 16:11:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What to fix in AI-generated Swift code]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code]]></guid>
+    <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing Non-Consumable In-App Purchases with StoreKit 2]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/implementing-non-consumable-in-app-purchases-with-storekit-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-non-consumable-in-app-purchases-with-storekit-2/]]></guid>
+    <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Stack]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2025/12/04/the-stack.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/12/04/the-stack.html]]></guid>
     <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></guid>
     <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[An Update]]></title>
-    <description><![CDATA[https://www.thermalcorner.net]]></description>
-    <link><![CDATA[https://thermalcorner.net/post/an-update/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/an-update/]]></guid>
-    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use custom variable fonts in UIKit]]></title>
-    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
-    <link><![CDATA[https://aplus.rs/2025/using-variable-custom-font-4-italic-condensed-black/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2025/using-variable-custom-font-4-italic-condensed-black/]]></guid>
-    <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
