@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Dec 2025 20:12:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 22:09:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newstead Replaces Adams and Jackson]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/05/newstead-replaces-adams-and-jackson/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/05/newstead-replaces-adams-and-jackson/]]></guid>
+    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating Contacts with SwiftUI]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></guid>
-    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Russia Blocks FaceTime, Snapchat, and Roblox]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/04/russia-blocks-facetime-snapchat-and-roblox/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/04/russia-blocks-facetime-snapchat-and-roblox/]]></guid>
     <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
