@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Dec 2025 12:15:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 14:12:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating Contacts with SwiftUI]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></guid>
+    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Russia Blocks FaceTime, Snapchat, and Roblox]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/281/what-to-fix-in-ai-generated-swift-code]]></guid>
-    <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Non-Consumable In-App Purchases with StoreKit 2]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/implementing-non-consumable-in-app-purchases-with-storekit-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-non-consumable-in-app-purchases-with-storekit-2/]]></guid>
     <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,10 +113,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 297 - Inflection]]></title>
+    <title><![CDATA[Keep Two Thoughts Podcast 141 - Bowls]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></guid>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/141Bowls.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/141Bowls.html]]></guid>
     <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
