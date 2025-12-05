@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Dec 2025 18:12:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 20:12:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Creating Contacts with SwiftUI]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2025/12/05/all-quiet.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2025/12/05/all-quiet.html]]></guid>
+    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Setting Should I Use?]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/what-settings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/what-settings/]]></guid>
     <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -349,14 +357,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@cetinibrahim]]></description>
     <link><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></guid>
-    <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MainActor by Default]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/mainactor-by-default/]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
