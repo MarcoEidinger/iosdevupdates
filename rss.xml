@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 06 Dec 2025 18:11:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 20:11:00 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Lifecycle script permissions in pnpm]]></title>
@@ -77,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/a-deep-dive-into-swiftui-rich-text-layout/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/a-deep-dive-into-swiftui-rich-text-layout/]]></guid>
-    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Organizing SwiftUI Views with TabContent and @TabContentBuilder]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></guid>
     <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></guid>
     <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[An Update]]></title>
+    <description><![CDATA[https://www.thermalcorner.net]]></description>
+    <link><![CDATA[https://thermalcorner.net/post/an-update/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/an-update/]]></guid>
+    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
