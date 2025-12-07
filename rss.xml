@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Dec 2025 18:10:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 20:09:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Weekend Hack: Letting Ollama Sift 1,000 iOS Blogs for AI Gems]]></title>
+    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
+    <link><![CDATA[https://gioscalzo.com/blog/weekend-ios-ai-blog-analyzer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/weekend-ios-ai-blog-analyzer/]]></guid>
+    <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Decompiling Binaries With LLMs]]></title>
@@ -437,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></guid>
-    <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Where Alan Turing Walked: Google DevFest at the National Museum of Computing]]></title>
-    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
-    <link><![CDATA[https://gioscalzo.com/blog/devfest-bletchley-park-national-museum-of-computing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/devfest-bletchley-park-national-museum-of-computing/]]></guid>
     <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
