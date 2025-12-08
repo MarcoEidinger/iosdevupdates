@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Dec 2025 00:31:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 02:42:52 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How We Built an API Authorization System with a Protobuf Plugin and AI Assistance from proto file…]]></title>
+    <description><![CDATA[https://medium.com/@aymen.rebouh]]></description>
+    <link><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></guid>
+    <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Weekend Hack: Letting Ollama Sift 1,000 iOS Blogs for AI Gems]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/claude-is-cornering-cursor-3-scenarios-left-acquisition-own-llm-or-extinction-but-3ce7ad5298dc?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/claude-is-cornering-cursor-3-scenarios-left-acquisition-own-llm-or-extinction-but-3ce7ad5298dc?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Writing Tools + Apple Intelligence]]></title>
-    <description><![CDATA[https://medium.com/@arthurofbabylon]]></description>
-    <link><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></guid>
     <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
