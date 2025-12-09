@@ -6,13 +6,69 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 08 Dec 2025 12:13:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 22:08:03 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Debugging Swift Code: From print() to LLDB]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/debugging-swift-code-from-print-to-lldb/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/debugging-swift-code-from-print-to-lldb/]]></guid>
+    <title><![CDATA[Pebble Index]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/09/pebble-index/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/09/pebble-index/]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 298 - Control]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Designing with people: Creating applications for reality]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/designing-with-people-creating-applications-for-reality/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/designing-with-people-creating-applications-for-reality/]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Add an inner shadow to a symbol image in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/AddAnInnerShadowToASymbolImageInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AddAnInnerShadowToASymbolImageInSwiftUI]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Monitoring app performance with MetricKit]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Battery life on iOS and the myth of killing apps]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/optimization/battery-life-on-ios-and-the-myth-of-killing-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/optimization/battery-life-on-ios-and-the-myth-of-killing-apps/]]></guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[【Tips】How to Forward Events from the Main Thread to GTM Running Inside Partytown]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/snippet/how-to-forward-custom-tag-events-to-gtm-running-inside-partytown/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/how-to-forward-custom-tag-events-to-gtm-running-inside-partytown/]]></guid>
+    <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From Algorithms to Adventures]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/maze-adventures/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/maze-adventures/]]></guid>
     <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -21,6 +77,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@aymen.rebouh]]></description>
     <link><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></guid>
+    <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[One SwiftUI App, Six Architectures]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/one-swiftui-app-six-architectures]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/one-swiftui-app-six-architectures]]></guid>
     <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -46,22 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://skagedal.tech/posts/2025-11-29-npm-built-dependencies/]]></link>
     <guid isPermaLink="true"><![CDATA[https://skagedal.tech/posts/2025-11-29-npm-built-dependencies/]]></guid>
     <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newstead Replaces Adams and Jackson]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/05/newstead-replaces-adams-and-jackson/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/05/newstead-replaces-adams-and-jackson/]]></guid>
-    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating Contacts with SwiftUI]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-contacts-with-swiftui/]]></guid>
-    <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -101,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/12/on-the-value-of-old-principles/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2025/12/on-the-value-of-old-principles/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Organizing SwiftUI Views with TabContent and @TabContentBuilder]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></guid>
     <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +201,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 141 - Bowls]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/141Bowls.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/141Bowls.html]]></guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Debugging Binaries in Xcode]]></title>
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></link>
@@ -185,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Initializing @Observable classes within the SwiftUI hierarchy]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy]]></guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[There are no vibe engineers]]></title>
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/ai/there-are-no-vibe-engineers]]></link>
@@ -213,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue62]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue62]]></guid>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The 7 changes I do for every new Xcode project]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/xcode/the-7-changes-i-do-for-every-new-xcode-project/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/the-7-changes-i-do-for-every-new-xcode-project/]]></guid>
     <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,14 +433,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fitting User Content Without Clipping]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/dynamic-widget-sizing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/dynamic-widget-sizing/]]></guid>
-    <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ATProto blog posts collection]]></title>
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2025/11/18/atproto-blog-posts/]]></link>
@@ -446,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></guid>
     <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Claude is Cornering Cursor: 3 Scenarios Left — Acquisition, Own LLM, or Extinction but…]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/claude-is-cornering-cursor-3-scenarios-left-acquisition-own-llm-or-extinction-but-3ce7ad5298dc?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/claude-is-cornering-cursor-3-scenarios-left-acquisition-own-llm-or-extinction-but-3ce7ad5298dc?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Writing Tools + Apple Intelligence]]></title>
-    <description><![CDATA[https://medium.com/@arthurofbabylon]]></description>
-    <link><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/minimal-notes/writing-tools-apple-intelligence-22b4e94cbae0?source=rss-3afecef24601------2]]></guid>
-    <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
