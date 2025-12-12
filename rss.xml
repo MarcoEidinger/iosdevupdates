@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Dec 2025 16:08:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 18:11:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 142 - Context]]></title>
@@ -197,6 +197,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Part 1 - State Drive Nagiation: Overview]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/architecture/1-statedriven-navigation-overview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/architecture/1-statedriven-navigation-overview/]]></guid>
     <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-embedded-swift-improvements-coming-in-swift-6-3/]]></guid>
     <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Attach to Multiple Processes]]></title>
-    <description><![CDATA[https://indiestack.com/]]></description>
-    <link><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></guid>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
