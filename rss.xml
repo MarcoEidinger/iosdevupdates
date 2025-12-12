@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Dec 2025 12:12:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 14:10:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Understanding scenes for your macOS app]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/understanding-scenes-for-your-macos-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/understanding-scenes-for-your-macos-app/]]></guid>
+    <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Disney vs. Google and OpenAI]]></title>
@@ -33,14 +41,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The power of ethics in mobile design]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/the-power-of-ethics-in-mobile-design/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/the-power-of-ethics-in-mobile-design/]]></guid>
-    <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Road to Do iOS 2026: Planning the Next Evolution of the iOS Developer Conference]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/do-ios-2026]]></link>
@@ -62,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-2]]></guid>
     <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 298 - Control]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/41cd37e0611e/297-inflection]]></guid>
-    <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://indiestack.com/2025/11/attach-to-multiple-processes/]]></guid>
     <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Build Scalable White-Label iOS Apps: From Multi-Target to Modular Architecture]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-build-scalable-white-label-ios-apps-from-multi-target-to-modular-architecture/]]></guid>
+    <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
