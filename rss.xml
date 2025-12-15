@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Dec 2025 18:13:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 20:08:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reducing the Number of .sheet Modifiers in Your SwiftUI Views]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/reducing-sheet-modifiers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/reducing-sheet-modifiers/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tracking renamed files in Git]]></title>
@@ -41,6 +49,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[10× faster Xcode CI builds with slot caching]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to Create a Signature Canvas in iOS Using SwiftUI and PencilKit?]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/create-signature-canvas-in-ios/]]></link>
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/peer-lab-community-shut-down/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/peer-lab-community-shut-down/]]></guid>
-    <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claude Sonnet 4.5 - Self Performance Review]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/12/14/PerformanceReview/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/12/14/PerformanceReview/]]></guid>
     <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@cetinibrahim/building-generic-network-layers-in-swift-with-requestspec-6eb24af58716?source=rss-e7d608c3cf73------2]]></guid>
     <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How SwiftData Represents AttributedString in Core Data Storage]]></title>
-    <description><![CDATA[https://medium.com/@djalex566]]></description>
-    <link><![CDATA[https://medium.com/@djalex566/how-swiftdata-represents-attributedstring-in-core-data-storage-69036a4f166a?source=rss-da87d9f8912c------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@djalex566/how-swiftdata-represents-attributedstring-in-core-data-storage-69036a4f166a?source=rss-da87d9f8912c------2]]></guid>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
