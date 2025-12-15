@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Dec 2025 12:13:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 14:10:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Sunday Incident - Fatbobman's Swift Weekly #115]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-115/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-115/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[🩺 Analysing and Removing Hangs in iOS Apps 🧞‍♂️]]></title>
@@ -190,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/one-swiftui-app-six-architectures]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/one-swiftui-app-six-architectures]]></guid>
     <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to avoid retain cycles when working with tasks in Swift]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swift-async-tasks-memory-management]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swift-async-tasks-memory-management]]></guid>
-    <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
