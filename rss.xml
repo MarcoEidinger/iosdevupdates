@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Dec 2025 20:08:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 22:08:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Entity Inheritance Slowdowns]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/15/entity-inheritance-slowdowns/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/15/entity-inheritance-slowdowns/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Reducing the Number of .sheet Modifiers in Your SwiftUI Views]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-115/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-115/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Software From Blog Posts]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2025/12/15/building-software-from-blog-posts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/12/15/building-software-from-blog-posts/]]></guid>
     <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -78,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/peer-lab-community-shut-down/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/peer-lab-community-shut-down/]]></guid>
     <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Locked Out of Apple Account Due to Gift Card]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/13/locked-out-of-apple-account-due-to-gift-card/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/13/locked-out-of-apple-account-due-to-gift-card/]]></guid>
-    <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/ai/there-are-no-vibe-engineers]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/ai/there-are-no-vibe-engineers]]></guid>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Scribblenauts For Software]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/12/1/scribblenauts-for-software/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/12/1/scribblenauts-for-software/]]></guid>
     <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
