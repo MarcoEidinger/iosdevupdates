@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Dec 2025 14:10:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 16:09:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[UserDefaults footgun]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2025/12/3.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/12/3.html]]></guid>
+    <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing subscriptions In-App Purchases with StoreKit 2]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/implementing-subscriptions-in-app-purchases-with-storekit-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/implementing-subscriptions-in-app-purchases-with-storekit-2/]]></guid>
+    <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep Your Strings Clean and Localized in a Single File]]></title>
+    <description><![CDATA[https://danijelavrzan.com/]]></description>
+    <link><![CDATA[https://danijelavrzan.com/posts/2025/12/strings-localized-in-a-single-file/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/12/strings-localized-in-a-single-file/]]></guid>
     <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A critique of mathematical objectivity]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/12/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/12/2.html]]></guid>
-    <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Road to Do iOS 2026: Planning the Next Evolution of the iOS Developer Conference]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/do-ios-2026]]></link>
@@ -325,14 +333,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/debugging-binaries-in-xcode-c40625a2ed5b?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Get Your Conference Talk Proposal Noticed]]></title>
-    <description><![CDATA[https://danijelavrzan.com/]]></description>
-    <link><![CDATA[https://danijelavrzan.com/posts/2025/11/get-your-talk-proposal-noticed/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/11/get-your-talk-proposal-noticed/]]></guid>
     <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
