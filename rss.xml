@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 17 Dec 2025 08:10:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 10:09:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stretchable Header in SwiftUI for Vertical and Horizontal ScrollView]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/stretchable-header-in-swiftui-for-vertical-and-horizontal-scrollview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/stretchable-header-in-swiftui-for-vertical-and-horizontal-scrollview/]]></guid>
+    <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Incremental iOS Builds with Claude Code and XcodeBuildMCP]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2025/12/17/incremental-ios-builds-with-claude-code-and-xcodebuildmcp/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/12/17/incremental-ios-builds-with-claude-code-and-xcodebuildmcp/]]></guid>
+    <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Notes on Memory for Products]]></title>
@@ -305,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Organizing SwiftUI Views with TabContent and @TabContentBuilder]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/organizing-swiftui-views-with-tabcontent-and-tabcontentbuilder/]]></guid>
-    <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Part 1 - State Drive Nagiation: Overview]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/architecture/1-statedriven-navigation-overview/]]></link>
@@ -413,14 +421,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></guid>
-    <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Migrate from GitHub Pages to Cloudflare Pages]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/]]></guid>
     <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
