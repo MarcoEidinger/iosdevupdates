@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Dec 2025 08:11:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 10:10:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[【Tips】Why Child @State Won't Update from Parent in SwiftUI]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/snippet/why-child-state-won-not-update-from-parent-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/snippet/why-child-state-won-not-update-from-parent-in-swiftui/]]></guid>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Animating SF Symbols in SwiftUI]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2025/12/introducing-two-tools-for-working-with-plex-media-libraries/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/12/introducing-two-tools-for-working-with-plex-media-libraries/]]></guid>
-    <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Eight Years with CloudKit: From Open Source IceCream to Commercial Apps]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/my-eight-years-with-cloudkit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/my-eight-years-with-cloudkit/]]></guid>
     <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
