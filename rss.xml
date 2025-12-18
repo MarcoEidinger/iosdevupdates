@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Dec 2025 14:10:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 18:12:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA["Your job is to deliver code you have proven to work"]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2025/12/your-job-is-to-deliver-code-you-have-proven-to-work/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/12/your-job-is-to-deliver-code-you-have-proven-to-work/]]></guid>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing Consumable In-App Purchases with StoreKit 2]]></title>
@@ -33,18 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Signature Flicker]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2025/signature-flicker/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/signature-flicker/]]></guid>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[UserDefaults.register(defaults:) Footgun]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/12/17/userdefaults-registerdefaults-footgun/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/17/userdefaults-registerdefaults-footgun/]]></guid>
-    <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing two tools for working with Plex media libraries]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/12/introducing-two-tools-for-working-with-plex-media-libraries/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/12/introducing-two-tools-for-working-with-plex-media-libraries/]]></guid>
     <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,6 +117,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2025/12/creating_a_python-based_html5_parser_with_agents.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2025/12/creating_a_python-based_html5_parser_with_agents.html]]></guid>
+    <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 299 - Imagination]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/98ca6608ec86/299-imagination]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/98ca6608ec86/299-imagination]]></guid>
     <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></guid>
-    <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 142 - Context]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/142Context.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/142Context.html]]></guid>
     <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I Chose Core Data Over SwiftData for Hive Notes]]></title>
-    <description><![CDATA[https://cocoacasts.com/blog]]></description>
-    <link><![CDATA[https://cocoacasts.com/why-i-chose-core-data-over-swift-data-for-hive-notes]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cocoacasts.com/why-i-chose-core-data-over-swift-data-for-hive-notes]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
