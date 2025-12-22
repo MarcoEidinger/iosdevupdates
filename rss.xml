@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Dec 2025 16:09:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 18:11:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Creating and Opening Custom Document Types in SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/creating-and-opening-custom-document-types-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/creating-and-opening-custom-document-types-in-swiftui/]]></guid>
+    <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I foretold that Mac app notarization is security theater]]></title>
@@ -206,6 +214,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/create-signature-canvas-in-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/create-signature-canvas-in-ios/]]></guid>
     <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS Timer vs DispatchSourceTimer｜Safe Usage with Finite State Machine & Design Patterns]]></title>
+    <description><![CDATA[https://zhgchg.li/]]></description>
+    <link><![CDATA[https://zhgchg.li/posts/zrealm-dev/en/ios-timer-vs-dispatchsourcetimer-safe-usage-with-finite-state-machine-design-patterns-62f68ebeecd3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://zhgchg.li/posts/zrealm-dev/en/ios-timer-vs-dispatchsourcetimer-safe-usage-with-finite-state-machine-design-patterns-62f68ebeecd3/]]></guid>
+    <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -453,22 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Enabling Selection, Double-Click and Context Menus in SwiftUI List Rows on macOS]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-selection-double-click-and-context-menus-in-swiftui-list-on-macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-selection-double-click-and-context-menus-in-swiftui-list-on-macos/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Format Swift with a Git Commit Hook]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
