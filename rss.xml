@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Dec 2025 18:12:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 20:08:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS 26.3: Proximity Pairing in EU]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/23/ios-26-3-proximity-pairing-in-eu/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/23/ios-26-3-proximity-pairing-in-eu/]]></guid>
+    <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 299 - Imagination]]></title>
@@ -33,11 +41,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Italy Fines Apple Over App Tracking Transparency]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/22/italy-fines-apple-over-app-tracking-transparency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/22/italy-fines-apple-over-app-tracking-transparency/]]></guid>
-    <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+    <title><![CDATA[Mixing Swift and Lisp in Your iOS App - S7 Scheme]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/s7-scheme/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/s7-scheme/]]></guid>
+    <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-get-offset-for-a-specific-timezone-in-javascript/]]></guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Format Swift with a Git Commit Hook]]></title>
-    <description><![CDATA[https://useyourloaf.com/blog/]]></description>
-    <link><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/format-swift-with-a-git-commit-hook/]]></guid>
     <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
