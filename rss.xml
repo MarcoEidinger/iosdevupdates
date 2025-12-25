@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 25 Dec 2025 00:27:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 02:44:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Recognize a Genuine Mac Password Request]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/24/how-to-recognize-a-genuine-mac-password-request/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/24/how-to-recognize-a-genuine-mac-password-request/]]></guid>
+    <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mixing Swift and Clojure in Your iOS App - Scittle]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/scittle/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/scittle/]]></guid>
+    <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AI (Without the Hype)]]></title>
@@ -41,14 +57,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS 26.3: Proximity Pairing in EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/23/ios-26-3-proximity-pairing-in-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/23/ios-26-3-proximity-pairing-in-eu/]]></guid>
-    <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Package Manager Mirrors for Local Development]]></title>
     <description><![CDATA[https://kunat.dev/notes/]]></description>
     <link><![CDATA[https://kunat.dev/notes/spm-package-mirroring/]]></link>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/advent-of-code-cpp/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/advent-of-code-cpp/]]></guid>
-    <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mixing Swift and Lisp in Your iOS App - S7 Scheme]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/s7-scheme/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/s7-scheme/]]></guid>
     <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
