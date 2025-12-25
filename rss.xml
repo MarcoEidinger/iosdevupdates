@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 24 Dec 2025 22:08:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 00:27:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[AI (Without the Hype)]]></title>
@@ -25,18 +25,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
-    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[1 App, 20 Programming Languages (Part 1)]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></guid>
+    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
     <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -117,6 +117,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/debugging-swift-code-from-print-to-lldb/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/debugging-swift-code-from-print-to-lldb/]]></guid>
+    <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Understanding SwiftUI's Grid container]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-grid-container]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-grid-container]]></guid>
     <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/a-triple-negative-pretzel/]]></guid>
-    <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building iOS and Mac apps in Zed: SwiftUI Previews]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/swiftui-previews-in-zed/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/swiftui-previews-in-zed/]]></guid>
     <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
 </item>
 
