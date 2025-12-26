@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 26 Dec 2025 18:10:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 20:08:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[watchOS 26 Removed Offline Workout Voice Alerts]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2025/12/26/watchos-26-removed-offline-workout-voice-alerts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/26/watchos-26-removed-offline-workout-voice-alerts/]]></guid>
+    <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Storekit Subscriptions Understanding Monetization Models]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2025/12/26/storekit-subscriptions-understanding-monetization-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/12/26/storekit-subscriptions-understanding-monetization-models]]></guid>
+    <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Mac app notarization: The ghost of Xcode past?]]></title>
@@ -29,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2025/12/25/shinkansen-live-developing-the-app-for-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/12/25/shinkansen-live-developing-the-app-for-ios/]]></guid>
-    <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Recognize a Genuine Mac Password Request]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/24/how-to-recognize-a-genuine-mac-password-request/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/24/how-to-recognize-a-genuine-mac-password-request/]]></guid>
     <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
