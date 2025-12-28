@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 28 Dec 2025 18:10:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 20:08:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple’s Misunderstood (2013): A Holiday Ad About Perception]]></title>
@@ -113,18 +113,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
-    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[1 App, 20 Programming Languages (Part 1)]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></guid>
+    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
     <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
