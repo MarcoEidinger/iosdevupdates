@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 28 Dec 2025 12:11:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 14:09:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple’s Misunderstood (2013): A Holiday Ad About Perception]]></title>
@@ -35,8 +35,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[App Store Connect API Webhook｜Automate CI/CD Workflows Seamlessly]]></title>
     <description><![CDATA[https://zhgchg.li/]]></description>
-    <link><![CDATA[https://zhgchg.li/posts/zrealm-dev/en/app-store-connect-api-webhook-automate-ci-cd-workflows-seamlessly-7c0974856393/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://zhgchg.li/posts/zrealm-dev/en/app-store-connect-api-webhook-automate-ci-cd-workflows-seamlessly-7c0974856393/]]></guid>
+    <link><![CDATA[https://en.zhgchg.li/posts/zrealm-dev/app-store-connect-api-webhook-automate-ci-cd-workflows-seamlessly-7c0974856393/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.zhgchg.li/posts/zrealm-dev/app-store-connect-api-webhook-automate-ci-cd-workflows-seamlessly-7c0974856393/]]></guid>
     <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
