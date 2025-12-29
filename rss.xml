@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Dec 2025 18:10:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 20:08:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introduction to the Swift Subprocess Package]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/subprocess/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/subprocess/]]></guid>
+    <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Management is the wrong analogy for LLM augmentation]]></title>
@@ -65,6 +73,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Storekit Subscriptions Onboarding Experience]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2025/12/28/storekit-subscriptions-onboarding-experience]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/12/28/storekit-subscriptions-onboarding-experience]]></guid>
+    <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Traveling from NOVA to NYC pt. 2]]></title>
     <description><![CDATA[https://pietrorea.com/]]></description>
     <link><![CDATA[https://pietrorea.com/2025/12/28/traveling-from-nova-to-nyc-pt-2?utm_source=rss&utm_medium=rss]]></link>
@@ -93,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/myog-social-automatic-og-image-generation]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/myog-social-automatic-og-image-generation]]></guid>
-    <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Storekit Subscriptions Soft Vs Hard Paywalls]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2025/12/27/storekit-subscriptions-soft-vs-hard-paywalls]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2025/12/27/storekit-subscriptions-soft-vs-hard-paywalls]]></guid>
     <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -153,18 +161,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
-    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[1 App, 20 Programming Languages (Part 1)]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/code-dome/1-app-20-programming-languages-part-1]]></guid>
+    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Tuist in 2025: Building for the Long Game ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2025/12/24/wrapped]]></guid>
     <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://matteomanferdini.com/mvvm-coordinator-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/mvvm-coordinator-swiftui/]]></guid>
     <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reducing the Number of .sheet Modifiers in Your SwiftUI Views]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/reducing-sheet-modifiers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/reducing-sheet-modifiers/]]></guid>
-    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
