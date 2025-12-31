@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 31 Dec 2025 18:10:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 20:08:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Designing My Life OS: How I’m Using My iPhone, Habits, and Systems to Shape 2026]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://www.stphndxn.com/designing-my-life-os-how-im-using-my-iphone-habits-and-systems-to-shape-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/designing-my-life-os-how-im-using-my-iphone-habits-and-systems-to-shape-2026/]]></guid>
+    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[More Than Just Code Podcast: A 2025 Wrap-Up]]></title>
@@ -61,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2025/12/30/reasonably-necessary-external-purchase-fee/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/30/reasonably-necessary-external-purchase-fee/]]></guid>
+    <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 301 - Resolve]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/8536e2ca4f90/301-resolve]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/8536e2ca4f90/301-resolve]]></guid>
     <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
@@ -206,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://hboon.com/myog-social-automatic-og-image-generation]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/myog-social-automatic-og-image-generation]]></guid>
     <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 144 - Morals]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2025/144Morals.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2025/144Morals.html]]></guid>
-    <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://gioscalzo.com/blog/weekend-ios-ai-blog-analyzer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/weekend-ios-ai-blog-analyzer/]]></guid>
     <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lifecycle script permissions in pnpm]]></title>
-    <description><![CDATA[https://skagedal.tech/]]></description>
-    <link><![CDATA[https://skagedal.tech/posts/2025-11-29-npm-built-dependencies/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://skagedal.tech/posts/2025-11-29-npm-built-dependencies/]]></guid>
-    <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
