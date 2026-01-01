@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Jan 2026 18:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 20:09:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Year That Kicked My Ass]]></title>
+    <description><![CDATA[https://furbo.org]]></description>
+    <link><![CDATA[https://furbo.org/2026/01/01/the-year-that-kicked-my-ass/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/01/01/the-year-that-kicked-my-ass/]]></guid>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The State of Agentic iOS Engineering in 2026]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/the-state-of-agentic-ios-engineering-in-2026-c5f0cbaa7b34?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-state-of-agentic-ios-engineering-in-2026-c5f0cbaa7b34?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[2025 in review]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/2025-in-review]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/2025-in-review]]></guid>
     <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit]]></guid>
     <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[From Algorithms to Adventures]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/maze-adventures/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/maze-adventures/]]></guid>
-    <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How We Built an API Authorization System with a Protobuf Plugin and AI Assistance from proto file…]]></title>
-    <description><![CDATA[https://medium.com/@aymen.rebouh]]></description>
-    <link><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/eureka-engineering/how-we-built-an-api-authorization-system-with-a-protobuf-plugin-and-ai-assistance-from-proto-file-eba661cdad47?source=rss-82ceb7481588------2]]></guid>
-    <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
