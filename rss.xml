@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 02 Jan 2026 00:29:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 02:45:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Year in LLMs: 2025]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/01/the-year-in-llms-2025/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/01/the-year-in-llms-2025/]]></guid>
+    <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2025 → 2026: Neler oluyor?]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pietrorea.com/2026/01/01/2025-in-review?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2026/01/01/2025-in-review?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple LLM Generating SwiftUI]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2025/12/31/apple-llm-generating-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2025/12/31/apple-llm-generating-swiftui/]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
