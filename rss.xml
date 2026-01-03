@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 03 Jan 2026 10:07:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 12:11:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Intercepting SwiftUI Sheet Dismissal]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/intercepting-swiftui-sheet-dismissal/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/intercepting-swiftui-sheet-dismissal/]]></guid>
+    <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 145 - Storyteller]]></title>
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></guid>
-    <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple’s Misunderstood (2013): A Holiday Ad About Perception]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/blog/apples-misunderstood-2013-a-holiday-ad-about-perception/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/apples-misunderstood-2013-a-holiday-ad-about-perception/]]></guid>
     <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
