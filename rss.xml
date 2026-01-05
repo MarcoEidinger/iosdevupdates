@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Jan 2026 06:13:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 08:12:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Icon Composer: Transforming an AI-generated icon]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/workflow/icon-composer-transforming-an-ai-generated-icon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/icon-composer-transforming-an-ai-generated-icon/]]></guid>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Storing Swift structs in UserDefaults]]></title>
@@ -241,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftLee in 2025: A full year as an indie developer]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/general/swiftlee-in-2025-a-full-year-as-an-indie-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/general/swiftlee-in-2025-a-full-year-as-an-indie-developer/]]></guid>
-    <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to use Claude Code]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-claude-code/]]></link>
@@ -449,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[🩺 Analysing and Removing Hangs in iOS Apps 🧞‍♂️]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue63]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue63]]></guid>
-    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[10× faster Xcode CI builds with slot caching]]></title>
     <description><![CDATA[https://jeffverkoeyen.com/]]></description>
     <link><![CDATA[https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/rediscovering-extreme-programming-the-philosophy-behind-modern-agile-fe94034b4eb7?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/rediscovering-extreme-programming-the-philosophy-behind-modern-agile-fe94034b4eb7?source=rss-63310a0d2b01------2]]></guid>
+    <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Top 10 Essential Albums]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></guid>
     <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
