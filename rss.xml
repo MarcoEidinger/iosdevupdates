@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Jan 2026 14:09:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 16:10:24 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[2026: When AI Fades into the Workflow, Are You Ready? - Fatbobman's Swift Weekly #117]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jsorge.net/]]></description>
     <link><![CDATA[https://jsorge.net/2026/01/04/from-zero-to-app-in-18-hours]]></link>
     <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/01/04/from-zero-to-app-in-18-hours]]></guid>
+    <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Writing a simple bazel rule]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></guid>
     <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
     <link><![CDATA[https://lazarevzubov.medium.com/rediscovering-extreme-programming-the-philosophy-behind-modern-agile-fe94034b4eb7?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/rediscovering-extreme-programming-the-philosophy-behind-modern-agile-fe94034b4eb7?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Top 10 Essential Albums]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/Top-10-essential-albums]]></guid>
     <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
