@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Jan 2026 16:10:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 18:11:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My hope for Safari extensions in 2026]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/1.html]]></guid>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2026: When AI Fades into the Workflow, Are You Ready? - Fatbobman's Swift Weekly #117]]></title>
@@ -318,14 +326,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://jeffmorhous.com/learn-to-program-with-ai]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffmorhous.com/learn-to-program-with-ai]]></guid>
     <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac app notarization: The ghost of Xcode past?]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2025/12/6.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2025/12/6.html]]></guid>
-    <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
