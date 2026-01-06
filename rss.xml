@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Jan 2026 18:11:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 20:08:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Supporting SwiftUI Sidebar Selection with Multiple Data Types]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/sidebar-selection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/sidebar-selection/]]></guid>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build.ms: Making Technology Accessible To Everyone]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/1/6/making-technology-accessible-to-everyone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/1/6/making-technology-accessible-to-everyone/]]></guid>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Notes]]></title>
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introduction to the Swift Subprocess Package]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/subprocess/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/subprocess/]]></guid>
-    <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Management is the wrong analogy for LLM augmentation]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2025/12/management-is-the-wrong-analogy-for-llm-augmentation/]]></link>
@@ -358,14 +366,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rodschmidt.com/posts/scittle/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/scittle/]]></guid>
     <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI (Without the Hype)]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2025/12/24/ai-without-the-hype-ns-spain-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2025/12/24/ai-without-the-hype-ns-spain-2025/]]></guid>
-    <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
