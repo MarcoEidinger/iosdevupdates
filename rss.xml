@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Jan 2026 20:08:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 22:09:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Clicks Communicator and Clicks Power Keyboard]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/06/clicks-communicator-and-clicks-power-keyboard/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/06/clicks-communicator-and-clicks-power-keyboard/]]></guid>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Supporting SwiftUI Sidebar Selection with Multiple Data Types]]></title>
@@ -33,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Organ Donation & Pascal's Wager]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2026/01/07/organ-donation-and-pascals-wager/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/01/07/organ-donation-and-pascals-wager/]]></guid>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[InlineArray in Swift - Memory Efficient Fixed-Size Arrays]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/inlinearray-in-swift/]]></link>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@victorbaro]]></description>
     <link><![CDATA[https://medium.com/@victorbaro/metalgraph-a-new-way-of-working-with-metal-shaders-for-swiftui-bed1cf1a2b81?source=rss-11fcfb2d5448------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/metalgraph-a-new-way-of-working-with-metal-shaders-for-swiftui-bed1cf1a2b81?source=rss-11fcfb2d5448------2]]></guid>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[NetNewsWire Moves to Discourse]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/01/05/netnewswire-moves-to-discourse/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/05/netnewswire-moves-to-discourse/]]></guid>
     <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jsorge.net/]]></description>
     <link><![CDATA[https://jsorge.net/2026/01/04/from-zero-to-app-in-18-hours]]></link>
     <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/01/04/from-zero-to-app-in-18-hours]]></guid>
-    <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Writing a simple bazel rule]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></guid>
     <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
