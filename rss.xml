@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Jan 2026 10:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 12:14:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Will AI Replace Junior Developers? The Question We’re Asking Wrong]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/blog/will-ai-replace-junior-developers-the-question-were-asking-wrong/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/will-ai-replace-junior-developers-the-question-were-asking-wrong/]]></guid>
+    <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Clicks Communicator and Clicks Power Keyboard]]></title>
@@ -81,14 +89,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[2026: When AI Fades into the Workflow, Are You Ready? - Fatbobman's Swift Weekly #117]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-117/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-117/]]></guid>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[🎉 2025 Year-in-Review 📋]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue64]]></link>
@@ -145,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Writing a simple bazel rule]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/04/writing-a-simple-bazel-rule.html]]></guid>
-    <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS Certificates, Identifiers & Profiles Explained｜Fastlane Match for Unified Certificate Management in CI/CD]]></title>
     <description><![CDATA[https://en.zhgchg.li]]></description>
     <link><![CDATA[https://en.zhgchg.li/posts/zrealm-dev/ios-certificates-identifiers-profiles-explained-fastlane-match-for-unified-certificate-management-in-ci-cd-823ac523ccc8/]]></link>
@@ -165,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Blog/2026/01/03-PenAndPaper.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Blog/2026/01/03-PenAndPaper.html]]></guid>
-    <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Intercepting SwiftUI Sheet Dismissal]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/intercepting-swiftui-sheet-dismissal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/intercepting-swiftui-sheet-dismissal/]]></guid>
     <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +462,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danijelavrzan.com/posts/2025/12/strings-localized-in-a-single-file/]]></link>
     <guid isPermaLink="true"><![CDATA[https://danijelavrzan.com/posts/2025/12/strings-localized-in-a-single-file/]]></guid>
     <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From broken to testable SwiftUI navigation: The decoupled approach of MVVM with coordinators]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/mvvm-coordinator-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/mvvm-coordinator-swiftui/]]></guid>
+    <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[10× faster Xcode CI builds with slot caching]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2025/12/15/SlotWarmedCaching/]]></guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
