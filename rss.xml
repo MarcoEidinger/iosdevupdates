@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 07 Jan 2026 18:13:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 20:09:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What software engineers bring to AI-assisted software development]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2026/01/what-software-engineers-bring-to-ai-assisted-software-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/01/what-software-engineers-bring-to-ai-assisted-software-development/]]></guid>
+    <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Myths about Logitech Developer ID certificate expiration]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/running-swift-on-mcu/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/running-swift-on-mcu/]]></guid>
+    <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Economics of AI (Part I)]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/1/7/economics-of-ai-part-i/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/7/economics-of-ai-part-i/]]></guid>
     <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/sidebar-selection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/sidebar-selection/]]></guid>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build.ms: Making Technology Accessible To Everyone]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/1/6/making-technology-accessible-to-everyone/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/1/6/making-technology-accessible-to-everyone/]]></guid>
     <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -398,14 +406,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/upcoming-conference-talk/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/upcoming-conference-talk/]]></guid>
     <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Never use Apple gift cards]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2025/12/never-use-apple-gift-cards/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2025/12/never-use-apple-gift-cards/]]></guid>
-    <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 <item>
