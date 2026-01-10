@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 Jan 2026 00:27:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 02:41:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Slow iOS 26 Adoption]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2026/01/09/keyboardkit-10-2]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/01/09/keyboardkit-10-2]]></guid>
+    <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[You Probably Need More Vitamin D]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2026/01/09/you-probably-need-more-vitamin-d/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/01/09/you-probably-need-more-vitamin-d/]]></guid>
     <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Organ Donation & Pascal's Wager]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2026/01/07/organ-donation-and-pascals-wager/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/01/07/organ-donation-and-pascals-wager/]]></guid>
     <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
