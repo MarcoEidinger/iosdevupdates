@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 10 Jan 2026 22:07:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 00:31:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Detecting text in images with the Vision framework]]></title>
@@ -222,6 +222,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/01/03/storekit-handling-purchases]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/01/03/storekit-handling-purchases]]></guid>
     <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to deploy TestFlight app from Codex Web automatically]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/A-Month-of-Marketing-Recap]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/A-Month-of-Marketing-Recap]]></guid>
     <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes on Memory for Products]]></title>
-    <description><![CDATA[https://medium.com/@alexandercohen]]></description>
-    <link><![CDATA[https://medium.com/@alexandercohen/notes-on-memory-for-products-db15cdc17083?source=rss-11158e34626c------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@alexandercohen/notes-on-memory-for-products-db15cdc17083?source=rss-11158e34626c------2]]></guid>
-    <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
