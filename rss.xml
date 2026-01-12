@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Jan 2026 08:11:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 10:11:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Agent Skills explained: Replacing AGENTS.md with reusable AI knowledge]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/]]></guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Trials and Tribulations of a Blog Engine Update]]></title>
@@ -29,6 +37,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/the-anatomy-of-strong-teams-in-the-age-of-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/the-anatomy-of-strong-teams-in-the-age-of-ai/]]></guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode Templates Explained - Speed Up iOS Development by Eliminating Boilerplate]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/xcode-file-templates-ios-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xcode-file-templates-ios-development/]]></guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ From reactive to proactive with the new Slack integration ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/01/12/slack-integration]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/01/12/slack-integration]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[InlineArray in Swift - Memory Efficient Fixed-Size Arrays]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/inlinearray-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/inlinearray-in-swift/]]></guid>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[MetalGraph: a new way of working with Metal shaders for SwiftUI]]></title>
     <description><![CDATA[https://medium.com/@victorbaro]]></description>
     <link><![CDATA[https://medium.com/@victorbaro/metalgraph-a-new-way-of-working-with-metal-shaders-for-swiftui-bed1cf1a2b81?source=rss-11fcfb2d5448------2]]></link>
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue64]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue64]]></guid>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Icon Composer: Transforming an AI-generated icon]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/workflow/icon-composer-transforming-an-ai-generated-icon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/workflow/icon-composer-transforming-an-ai-generated-icon/]]></guid>
     <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/how-to-deploy-testflight-app-from-codex-web-automatically-1de715248269?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Evolving Previews With the Tuist SDK and Tracks ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/01/02/previews-sdk-and-tracks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/01/02/previews-sdk-and-tracks]]></guid>
     <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
