@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Jan 2026 20:09:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 22:10:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Picks Gemini]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/3.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/3.html]]></guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Gemini × Foundation Models]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/1/12/apple-google-gemini-foundation-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/12/apple-google-gemini-foundation-models/]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2026/01/cksyncengine/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/01/cksyncengine/]]></guid>
-    <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Economics of AI (Part I)]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/notes/2026/1/7/economics-of-ai-part-i/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/7/economics-of-ai-part-i/]]></guid>
     <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
