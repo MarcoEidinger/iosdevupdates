@@ -6,21 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Jan 2026 16:12:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 18:12:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A sternly worded blog]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/5.html]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ultimate Guide to Debugging iOS App Storage]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 303 - Habit]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/9e95787b0978/303-habit]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/9e95787b0978/303-habit]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS Tahoe broke Finder columns view]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/4.html]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -37,6 +45,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Rendering Markdown in SwiftUI]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/rendering-markdown-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/rendering-markdown-in-swiftui]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The return of WYSIWYG]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,30 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></guid>
     <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Closing the Loop on iOS with Claude Code]]></title>
-    <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
-    <link><![CDATA[https://twocentstudios.com/2025/12/27/closing-the-loop-on-ios-with-claude-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2025/12/27/closing-the-loop-on-ios-with-claude-code/]]></guid>
-    <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[You should still bother to learn to actually program]]></title>
-    <description><![CDATA[https://jeffmorhous.com]]></description>
-    <link><![CDATA[https://jeffmorhous.com/learn-to-program-with-ai]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffmorhous.com/learn-to-program-with-ai]]></guid>
-    <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mixing Swift and Clojure in Your iOS App - Scittle]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/scittle/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/scittle/]]></guid>
-    <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
