@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Jan 2026 18:12:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 20:09:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Creator Studio]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/13/apple-creator-studio/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/13/apple-creator-studio/]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A sternly worded blog]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-checklist-theme/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-checklist-theme/]]></guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Picks Gemini]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/01/12/apple-picks-gemini/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/12/apple-picks-gemini/]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
