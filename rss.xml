@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Jan 2026 04:24:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 06:11:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Defining custom string interpolation behavior in Swift]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Time Out checklist theme]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rodschmidt.com/posts/scittle/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/scittle/]]></guid>
     <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Package Manager Mirrors for Local Development]]></title>
-    <description><![CDATA[https://kunat.dev/notes/]]></description>
-    <link><![CDATA[https://kunat.dev/notes/spm-package-mirroring/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kunat.dev/notes/spm-package-mirroring/]]></guid>
-    <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
