@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Jan 2026 08:10:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 10:10:21 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Time Lock, New Premium Feature]]></title>
@@ -81,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Compiler Changes the Easy Way]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The return of WYSIWYG]]></title>
     <description><![CDATA[https://jeffverkoeyen.com/]]></description>
     <link><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></link>
     <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Compiler Changes the Easy Way]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
