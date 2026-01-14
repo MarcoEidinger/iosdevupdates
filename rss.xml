@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Jan 2026 06:12:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 08:10:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Time Lock, New Premium Feature]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/thoughts/time-lock-new-premium-feature/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/thoughts/time-lock-new-premium-feature/]]></guid>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Japanese reading problem that finally made me build my own app]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/japanese-reading-problem/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/japanese-reading-problem/]]></guid>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Creator Studio]]></title>
@@ -65,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The return of WYSIWYG]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Compiler Changes the Easy Way]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The return of WYSIWYG]]></title>
+    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
+    <link><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -433,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Still using Firefox — but not because of its vision]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/stuck-with-firefox/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/stuck-with-firefox/]]></guid>
-    <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to use Claude Code]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-claude-code/]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.cocoawithlove.com/blog/llms-twelve-months-later.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.cocoawithlove.com/blog/llms-twelve-months-later.html]]></guid>
     <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shipping at Inference-Speed]]></title>
-    <description><![CDATA[https://steipete.me/]]></description>
-    <link><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2025/shipping-at-inference-speed/]]></guid>
-    <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
