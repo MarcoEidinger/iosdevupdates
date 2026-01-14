@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Jan 2026 20:07:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 22:08:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bulk Setting “Catch Up Automatically” in OmniFocus]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/14/bulk-setting-catch-up-automatically-in-omnifocus/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/14/bulk-setting-catch-up-automatically-in-omnifocus/]]></guid>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Josh Scott on Neural DSP and John Mayer Breaking the Guitar World]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/japanese-reading-problem/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/japanese-reading-problem/]]></guid>
     <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Creator Studio]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/01/13/apple-creator-studio/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/13/apple-creator-studio/]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
