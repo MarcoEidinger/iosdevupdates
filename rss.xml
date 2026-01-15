@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 Jan 2026 18:14:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 20:10:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Yale Environment 360: Photos Capture the Breathtaking Scale of China’s Wind and Solar Buildout]]></title>
@@ -29,6 +29,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/6.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/6.html]]></guid>
+    <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tools I Love: mise (mise-en-place)
+]]></title>
+    <description><![CDATA[https://blog.eliperkins.me/]]></description>
+    <link><![CDATA[https://blog.eliperkins.com/tools-i-love-mise]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/tools-i-love-mise]]></guid>
     <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/2025]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/2025]]></guid>
-    <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fucking Approachable Swift Concurrency]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-fucking-approachable-swift-concurrency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-fucking-approachable-swift-concurrency/]]></guid>
     <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
