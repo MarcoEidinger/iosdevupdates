@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 Jan 2026 20:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 22:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Closing Setapp Mobile Marketplace]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/15/closing-setapp-mobile-marketplace/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/15/closing-setapp-mobile-marketplace/]]></guid>
+    <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Yale Environment 360: Photos Capture the Breathtaking Scale of China’s Wind and Solar Buildout]]></title>
@@ -33,8 +41,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tools I Love: mise (mise-en-place)
-]]></title>
+    <title><![CDATA[Tools I Love: mise (mise-en-place)]]></title>
     <description><![CDATA[https://blog.eliperkins.me/]]></description>
     <link><![CDATA[https://blog.eliperkins.com/tools-i-love-mise]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/tools-i-love-mise]]></guid>
@@ -46,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/01/14/universal-links-at-scale-the-challenges-nobody-talks-about/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/01/14/universal-links-at-scale-the-challenges-nobody-talks-about/]]></guid>
-    <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Bulk Setting “Catch Up Automatically” in OmniFocus]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/01/14/bulk-setting-catch-up-automatically-in-omnifocus/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/14/bulk-setting-catch-up-automatically-in-omnifocus/]]></guid>
     <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
