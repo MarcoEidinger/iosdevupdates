@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 16 Jan 2026 20:10:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 22:09:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Updated Time Out YouTube-based themes]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/updated-time-out-youtube-based-themes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/updated-time-out-youtube-based-themes/]]></guid>
+    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Apple Watch SE 3 Experience]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/01/16/my-apple-watch-se-3-experience/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/16/my-apple-watch-se-3-experience/]]></guid>
+    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Crafting document-based apps in SwiftUI]]></title>
@@ -25,6 +41,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[@_exported import VS public import]]></title>
+    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
+    <link><![CDATA[https://alexanderweiss.dev/blog/2026-01-16-exported-import-vs-public-import]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2026-01-16-exported-import-vs-public-import]]></guid>
+    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Gardening]]></title>
     <description><![CDATA[https://blog.eliperkins.me/]]></description>
     <link><![CDATA[https://blog.eliperkins.com/gardening]]></link>
@@ -37,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></guid>
-    <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Closing Setapp Mobile Marketplace]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/01/15/closing-setapp-mobile-marketplace/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/15/closing-setapp-mobile-marketplace/]]></guid>
     <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -150,14 +166,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/compiler-changes-the-easy-way/]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Time Out checklist theme]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/time-out-checklist-theme/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-checklist-theme/]]></guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -429,14 +437,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/replay]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/replay]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adaptive sheet presentation in SwiftUI]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2025-12-30-adaptive-sheet-presentation-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2025-12-30-adaptive-sheet-presentation-in-swiftui]]></guid>
     <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
