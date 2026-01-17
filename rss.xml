@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 17 Jan 2026 20:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 22:09:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to install GitHub action runner on EC2 Mac]]></title>
@@ -185,10 +185,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Claude Cowork]]></title>
+    <title><![CDATA[Gemini × Foundation Models]]></title>
     <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/notes/2026/1/12/claude-cowork/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/12/claude-cowork/]]></guid>
+    <link><![CDATA[https://build.ms/notes/2026/1/12/apple-google-gemini-foundation-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/12/apple-google-gemini-foundation-models/]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
