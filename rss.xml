@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 Jan 2026 16:08:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 18:10:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Backseat Software]]></title>
+    <description><![CDATA[https://blog.mikeswanson.com/]]></description>
+    <link><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></guid>
+    <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introduction to aspects in Bazel]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/replay]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/replay]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Best of 2025]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></guid>
     <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
