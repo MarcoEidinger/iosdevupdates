@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 18 Jan 2026 14:07:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 16:08:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Introduction to aspects in Bazel]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/01/18/introduction-to-aspects-in-bazel.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/18/introduction-to-aspects-in-bazel.html]]></guid>
+    <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Shift]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/The-Shift-Using-AI-As-A-Developer-Advocate-And-Engineer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Shift-Using-AI-As-A-Developer-Advocate-And-Engineer]]></guid>
     <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2025]]></title>
-    <description><![CDATA[https://soff.es/blog/]]></description>
-    <link><![CDATA[https://soff.es/blog/2025]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soff.es/blog/2025]]></guid>
     <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
