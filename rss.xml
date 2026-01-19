@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Jan 2026 06:14:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 08:12:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Modularity as an Architectural Choice]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/01/18/introduction-to-aspects-in-bazel.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/18/introduction-to-aspects-in-bazel.html]]></guid>
+    <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Agents - Close the loop for mobile apps]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/2026-01-18_ai-agents-close-the-loop-for-mobile-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-01-18_ai-agents-close-the-loop-for-mobile-apps/]]></guid>
     <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/01/configuring-your-computer-for-local-inference-with-a-generative-ai-coding-assistant/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/01/configuring-your-computer-for-local-inference-with-a-generative-ai-coding-assistant/]]></guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[🆕 Kicking Off a New Series on Rive for iOS ✅]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue65]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue65]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
