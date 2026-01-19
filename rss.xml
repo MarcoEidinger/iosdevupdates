@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Jan 2026 04:28:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 06:14:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Modularity as an Architectural Choice]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/modularity-as-an-architectural-choice/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/modularity-as-an-architectural-choice/]]></guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Observation Framework Explained - Using @Observable in iOS 17]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-observation-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-observation-framework/]]></guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Backseat Software]]></title>
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/crafting-document-based-apps-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/crafting-document-based-apps-in-swiftui/]]></guid>
-    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Foundation Models Prompting Guide]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/foundation-models-prompting-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/foundation-models-prompting-guide/]]></guid>
     <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nshipster.com]]></description>
     <link><![CDATA[https://nshipster.com/replay]]></link>
     <guid isPermaLink="true"><![CDATA[https://nshipster.com/replay]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Best of 2025]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2025/12/31/best_of_2025]]></guid>
     <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
