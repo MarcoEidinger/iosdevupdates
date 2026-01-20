@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Jan 2026 10:11:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 12:14:14 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Avoid Double Updates When Filtering SwiftUI TextField Input]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/]]></guid>
+    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The unexpected @Binding side effect]]></title>
+    <description><![CDATA[https://swiftunwrap.com]]></description>
+    <link><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></guid>
     <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://www.stphndxn.com/designing-my-life-os-how-im-using-my-iphone-habits-and-systems-to-shape-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.stphndxn.com/designing-my-life-os-how-im-using-my-iphone-habits-and-systems-to-shape-2026/]]></guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[More Than Just Code Podcast: A 2025 Wrap-Up]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/more-than-just-code-podcast-a-2025-wrap-up/?utm_source=rss&utm_medium=rss&utm_campaign=more-than-just-code-podcast-a-2025-wrap-up]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/more-than-just-code-podcast-a-2025-wrap-up/?utm_source=rss&utm_medium=rss&utm_campaign=more-than-just-code-podcast-a-2025-wrap-up]]></guid>
     <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 
