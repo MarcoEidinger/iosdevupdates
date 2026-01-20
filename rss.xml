@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Jan 2026 22:08:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 00:29:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Does Software Piracy Exist?]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2026/1/does_software_piracy_exist.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/1/does_software_piracy_exist.html]]></guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building AI Moats: Anthropic’s Crackdown and the Apple-Google Alliance - Fatbobman's Swift Weekly #119]]></title>
@@ -53,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue66]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue66]]></guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use String Catalogs for pluralization in Swift]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-string-catalogs-pluralization]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-string-catalogs-pluralization]]></guid>
     <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -149,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></guid>
-    <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Yale Environment 360: Photos Capture the Breathtaking Scale of China’s Wind and Solar Buildout]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2026/1/photos_of_china_solar_buildout.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/1/photos_of_china_solar_buildout.html]]></guid>
     <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +277,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jsorge.net/]]></description>
     <link><![CDATA[https://jsorge.net/2026/01/11/maverick-updates-amidst-grief]]></link>
     <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/01/11/maverick-updates-amidst-grief]]></guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Memory management in Combine]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/combine-memory-management]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-memory-management]]></guid>
     <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
