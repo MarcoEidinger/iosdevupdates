@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Jan 2026 14:10:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 16:11:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 26.1 new feature: Resize columns to fit filenames]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/8.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/8.html]]></guid>
+    <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR]]></title>
@@ -25,6 +33,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Highlighting code blocks in Markdown with SwiftSyntax]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax]]></guid>
+    <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[LosslessCut 1.13]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/01/22/losslesscut-1-13/]]></link>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></guid>
-    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mobile Safari web pages are severely limited by memory]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/1/7.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/1/7.html]]></guid>
     <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -309,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rendering Markdown in SwiftUI]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/rendering-markdown-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/rendering-markdown-in-swiftui]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
