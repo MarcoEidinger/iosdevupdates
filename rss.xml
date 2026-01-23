@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Jan 2026 18:12:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 20:10:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 26.1 new feature: Resize columns to fit filenames]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/01/creating-sub-agents-with-mistral-vibe/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/01/creating-sub-agents-with-mistral-vibe/]]></guid>
+    <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The One Skill Siri Needs]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/1/23/the-one-skill-siri-needs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/23/the-one-skill-siri-needs/]]></guid>
     <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/letting-swift-closures-automatically-inherit-isolation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/letting-swift-closures-automatically-inherit-isolation/]]></guid>
-    <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Democratization of AI]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/1/21/the-democratization-of-ai/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/1/21/the-democratization-of-ai/]]></guid>
     <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
