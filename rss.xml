@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 25 Jan 2026 22:08:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 00:32:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AI App Development: What I Learned in One Month]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/ai-app-development-what-i-learned-in-one-month/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/ai-app-development-what-i-learned-in-one-month/]]></guid>
+    <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Utilizing Bazel aspect_hints rule attribute]]></title>
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/a-deep-dive-into-swiftdata-migrations/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/a-deep-dive-into-swiftdata-migrations/]]></guid>
-    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[11 Things I learned after using AI Agents full-time]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/11-things-i-learned-after-using-ai-agents-full-time/]]></guid>
     <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
