@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Jan 2026 10:11:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 12:14:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AI Agents Are Starting To Eat SaaS (Really)]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/1/26/ai-agents-are-starting-to-eat-saas-really/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/1/26/ai-agents-are-starting-to-eat-saas-really/]]></guid>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[✅ Part 3 of Start building with Rive for iOS]]></title>
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/01/21/email-from-minnesota-family.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/01/21/email-from-minnesota-family.html]]></guid>
-    <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[isolated(any) and #isolation: Letting Swift Closures Automatically Inherit Isolation]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/letting-swift-closures-automatically-inherit-isolation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/letting-swift-closures-automatically-inherit-isolation/]]></guid>
     <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
