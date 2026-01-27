@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Jan 2026 04:27:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 06:12:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Static, Dynamic, and Mergeable Linking in Modular iOS Apps]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/static-dynamic-and-mergeable-linking-in-modular-ios-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/static-dynamic-and-mergeable-linking-in-modular-ios-apps/]]></guid>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Versatility of Tasks]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/01/26/airtag-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/01/26/airtag-2026/]]></guid>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Announcing the Windows Workgroup]]></title>
+    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
+    <link><![CDATA[https://peterspath.net/blog/dev-swift-announcing-windows-workgroup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-announcing-windows-workgroup/]]></guid>
     <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -177,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Improving the usability of C libraries in Swift]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-swift-improving-usability-of-c-libraries-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-swift-improving-usability-of-c-libraries-in-swift/]]></guid>
-    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Restoring the traditional icon-based tab bar on iPad with Liquid Glass]]></title>
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></link>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Avoid Double Updates When Filtering SwiftUI TextField Input]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/how-to-avoid-double-updates-when-filtering-swiftui-textfield-input/]]></guid>
     <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -382,14 +382,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></guid>
     <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ultimate Guide to Debugging iOS App Storage]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
