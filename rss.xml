@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Jan 2026 12:14:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 14:15:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Sharing content among apps using AppEntity and Transferable protocol]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/sharing-content-among-apps-using-appentity-and-transferable-protocol/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/sharing-content-among-apps-using-appentity-and-transferable-protocol/]]></guid>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Static, Dynamic, and Mergeable Linking in Modular iOS Apps]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/static-dynamic-and-mergeable-linking-in-modular-ios-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/static-dynamic-and-mergeable-linking-in-modular-ios-apps/]]></guid>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[qmd for faster Obsidian search]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></guid>
     <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[K.I.T.E. UX: The First Spatial Ergonomics Benchmark for XR]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/k-i-t-e-ux-the-first-spatial-ergonomics-benchmark-for-xr/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/k-i-t-e-ux-the-first-spatial-ergonomics-benchmark-for-xr/]]></guid>
-    <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Creating “sub-agents” with Mistral Vibe]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/01/creating-sub-agents-with-mistral-vibe/]]></link>
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.mikeswanson.com/]]></description>
     <link><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></guid>
-    <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Agents - Close the loop for mobile apps]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/2026-01-18_ai-agents-close-the-loop-for-mobile-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-01-18_ai-agents-close-the-loop-for-mobile-apps/]]></guid>
     <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
