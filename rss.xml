@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 28 Jan 2026 16:15:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 18:13:07 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Deconstructing Reality Composer Pro (Document Type)]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/blog/when-math-draws-a-hard-line-for-large-language-models/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/when-math-draws-a-hard-line-for-large-language-models/]]></guid>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 305 - Action]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/eb6f76471a1e/305-action]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/eb6f76471a1e/305-action]]></guid>
     <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 304 - Attention]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/84ae588a99e9/304-attention]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/84ae588a99e9/304-attention]]></guid>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
