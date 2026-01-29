@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Jan 2026 18:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2026 20:11:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How do you comparison shop in the App Store?]]></title>
@@ -273,6 +273,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Problem with Enums]]></title>
+    <description><![CDATA[https://snopia.net/en]]></description>
+    <link><![CDATA[https://snopia.net/en/blog/the-problem-with-enums]]></link>
+    <guid isPermaLink="true"><![CDATA[https://snopia.net/en/blog/the-problem-with-enums]]></guid>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Email from Family in Minnesota]]></title>
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/01/21/email-from-minnesota-family.html]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2026/01/10/i-should-blog-more/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/01/10/i-should-blog-more/]]></guid>
     <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA["Why Does Test-Driven Development Work So Well In 'AI'-assisted Programming?"]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2026/01/why-does-test-driven-development-work-so-well-in-ai-assisted-programming/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/01/why-does-test-driven-development-work-so-well-in-ai-assisted-programming/]]></guid>
-    <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
