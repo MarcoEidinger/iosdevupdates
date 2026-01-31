@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 31 Jan 2026 12:13:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 14:09:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to make scale to fill NSImageView with remote Kingfisher image]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-make-scale-to-fill-nsimageview-with-remote-kingfisher-image/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-scale-to-fill-nsimageview-with-remote-kingfisher-image/]]></guid>
+    <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple’s Q1 2026 Results]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2026/designing-swift-errors-for-an-sdk]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2026/designing-swift-errors-for-an-sdk]]></guid>
-    <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to bulb delete GitLab artifacts using GraphQL API]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-bulb-delete-gitlab-artifacts-using-graphql-api/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-bulb-delete-gitlab-artifacts-using-graphql-api/]]></guid>
     <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
