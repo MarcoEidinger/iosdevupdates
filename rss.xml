@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Feb 2026 08:11:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 10:09:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Executing actions from Bazel aspects]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/02/01/executing-actions-from-bazel-aspects.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/02/01/executing-actions-from-bazel-aspects.html]]></guid>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2025 in books]]></title>
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/combine-operators-cheatsheet]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/combine-operators-cheatsheet]]></guid>
-    <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Utilizing Bazel aspect_hints rule attribute]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/01/25/utilizing-bazel-aspecthints-rule-attribute.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/01/25/utilizing-bazel-aspecthints-rule-attribute.html]]></guid>
     <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
