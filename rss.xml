@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Feb 2026 14:21:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 16:14:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Birds of Sanibel Island]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Shifting Light, Unchanging Haystacks - Fatbobman's Swift Weekly #121]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Supporting Markdown Search For LLMs]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/2/2/supporting-markdown-search-for-llms/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/2/2/supporting-markdown-search-for-llms/]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://twocentstudios.com/blog/tags/apple/index.html]]></description>
     <link><![CDATA[https://twocentstudios.com/2026/01/29/print-design-mindset/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2026/01/29/print-design-mindset/]]></guid>
-    <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updating Your Website For Generative Engine Optimization]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/notes/2026/1/29/updating-your-website-for-generative-engine-optimization/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/1/29/updating-your-website-for-generative-engine-optimization/]]></guid>
     <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></guid>
     <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Defining custom string interpolation behavior in Swift]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
