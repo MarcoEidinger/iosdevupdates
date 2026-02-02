@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Feb 2026 12:18:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 14:21:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shifting Light, Unchanging Haystacks - Fatbobman's Swift Weekly #121]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-121/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-121/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Deconstructing Reality Composer Pro (Viewport)]]></title>
+    <description><![CDATA[https://www.elkraneo.com/]]></description>
+    <link><![CDATA[https://www.elkraneo.com/deconstructing-reality-composer-pro-viewport/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/deconstructing-reality-composer-pro-viewport/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Agent Skill: Build better views with AI]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A WhatsApp-style top banner for iOS using UIWindow]]></title>
@@ -21,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue68]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue68]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Deployment Pipelines for Mobile SDKs — Part 3]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/migrating-an-ios-app-from-paid-up-front-to-freemium/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/migrating-an-ios-app-from-paid-up-front-to-freemium/]]></guid>
-    <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deconstructing Reality Composer Pro (Project Browser)]]></title>
-    <description><![CDATA[https://www.elkraneo.com/]]></description>
-    <link><![CDATA[https://www.elkraneo.com/deconstructing-reality-composer-pro-project-browser/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.elkraneo.com/deconstructing-reality-composer-pro-project-browser/]]></guid>
     <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -286,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/app-wide-theming-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/app-wide-theming-swiftui/]]></guid>
     <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI App Development: What I Learned in One Month]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/ai-app-development-what-i-learned-in-one-month/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/ai-app-development-what-i-learned-in-one-month/]]></guid>
-    <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DefiningCustomStringInterpolationBehaviorInSwift]]></guid>
     <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The return of WYSIWYG]]></title>
-    <description><![CDATA[https://jeffverkoeyen.com/]]></description>
-    <link><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Top Teams Trust AI To Maintain Development Standards And Code Quality?]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/why-top-teams-trust-ai-to-maintain-development-standards-and-code-quality/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/why-top-teams-trust-ai-to-maintain-development-standards-and-code-quality/]]></guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
