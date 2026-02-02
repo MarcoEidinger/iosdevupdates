@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Feb 2026 03:08:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 04:47:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Skills Are the Missing Piece in My AI Coding Workflow]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/skills-are-the-missing-piece-in-my-ai-coding-workflow]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/skills-are-the-missing-piece-in-my-ai-coding-workflow]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue 089: Ruby]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple’s MacBook Pro DFU port documentation is wrong]]></title>
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How I Set Up Droid, Claude Code, and Codex with Shared Configuration]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/my-coding-agent-setup]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/my-coding-agent-setup]]></guid>
-    <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Highlighting code blocks in Markdown with SwiftSyntax]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/highlighting-code-blocks-in-markdown-with-swiftsyntax]]></link>
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/01/14/swiftui-architecture-book]]></guid>
     <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ultimate Guide to Debugging iOS App Storage]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/ultimate-guide-to-debugging-ios-app-storage-159b0c798f82?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
