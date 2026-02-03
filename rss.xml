@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Feb 2026 10:18:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 12:18:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Save URLs to Apple Reminders the Right Way]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/save-urls-to-apple-reminders-the-right-way]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/save-urls-to-apple-reminders-the-right-way]]></guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Codex App]]></title>
@@ -21,14 +29,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
     <link><![CDATA[https://nemecek.be/blog/214/new-friendly-place-to-share-updates-about-your-indie-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/214/new-friendly-place-to-share-updates-about-your-indie-apps]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Birds of Sanibel Island]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Skills Are the Missing Piece in My AI Coding Workflow]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/skills-are-the-missing-piece-in-my-ai-coding-workflow]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/skills-are-the-missing-piece-in-my-ai-coding-workflow]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cabel.com/woz-vs-wooz/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/woz-vs-wooz/]]></guid>
     <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Time Lock, New Premium Feature]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/thoughts/time-lock-new-premium-feature/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/thoughts/time-lock-new-premium-feature/]]></guid>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
