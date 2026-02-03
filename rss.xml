@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Feb 2026 18:24:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 20:16:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Agentic coding in Xcode 26.3]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/blog/agentic-coding-in-xcode-26-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/agentic-coding-in-xcode-26-3/]]></guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[No Such Thing as Speed of Light]]></title>
+    <description><![CDATA[http://www.russbishop.net]]></description>
+    <link><![CDATA[http://www.russbishop.net/no-such-thing-as-speed-of-light]]></link>
+    <guid isPermaLink="true"><![CDATA[http://www.russbishop.net/no-such-thing-as-speed-of-light]]></guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tahoe NSTableView Scrolling Bug]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/02/03/tahoe-nstableview-scrolling-bug/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/03/tahoe-nstableview-scrolling-bug/]]></guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Beyond the Human: Designing with Non-Human Personas in Mobile Apps]]></title>
@@ -25,10 +49,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Codex App]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/02/codex-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/02/codex-app/]]></guid>
+    <title><![CDATA[On-demand resources in iOS app]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/02/03/on-demand-resources-in-ios-app]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/02/03/on-demand-resources-in-ios-app]]></guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Food Assistant]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/llm-month-food-assistant]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/llm-month-food-assistant]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2026/2/2/supporting-markdown-search-for-llms/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/2/2/supporting-markdown-search-for-llms/]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A WhatsApp-style top banner for iOS using UIWindow and SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/a-whatsapp-style-top-banner-for-ios-using-uiwindow/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/a-whatsapp-style-top-banner-for-ios-using-uiwindow/]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why VIPER and MVVM in SwiftUI are actually the same pattern: A lesson in architectural thinking]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/mvvm-vs-viper/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/mvvm-vs-viper/]]></guid>
-    <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Notes]]></title>
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
@@ -438,30 +454,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.mikeswanson.com/backseat-software/]]></guid>
     <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Updated Time Out YouTube-based themes]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/updated-time-out-youtube-based-themes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/updated-time-out-youtube-based-themes/]]></guid>
-    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[@_exported import VS public import]]></title>
-    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
-    <link><![CDATA[https://alexanderweiss.dev/blog/2026-01-16-exported-import-vs-public-import]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2026-01-16-exported-import-vs-public-import]]></guid>
-    <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Universal Links At Scale: The Challenges Nobody Talks About]]></title>
-    <description><![CDATA[https://albertodebortoli.com/]]></description>
-    <link><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/01/15/universal-links-at-scale-the-challenges-nobody-talks-about/]]></guid>
-    <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
