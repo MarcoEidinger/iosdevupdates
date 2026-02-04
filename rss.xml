@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 04 Feb 2026 14:21:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 16:22:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[From Pixel Capture to Metadata: Reimagining Screen Recording Architecture on macOS]]></title>
@@ -185,6 +185,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[ Codex cut Mastodon iOS clean builds 80% ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/02/02/migrating-mastodon-ios-to-tuist-with-codex]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/02/migrating-mastodon-ios-to-tuist-with-codex]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Migrating to the Observation framework in SwiftUI]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-observation-migrating-to-observation]]></link>
@@ -325,14 +333,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rizwan.dev]]></description>
     <link><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></guid>
-    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Stop Flaky Tests from Blocking Your PRs ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/01/27/flaky-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/01/27/flaky-tests]]></guid>
     <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
