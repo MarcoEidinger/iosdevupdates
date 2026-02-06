@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Feb 2026 20:12:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 22:09:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple News Scam Ads]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/02/06/apple-news-scam-ads/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/06/apple-news-scam-ads/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notice of Ownership Transfer: Silvianna for AniList]]></title>
+    <description><![CDATA[https://www.andyibanez.com/tags/apple/]]></description>
+    <link><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[NetNewsWire 7 for iOS Out Now]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/netnewswire-7-for-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/netnewswire-7-for-ios/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 150 - Lines]]></title>
@@ -54,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thatvirtualboy.com/best-mini-backpack-for-travel-theme-parks-edc/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/best-mini-backpack-for-travel-theme-parks-edc/]]></guid>
     <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AEQuery]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/05/aequery/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/05/aequery/]]></guid>
-    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -145,18 +161,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How Your Views Actually Move]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Your Views Actually Move]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[NetNewsWire 7 for Mac Out Now]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/netnewswire-7-for-mac-out-now/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/netnewswire-7-for-mac-out-now/]]></guid>
-    <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Yomu: furigana, tokenization, and offline dictionaries on iOS]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/building-yomu-furigana-tokenization-dictionary/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></guid>
-    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Editing multiple occurrances in Xcode (with Vim)]]></title>
-    <description><![CDATA[https://cubefreecoder.com/categories/code/]]></description>
-    <link><![CDATA[https://cubefreecoder.com/posts/vim-multiple-edits/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cubefreecoder.com/posts/vim-multiple-edits/]]></guid>
     <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
