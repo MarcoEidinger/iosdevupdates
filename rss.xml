@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Feb 2026 06:25:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 08:17:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Coding Agents and Software Development]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/coding-agents-and-software-development]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/coding-agents-and-software-development]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode 26.3 + Claude Agent: Model Swapping,MCP, Skills, and Adaptive Configuration]]></title>
@@ -209,6 +217,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Building Deployment Pipelines for Mobile SDKs — Part 3]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Issue 089: Ruby]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
@@ -401,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Senior Developer in an AI-Generated World]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></guid>
-    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Restoring the traditional icon-based tab bar on iPad with Liquid Glass]]></title>
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The unexpected @Binding side effect]]></title>
-    <description><![CDATA[https://swiftunwrap.com]]></description>
-    <link><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></guid>
     <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
