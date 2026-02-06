@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Feb 2026 00:32:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 03:04:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode 26.3 + Claude Agent: Model Swapping,MCP, Skills, and Adaptive Configuration]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/xcode-263-claude/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/xcode-263-claude/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[AEQuery]]></title>
@@ -57,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Imperial Units Strike Back]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></guid>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Introducing Tally]]></title>
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/2025-meet-tally]]></link>
@@ -89,18 +105,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[From Pixel Capture to Metadata: Reimagining Screen Recording Architecture on macOS]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/screensage-from-pixel-to-meta/]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Your Views Actually Move]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
+    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,10 +121,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
+    <title><![CDATA[How Your Views Actually Move]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,6 +409,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Senior Developer in an AI-Generated World]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></guid>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Restoring the traditional icon-based tab bar on iPad with Liquid Glass]]></title>
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></link>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The unexpected @Binding side effect]]></title>
-    <description><![CDATA[https://swiftunwrap.com]]></description>
-    <link><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftunwrap.com/article/binding-side-effect]]></guid>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Does Software Piracy Exist?]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2026/1/does_software_piracy_exist.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/1/does_software_piracy_exist.html]]></guid>
-    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
