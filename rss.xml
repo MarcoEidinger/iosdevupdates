@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Feb 2026 08:17:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 10:19:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Coding Agents and Software Development]]></title>
@@ -417,6 +417,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Senior Developer in an AI-Generated World]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/08-senior-developer-ai-world]]></guid>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Restoring the traditional icon-based tab bar on iPad with Liquid Glass]]></title>
     <description><![CDATA[https://bendodson.com/weblog/]]></description>
     <link><![CDATA[https://bendodson.com/weblog/2026/01/22/traditional-tab-bar-on-ipados-26/]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Please Don't Rain Press Kit]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
