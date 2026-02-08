@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 07 Feb 2026 22:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 00:43:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[HealthQL Now Supports React Native]]></title>
+    <description><![CDATA[https://grantisom.com]]></description>
+    <link><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></guid>
+    <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Built in Firewall: Quick Hardening for my MacBook]]></title>
@@ -161,18 +169,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How Your Views Actually Move]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Your Views Actually Move]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-observation-migrating-to-observation]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-observation-migrating-to-observation]]></guid>
-    <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[HealthQL: SQL for Apple HealthKit]]></title>
-    <description><![CDATA[https://grantisom.com]]></description>
-    <link><![CDATA[https://grantisom.com/2026/02/01/healthql-sql-for-healthkit.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/01/healthql-sql-for-healthkit.html]]></guid>
     <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
