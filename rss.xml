@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Feb 2026 06:32:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 08:21:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Core Data Agent Skill: Now available open-source]]></title>
@@ -57,6 +57,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/]]></guid>
+    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The easiest code I didn’t write]]></title>
     <description><![CDATA[https://geekingwithmauri.com]]></description>
     <link><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></link>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://grantisom.com]]></description>
     <link><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></guid>
-    <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS Built in Firewall: Quick Hardening for my MacBook]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/02/07/macos-built-in-firewall-quick-hardening-for-my-macbook/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/07/macos-built-in-firewall-quick-hardening-for-my-macbook/]]></guid>
     <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
