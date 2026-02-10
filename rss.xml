@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Feb 2026 16:29:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 18:29:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Container-Based Dependency Injection]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterspath.net/categories/development/]]></description>
     <link><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-1-homomorphic-encryption/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-1-homomorphic-encryption/]]></guid>
+    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Rivian R2 wishes as an R1 owner]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></guid>
     <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/building-yomu-furigana-tokenization-dictionary/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-yomu-furigana-tokenization-dictionary/]]></guid>
     <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[qmd for faster Obsidian search]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></guid>
-    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
