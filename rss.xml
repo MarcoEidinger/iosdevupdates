@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Feb 2026 20:19:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 22:19:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Creator Studio and the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/02/10/apple-creator-studio-and-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/10/apple-creator-studio-and-the-app-store/]]></guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Measure App Launch Time with Instruments]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 307 - Curate]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/80a2bb875b96/307-curate]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/80a2bb875b96/307-curate]]></guid>
     <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -30,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode]]></guid>
     <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Retrocade 1.3]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/09/retrocade-1-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/09/retrocade-1-3/]]></guid>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -209,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 150 - Lines]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/150Lines.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/150Lines.html]]></guid>
-    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The tipping point]]></title>
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/the-tipping-point-d624283cbd6d?source=rss-b067c9115d59------2]]></link>
@@ -297,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Your Views Actually Move]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
@@ -317,6 +309,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
