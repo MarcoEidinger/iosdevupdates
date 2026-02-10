@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Feb 2026 04:51:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 06:31:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Container-Based Dependency Injection]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/container-based-dependency-injection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/container-based-dependency-injection/]]></guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Retrocade 1.3]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></guid>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[PassThroughWindow in iOS26: An Overlay Window That Doesn’t Steal Your Gestures]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/uikit/passthroughwindow-in-ios26-an-overlay-window-that-doesnt-steal-your-gestures/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/uikit/passthroughwindow-in-ios26-an-overlay-window-that-doesnt-steal-your-gestures/]]></guid>
     <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Your Views Actually Move]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
@@ -301,6 +293,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -349,6 +349,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue68]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue68]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Deployment Pipelines for Mobile SDKs — Part 3]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/qmd-for-faster-obsidian-search/]]></guid>
     <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Versatility of Tasks]]></title>
-    <description><![CDATA[https://macguru.dev/]]></description>
-    <link><![CDATA[https://macguru.dev/the-versatility-of-tasks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://macguru.dev/the-versatility-of-tasks/]]></guid>
-    <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
