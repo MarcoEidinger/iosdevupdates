@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Feb 2026 03:10:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 04:49:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Creator Studio and the App Store]]></title>
@@ -225,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The tipping point]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/the-tipping-point-d624283cbd6d?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-tipping-point-d624283cbd6d?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Call for Applications at the Apple Developer Academy 2026]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/call-for-applications-at-the-apple-developer-academy-2026/]]></link>
@@ -305,10 +297,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <title><![CDATA[How Your Views Actually Move]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,10 +313,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How Your Views Actually Move]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
+    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://twocentstudios.com/2026/01/29/print-design-mindset/]]></link>
     <guid isPermaLink="true"><![CDATA[https://twocentstudios.com/2026/01/29/print-design-mindset/]]></guid>
     <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Yomu: furigana, tokenization, and offline dictionaries on iOS]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/building-yomu-furigana-tokenization-dictionary/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-yomu-furigana-tokenization-dictionary/]]></guid>
+    <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
