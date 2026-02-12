@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Feb 2026 18:26:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 20:16:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Indira Anne Marie Mitra – Obituary]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/indira-anne-marie-mitra-obituary/?utm_source=rss&utm_medium=rss&utm_campaign=indira-anne-marie-mitra-obituary]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/indira-anne-marie-mitra-obituary/?utm_source=rss&utm_medium=rss&utm_campaign=indira-anne-marie-mitra-obituary]]></guid>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Happy 25th birthday to the manifesto for agile software development!]]></title>
@@ -305,18 +313,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The importance of human touch in AI-driven development]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/the-importance-of-human-touch-in-ai-driven-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/the-importance-of-human-touch-in-ai-driven-development/]]></guid>
-    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Coding Agents and Software Development]]></title>
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/coding-agents-and-software-development/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/coding-agents-and-software-development/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The importance of human touch in AI-driven development]]></title>
+    <description><![CDATA[https://www.donnywals.com]]></description>
+    <link><![CDATA[https://www.donnywals.com/the-importance-of-human-touch-in-ai-driven-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/the-importance-of-human-touch-in-ai-driven-development/]]></guid>
     <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,18 +377,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How Your Views Actually Move]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automated App Store Screenshots with Fastlane: A Practical Guide]]></title>
-    <description><![CDATA[https://buczel.com/blog/]]></description>
-    <link><![CDATA[https://buczel.com/blog/fastlane-screenshots-ios/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://buczel.com/blog/fastlane-screenshots-ios/]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
