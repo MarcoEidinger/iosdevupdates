@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Feb 2026 00:35:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 03:09:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Comfort Zone]]></title>
+    <description><![CDATA[https://bitsplitting.org/]]></description>
+    <link><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></guid>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[More macOS 26.3 Finder column view silliness]]></title>
@@ -297,18 +305,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Imperial Units Strike Back]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></guid>
-    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Tally]]></title>
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/2025-meet-tally]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/2025-meet-tally]]></guid>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Imperial Units Strike Back]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-imperial-units-strike-back/]]></guid>
     <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://manu.show/]]></description>
     <link><![CDATA[https://manu.show/ep091-good-work]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/ep091-good-work]]></guid>
-    <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Do You Really Need Dtos]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/02/01/do-you-really-need-dtos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/02/01/do-you-really-need-dtos]]></guid>
     <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
