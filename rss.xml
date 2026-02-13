@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Feb 2026 22:12:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 00:38:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 26.3]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/02/12/macos-26-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/12/macos-26-3/]]></guid>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Indira Anne Marie Mitra – Obituary]]></title>
@@ -129,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Creator Studio and the App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/10/apple-creator-studio-and-the-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/10/apple-creator-studio-and-the-app-store/]]></guid>
-    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Measure App Launch Time with Instruments]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></link>
@@ -229,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2026/02/08/the-best-thing-i-ever-made/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2026/02/08/the-best-thing-i-ever-made/]]></guid>
-    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Agents 101: From Concept to Code (No Frameworks Required)]]></title>
-    <description><![CDATA[https://medium.com/@kamil.tustanowski]]></description>
-    <link><![CDATA[https://medium.com/@kamil.tustanowski/ai-agents-101-from-concept-to-code-no-frameworks-required-2dfdaf66b6c1?source=rss-2c0314596f19------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@kamil.tustanowski/ai-agents-101-from-concept-to-code-no-frameworks-required-2dfdaf66b6c1?source=rss-2c0314596f19------2]]></guid>
     <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -377,18 +369,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How Your Views Actually Move]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Your Views Actually Move]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animations-deep-dive]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +433,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Deployment Pipelines for Mobile SDKs — Part 3]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Issue 089: Ruby]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
@@ -461,6 +445,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Automated App Store Screenshots with Fastlane: A Practical Guide]]></title>
+    <description><![CDATA[https://buczel.com/blog/]]></description>
+    <link><![CDATA[https://buczel.com/blog/fastlane-screenshots-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://buczel.com/blog/fastlane-screenshots-ios/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Codex cut Mastodon iOS clean builds 80% ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/02/02/migrating-mastodon-ios-to-tuist-with-codex]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/02/migrating-mastodon-ios-to-tuist-with-codex]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
