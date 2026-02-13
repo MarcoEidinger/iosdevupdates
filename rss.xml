@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Feb 2026 06:27:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 08:20:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></guid>
+    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build a Spec Skill for Your Coding Agent]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/build-a-spec-skill-for-your-coding-agent]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/build-a-spec-skill-for-your-coding-agent]]></guid>
+    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 26.3]]></title>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Control Your Mac from Your iPhone (Safely): Tailscale + SSH + tmux]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/]]></guid>
-    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The easiest code I didn’t write]]></title>
     <description><![CDATA[https://geekingwithmauri.com]]></description>
     <link><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></link>
@@ -385,14 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
@@ -401,18 +401,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[No Such Thing as Speed of Light]]></title>
     <description><![CDATA[http://www.russbishop.net]]></description>
     <link><![CDATA[http://www.russbishop.net/no-such-thing-as-speed-of-light]]></link>
     <guid isPermaLink="true"><![CDATA[http://www.russbishop.net/no-such-thing-as-speed-of-light]]></guid>
-    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Save URLs to Apple Reminders the Right Way]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/save-urls-to-apple-reminders-the-right-way]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/save-urls-to-apple-reminders-the-right-way]]></guid>
     <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
