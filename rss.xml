@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Feb 2026 22:12:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 00:36:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Creator Studio AI Usage Limits]]></title>
@@ -401,10 +401,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
+    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -417,10 +417,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AsyncStream & AsyncThrowingStream in Swift - Real-Time Data Sync Explained]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncstream-asyncthrowingstream-swift/]]></guid>
+    <title><![CDATA[Agentic Coding in Xcode 26.3 with Claude Code and Codex]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Agentic-Coding-Codex-Claude-Code-in-Xcode]]></guid>
     <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -449,18 +449,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Deployment Pipelines for Mobile SDKs — Part 3]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/life-at-moengage/building-deployment-pipelines-for-mobile-sdks-part-3-3d4da6b915b4?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Issue 089: Ruby]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Blog Fuckup]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
