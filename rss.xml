@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Feb 2026 08:12:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 10:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Agentic Loop]]></title>
+    <description><![CDATA[https://dimillian.medium.com/]]></description>
+    <link><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Lighter Way to Review and Fix Your Coding Agent’s Work]]></title>
@@ -305,6 +313,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Using features in bazel rules]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/02/08/using-features-in-bazel-rules.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/02/08/using-features-in-bazel-rules.html]]></guid>
+    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swift Concurrency from Zero to Hero | Reading List]]></title>
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/swift-concurrency-zero-to-hero]]></link>
@@ -341,14 +357,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.andyibanez.com/tags/apple/]]></description>
     <link><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></guid>
-    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The tipping point]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/the-tipping-point-d624283cbd6d?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-tipping-point-d624283cbd6d?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Blog Fuckup]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
