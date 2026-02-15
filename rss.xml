@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Feb 2026 06:23:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 08:12:38 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Lighter Way to Review and Fix Your Coding Agent’s Work]]></title>
@@ -305,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using features in bazel rules]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/02/08/using-features-in-bazel-rules.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/02/08/using-features-in-bazel-rules.html]]></guid>
-    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Concurrency from Zero to Hero | Reading List]]></title>
     <description><![CDATA[https://swiftology.io/]]></description>
     <link><![CDATA[https://swiftology.io/articles/swift-concurrency-zero-to-hero]]></link>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-89-ruby/]]></guid>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Blog Fuckup]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/01/blog-fuckup.html]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
