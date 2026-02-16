@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Feb 2026 08:19:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 10:25:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Migrate to @Observable Without Breaking Your App]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/how-to-migrate-to-observable-without-breaking-your-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-migrate-to-observable-without-breaking-your-app/]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building a SwiftUI Toast in 5 Steps]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nemecek.be/blog/swift-and-ios]]></description>
     <link><![CDATA[https://nemecek.be/blog/214/new-friendly-place-to-share-updates-about-your-indie-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://nemecek.be/blog/214/new-friendly-place-to-share-updates-about-your-indie-apps]]></guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Birds of Sanibel Island]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/]]></guid>
     <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
