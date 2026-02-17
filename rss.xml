@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Feb 2026 14:23:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Feb 2026 16:25:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 308 - Home]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/d7a8a1dad90d/308-home]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/d7a8a1dad90d/308-home]]></guid>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The myth and reality of Mac OS X Snow Leopard revisited]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/2/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/2/5.html]]></guid>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Certain and Uncertain Futures]]></title>
@@ -89,18 +105,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Measuring Core Data and SwiftData]]></title>
     <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
     <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
     <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +286,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/rails-developers-guide-to-mobile-app-frameworks]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/rails-developers-guide-to-mobile-app-frameworks]]></guid>
     <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[More macOS 26.3 Finder column view silliness]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/2/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/2/4.html]]></guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/2025-meet-tally]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/2025-meet-tally]]></guid>
     <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Running Bluesky PDS undockered]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2026/02/04/pds-undockered/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2026/02/04/pds-undockered/]]></guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
