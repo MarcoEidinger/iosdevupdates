@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Feb 2026 18:26:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Feb 2026 20:15:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Newsletter 308 - Home]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/swift-testing-agent-skill-write-high-quality-tests-with-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swift-testing-agent-skill-write-high-quality-tests-with-ai/]]></guid>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Scaling my git/tmux workflows for AI agents]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2026/02/17/scaling-my-gittmux-workflows-for-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/02/17/scaling-my-gittmux-workflows-for-ai-agents/]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Yomu: Safari, furigana, and why “plain text” often isn’t plain]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/building-yomu-safari-plain-text/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-yomu-safari-plain-text/]]></guid>
     <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
