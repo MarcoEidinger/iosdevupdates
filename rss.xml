@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 20 Feb 2026 16:16:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 18:20:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Claude Code Brought My App Back From the Dead]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Creating Maps in SwiftUI apps with MapKit]]></title>
@@ -81,27 +89,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hey Google, this is terrible!]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/ramblings/googlehomegemini/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ramblings/googlehomegemini/]]></guid>
-    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Testing with Event Streams]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/testing-event-stream/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/testing-event-stream/]]></guid>
     <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 308 - Home]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/d7a8a1dad90d/308-home]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/d7a8a1dad90d/308-home]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -125,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/swift-testing-agent-skill-write-high-quality-tests-with-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swift-testing-agent-skill-write-high-quality-tests-with-ai/]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Scaling my git/tmux workflows for AI agents]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2026/02/17/scaling-my-gittmux-workflows-for-ai-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/02/17/scaling-my-gittmux-workflows-for-ai-agents/]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -286,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/copy-on-write-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/copy-on-write-swift/]]></guid>
     <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Machinist]]></title>
-    <description><![CDATA[http://www.russbishop.net]]></description>
-    <link><![CDATA[http://www.russbishop.net/pile-of-lies]]></link>
-    <guid isPermaLink="true"><![CDATA[http://www.russbishop.net/pile-of-lies]]></guid>
-    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +454,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://finestructure.co/blog/2026/2/6/thoughts-on-llms]]></link>
     <guid isPermaLink="true"><![CDATA[https://finestructure.co/blog/2026/2/6/thoughts-on-llms]]></guid>
     <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[HealthQL Now Supports React Native]]></title>
+    <description><![CDATA[https://grantisom.com]]></description>
+    <link><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></guid>
+    <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notice of Ownership Transfer: Silvianna for AniList]]></title>
+    <description><![CDATA[https://www.andyibanez.com/tags/apple/]]></description>
+    <link><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.andyibanez.com/posts/20260206_silvianna_transfer_notice/]]></guid>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
