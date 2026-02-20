@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 20 Feb 2026 14:21:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 16:16:09 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Creating Maps in SwiftUI apps with MapKit]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The 4-Step Process I Use to Create SwiftUI Animations]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></guid>
     <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://finestructure.co/]]></description>
     <link><![CDATA[https://finestructure.co/blog/2026/2/6/thoughts-on-llms]]></link>
     <guid isPermaLink="true"><![CDATA[https://finestructure.co/blog/2026/2/6/thoughts-on-llms]]></guid>
-    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The easiest code I didn’t write]]></title>
-    <description><![CDATA[https://geekingwithmauri.com]]></description>
-    <link><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></link>
-    <guid isPermaLink="true"><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></guid>
     <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
