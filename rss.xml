@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 20 Feb 2026 06:27:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 08:18:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Let Your Coding Agent Finish for You]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/let-your-coding-agent-finish-for-you]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/let-your-coding-agent-finish-for-you]]></guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[(4) Building iOS and Mac apps in Zed: Make builds as fast as Xcode. Plus, better support for Mac apps.]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Pancake]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/building-pancake]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/building-pancake]]></guid>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 26.4 Beta: Problems Mounting HFS+ Volumes]]></title>
@@ -97,18 +121,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Goodbye Clementine]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tracking token usage in Foundation Models]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></guid>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Goodbye Clementine]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,18 +185,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></guid>
-    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Lighter Way to Review and Fix Your Coding Agent’s Work]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/a-lighter-way-to-review-and-fix-your-coding-agent-s-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/a-lighter-way-to-review-and-fix-your-coding-agent-s-work]]></guid>
     <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -286,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></guid>
     <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Self-Forking Agents]]></title>
-    <description><![CDATA[https://chris.eidhof.nl/]]></description>
-    <link><![CDATA[http://chris.eidhof.nl/post/self-forking-agents]]></link>
-    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/self-forking-agents]]></guid>
-    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></link>
     <guid isPermaLink="true"><![CDATA[https://geekingwithmauri.com/work/ai-plus-criticalThinkin]]></guid>
     <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[HealthQL Now Supports React Native]]></title>
-    <description><![CDATA[https://grantisom.com]]></description>
-    <link><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/07/healthql-react-native.html]]></guid>
-    <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
