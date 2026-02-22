@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 22 Feb 2026 14:11:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 16:11:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Liquid Glass Tab Bar Actions Aren’t Fab]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/liquid-glass-fab-bar-actions-not-fab/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/liquid-glass-fab-bar-actions-not-fab/]]></guid>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Applying Bazel Transitions to Third-Party Rules the Right Way]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/02/22/150724.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/02/22/150724.html]]></guid>
+    <link><![CDATA[https://adincebic.com/2026/02/22/applying-bazel-transitions-to-thirdparty.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/02/22/applying-bazel-transitions-to-thirdparty.html]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,18 +169,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Goodbye Clementine]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Tracking token usage in Foundation Models]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></guid>
+    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Goodbye Clementine]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/goodbye-clementine/]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,18 +233,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@kamil.tustanowski]]></description>
     <link><![CDATA[https://medium.com/@kamil.tustanowski/ai-agents-101-from-concept-to-code-no-frameworks-required-2dfdaf66b6c1?source=rss-2c0314596f19------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@kamil.tustanowski/ai-agents-101-from-concept-to-code-no-frameworks-required-2dfdaf66b6c1?source=rss-2c0314596f19------2]]></guid>
-    <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Concurrency from Zero to Hero | Reading List]]></title>
-    <description><![CDATA[https://swiftology.io/]]></description>
-    <link><![CDATA[https://swiftology.io/articles/swift-concurrency-zero-to-hero]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftology.io/articles/swift-concurrency-zero-to-hero]]></guid>
     <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
