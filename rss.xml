@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Feb 2026 18:28:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 20:18:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[E2EE Backend part 2: Private Information Retrieval]]></title>
+    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
+    <link><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-2-private-information-retrieval/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-2-private-information-retrieval/]]></guid>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Spring Festival Gala, Robots, AI, and LLMs - Fatbobman's Swift Weekly #124]]></title>
@@ -43,8 +51,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[OpenClaw - My Automation Setup]]></title>
     <description><![CDATA[https://krausefx.com/]]></description>
-    <link><![CDATA[https://krausefx.com//blog/openclaw-my-automation-setup]]></link>
-    <guid isPermaLink="true"><![CDATA[https://krausefx.com//blog/openclaw-my-automation-setup]]></guid>
+    <link><![CDATA[https://krausefx.com/blog/openclaw-my-automation-setup]]></link>
+    <guid isPermaLink="true"><![CDATA[https://krausefx.com/blog/openclaw-my-automation-setup]]></guid>
     <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -353,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Deconstructing Reality Composer Pro (Inspector Bindings, References and Variants)]]></title>
-    <description><![CDATA[https://elkraneo.com/]]></description>
-    <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-bindings-references-variants/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-bindings-references-variants/]]></guid>
-    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></link>
@@ -465,18 +465,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[E2EE Backend part 1: Homomorphic Encryption]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-1-homomorphic-encryption/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-1-homomorphic-encryption/]]></guid>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Rivian R2 wishes as an R1 owner]]></title>
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></guid>
+    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Launching Bezel 4.0]]></title>
+    <description><![CDATA[https://nonstrict.eu/blog/]]></description>
+    <link><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></guid>
     <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
