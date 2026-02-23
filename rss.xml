@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Feb 2026 08:20:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 10:24:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[👋 What's New in the Community 🙆‍♂️]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue69]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue69]]></guid>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Liquid Glass Tab Bar Actions Aren’t Fab]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nonstrict.eu/blog/]]></description>
     <link><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></link>
     <guid isPermaLink="true"><![CDATA[https://nonstrict.eu/blog/2026/launching-bezel-4.0]]></guid>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I (Almost) Implemented a Production App in a Weekend]]></title>
-    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
-    <link><![CDATA[https://gioscalzo.com/blog/neurona-from-ai-prototype-to-real-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/neurona-from-ai-prototype-to-real-app/]]></guid>
     <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
