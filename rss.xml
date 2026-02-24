@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Feb 2026 22:21:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 00:35:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Linking Paracetamol Use to Neurodiversity is Irresponsible, Harmful, Bullshit]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/paracetamol-autism-refuted-by-actual-science/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/paracetamol-autism-refuted-by-actual-science/]]></guid>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[2025 Six Colors Apple Report Card]]></title>
@@ -65,10 +73,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Liquid Glass Tab Bar Actions Aren’t Fab]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/liquid-glass-fab-bar-actions-not-fab/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/liquid-glass-fab-bar-actions-not-fab/]]></guid>
+    <title><![CDATA[Your Agent Stack Is the New Clean Code]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/development-dogma-is-back-a-i-agents]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/development-dogma-is-back-a-i-agents]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/morphing-sheets-out-of-buttons-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/morphing-sheets-out-of-buttons-in-swiftui/]]></guid>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rivian R2 wishes as an R1 owner]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/02/rivian-r2-wishes/]]></guid>
     <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
