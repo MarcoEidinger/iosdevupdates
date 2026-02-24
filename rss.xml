@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Feb 2026 20:14:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 22:14:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Testing With Event Streams]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/02/24/swift-testing-with-event-streams/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/24/swift-testing-with-event-streams/]]></guid>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Death of iPadOS?]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></guid>
     <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[2025 Six Colors Apple Report Card]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/23/2025-six-colors-apple-report-card/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/23/2025-six-colors-apple-report-card/]]></guid>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -297,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
