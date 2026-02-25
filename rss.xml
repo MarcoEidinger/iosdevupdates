@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Feb 2026 06:30:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 08:20:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building Aira: a calm anime tracker for myself]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/building-aira/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-aira/]]></guid>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Testing With Event Streams]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://digitalbunker.dev/]]></description>
     <link><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></link>
     <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Yomu: Safari, furigana, and why “plain text” often isn’t plain]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/building-yomu-safari-plain-text/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-yomu-safari-plain-text/]]></guid>
     <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
