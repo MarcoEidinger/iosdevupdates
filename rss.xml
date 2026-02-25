@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Feb 2026 16:30:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 18:30:04 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[How to wrap UserDefaults with Observable in SwiftUI]]></title>
+    <title><![CDATA[A better way to update UICollectionView data in Swift with diff framework]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-wrap-userdefaults-with-observable-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-wrap-userdefaults-with-observable-in-swiftui/]]></guid>
+    <link><![CDATA[http://onmyway133.com/posts/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework/]]></guid>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Claude Code Canvas, or how I mass-deleted an AppKit project]]></title>
+    <description><![CDATA[https://raulriera.medium.com/]]></description>
+    <link><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></guid>
     <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></guid>
     <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Measure App Launch Time with Instruments]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></guid>
-    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
