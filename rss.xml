@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Feb 2026 04:42:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 06:30:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift Testing With Event Streams]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/custom-parameters-and-animation-with-metal-shaders/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/custom-parameters-and-animation-with-metal-shaders/]]></guid>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to connect MCP server in Claude Code]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-connect-mcp-server-in-claude-code/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-connect-mcp-server-in-claude-code/]]></guid>
     <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></guid>
-    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Agentic coding in Xcode]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/02/10/agentic-coding-in-xcode]]></guid>
     <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
