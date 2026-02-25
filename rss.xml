@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Feb 2026 08:20:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 10:24:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to wrap UserDefaults with Observable in SwiftUI]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-wrap-userdefaults-with-observable-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-wrap-userdefaults-with-observable-in-swiftui/]]></guid>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building Aira: a calm anime tracker for myself]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/custom-parameters-and-animation-with-metal-shaders/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/custom-parameters-and-animation-with-metal-shaders/]]></guid>
-    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to connect MCP server in Claude Code]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-connect-mcp-server-in-claude-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-connect-mcp-server-in-claude-code/]]></guid>
     <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -313,18 +313,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
