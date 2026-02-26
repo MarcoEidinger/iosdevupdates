@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 26 Feb 2026 10:21:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 12:21:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Deconstructing Reality Composer Pro (Inspector Components)]]></title>
+    <description><![CDATA[https://elkraneo.com/]]></description>
+    <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/]]></guid>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Array expression trailing closures in Swift]]></title>
@@ -209,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The 4-Step Process I Use to Create SwiftUI Animations]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></guid>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[(4) Building iOS and Mac apps in Zed: Make builds as fast as Xcode. Plus, better support for Mac apps.]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-faster-builds/]]></guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The 4-Step Process I Use to Create SwiftUI Animations]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></guid>
     <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -405,14 +413,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2026/02/13/36634/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2026/02/13/36634/]]></guid>
-    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deconstructing Reality Composer Pro (Inspector Bindings, References and Variants)]]></title>
-    <description><![CDATA[https://elkraneo.com/]]></description>
-    <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-bindings-references-variants/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-bindings-references-variants/]]></guid>
     <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
