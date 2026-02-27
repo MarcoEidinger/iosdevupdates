@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Feb 2026 00:35:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 03:03:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Auto-Reload Pages in Safari (Mac, iPhone, and iPad)]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/how-to-auto-reload-pages-in-safari-mac-iphone-and-ipad/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/how-to-auto-reload-pages-in-safari-mac-iphone-and-ipad/]]></guid>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Not Objective-C]]></title>
@@ -174,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preventing forgotten database migrations with automated tests in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/testing-database-migrations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/testing-database-migrations]]></guid>
-    <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -465,19 +465,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SimTag: Context for your iOS Simulators]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/simtag-context-for-your-ios-simulators/]]></guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[GlanceCam 4.6 with Minimalistic GlanceGrids and more]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></guid>
     <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measure App Launch Time with Instruments]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/measure-app-launch-time/]]></guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
