@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Feb 2026 08:17:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 10:17:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Auto-Reload Pages in Safari (Mac, iPhone, and iPad)]]></title>
@@ -401,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Coding agents for production iOS: a senior engineer's setup for 2x the output]]></title>
+    <description><![CDATA[https://ignatovv.me]]></description>
+    <link><![CDATA[https://ignatovv.me/blog/coding-agents-for-production-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ignatovv.me/blog/coding-agents-for-production-ios/]]></guid>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Machinist]]></title>
     <description><![CDATA[http://www.russbishop.net]]></description>
     <link><![CDATA[http://www.russbishop.net/pile-of-lies]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2026/agentic-coding-xcode-geminicli/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/agentic-coding-xcode-geminicli/]]></guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[GlanceCam 4.6 with Minimalistic GlanceGrids and more]]></title>
-    <description><![CDATA[https://cdf1982.com/blog]]></description>
-    <link><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2026/02/11/glancecam_4_6]]></guid>
     <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
