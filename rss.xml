@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Mar 2026 06:20:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 08:11:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 26.4: Charge Limit and Shortcuts]]></title>
@@ -174,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></guid>
     <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[E2EE Backend part 2: Private Information Retrieval]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-2-private-information-retrieval/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-2-private-information-retrieval/]]></guid>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -385,18 +377,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -425,18 +417,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing vector-triage]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/introducing-vector-triage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/introducing-vector-triage/]]></guid>
-    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[OpenClaw, OpenAI and the future]]></title>
     <description><![CDATA[https://steipete.me/]]></description>
     <link><![CDATA[https://steipete.me/posts/2026/openclaw/]]></link>
     <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2026/openclaw/]]></guid>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing vector-triage]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/introducing-vector-triage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/introducing-vector-triage/]]></guid>
     <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bitsplitting.org/]]></description>
     <link><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></guid>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Rails developers’ guide to mobile app frameworks]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/rails-developers-guide-to-mobile-app-frameworks]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/rails-developers-guide-to-mobile-app-frameworks]]></guid>
     <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
