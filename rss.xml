@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Mar 2026 18:11:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 20:09:43 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[E2EE Backend part 3: Passkeys with the PRF Extension]]></title>
@@ -257,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Preventing forgotten database migrations with automated tests in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/testing-database-migrations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/testing-database-migrations]]></guid>
-    <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Got Tired of Seating Charts, So I Built a Fix]]></title>
     <description><![CDATA[https://www.swiftteacher.org]]></description>
     <link><![CDATA[https://www.swiftteacher.org/post/15/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></guid>
     <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Comfort Zone]]></title>
+    <description><![CDATA[https://bitsplitting.org/]]></description>
+    <link><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/02/11/comfort-zone/]]></guid>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
