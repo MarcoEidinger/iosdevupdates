@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Mar 2026 03:05:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 04:39:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Issue 090: Startups]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-90-startups/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-90-startups/]]></guid>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Implementing Passkeys in iOS with AuthenticationServices]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://makeapppie.com/]]></description>
     <link><![CDATA[https://makeapppie.com/2026/02/13/36634/]]></link>
     <guid isPermaLink="true"><![CDATA[https://makeapppie.com/2026/02/13/36634/]]></guid>
-    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/]]></guid>
     <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
