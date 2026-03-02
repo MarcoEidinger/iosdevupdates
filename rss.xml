@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 02 Mar 2026 18:20:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 20:13:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iPad Air (M4, 8th Generation)]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/02/ipad-air-m4-8th-generation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/02/ipad-air-m4-8th-generation/]]></guid>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Seattle Xcoders Talks This Week Considered Unmissable]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2026/03/02/seattle-xcoders-talks.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/03/02/seattle-xcoders-talks.html]]></guid>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[NSCache in Swift: A Practical Guide]]></title>
@@ -86,22 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.highcaffeinecontent.com/blog/20260301-A-Month-With-OpenAIs-Codex]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.highcaffeinecontent.com/blog/20260301-A-Month-With-OpenAIs-Codex]]></guid>
     <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 26.4: Charge Limit and Shortcuts]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/02/28/macos-26-4-charge-limit-and-shortcuts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/02/28/macos-26-4-charge-limit-and-shortcuts/]]></guid>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Objective-C]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2026/02/27/why-objective-c.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/02/27/why-objective-c.html]]></guid>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,18 +401,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
-    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
-    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Our Swift CLI now runs on Linux ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/02/16/linux]]></guid>
+    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Measuring Core Data and SwiftData]]></title>
+    <description><![CDATA[https://yaacoub.github.io/articles/]]></description>
+    <link><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata]]></guid>
     <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
