@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 05 Mar 2026 00:35:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 03:03:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS Tahoe windows have different corner radiuses]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AdjustingLineHeightInSwiftUIOniOS26]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AdjustingLineHeightInSwiftUIOniOS26]]></guid>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Mvvm And Cost Of Old Patterns]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/03/04/mvvm-and-cost-of-old-patterns]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/03/04/mvvm-and-cost-of-old-patterns]]></guid>
     <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elkraneo.com/]]></description>
     <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/]]></guid>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Developers Are Safe]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/02/26/developers-are-safe]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/02/26/developers-are-safe]]></guid>
     <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
