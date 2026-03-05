@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 05 Mar 2026 20:16:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 22:11:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Agent Skill - Write better code with Claude, Codex, and other AI tools]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/282/swiftui-agent-skill-claude-codex-ai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/282/swiftui-agent-skill-claude-codex-ai]]></guid>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 26.3.1]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ignatovv.me/blog/coding-agents-for-production-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ignatovv.me/blog/coding-agents-for-production-ios/]]></guid>
     <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Machinist]]></title>
-    <description><![CDATA[http://www.russbishop.net]]></description>
-    <link><![CDATA[http://www.russbishop.net/pile-of-lies]]></link>
-    <guid isPermaLink="true"><![CDATA[http://www.russbishop.net/pile-of-lies]]></guid>
-    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
