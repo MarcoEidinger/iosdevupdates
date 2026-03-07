@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Mar 2026 22:10:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 00:34:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Gobbler — Early Access]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/gobbler-early-access/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/gobbler-early-access/]]></guid>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Lower Google Play Store Fees and Registered App Stores]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/79469bc7830b/310-27]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/79469bc7830b/310-27]]></guid>
-    <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What does “Updated Database” actually mean?]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/what-does-updated-database-actually-mean/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/what-does-updated-database-actually-mean/]]></guid>
     <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
