@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Mar 2026 08:18:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 10:22:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A 9-Step Framework for Choosing the Right Agent Skill]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/a-9-step-framework-for-choosing-the-right-agent-skill/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/a-9-step-framework-for-choosing-the-right-agent-skill/]]></guid>
+    <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Preventing SwiftUI .refreshable from Affecting Child ScrollViews]]></title>
@@ -201,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using an MCP to perform product optimizations]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/using-an-mcp-to-perform-product-optimizations/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/using-an-mcp-to-perform-product-optimizations/]]></guid>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[All in on Interface Builder: 10 years later]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2026/03/02/all-in-on-interface-builder-10-years-later/]]></link>
@@ -310,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/02/24/listwithme-returns.html]]></guid>
     <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[👋 What's New in the Community 🙆‍♂️]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue69]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue69]]></guid>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimillian.medium.com/]]></description>
     <link><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></guid>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[OpenClaw, OpenAI and the future]]></title>
+    <description><![CDATA[https://steipete.me/]]></description>
+    <link><![CDATA[https://steipete.me/posts/2026/openclaw/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://steipete.me/posts/2026/openclaw/]]></guid>
     <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
