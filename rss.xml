@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 09 Mar 2026 04:41:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 06:28:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Browser-to-Agent: Edit Your Site Without Leaving the Page]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/browser-to-agent-edit-your-site-without-leaving-the-page]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/browser-to-agent-edit-your-site-without-leaving-the-page]]></guid>
+    <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[CasNum is Amazing]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/how-my-software-engineering-workflow-has-changed-in-the-past-year]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/how-my-software-engineering-workflow-has-changed-in-the-past-year]]></guid>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[shotpath: Automatically Copy macOS Screenshot Paths]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/shotpath-automatically-copy-macos-screenshot-paths]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/shotpath-automatically-copy-macos-screenshot-paths]]></guid>
     <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/3.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/3.html]]></guid>
+    <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift at scale: building the TelemetryDeck analytics service]]></title>
+    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
+    <link><![CDATA[https://peterspath.net/blog/dev-building-privacy-first-analytics-with-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-building-privacy-first-analytics-with-swift/]]></guid>
     <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-authentication-passkeys]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-authentication-passkeys]]></guid>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[E2EE Backend part 3: Passkeys with the PRF Extension]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-3-passkeys-with-the-prf-extension/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-e2ee-backend-part-3-passkeys-with-the-prf-extension/]]></guid>
     <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
