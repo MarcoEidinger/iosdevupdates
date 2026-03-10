@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Mar 2026 08:17:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 10:20:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[I Caught My AI Agent Fabricating Data to Look Busy]]></title>
@@ -93,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/03/08/managing-bazel-flags-in-monorepos.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/03/08/managing-bazel-flags-in-monorepos.html]]></guid>
+    <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Get Rid of Your SwiftGen Dependency]]></title>
+    <description><![CDATA[https://appleboy.tech]]></description>
+    <link><![CDATA[https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appleboy.tech/articles/get-rid-of-your-swiftgen-dependency]]></guid>
     <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rhonabwy.com/]]></description>
     <link><![CDATA[https://rhonabwy.com/2026/02/15/navigation-notes-agentic-coding/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2026/02/15/navigation-notes-agentic-coding/]]></guid>
-    <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Agentic Loop]]></title>
-    <description><![CDATA[https://dimillian.medium.com/]]></description>
-    <link><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimillian.medium.com/the-agentic-loop-4230536a8bd2?source=rss-b067c9115d59------2]]></guid>
     <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
