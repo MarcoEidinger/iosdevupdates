@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Mar 2026 14:23:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 16:28:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 311 - Noticing]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></guid>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The evolution of Mac app window corners]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/4.html]]></guid>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On thinking machines]]></title>
@@ -129,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Rolling.bike]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/rolling-bike-out-now-ride-briefs/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/rolling-bike-out-now-ride-briefs/]]></guid>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A sceptical look at LLMs & Agents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-07-a-sceptical-look-at-llms/]]></link>
@@ -150,14 +158,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/thread-safety-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/thread-safety-in-swift/]]></guid>
     <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MacBook Neo]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/3.html]]></guid>
-    <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
