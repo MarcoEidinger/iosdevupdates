@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 10 Mar 2026 00:31:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 03:01:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[AirPods Control Center Design in iOS 26]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/09/airpods-control-center-design-in-ios-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/09/airpods-control-center-design-in-ios-26/]]></guid>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Exploring Draw Effects and Gradient Rendering in SF Symbols]]></title>
@@ -110,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/thread-safety-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/thread-safety-in-swift/]]></guid>
     <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lower Google Play Store Fees and Registered App Stores]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/06/lower-google-play-store-fees-and-registered-app-stores/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/06/lower-google-play-store-fees-and-registered-app-stores/]]></guid>
-    <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
