@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Mar 2026 18:24:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 20:13:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Understanding SwiftUI]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/understanding-swiftui-609fcaf08835?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/understanding-swiftui-609fcaf08835?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[If computers are the future, why are computer users expected to be permanently illiterate?]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/5.html]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Composing Parsers with the swift-parsing Library]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/composing-parsers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/composing-parsers/]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Agent skills in Xcode: How to install and use them today]]></title>
@@ -45,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/what-you-should-know-before-migrating-from-gcd-to-swift-concurrency-74d4d9b2c4e1?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/what-you-should-know-before-migrating-from-gcd-to-swift-concurrency-74d4d9b2c4e1?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Small Steps For Agent-Friendly Codebases]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/3/11/small-steps-for-agent-friendly-codebases/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/3/11/small-steps-for-agent-friendly-codebases/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></guid>
-    <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The evolution of Mac app window corners]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/4.html]]></guid>
     <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -313,14 +337,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Hidden Cost Of Communication (A Case Against Big Companies)]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/2/27/the-hidden-cost-of-communication/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/2/27/the-hidden-cost-of-communication/]]></guid>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Fixing The ActionBuilder Plugin]]></title>
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2026/02/27/actionbuilderplugin-deadlock.html]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.eliperkins.com/i-dont-look-at-the-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/i-dont-look-at-the-code]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Setting up a delivery pipeline for your agentic iOS projects]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/setting-up-a-delivery-pipeline-for-your-agentic-ios-projects/]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Migrate to @Observable Without Breaking Your App]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/how-to-migrate-to-observable-without-breaking-your-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-migrate-to-observable-without-breaking-your-app/]]></guid>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
