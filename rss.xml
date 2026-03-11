@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Mar 2026 06:23:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 08:17:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Beating App Store review: lessons from shipping a minimal indie game]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/beating-app-store-review/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/beating-app-store-review/]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Weathergraph 1.0.330]]></title>
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://raulriera.medium.com/]]></description>
     <link><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></guid>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building Aira: a calm anime tracker for myself]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/building-aira/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-aira/]]></guid>
     <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
