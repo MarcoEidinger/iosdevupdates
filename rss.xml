@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Mar 2026 20:13:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 22:11:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Greg Knauss Is Losing Himself]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/11/greg-knauss-is-losing-himself/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/11/greg-knauss-is-losing-himself/]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Understanding SwiftUI]]></title>
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/understanding-swiftui-609fcaf08835?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/understanding-swiftui-609fcaf08835?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[👾 The Dungeon of Ymir: A Daughter, Disassembler, and Her Dad's RPG]]></title>
+    <description><![CDATA[https://nachbaur.com/]]></description>
+    <link><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/283/how-to-install-and-use-ai-agent-skills-in-xcode]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/283/how-to-install-and-use-ai-agent-skills-in-xcode]]></guid>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to use custom UIKit trait in SwiftUI]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -81,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to handle callback in ASWebAuthenticationSession]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-handle-callback-in-aswebauthenticationsession/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-handle-callback-in-aswebauthenticationsession/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Beating App Store review: lessons from shipping a minimal indie game]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/beating-app-store-review/]]></link>
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/03/11/i-tried-apple-xcode-mcp-and-xcodebuild-mcp-only-one-feels-complete/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/11/i-tried-apple-xcode-mcp-and-xcodebuild-mcp-only-one-feels-complete/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Weathergraph 1.0.330]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/10/weathergraph-1-0-330/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/10/weathergraph-1-0-330/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I don't look at the code]]></title>
-    <description><![CDATA[https://blog.eliperkins.me/]]></description>
-    <link><![CDATA[https://blog.eliperkins.com/i-dont-look-at-the-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/i-dont-look-at-the-code]]></guid>
     <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
