@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Mar 2026 18:23:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 20:13:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Safari web browser bugs: A year in review]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/6.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/6.html]]></guid>
+    <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iTerm2 microphone permission for Claude Code]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nachbaur.com/]]></description>
     <link><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[If computers are the future, why are computer users expected to be permanently illiterate?]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/5.html]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
