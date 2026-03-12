@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Mar 2026 20:13:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 22:09:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Display Zoom Statistics]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2026/03/12/display-zoom-stats]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/03/12/display-zoom-stats]]></guid>
+    <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple’s 50th Anniversary]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/12/apples-50th-anniversary/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/12/apples-50th-anniversary/]]></guid>
+    <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Safari web browser bugs: A year in review]]></title>
@@ -22,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mokacoding.com/blog/how-to-claude-code-voice-mode-iterm-permission]]></link>
     <guid isPermaLink="true"><![CDATA[https://mokacoding.com/blog/how-to-claude-code-voice-mode-iterm-permission]]></guid>
     <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Greg Knauss Is Losing Himself]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/11/greg-knauss-is-losing-himself/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/11/greg-knauss-is-losing-himself/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,6 +409,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Learning to develop more accessible iOS games]]></title>
+    <description><![CDATA[https://accessibilityupto11.com/]]></description>
+    <link><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></link>
+    <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></guid>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Disintegrate, Reintegrate, Extrude]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability]]></guid>
     <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Testing with Event Streams]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/testing-event-stream/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/testing-event-stream/]]></guid>
-    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Certain and Uncertain Futures]]></title>
-    <description><![CDATA[https://macguru.dev/]]></description>
-    <link><![CDATA[https://macguru.dev/certain-and-uncertain-futures/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://macguru.dev/certain-and-uncertain-futures/]]></guid>
-    <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
