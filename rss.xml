@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Mar 2026 12:17:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 14:21:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions]]></title>
+    <description><![CDATA[https://www.createwithswift.com/]]></description>
+    <link><![CDATA[https://www.createwithswift.com/small-choices-big-impact-the-environmental-cost-of-mobile-design-decisions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/small-choices-big-impact-the-environmental-cost-of-mobile-design-decisions/]]></guid>
+    <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[“This Is Not The Computer For You” Debunked]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/7.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/7.html]]></guid>
+    <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iRelay: Text Your Mac, Run an AI Agent]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/03/12/apples-50th-anniversary/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/12/apples-50th-anniversary/]]></guid>
-    <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Safari web browser bugs: A year in review]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/6.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/6.html]]></guid>
     <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating overlays on a map in a SwiftUI app in iOS 26]]></title>
-    <description><![CDATA[https://www.createwithswift.com/]]></description>
-    <link><![CDATA[https://www.createwithswift.com/creating-overlays-on-a-map-in-a-swiftui-app-in-ios-26/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/creating-overlays-on-a-map-in-a-swiftui-app-in-ios-26/]]></guid>
-    <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI-assisted wins and anti-patterns]]></title>
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/ai/ai-assisted-wins-and-anti-patterns]]></link>
@@ -425,18 +425,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Disintegrate, Reintegrate, Extrude]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></guid>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A simple logging framework in Swift]]></title>
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></guid>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Disintegrate, Reintegrate, Extrude]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
