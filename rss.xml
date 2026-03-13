@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Mar 2026 10:16:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 12:17:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iRelay: Text Your Mac, Run an AI Agent]]></title>
@@ -165,6 +165,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2026/03/things-to-try-if-youre-new-to-claude-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/03/things-to-try-if-youre-new-to-claude-code/]]></guid>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 311 - Noticing]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/a754f73f13f9/311-noticing]]></guid>
     <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/building-pancake]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/building-pancake]]></guid>
     <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[LeafKit HTML Escaping Vulnerability]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability]]></guid>
-    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
