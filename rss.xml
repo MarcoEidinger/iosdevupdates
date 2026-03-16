@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Mar 2026 00:39:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 03:11:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Fix Xcode Source Editor Extensions That Don’t Appear in the Editor Menu]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/03/15/how-to-fix-xcode-source.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/03/15/how-to-fix-xcode-source.html]]></guid>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Over-Engineering Method]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></guid>
     <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -445,14 +453,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://accessibilityupto11.com/]]></description>
     <link><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></link>
     <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></guid>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Disintegrate, Reintegrate, Extrude]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/disintegrate-reintegrate-extrude/]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
