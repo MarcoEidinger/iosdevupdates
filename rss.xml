@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Mar 2026 12:25:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 14:33:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple at 50 and Me at 51 - Fatbobman's Swift Weekly #127]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-127/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-127/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agentic Development: Multi-Project Challenges]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/agentic-development-multi-project-challenges/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/agentic-development-multi-project-challenges/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode 26 Compilation Cache]]></title>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A 9-Step Framework for Choosing the Right Agent Skill]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/a-9-step-framework-for-choosing-the-right-agent-skill/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/a-9-step-framework-for-choosing-the-right-agent-skill/]]></guid>
-    <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Browser-to-Agent: Edit Your Site Without Leaving the Page]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/browser-to-agent-edit-your-site-without-leaving-the-page]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftteacher.org/post/15/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftteacher.org/post/15/]]></guid>
     <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claude Code Brought My App Back From the Dead]]></title>
-    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
-    <link><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></guid>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
