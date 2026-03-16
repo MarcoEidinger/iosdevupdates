@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Mar 2026 10:28:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 12:25:16 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Xcode 26 Compilation Cache]]></title>
@@ -105,6 +105,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[LeafKit Lack of HTML Escaping Vulnerability]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/leafkit-xss-vulnerability-2]]></guid>
+    <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Small Choices, Big Impact: The Environmental Cost of Mobile Design Decisions]]></title>
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/small-choices-big-impact-the-environmental-cost-of-mobile-design-decisions/]]></link>
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Why I'm Still Thinking About Core Data in 2026]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/why-i-am-still-thinking-about-core-data-in-2026/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/why-i-am-still-thinking-about-core-data-in-2026/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -417,6 +417,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Claude Code Canvas, or how I mass-deleted an AppKit project]]></title>
+    <description><![CDATA[https://raulriera.medium.com/]]></description>
+    <link><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://raulriera.medium.com/claude-code-canvas-or-how-i-mass-deleted-an-appkit-project-5b7c81d267c7?source=rss-8501090bb2de------2]]></guid>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The Death of iPadOS?]]></title>
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/death-of-ipados/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chriswu.com/categories/development/]]></description>
     <link><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://chriswu.com/posts/ai/museumshuffleai/]]></guid>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The 4-Step Process I Use to Create SwiftUI Animations]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/swiftui-animation-with-example]]></guid>
     <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
