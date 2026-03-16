@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Mar 2026 16:28:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 18:27:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Abstractions: Generics, some, and any]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swift/swift-abstractions-generics-some-and-any/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/swift-abstractions-generics-some-and-any/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Liquid Pro]]></title>
@@ -41,10 +49,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Xcode 26 Compilation Cache]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/xcode-26-compilation-cache/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/xcode-26-compilation-cache/]]></guid>
+    <title><![CDATA[Expanding Animations in SwiftUI Lists]]></title>
+    <description><![CDATA[https://nerdyak.tech/]]></description>
+    <link><![CDATA[https://nerdyak.tech/development/2026/03/16/expand-animation-in-SwiftUI-List]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nerdyak.tech/development/2026/03/16/expand-animation-in-SwiftUI-List]]></guid>
     <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://accessibilityupto11.com/]]></description>
     <link><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></link>
     <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></guid>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A simple logging framework in Swift]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
