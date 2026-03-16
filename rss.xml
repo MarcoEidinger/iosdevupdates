@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Mar 2026 14:33:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 16:28:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Liquid Pro]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2026/3/liquid_pro.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/3/liquid_pro.html]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Announcing AppScript]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2026/03/announcing-appscript/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/03/announcing-appscript/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple at 50 and Me at 51 - Fatbobman's Swift Weekly #127]]></title>
@@ -37,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-string-catalogs-in-practice]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-string-catalogs-in-practice]]></guid>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Morning Reset at Build with AI at Imperial College]]></title>
+    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
+    <link><![CDATA[https://gioscalzo.com/blog/build-with-ai-imperial-college-morning/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/build-with-ai-imperial-college-morning/]]></guid>
     <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Chiron Codex early bird ends soon]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2026/03/chiron-codex-early-bird-ends-soon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/03/chiron-codex-early-bird-ends-soon/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What you should know before Migrating from GCD to Swift Concurrency]]></title>
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/what-you-should-know-before-migrating-from-gcd-to-swift-concurrency-74d4d9b2c4e1?source=rss-41d824adb39d------2]]></link>
@@ -294,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></guid>
     <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[CasNum is Amazing]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2026/3/casnum.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/3/casnum.html]]></guid>
-    <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/simple-logging-framework-swift]]></guid>
     <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Got Tired of Seating Charts, So I Built a Fix]]></title>
-    <description><![CDATA[https://www.swiftteacher.org]]></description>
-    <link><![CDATA[https://www.swiftteacher.org/post/15/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftteacher.org/post/15/]]></guid>
-    <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
