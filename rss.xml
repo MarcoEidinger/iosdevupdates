@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 17 Mar 2026 14:31:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 16:30:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to group sub views with separator in SwiftUI]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-group-sub-views-with-separator-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-group-sub-views-with-separator-in-swiftui/]]></guid>
+    <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Tahoe bloats the Safari Picture-in-Picture window]]></title>
@@ -61,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/agentic-development-multi-project-challenges/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/agentic-development-multi-project-challenges/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swiftdata Icloud Sync Status]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/03/16/swiftdata-icloud-sync-status]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/03/16/swiftdata-icloud-sync-status]]></guid>
     <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Ride Part 2 Creating The Models]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/03/13/swift-ride-part-2-creating-the-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/03/13/swift-ride-part-2-creating-the-models]]></guid>
-    <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Cupertino v0.10: Full Coverage and Community Contributions]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/cupertino-10-release/]]></link>
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/283/how-to-install-and-use-ai-agent-skills-in-xcode]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/283/how-to-install-and-use-ai-agent-skills-in-xcode]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to use custom UIKit trait in SwiftUI]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-custom-uikit-trait-in-swiftui/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
