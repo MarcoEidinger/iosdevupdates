@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 18 Mar 2026 20:16:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 22:13:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[The Secure Design of the MacBook Neo’s On-Screen Camera Indicator]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.eliperkins.me/]]></description>
     <link><![CDATA[https://blog.eliperkins.com/tools-i-love-plannotator]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/tools-i-love-plannotator]]></guid>
+    <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I Built a Pokémon Social Network]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/pokemon-social-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/pokemon-social-app/]]></guid>
     <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.amyworrall.com]]></description>
     <link><![CDATA[https://www.amyworrall.com/blog/automating-mac-app-screenshots]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/automating-mac-app-screenshots]]></guid>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fixing The ActionBuilder Plugin]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2026/02/27/actionbuilderplugin-deadlock.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/02/27/actionbuilderplugin-deadlock.html]]></guid>
     <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
