@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 18 Mar 2026 12:23:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 14:34:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[CDE: An Attempt to Make Core Data Feel More Like Modern Swift]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/cde-an-attempt-to-make-core-data-feel-more-like-modern-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/cde-an-attempt-to-make-core-data-feel-more-like-modern-swift/]]></guid>
+    <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On working machines]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://krausefx.com/blog/openclaw-my-automation-setup]]></link>
     <guid isPermaLink="true"><![CDATA[https://krausefx.com/blog/openclaw-my-automation-setup]]></guid>
     <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Learning to develop more accessible iOS games]]></title>
-    <description><![CDATA[https://accessibilityupto11.com/]]></description>
-    <link><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></link>
-    <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-02-22-01]]></guid>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
