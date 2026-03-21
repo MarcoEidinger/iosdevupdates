@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 21 Mar 2026 10:10:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 12:13:38 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to style hierarchy in SwiftUI]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-style-hierarchy-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-style-hierarchy-in-swiftui/]]></guid>
+    <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Algorithms - Apple’s Hidden Collection and Sequence APIs You Should Be Using]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swift-algorithms-complete-guide/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-algorithms-complete-guide/]]></guid>
     <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/ios-and-mac-apps-in-zed/]]></guid>
-    <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift some vs any - Understanding Opaque Types and Existential Types]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swift-some-vs-any-opaque-existential-types/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-some-vs-any-opaque-existential-types/]]></guid>
     <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
