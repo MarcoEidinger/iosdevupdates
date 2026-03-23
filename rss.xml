@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Mar 2026 20:17:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 22:13:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Liquid Glass Is Permanent]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/23/liquid-glass-is-permanent/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/23/liquid-glass-is-permanent/]]></guid>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[School Notes: A Note-Taking App Built by a Teacher, for Teachers and Students]]></title>
+    <description><![CDATA[https://www.swiftteacher.org]]></description>
+    <link><![CDATA[https://www.swiftteacher.org/post/16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftteacher.org/post/16/]]></guid>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Linux Desktop Amenities]]></title>
@@ -29,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/how-i-decomposed-a-monolithic-ios-app-into-130-modules-and-reduced-build-time-by-35/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/how-i-decomposed-a-monolithic-ios-app-into-130-modules-and-reduced-build-time-by-35/]]></guid>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Workslop]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/3/23/workslop/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/3/23/workslop/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -86,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swift-algorithms-complete-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-algorithms-complete-guide/]]></guid>
     <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Overcast Transcripts]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/20/overcast-transcripts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/20/overcast-transcripts/]]></guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Small Steps For Agent-Friendly Codebases]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/3/11/small-steps-for-agent-friendly-codebases/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/3/11/small-steps-for-agent-friendly-codebases/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Beating App Store review: lessons from shipping a minimal indie game]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/beating-app-store-review/]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://batikansosun.medium.com/]]></description>
     <link><![CDATA[https://medium.com/sahibinden-technology/agentic-coding-in-xcode-26-3-a-deep-dive-for-ios-developers-b25b140de676?source=rss-a0e19a28a49a------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/sahibinden-technology/agentic-coding-in-xcode-26-3-a-deep-dive-for-ios-developers-b25b140de676?source=rss-a0e19a28a49a------2]]></guid>
-    <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Adjusting line height in SwiftUI on iOS 26]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/AdjustingLineHeightInSwiftUIOniOS26]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AdjustingLineHeightInSwiftUIOniOS26]]></guid>
     <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
