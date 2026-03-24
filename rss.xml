@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Mar 2026 14:32:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 16:28:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Newsletter 313 - Sketch]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/567620528003/313-sketch]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/567620528003/313-sketch]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reaching for UIKit from SwiftUI]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/reaching-for-uikit-from-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/reaching-for-uikit-from-swiftui/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The AttributeGraph – The Engine Behind Every SwiftUI View]]></title>
@@ -77,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-128/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-128/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I decomposed a monolithic iOS app into 130+ modules and reduced build time by ~35%]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/how-i-decomposed-a-monolithic-ios-app-into-130-modules-and-reduced-build-time-by-35/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/how-i-decomposed-a-monolithic-ios-app-into-130-modules-and-reduced-build-time-by-35/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-07-a-sceptical-look-at-llms/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-07-a-sceptical-look-at-llms/]]></guid>
     <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift at scale: building the TelemetryDeck analytics service]]></title>
-    <description><![CDATA[https://peterspath.net/categories/development/]]></description>
-    <link><![CDATA[https://peterspath.net/blog/dev-building-privacy-first-analytics-with-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterspath.net/blog/dev-building-privacy-first-analytics-with-swift/]]></guid>
-    <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
