@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Mar 2026 20:18:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 22:13:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Lightroom End Marks]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/24/lightroom-end-marks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/24/lightroom-end-marks/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[25 Years of Mac OS X]]></title>
@@ -81,19 +89,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Liquid Glass Is Permanent]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/23/liquid-glass-is-permanent/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/23/liquid-glass-is-permanent/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-draw-effects-and-gradient-rendering-in-sf-symbols/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/exploring-draw-effects-and-gradient-rendering-in-sf-symbols/]]></guid>
-    <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OpenBudget Dev Log - Part 1]]></title>
-    <description><![CDATA[https://khanwinter.com]]></description>
-    <link><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></link>
-    <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></guid>
     <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
