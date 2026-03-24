@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Mar 2026 16:28:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 18:25:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Myth of the MV pattern: Why SwiftUI developers just reinvented MVC]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swiftui-mv-pattern/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-mv-pattern/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing a TestFlight of Time Out version 3.0]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-0/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 313 - Sketch]]></title>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-09-OpenBudget-DevLog-01]]></guid>
     <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How my software engineering workflow has changed in the past year]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/how-my-software-engineering-workflow-has-changed-in-the-past-year]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/how-my-software-engineering-workflow-has-changed-in-the-past-year]]></guid>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A sceptical look at LLMs & Agents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-07-a-sceptical-look-at-llms/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-07-a-sceptical-look-at-llms/]]></guid>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
