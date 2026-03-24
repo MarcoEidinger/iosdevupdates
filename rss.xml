@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 24 Mar 2026 06:30:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 08:21:24 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How Coding Agents Actually Work]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/how-coding-agents-actually-work]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/how-coding-agents-actually-work]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Reality of Multiplatform Development]]></title>
+    <description><![CDATA[https://appleboy.tech]]></description>
+    <link><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elkraneo.com/]]></description>
     <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components-continued/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components-continued/]]></guid>
-    <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Mindset to Migrate an App from UIKit to SwiftUI in 30 Days]]></title>
-    <description><![CDATA[https://appleboy.tech]]></description>
-    <link><![CDATA[https://appleboy.tech/articles/mindset-migrate-uikit-to-swiftui-30-days]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appleboy.tech/articles/mindset-migrate-uikit-to-swiftui-30-days]]></guid>
     <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
