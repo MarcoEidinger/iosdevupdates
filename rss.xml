@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Mar 2026 08:21:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 10:22:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[What AI tools to use with Claude Code]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/building-ledgee/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/building-ledgee/]]></guid>
+    <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Your AI Code Reviewer Actually (Prompts) Behind Your Back]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/03/25/what-your-ai-code-reviewer-actually-prompts-behind-your-back/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/25/what-your-ai-code-reviewer-actually-prompts-behind-your-back/]]></guid>
     <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/the-one-more-prompt-risk-of-agentic-coding/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/the-one-more-prompt-risk-of-agentic-coding/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[tmux cheatsheet]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/03/23/tmux-cheatsheet/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/23/tmux-cheatsheet/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
