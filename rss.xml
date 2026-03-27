@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Mar 2026 16:23:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 18:24:28 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
     <description><![CDATA[https://medium.com/@andr3a88]]></description>
     <link><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></guid>
+    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Package Traits in Xcode]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/package-traits-in-xcode/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/package-traits-in-xcode/]]></guid>
     <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -161,18 +169,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Intents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nachbaur.com/]]></description>
     <link><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/]]></guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Composing Parsers with the swift-parsing Library]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/composing-parsers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/composing-parsers/]]></guid>
     <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
