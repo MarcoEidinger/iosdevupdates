@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 28 Mar 2026 20:11:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 22:10:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Refined Authentication Experience | Dan Lages]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/a-refined-authentication-experience-dan-lages-2035/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/a-refined-authentication-experience-dan-lages-2035/]]></guid>
+    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Shipped an Android SDK Nobody Asked For — And It Reveals Everything Wrong With the Company]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/]]></guid>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I Built a Telegram Bot to Post Notes to My Jekyll Blog]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/telegram-bot-jekyll-notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/telegram-bot-jekyll-notes/]]></guid>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
