@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 27 Mar 2026 20:15:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 10:13:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How I Built a Telegram Bot to Post Notes to My Jekyll Blog]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/telegram-bot-jekyll-notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/telegram-bot-jekyll-notes/]]></guid>
+    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Another TestFlight of Time Out 3.0: almost ready for release]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-almost-ready-for-release/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-almost-ready-for-release/]]></guid>
+    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Goodbye, Mac Pro]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/27/goodbye-mac-pro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/27/goodbye-mac-pro/]]></guid>
+    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
@@ -25,26 +49,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[I got inspired by my friend Costa's write-up and decided to try it on my own blo]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/things-2124/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/things-2124/]]></guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to setup Terminal tools for Mac]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-setup-terminal-tools-for-mac/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-setup-terminal-tools-for-mac/]]></guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ads in Apple Maps]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/26/ads-in-apple-maps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/26/ads-in-apple-maps/]]></guid>
     <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement]]></guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Another TestFlight of Time Out 3.0: now with a theme editor]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-now-with-a-theme-editor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-now-with-a-theme-editor/]]></guid>
     <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,18 +169,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Intents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
