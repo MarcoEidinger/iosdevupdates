@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Mar 2026 16:27:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 22:16:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Saved 218K Tokens in One Claude code Session. Here is how .]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/i-saved-218k-tokens-in-one-claude-code-session-here-is-how-7aa57a488786?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-saved-218k-tokens-in-one-claude-code-session-here-is-how-7aa57a488786?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Shipping Snake Oil]]></title>
+    <description><![CDATA[https://blog.krzyzanowskim.com/]]></description>
+    <link><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to auto approve Claude Code permission]]></title>
@@ -81,6 +97,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Changing runtime state with LLDB while debugging iOS apps]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/lldb-changing-variables-while-debugging]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/lldb-changing-variables-while-debugging]]></guid>
+    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[What Bazel Really Runs (and How to See It)]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/03/29/what-bazel-really-runs-and.html]]></link>
@@ -94,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera]]></guid>
     <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Shipped an Android SDK Nobody Asked For — And It Reveals Everything Wrong With the Company]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -233,18 +249,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +286,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://build.ms/2026/3/23/workslop/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/3/23/workslop/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Migrating to String Catalogs in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-string-catalogs-migration]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-string-catalogs-migration]]></guid>
-    <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.createwithswift.com/]]></description>
     <link><![CDATA[https://www.createwithswift.com/small-choices-big-impact-the-environmental-cost-of-mobile-design-decisions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.createwithswift.com/small-choices-big-impact-the-environmental-cost-of-mobile-design-decisions/]]></guid>
-    <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cupertino v0.10: Full Coverage and Community Contributions]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/cupertino-10-release/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-10-release/]]></guid>
     <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
