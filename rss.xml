@@ -6,14 +6,70 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 30 Mar 2026 05:02:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 14:38:04 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[I got inspired by my friend Costa’s write-up and decided to try it on my own blo]]></title>
+    <title><![CDATA[Small ways the App Store could be improved for developers]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/13.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/13.html]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stack vs Heap in Swift: interview essentials]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swift/stack-vs-heap-in-swift-interview-essentials/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/stack-vs-heap-in-swift-interview-essentials/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Wall Away, Worlds Apart - Fatbobman's Swift Weekly #129]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-129/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-129/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Refined Authentication Experience | Dan Lages]]></title>
     <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/things-1936/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/things-1936/]]></guid>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    <link><![CDATA[https://dchakarov.com/blog/a-refined-authentication-experience-dan-lages-1227/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/a-refined-authentication-experience-dan-lages-1227/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode Build Optimization using 6 Agent Skills]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/xcode/xcode-build-optimization-using-6-agent-skills/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/xcode-build-optimization-using-6-agent-skills/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Magic Link Auth vs Google Login: When to Use Which]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/magic-link-auth-vs-google-login-when-to-use-which]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/magic-link-auth-vs-google-login-when-to-use-which]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Eval Loop: Stop Guessing, Start Measuring]]></title>
+    <description><![CDATA[https://merowing.info/]]></description>
+    <link><![CDATA[https://merowing.info/posts/eval-loops-for-llm-features/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://merowing.info/posts/eval-loops-for-llm-features/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode 26.4 Simulator Paste Is Broken: Here's the Workaround]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/]]></guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -33,26 +89,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to Write an AGENTS.md That Actually Works]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/how-to-write-an-agents-md-that-actually-works]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/how-to-write-an-agents-md-that-actually-works]]></guid>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Shipped an Android SDK Nobody Asked For — And It Reveals Everything Wrong With the Company]]></title>
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My AI Agent Watched 359 Episodes of Point-Free So I Don't Have To]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/]]></guid>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -113,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Store Connect analytics missing platform versions]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/3/12.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/3/12.html]]></guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The SwiftUI Way: patterns and anti-patterns for production apps]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement]]></link>
@@ -177,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Reaching for UIKit from SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/reaching-for-uikit-from-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/reaching-for-uikit-from-swiftui/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The AttributeGraph – The Engine Behind Every SwiftUI View]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/the-attributegraph-the-engine-behind-every-swiftui-view?utm_source=rss&utm_medium=rss&utm_campaign=the-attributegraph-the-engine-behind-every-swiftui-view]]></link>
@@ -209,18 +233,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Intents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -241,26 +265,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is My App Stuck in Review? - Fatbobman's Swift Weekly #128]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-128/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-128/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Workslop]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2026/3/23/workslop/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/3/23/workslop/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The “One More Prompt” risk of agentic coding]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/the-one-more-prompt-risk-of-agentic-coding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/the-one-more-prompt-risk-of-agentic-coding/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/cupertino-10-release/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-10-release/]]></guid>
     <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building SimTag: A Deep Dive Through macOS Window APIs, CoreSimulator, DerivedData, and Git]]></title>
-    <description><![CDATA[https://digitalbunker.dev/]]></description>
-    <link><![CDATA[https://digitalbunker.dev/building-simtag-a-deep-dive-through-macos-window-apis-coresimulator-deriveddata-and-git/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/building-simtag-a-deep-dive-through-macos-window-apis-coresimulator-deriveddata-and-git/]]></guid>
-    <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
