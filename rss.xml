@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 Apr 2026 18:25:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 20:20:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[CloudKit Problems With iOS 26.4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/01/cloudkit-problems-with-ios-26-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/01/cloudkit-problems-with-ios-26-4/]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A letter to John Ternus]]></title>
@@ -53,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parachute Backup Acquired]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/31/parachute-backup-acquired/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/31/parachute-backup-acquired/]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,18 +305,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
