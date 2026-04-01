@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 Apr 2026 06:41:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 16:27:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Teach your AI to write Swift the Hacking with Swift way]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/284/teach-your-ai-to-write-swift-the-hacking-with-swift-way]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/284/teach-your-ai-to-write-swift-the-hacking-with-swift-way]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI View Lifecycle: When onAppear Actually fires]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-view-lifecycle-onappear?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-view-lifecycle-onappear]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-view-lifecycle-onappear?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-view-lifecycle-onappear]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My Home Screen - March 2026]]></title>
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The AttributeGraph – The Engine Behind Every SwiftUI View]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/the-attributegraph-the-engine-behind-every-swiftui-view?utm_source=rss&utm_medium=rss&utm_campaign=the-attributegraph-the-engine-behind-every-swiftui-view]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/the-attributegraph-the-engine-behind-every-swiftui-view?utm_source=rss&utm_medium=rss&utm_campaign=the-attributegraph-the-engine-behind-every-swiftui-view]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Reality of Multiplatform Development]]></title>
     <description><![CDATA[https://appleboy.tech]]></description>
     <link><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></link>
@@ -281,18 +289,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,6 +449,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Concurrency: Part 4]]></title>
+    <description><![CDATA[https://www.nsvasilev.com/]]></description>
+    <link><![CDATA[https://nsvasilev.com/posts/swift-concurrency-part-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/swift-concurrency-part-4/]]></guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swiftdata Icloud Sync Status]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/03/16/swiftdata-icloud-sync-status]]></link>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nerdyak.tech/development/2026/03/16/expand-animation-in-SwiftUI-List]]></link>
     <guid isPermaLink="true"><![CDATA[https://nerdyak.tech/development/2026/03/16/expand-animation-in-SwiftUI-List]]></guid>
     <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Morning Reset at Build with AI at Imperial College]]></title>
-    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
-    <link><![CDATA[https://gioscalzo.com/blog/build-with-ai-imperial-college-morning/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/build-with-ai-imperial-college-morning/]]></guid>
-    <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Over-Engineering Method]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></guid>
-    <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
