@@ -6,7 +6,47 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 31 Mar 2026 18:26:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 03:11:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Home Screen - March 2026]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2026-03/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2026-03/]]></guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is Claude Code Open Source Now? Not Exactly. Here’s the Truth — Beware on X Scam.]]></title>
+    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
+    <link><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Parachute Backup Acquired]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/03/31/parachute-backup-acquired/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/31/parachute-backup-acquired/]]></guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 314 - Broken]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/cbe8870d4be3/314-broken]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/cbe8870d4be3/314-broken]]></guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[After 8 years of Gatsby.js, I built my own static site generator]]></title>
+    <description><![CDATA[https://pietrorea.com/]]></description>
+    <link><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Art or tool?]]></title>
@@ -30,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ivanthinking.net/2026/03/30/getting-ready-for-ready-time/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/03/30/getting-ready-for-ready-time/]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Saved 218K Tokens in One Claude code Session. Here is how .]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/i-saved-218k-tokens-in-one-claude-code-session-here-is-how-7aa57a488786?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/i-saved-218k-tokens-in-one-claude-code-session-here-is-how-7aa57a488786?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -161,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Goodbye, Mac Pro]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/03/27/goodbye-mac-pro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/03/27/goodbye-mac-pro/]]></guid>
-    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
     <description><![CDATA[https://medium.com/@andr3a88]]></description>
     <link><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></link>
@@ -233,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 313 - Sketch]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/567620528003/313-sketch]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/567620528003/313-sketch]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The AttributeGraph – The Engine Behind Every SwiftUI View]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/the-attributegraph-the-engine-behind-every-swiftui-view?utm_source=rss&utm_medium=rss&utm_campaign=the-attributegraph-the-engine-behind-every-swiftui-view]]></link>
@@ -265,18 +281,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -393,14 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using Safari Web Inspector with web views in iOS apps.]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/using-safari-web-inspector-with-webviews-in-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/using-safari-web-inspector-with-webviews-in-apps/]]></guid>
-    <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building a Coding Agent in Swift, Part 8: Background Tasks]]></title>
     <description><![CDATA[https://ivanmagda.dev]]></description>
     <link><![CDATA[https://ivanmagda.dev/posts/s08-background-tasks/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/the-over-engineering-method/]]></guid>
     <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Deconstructing Reality Composer Pro (Inspector Components ...continued)]]></title>
-    <description><![CDATA[https://elkraneo.com/]]></description>
-    <link><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components-continued/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components-continued/]]></guid>
-    <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
