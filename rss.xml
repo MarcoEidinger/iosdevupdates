@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 01 Apr 2026 20:20:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 00:36:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Beginning of Programming as We’ll Know It]]></title>
+    <description><![CDATA[https://bitsplitting.org/]]></description>
+    <link><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to style glass effect with corner radius for NSWindow on macOS]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-style-glass-effect-with-corner-radius-for-nswindow-on-macos/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-style-glass-effect-with-corner-radius-for-nswindow-on-macos/]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[CloudKit Problems With iOS 26.4]]></title>
@@ -109,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.krzyzanowskim.com/]]></description>
     <link><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></guid>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to auto approve Claude Code permission]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-auto-approve-claude-code-permission/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-auto-approve-claude-code-permission/]]></guid>
     <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,18 +313,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Intents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/swift-concurrency-part-4/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/swift-concurrency-part-4/]]></guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swiftdata Icloud Sync Status]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/03/16/swiftdata-icloud-sync-status]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/03/16/swiftdata-icloud-sync-status]]></guid>
     <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
