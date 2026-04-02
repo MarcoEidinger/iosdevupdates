@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 02 Apr 2026 20:16:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 22:15:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS 18.7.7 and iPadOS 18.7.7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/02/ios-18-7-7-and-ipados-18-7-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/02/ios-18-7-7-and-ipados-18-7-7/]]></guid>
+    <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[RealityKit Outline Selection]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-style-glass-effect-with-corner-radius-for-nswindow-on-macos/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-style-glass-effect-with-corner-radius-for-nswindow-on-macos/]]></guid>
-    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[CloudKit Problems With iOS 26.4]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/01/cloudkit-problems-with-ios-26-4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/01/cloudkit-problems-with-ios-26-4/]]></guid>
     <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
