@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Apr 2026 20:18:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 22:15:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to set up Claude Code tools]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Phantom App Updates, Part 3]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/06/phantom-app-updates-part-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/06/phantom-app-updates-part-3/]]></guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Indicating Selection in macOS Menus Using SwiftUI]]></title>
@@ -97,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to use Claude Code hooks]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-use-claude-code-hooks/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-claude-code-hooks/]]></guid>
-    <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Bazel Output Groups: Producing Outputs on Demand]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/04/05/bazel-output-groups-producing-outputs.html]]></link>
@@ -150,14 +158,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swift-mutex-shared-mutable-state/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-mutex-shared-mutable-state/]]></guid>
     <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 26.4 Paste Protection]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/03/macos-26-4-paste-protection/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/03/macos-26-4-paste-protection/]]></guid>
-    <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,18 +401,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
