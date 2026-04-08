@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Apr 2026 16:33:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 18:34:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Adobe Modifies Your Hosts File for Their Analytics]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/08/adobe-modifies-your-hosts-file-for-their-analytics/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/08/adobe-modifies-your-hosts-file-for-their-analytics/]]></guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swish - Clojure-like Lisp for Swift Video Series]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Decisive Victory]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dynamic Notarization Checks?]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/07/dynamic-notarization-checks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/07/dynamic-notarization-checks/]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://manu.show/]]></description>
     <link><![CDATA[https://manu.show/ep092-the-comfort-crisis]]></link>
     <guid isPermaLink="true"><![CDATA[https://manu.show/ep092-the-comfort-crisis]]></guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generally Useful Prompts]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2026/03/20/generally-useful-prompts]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/03/20/generally-useful-prompts]]></guid>
     <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
