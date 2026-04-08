@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 07 Apr 2026 22:18:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 00:41:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ready Time]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dynamic Notarization Checks?]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/07/dynamic-notarization-checks/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/07/dynamic-notarization-checks/]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Rebuilding higher-order functions in Swift]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 315 - Five]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/33e4a49aedc0/315-five]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/33e4a49aedc0/315-five]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -41,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swiftui Book Paperback]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How to set up Claude Code tools]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></guid>
-    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Phantom App Updates, Part 3]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/06/phantom-app-updates-part-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/06/phantom-app-updates-part-3/]]></guid>
     <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Is Ai Making Developers Forget]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/05/is-ai-making-developers-forget]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/05/is-ai-making-developers-forget]]></guid>
-    <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/]]></link>
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 314 - Broken]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/cbe8870d4be3/314-broken]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/cbe8870d4be3/314-broken]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[After 8 years of Gatsby.js, I built my own static site generator]]></title>
     <description><![CDATA[https://pietrorea.com/]]></description>
     <link><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></link>
@@ -293,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/03/art-or-tool/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/03/art-or-tool/]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Ready for Ready Time]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/03/30/getting-ready-for-ready-time/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/03/30/getting-ready-for-ready-time/]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -425,6 +425,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[School Notes: A Note-Taking App Built by a Teacher, for Teachers and Students]]></title>
     <description><![CDATA[https://www.swiftteacher.org]]></description>
     <link><![CDATA[https://www.swiftteacher.org/post/16/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2026/03/20/review-your-own-ai-generated-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/03/20/review-your-own-ai-generated-code/]]></guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Abstraction Layer]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/The-Abstraction-Layer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/The-Abstraction-Layer]]></guid>
     <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
