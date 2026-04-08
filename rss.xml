@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Apr 2026 06:39:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 08:31:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I live in Australia now]]></title>
+    <description><![CDATA[https://collin.blog/]]></description>
+    <link><![CDATA[https://collin.blog/2026/04/08/i-live-in-australia-now/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/04/08/i-live-in-australia-now/]]></guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why I still build iOS apps for myself]]></title>
@@ -417,18 +425,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2026/03/20/generally-useful-prompts]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/03/20/generally-useful-prompts]]></guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Review your own AI-generated code]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2026/03/20/review-your-own-ai-generated-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/03/20/review-your-own-ai-generated-code/]]></guid>
     <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
