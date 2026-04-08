@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Apr 2026 18:34:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 20:18:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Adobe Modifies Your Hosts File for Their Analytics]]></title>
@@ -57,6 +57,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The Swift Concurrency Transition I Learned to Love]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/swift-concurrency-approachability-transition]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/swift-concurrency-approachability-transition]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Rebuilding higher-order functions in Swift]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></link>
@@ -101,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
+    <description><![CDATA[https://andrevini.dev/blog]]></description>
+    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
+    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-probably-the-last-before-general-release/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-probably-the-last-before-general-release/]]></guid>
-    <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
-    <description><![CDATA[https://andrevini.dev/blog]]></description>
-    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
     <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -433,18 +441,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Intents]]></title>
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://troz.net/post/2026/playing_mac_sandbox/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/playing_mac_sandbox/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Comfort Crisis]]></title>
-    <description><![CDATA[https://manu.show/]]></description>
-    <link><![CDATA[https://manu.show/ep092-the-comfort-crisis]]></link>
-    <guid isPermaLink="true"><![CDATA[https://manu.show/ep092-the-comfort-crisis]]></guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
