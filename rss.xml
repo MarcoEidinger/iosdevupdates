@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 Apr 2026 06:39:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 08:38:17 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Adobe Modifies Your Hosts File for Their Analytics]]></title>
@@ -73,6 +73,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to present interactive CLI prompts in Swift]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-present-interactive-cli-prompts-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-present-interactive-cli-prompts-in-swift/]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Rebuilding higher-order functions in Swift]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></link>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to set up Claude Code tools]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-set-up-claude-code-tools/]]></guid>
-    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -433,18 +433,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Two Days In Tokyo]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Reality of Multiplatform Development]]></title>
     <description><![CDATA[https://appleboy.tech]]></description>
     <link><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></link>
     <guid isPermaLink="true"><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Two Days In Tokyo]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
