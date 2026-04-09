@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Apr 2026 22:19:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 00:35:02 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Adobe Modifies Your Hosts File for Their Analytics]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/04/08/i-live-in-australia-now/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/04/08/i-live-in-australia-now/]]></guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Kids and Vibe Coding: The Joy of Building]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Kids-and-Vibe-Coding-iOS-Apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Kids-and-Vibe-Coding-iOS-Apps]]></guid>
     <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2026/03/linux-desktop-amenities/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/03/linux-desktop-amenities/]]></guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Playing in the Mac App Sandbox]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2026/playing_mac_sandbox/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/playing_mac_sandbox/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
