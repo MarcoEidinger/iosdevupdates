@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 Apr 2026 18:27:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 20:22:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to use Apple Intelligence as a service]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-use-apple-intelligence-as-a-service/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-apple-intelligence-as-a-service/]]></guid>
+    <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What’s that “structured” in Structured Concurrency?]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/swift-concurrency-approachability-transition]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/swift-concurrency-approachability-transition]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to present interactive CLI prompts in Swift]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-present-interactive-cli-prompts-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-present-interactive-cli-prompts-in-swift/]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/04/05/bazel-output-groups-producing-outputs.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/04/05/bazel-output-groups-producing-outputs.html]]></guid>
-    <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Another TestFlight of Time Out 3.0: probably the last before general release]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-probably-the-last-before-general-release/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-3-0-probably-the-last-before-general-release/]]></guid>
     <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -457,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Intents]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
@@ -473,10 +457,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[App Intents]]></title>
+    <description><![CDATA[https://mutatingfunc.github.io]]></description>
+    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-03-24-app-intents/]]></guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[School Notes: A Note-Taking App Built by a Teacher, for Teachers and Students]]></title>
     <description><![CDATA[https://www.swiftteacher.org]]></description>
     <link><![CDATA[https://www.swiftteacher.org/post/16/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftteacher.org/post/16/]]></guid>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Linux Desktop Amenities]]></title>
+    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
+    <link><![CDATA[https://www.dzombak.com/blog/2026/03/linux-desktop-amenities/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/03/linux-desktop-amenities/]]></guid>
     <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
