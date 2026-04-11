@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Apr 2026 04:44:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 06:28:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Don’t Let the LLM Verify. Make It Build the Verifier.]]></title>
@@ -217,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Tiny Languages of Task Runners]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/task-runners/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/task-runners/]]></guid>
-    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building List replacement in SwiftUI]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/04/06/building-list-replacement-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/04/06/building-list-replacement-in-swiftui]]></guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Tiny Languages of Task Runners]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/task-runners/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/task-runners/]]></guid>
     <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
