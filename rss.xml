@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Apr 2026 08:18:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 10:14:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introducing Gobbler]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2026-04-11-introducing-gobbler/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-11-introducing-gobbler/]]></guid>
+    <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Don’t Let the LLM Verify. Make It Build the Verifier.]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/dont-let-the-llm-verify-make-it-build-the-verifier]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/dont-let-the-llm-verify-make-it-build-the-verifier]]></guid>
+    <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A ridiculously-lightweight push notification service]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rodschmidt.com/]]></description>
     <link><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></guid>
-    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Decisive Victory]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2026-04-08-a-decisive-victory/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-08-a-decisive-victory/]]></guid>
     <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/03/24/two-days-in-tokyo/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Dev Search: A search engine for Apple developer blogs]]></title>
-    <description><![CDATA[https://luxmentis.org/blog/]]></description>
-    <link><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/appledevsearch/]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
