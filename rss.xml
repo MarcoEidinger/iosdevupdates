@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 Apr 2026 16:33:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 18:34:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SpamSieve 3.3]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/13/spamsieve-3-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/13/spamsieve-3-3/]]></guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Copyright Walls Demolished by Vibe Coding, and the Developer's New Moat - Fatbobman's Swift Weekly #131]]></title>
@@ -102,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Privacy & Security Settings Don’t Show Intent-Based Access]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/10/privacy-t-show-intent-based-access/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/10/privacy-t-show-intent-based-access/]]></guid>
-    <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
