@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 Apr 2026 06:53:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 08:50:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI withAnimation сompletion on iOS 13–16]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/swiftui-withanimation-completion-on-ios-13-16/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swiftui-withanimation-completion-on-ios-13-16/]]></guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Checking accessibility with SwiftUI Previews]]></title>
@@ -177,10 +185,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Rebuilding higher-order functions in Swift]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/rebuilding-higher-order-functions-in-swift/]]></guid>
+    <title><![CDATA[How to test in-app purchases locally using StoreKit]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/testing-in-app-purchases-locally-storekit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/testing-in-app-purchases-locally-storekit]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -278,14 +286,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/task-runners/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/task-runners/]]></guid>
     <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Working with files and directories in iOS]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/ios-file-system-overview]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-file-system-overview]]></guid>
-    <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
