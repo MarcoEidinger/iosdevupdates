@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 Apr 2026 12:31:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 14:40:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Copyright Walls Demolished by Vibe Coding, and the Developer's New Moat - Fatbobman's Swift Weekly #131]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-131/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-131/]]></guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Luca: A Decentralized Tool and Skills Manager for the AI-Augmented Developer Workflow]]></title>
+    <description><![CDATA[https://albertodebortoli.com/]]></description>
+    <link><![CDATA[https://albertodebortoli.com/2026/04/13/luca-a-decentralized-tool-and-skills-manager-for-the-ai-augmented-developer-workflow/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/04/13/luca-a-decentralized-tool-and-skills-manager-for-the-ai-augmented-developer-workflow/]]></guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI withAnimation сompletion on iOS 13–16]]></title>
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/3/25_years_of_mac_os_x.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/3/25_years_of_mac_os_x.html]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Myth of the MV pattern: Why SwiftUI developers just reinvented MVC]]></title>
-    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
-    <link><![CDATA[https://matteomanferdini.com/swiftui-mv-pattern/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-mv-pattern/]]></guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Reality of Multiplatform Development]]></title>
-    <description><![CDATA[https://appleboy.tech]]></description>
-    <link><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appleboy.tech/articles/reality-of-multiplatform-development]]></guid>
     <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
