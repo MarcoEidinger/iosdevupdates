@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 Apr 2026 18:31:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 20:26:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[It's like gonna have like this tab]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/04/14/its-like-gonna-have-like-this-tab/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/14/its-like-gonna-have-like-this-tab/]]></guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[An Ultralight MacBook and Other Apple Silicon Roads Not Taken]]></title>
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/why-i-still-build-ios-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/why-i-still-build-ios-apps/]]></guid>
     <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ready Time]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/07/ready-time/]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
