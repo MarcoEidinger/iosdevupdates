@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 14 Apr 2026 12:30:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 14:41:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Claude Helped Spring Clean My Mac and Freed 90 GB]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/]]></guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Network Requests Optimization using Xcode’s Simulator & Agents]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/network-requests-optimization-using-xcodes-simulator-agents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/network-requests-optimization-using-xcodes-simulator-agents/]]></guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pair Programming for Claude and Codex, Without the Copy-Paste]]></title>
+    <description><![CDATA[https://fline.dev/]]></description>
+    <link><![CDATA[https://fline.dev/blog/tandemkit-pair-programming-for-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fline.dev/blog/tandemkit-pair-programming-for-ai-agents/]]></guid>
     <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +345,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/]]></guid>
-    <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Alt Tech Talks]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/alt-tech-talks]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></guid>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
-    <description><![CDATA[https://medium.com/@andr3a88]]></description>
-    <link><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></guid>
-    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
