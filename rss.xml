@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 Apr 2026 14:40:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 16:28:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Post Quantum JWTs]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/post-quantum-jwtkit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/post-quantum-jwtkit]]></guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Five Things I Learned About Making AI Coding Agents Actually Work]]></title>
+    <description><![CDATA[https://ivanmagda.dev]]></description>
+    <link><![CDATA[https://ivanmagda.dev/posts/five-things-ai-coding-agents-actually-work/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/five-things-ai-coding-agents-actually-work/]]></guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[M5 Networking Issues]]></title>
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-04-15-m5-networking-issues/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-15-m5-networking-issues/]]></guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Along the Way]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Along-the-Way]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Along-the-Way]]></guid>
     <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -70,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fline.dev/blog/tandemkit-pair-programming-for-ai-agents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fline.dev/blog/tandemkit-pair-programming-for-ai-agents/]]></guid>
     <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fixing the 40k CLAUDE.md Warning in a Monorepo]]></title>
-    <description><![CDATA[https://ivanmagda.dev]]></description>
-    <link><![CDATA[https://ivanmagda.dev/posts/fixing-40k-claude-md-warning-monorepo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/fixing-40k-claude-md-warning-monorepo/]]></guid>
-    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -225,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Kids and Vibe Coding: The Joy of Building]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Kids-and-Vibe-Coding-iOS-Apps]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Kids-and-Vibe-Coding-iOS-Apps]]></guid>
-    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why I still build apps for myself]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/why-i-still-build-ios-apps/]]></link>
@@ -265,18 +273,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
-    <description><![CDATA[https://andrevini.dev/blog]]></description>
-    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swiftui Book Paperback]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/07/swiftui-book-paperback]]></guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
+    <description><![CDATA[https://andrevini.dev/blog]]></description>
+    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
+    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></guid>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
-    <description><![CDATA[https://medium.com/@andr3a88]]></description>
-    <link><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></guid>
-    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
