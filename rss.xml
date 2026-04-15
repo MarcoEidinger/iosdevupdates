@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 Apr 2026 12:29:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 14:40:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[M5 Networking Issues]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2026-04-15-m5-networking-issues/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-15-m5-networking-issues/]]></guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The trait of a good look]]></title>
@@ -121,14 +129,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA['You Can Absolutely Have an RSS Dependent Website in 2026']]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2026-04-12-you-can-absolutely-have-an-rss-dependent-website-in-2026/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-12-you-can-absolutely-have-an-rss-dependent-website-in-2026/]]></guid>
-    <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Interface Segregation Principle In IOS: How To Prevent A Protocol From Becoming A Prison]]></title>
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/interface-segregation-principle-in-ios-how-to-prevent-protocol-from-becoming-a-prison/]]></link>
@@ -174,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Securing Vapor for the Future - Our Experience in GitHub's Secure Open Source Fund]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/securing-vapor-for-the-future]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/securing-vapor-for-the-future]]></guid>
-    <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-03-28-Localization-Script]]></guid>
     <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[FloatingMenuButton: a simple SwiftUI FAB that expands into actions]]></title>
+    <description><![CDATA[https://medium.com/@andr3a88]]></description>
+    <link><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@andr3a88/floatingmenubutton-a-simple-swiftui-fab-that-expands-into-actions-9025e4f645e7?source=rss-520fb01db98d------2]]></guid>
+    <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
