@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Apr 2026 14:33:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Apr 2026 16:26:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Refactoring Legacy Apps With Agents: Practical Migration Stories]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></guid>
+    <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA['App Store Reviews Are Busted']]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/3/i-got-my-coding-agent-to-admit-it-was-stuck-thats-when-everything-changed.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/3/i-got-my-coding-agent-to-admit-it-was-stuck-thats-when-everything-changed.html]]></guid>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Eval Loop: Stop Guessing, Start Measuring]]></title>
-    <description><![CDATA[https://merowing.info/]]></description>
-    <link><![CDATA[https://merowing.info/posts/eval-loops-for-llm-features/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://merowing.info/posts/eval-loops-for-llm-features/]]></guid>
     <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
