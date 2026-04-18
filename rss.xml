@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 18 Apr 2026 10:19:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 12:19:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Issue with SPM unable to resolve package update]]></title>
     <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2026/fixing-spm-issue-with-missing-default-traits/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/fixing-spm-issue-with-missing-default-traits/]]></guid>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Improve In App Video Guides with Picture-in-Picture in SwiftUI]]></title>
+    <description><![CDATA[https://diamantidis.github.io]]></description>
+    <link><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></link>
+    <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></guid>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Codex Automations]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/]]></guid>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[associatedtype in Swift Explained - A Complete Guide with SwiftUI Examples]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/associatedtype-swift-explained-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/associatedtype-swift-explained-swiftui/]]></guid>
     <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -121,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The trait of a good look]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/04/15/previews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/15/previews]]></guid>
-    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Getting Started With Humming Bird]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/15/getting-started-with-humming-bird]]></link>
@@ -137,18 +153,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The trait of a good look]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/04/15/previews]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/15/previews]]></guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[A Small SwiftUI Warning and a Long Journey to Understand It]]></title>
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/a-small-swiftui-warning-and-a-long-journey-to-understand-it]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/a-small-swiftui-warning-and-a-long-journey-to-understand-it]]></guid>
-    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claude Helped Spring Clean My Mac and Freed 90 GB]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/]]></guid>
     <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></guid>
-    <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Lazy Properties in Swift - Why They Don’t Always Work in SwiftUI]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/lazy-properties-swiftui-pitfalls/]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.krzyzanowskim.com/]]></description>
     <link><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.krzyzanowskim.com/2026/03/30/shipping-snake-oil/]]></guid>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I got my coding agent to admit it was stuck. That’s when everything changed…]]></title>
-    <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
-    <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/3/i-got-my-coding-agent-to-admit-it-was-stuck-thats-when-everything-changed.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/3/i-got-my-coding-agent-to-admit-it-was-stuck-thats-when-everything-changed.html]]></guid>
     <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
