@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Apr 2026 16:16:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 18:19:02 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Fast Thumbnails With CGImageSource]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-04-19-implementing-webmentions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-04-19-implementing-webmentions/]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hummingbird Routing]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -149,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/04/15/previews]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/15/previews]]></guid>
-    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting Started With Humming Bird]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/15/getting-started-with-humming-bird]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/15/getting-started-with-humming-bird]]></guid>
     <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
