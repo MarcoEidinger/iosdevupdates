@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 19 Apr 2026 20:15:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 22:13:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Better Way to Ignore Files in Bazel with repo.bazel]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/04/19/a-better-way-to-ignore.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/04/19/a-better-way-to-ignore.html]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fast Thumbnails With CGImageSource]]></title>
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mobilea11y.com]]></description>
     <link><![CDATA[https://mobilea11y.com/blog/swiftui-preview-testing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mobilea11y.com/blog/swiftui-preview-testing/]]></guid>
-    <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reconfiguring bazel downloader]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/04/12/reconfiguring-bazel-downloader.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/04/12/reconfiguring-bazel-downloader.html]]></guid>
     <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
