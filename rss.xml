@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Apr 2026 08:52:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 10:39:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Instruments Time Profiler: Improve performance with AI]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-instruments-time-profiler-improve-performance-with-ai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/xcode-instruments-time-profiler-improve-performance-with-ai/]]></guid>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What One Week with GitHub Copilot Taught Me]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></guid>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Reusable Spotlight Onboarding Component in SwiftUI]]></title>
@@ -14,6 +30,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://livsycode.com/swiftui/a-reusable-spotlight-onboarding-component-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/a-reusable-spotlight-onboarding-component-in-swiftui/]]></guid>
     <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building a draggable bottom sheet in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -49,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hummingbird Routing]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Coding Tools]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -193,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Network Requests Optimization using Xcode’s Simulator & Agents]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/network-requests-optimization-using-xcodes-simulator-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/network-requests-optimization-using-xcodes-simulator-agents/]]></guid>
-    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Pair Programming for Claude and Codex, Without the Copy-Paste]]></title>
     <description><![CDATA[https://fline.dev/]]></description>
     <link><![CDATA[https://fline.dev/blog/tandemkit-pair-programming-for-ai-agents/]]></link>
@@ -326,14 +342,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/why-i-still-build-ios-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/why-i-still-build-ios-apps/]]></guid>
     <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to test in-app purchases locally using StoreKit]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/testing-in-app-purchases-locally-storekit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/testing-in-app-purchases-locally-storekit]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pietrorea.com/]]></description>
     <link><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></link>
     <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Art or tool?]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2026/03/art-or-tool/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/03/art-or-tool/]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
