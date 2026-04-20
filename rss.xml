@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Apr 2026 20:21:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 22:21:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[“Computer, create an adversary capable of defeating Data”]]></title>
+    <description><![CDATA[https://medium.com/@sofaracing]]></description>
+    <link><![CDATA[https://medium.com/@sofaracing/computer-create-an-adversary-capable-of-defeating-data-bbb2f6d09927?source=rss-4b21b6a314ea------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://medium.com/@sofaracing/computer-create-an-adversary-capable-of-defeating-data-bbb2f6d09927?source=rss-4b21b6a314ea------2]]></guid>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[From OpenSwiftUI to DanceUI: Another Way to Dive into SwiftUI - Fatbobman's Swift Weekly #132]]></title>
@@ -89,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hummingbird Routing]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Coding Tools]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
     <link><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2026-03/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/homescreen-2026-03/]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Is Claude Code Open Source Now? Not Exactly. Here’s the Truth — Beware on X Scam.]]></title>
-    <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
-    <link><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
