@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Apr 2026 16:31:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 18:27:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[From OpenSwiftUI to DanceUI: Another Way to Dive into SwiftUI - Fatbobman's Swift Weekly #132]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/04/20/filing-the-sharp-edges-off-a-macbook/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/20/filing-the-sharp-edges-off-a-macbook/]]></guid>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fun with Swift Numbers]]></title>
+    <description><![CDATA[https://pilotcoder.com]]></description>
+    <link><![CDATA[https://pilotcoder.com/fun-with-swift-numbers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/fun-with-swift-numbers/]]></guid>
     <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -81,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hummingbird Routing]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI Coding Tools]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hummingbird Routing]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@SaezChristopher]]></description>
     <link><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@SaezChristopher/is-claude-code-open-source-now-not-exactly-heres-the-truth-beware-on-x-scam-15d5ee8132d5?source=rss-1b318de51cdd------2]]></guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[After 8 years of Gatsby.js, I built my own static site generator]]></title>
-    <description><![CDATA[https://pietrorea.com/]]></description>
-    <link><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></link>
-    <guid isPermaLink="true"><![CDATA[https://pietrorea.com/2026/03/31/after-8-years-of-gatsby-js-i-built-my-own-static-site-generator/?utm_source=rss&utm_medium=rss]]></guid>
     <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 
