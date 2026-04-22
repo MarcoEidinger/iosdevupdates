@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 22 Apr 2026 18:31:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 20:25:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Splat: Limited-Time Avatar]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/splat-limited-time-avatar-1833/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/splat-limited-time-avatar-1833/]]></guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Acorn 8.5 Is Out]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/4/acorn_8.5_is_out.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/4/acorn_8.5_is_out.html]]></guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[mise: My Go-To Tool Manager and Task Runner]]></title>
+    <description><![CDATA[https://benscheirman.com/]]></description>
+    <link><![CDATA[https://benscheirman.com/2026/04/mise-the-one-tool-manager]]></link>
+    <guid isPermaLink="true"><![CDATA[https://benscheirman.com/2026/04/mise-the-one-tool-manager]]></guid>
     <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@victorbaro]]></description>
     <link><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></guid>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[If you're not following BK Coffeeshop ☕️ you're missing out!]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/tiktok-make-your-day-1011/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/tiktok-make-your-day-1011/]]></guid>
     <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bitsplitting.org/]]></description>
     <link><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></guid>
-    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A letter to John Ternus]]></title>
-    <description><![CDATA[https://marco.org/]]></description>
-    <link><![CDATA[https://marco.org/2026/04/01/letter-to-john-ternus]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marco.org/2026/04/01/letter-to-john-ternus]]></guid>
     <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
