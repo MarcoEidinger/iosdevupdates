@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 23 Apr 2026 10:36:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 12:29:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What’s That “Structured” in Structured Concurrency?]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/23/whats-that-structured-in-structured-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/23/whats-that-structured-in-structured-concurrency/]]></guid>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DevSnoop — Browser Access for Coding Agents]]></title>
@@ -25,18 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iOS 26.4.2 and iPadOS 26.4.2]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/22/ios-26-4-2-and-ipados-26-4-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/22/ios-26-4-2-and-ipados-26-4-2/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[DejalNews #90: Time Out 3.0 now available]]></title>
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/dejalnews-90-time-out-3-0-now-available/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-90-time-out-3-0-now-available/]]></guid>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I Couldn't Find the Perfect Browser, So I Built One with AI in two weeks]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/career-advice/how-I-built-full-browser-in-two-weeks]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/career-advice/how-I-built-full-browser-in-two-weeks]]></guid>
     <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elkraneo.com/realitykit-outline-selection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/realitykit-outline-selection/]]></guid>
     <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Beginning of Programming as We’ll Know It]]></title>
-    <description><![CDATA[https://bitsplitting.org/]]></description>
-    <link><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></guid>
-    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
