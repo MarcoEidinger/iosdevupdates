@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 Apr 2026 00:46:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Apr 2026 03:11:57 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Microsoft accidentally told the truth about AI]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/04/23/whats-that-structured-in-structured-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/23/whats-that-structured-in-structured-concurrency/]]></guid>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Customizing Claude Code Memory]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></guid>
     <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cabel.com/]]></description>
     <link><![CDATA[https://cabel.com/the-snacks-cereals-of-2025/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cabel.com/the-snacks-cereals-of-2025/]]></guid>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 317 - Assume]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/418f4ac502c2/317-assume]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/418f4ac502c2/317-assume]]></guid>
     <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diamantidis.github.io]]></description>
     <link><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></link>
     <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></guid>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Codex Automations]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/]]></guid>
     <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elkraneo.com/realitykit-outline-selection/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/realitykit-outline-selection/]]></guid>
     <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Beginning of Programming as We’ll Know It]]></title>
+    <description><![CDATA[https://bitsplitting.org/]]></description>
+    <link><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/]]></guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
