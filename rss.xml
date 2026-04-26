@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 26 Apr 2026 14:20:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 16:18:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Centralizing Dependency Fetching in Bazel with the Remote Asset API]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/04/26/centralizing-dependency-fetching-in-bazel.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/04/26/centralizing-dependency-fetching-in-bazel.html]]></guid>
+    <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Concurrency Step-by-Step: Designing Protocols]]></title>
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Better Way to Ignore Files in Bazel with repo.bazel]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/04/19/a-better-way-to-ignore.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/04/19/a-better-way-to-ignore.html]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
