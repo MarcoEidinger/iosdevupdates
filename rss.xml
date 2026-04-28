@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Apr 2026 10:46:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 12:44:15 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Overview of the onChange() modifier in SwiftUI]]></title>
@@ -89,6 +89,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[How to implement pagination with SwiftUI's List view]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-list-pagination]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-list-pagination]]></guid>
+    <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Centralizing Dependency Fetching in Bazel with the Remote Asset API]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/04/26/centralizing-dependency-fetching-in-bazel.html]]></link>
@@ -141,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></guid>
+    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Hyperconnect optimized its multi-service pipeline with Tuist ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/customers/hyperconnect]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/customers/hyperconnect]]></guid>
     <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -217,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dotted background effect in Metal]]></title>
-    <description><![CDATA[https://medium.com/@victorbaro]]></description>
-    <link><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></guid>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Technology is not enough]]></title>
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/04/20/technology-is-not-enough/]]></link>
@@ -262,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></guid>
     <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building a draggable bottom sheet in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-draggable-bottom-sheet]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
