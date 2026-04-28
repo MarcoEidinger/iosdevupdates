@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Apr 2026 20:35:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 22:27:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ready Time 3.2: Shared Plans and Daily Repeating Plans]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/04/28/ready-time-3.2-shared-plans-and-daily-repeating-plans/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/28/ready-time-3.2-shared-plans-and-daily-repeating-plans/]]></guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Wide Range of Find My–Compatible Devices]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/04/28/the-wide-range-of-find-mycompatible-devices/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/28/the-wide-range-of-find-mycompatible-devices/]]></guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Time Out 3.0.1 released]]></title>
@@ -17,18 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Pedometer++ v8: Designed for Adventure]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></guid>
-    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Newsletter 318 - Bamboo]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pedometer++ v8: Designed for Adventure]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></guid>
     <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -153,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Git Tower 16]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/04/24/git-tower-16/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/04/24/git-tower-16/]]></guid>
-    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Objective-C enums can be string-backed... sort of]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/til/objective-c-enums-can-be-string-backed-sort-of/]]></link>
@@ -257,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Technology is not enough]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/04/20/technology-is-not-enough/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/04/20/technology-is-not-enough/]]></guid>
-    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Have You Built an Agent Harness Yet?]]></title>
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already]]></link>
@@ -297,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hummingbird Routing]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Coding Tools]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -449,6 +449,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[What’s that “structured” in Structured Concurrency?]]></title>
+    <description><![CDATA[https://macguru.dev/]]></description>
+    <link><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></guid>
+    <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Swish - Clojure-like Lisp for Swift Video Series]]></title>
     <description><![CDATA[https://rodschmidt.com/]]></description>
     <link><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://olegdreyman.medium.com]]></description>
     <link><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></guid>
-    <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
-    <description><![CDATA[https://andrevini.dev/blog]]></description>
-    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
