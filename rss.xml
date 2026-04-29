@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 Apr 2026 10:42:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 12:41:20 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Next Chapter of Little Memory]]></title>
@@ -33,18 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 318 - Bamboo]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></guid>
-    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Pedometer++ v8: Designed for Adventure]]></title>
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/04/28/pedometer-v8]]></guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 318 - Bamboo]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/52a3cbee5430/318-bamboo]]></guid>
     <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hummingbird Routing]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI Coding Tools]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hummingbird Routing]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -473,10 +473,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
-    <description><![CDATA[https://andrevini.dev/blog]]></description>
-    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
+    <title><![CDATA[How to pluralize English text in Swift without using Localizable strings]]></title>
+    <description><![CDATA[https://olegdreyman.medium.com]]></description>
+    <link><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
