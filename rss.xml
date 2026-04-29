@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 Apr 2026 08:54:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 10:42:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Next Chapter of Little Memory]]></title>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI]]></guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ L10N.md: localization built like we ship software ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></guid>
     <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></guid>
-    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Hyperconnect optimized its multi-service pipeline with Tuist ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/customers/hyperconnect]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/customers/hyperconnect]]></guid>
     <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -473,10 +473,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to pluralize English text in Swift without using Localizable strings]]></title>
-    <description><![CDATA[https://olegdreyman.medium.com]]></description>
-    <link><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://olegdreyman.medium.com/how-to-pluralize-english-text-in-swift-without-using-localizable-strings-dc3e0348f1f3?source=rss-7872af0bbed1------2]]></guid>
+    <title><![CDATA[The iOS Tool 70% of Developers Prefer — That No Top Company Uses at Scale]]></title>
+    <description><![CDATA[https://andrevini.dev/blog]]></description>
+    <link><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></link>
+    <guid isPermaLink="true"><![CDATA[https://andrevini.dev/blog/ios-modularization-tools]]></guid>
     <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
