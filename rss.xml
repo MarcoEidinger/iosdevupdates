@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Apr 2026 14:48:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 16:38:25 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How can Time Out pause any media before a break?]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/how-can-time-out-pause-any-media-before-a-break/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/how-can-time-out-pause-any-media-before-a-break/]]></guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Magic Link Sign Up and Login for SaaS]]></title>
@@ -78,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2026/04/29/open-to-work/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/04/29/open-to-work/]]></guid>
     <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Time Out 3.0.1 released]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/time-out-3-0-1-released/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-1-released/]]></guid>
-    <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -353,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Refactoring Legacy Apps With Agents: Practical Migration Stories]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></guid>
-    <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I use FlowDeck to let my AI agent build and run my apps]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/how-i-use-flowdeck-to-let-my-ai-agent-build-and-run-my-apps/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></guid>
     <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swish - Clojure-like Lisp for Swift Video Series]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/swish-video-series/]]></guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
