@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 01 May 2026 18:30:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 20:24:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 162 - I Don't Know]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-3-0-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-2-released/]]></guid>
+    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Best Apple Music Settings for My Rivian R1T]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/rivian-r1t-apple-music-settings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/rivian-r1t-apple-music-settings/]]></guid>
     <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -57,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Agents, Idealism, And Capitalism]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Timers & Alarms is now in the App Store]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agents, Idealism, And Capitalism]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
     <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/replacing-onesignal-with-cloudflare-workers]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Instruments: adding context to Deferred recordings]]></title>
-    <description><![CDATA[https://diggingdeveloper.blog]]></description>
-    <link><![CDATA[https://diggingdeveloper.blog/2026/04/10/instruments-adding-context-to-deferred-recordings/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://diggingdeveloper.blog/2026/04/10/instruments-adding-context-to-deferred-recordings/]]></guid>
-    <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
