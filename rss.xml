@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 01 May 2026 07:03:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 08:45:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[My Cloudflare Tunnel Config Is My Local Dev Directory]]></title>
@@ -361,6 +361,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Refactoring Legacy Apps With Agents: Practical Migration Stories]]></title>
+    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
+    <link><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></guid>
+    <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How I use FlowDeck to let my AI agent build and run my apps]]></title>
     <description><![CDATA[https://www.donnywals.com]]></description>
     <link><![CDATA[https://www.donnywals.com/how-i-use-flowdeck-to-let-my-ai-agent-build-and-run-my-apps/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-apple-intelligence-as-a-service/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-apple-intelligence-as-a-service/]]></guid>
-    <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What’s that “structured” in Structured Concurrency?]]></title>
-    <description><![CDATA[https://macguru.dev/]]></description>
-    <link><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://macguru.dev/whats-that-structured-in-structured-concurrency/]]></guid>
     <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
