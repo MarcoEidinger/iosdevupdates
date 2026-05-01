@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 01 May 2026 05:22:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 07:03:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Cloudflare Tunnel Config Is My Local Dev Directory]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/my-cloudflare-tunnel-config-is-my-local-dev-directory]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/my-cloudflare-tunnel-config-is-my-local-dev-directory]]></guid>
+    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Time Out 3.0.2 released]]></title>
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-3-0-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-2-released/]]></guid>
-    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[If You Vibe Code an App for Work, Put the Backend in Charge]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/if-you-vibe-code-an-app-for-work-put-the-backend-in-charge]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/if-you-vibe-code-an-app-for-work-put-the-backend-in-charge]]></guid>
     <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,18 +329,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hummingbird Routing]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI Coding Tools]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hummingbird Routing]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
