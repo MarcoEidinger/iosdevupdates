@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 03 May 2026 12:25:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 14:24:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Enhanced Feeds with Byline Data]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2026-05-03-enhanced-feeds-with-byline-data/?utm_source=rss&utm_medium=feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-03-enhanced-feeds-with-byline-data/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Time Out prices increasing soon]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/indirect-keyword-swift-recursive-enums/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/indirect-keyword-swift-recursive-enums/]]></guid>
     <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA['One Month In']]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2026-05-01-one-month-in/?utm_source=rss&utm_medium=feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-01-one-month-in/?utm_source=rss&utm_medium=feed]]></guid>
-    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -89,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Agents, Idealism, And Capitalism]]></title>
-    <description><![CDATA[https://elegantchaos.com/news/]]></description>
-    <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Timers & Alarms is now in the App Store]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agents, Idealism, And Capitalism]]></title>
+    <description><![CDATA[https://elegantchaos.com/news/]]></description>
+    <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
     <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
