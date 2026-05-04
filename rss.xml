@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 May 2026 03:13:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 05:14:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What is Swift Concurrency?]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/blog/what-is-swift-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/what-is-swift-concurrency/]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue 092: Linux]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why My Xcode Extension Kept Asking for File Permissions]]></title>
@@ -30,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://stuartbreckenridge.net/2026-05-03-enhanced-feeds-with-byline-data/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-03-enhanced-feeds-with-byline-data/?utm_source=rss&utm_medium=feed]]></guid>
     <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Time Out prices increasing soon]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/time-out-prices-increasing-soon/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-prices-increasing-soon/]]></guid>
-    <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -97,10 +105,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Synchronization in Swift: Actors vs Queues vs Locks]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/actors-vs-queues-vs-locks-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/actors-vs-queues-vs-locks-in-swift/]]></guid>
+    <title><![CDATA[Timers & Alarms is now in the App Store]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></guid>
     <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Timers & Alarms is now in the App Store]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/timers-alarms-launch.html]]></guid>
     <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,18 +369,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hummingbird Routing]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Coding Tools]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
