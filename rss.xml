@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 May 2026 10:45:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 12:42:46 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Unexpected Task suspension points in Swift Concurrency]]></title>
@@ -233,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Concurrency is Gaining Broader Adoption - Fatbobman's Swift Weekly #133]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-133/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-133/]]></guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Optimizing social media for mental health]]></title>
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/04/27/optimizing-social-media-for-mental-health/]]></link>
@@ -385,18 +377,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hummingbird Routing]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Coding Tools]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
     <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/interface-segregation-principle-in-ios-how-to-prevent-protocol-from-becoming-a-prison/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/interface-segregation-principle-in-ios-how-to-prevent-protocol-from-becoming-a-prison/]]></guid>
+    <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Store Curation 2: The Scammer Strikes Back]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/4/2.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/4/2.html]]></guid>
     <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
