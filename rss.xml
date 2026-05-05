@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 May 2026 16:40:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 18:38:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS Text Replacement Export/Import]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/05/macos-text-replacement-export-import/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/05/macos-text-replacement-export-import/]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[3 Key Strategies to Make SwiftUI Views More Reusable]]></title>
+    <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
+    <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Newsletter 319 - Roughly]]></title>
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://mailchi.mp/38a6e5169066/319-roughly]]></link>
     <guid isPermaLink="true"><![CDATA[https://mailchi.mp/38a6e5169066/319-roughly]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I Hate AI (And You Should Too)]]></title>
+    <description><![CDATA[https://dasdom.dev]]></description>
+    <link><![CDATA[https://dasdom.dev/why-i-still-dont-use-ai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/why-i-still-dont-use-ai]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -33,19 +57,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/shipped-without-me]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Cupertino v1.0.0 "First Light"]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/cupertino-first-light/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-first-light/]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[GyazMail 1.8]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/04/gyazmail-1-8/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/04/gyazmail-1-8/]]></guid>
-    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Along-the-Way]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Along-the-Way]]></guid>
     <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Won’t Replace Developers — But Developers Who Use AI Will Replace You]]></title>
-    <description><![CDATA[https://batikansosun.medium.com/]]></description>
-    <link><![CDATA[https://batikansosun.medium.com/ai-wont-replace-developers-but-developers-who-use-ai-will-replace-you-4b677b8eb68e?source=rss-a0e19a28a49a------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://batikansosun.medium.com/ai-wont-replace-developers-but-developers-who-use-ai-will-replace-you-4b677b8eb68e?source=rss-a0e19a28a49a------2]]></guid>
-    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Luca: A Decentralized Tool and Skills Manager for the AI-Augmented Developer Workflow]]></title>
-    <description><![CDATA[https://albertodebortoli.com/]]></description>
-    <link><![CDATA[https://albertodebortoli.com/2026/04/13/luca-a-decentralized-tool-and-skills-manager-for-the-ai-augmented-developer-workflow/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/04/13/luca-a-decentralized-tool-and-skills-manager-for-the-ai-augmented-developer-workflow/]]></guid>
-    <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Checking accessibility with SwiftUI Previews]]></title>
-    <description><![CDATA[https://mobilea11y.com]]></description>
-    <link><![CDATA[https://mobilea11y.com/blog/swiftui-preview-testing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mobilea11y.com/blog/swiftui-preview-testing/]]></guid>
-    <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
