@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 05 May 2026 20:30:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 22:26:07 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS Text Replacement Export/Import]]></title>
@@ -117,6 +117,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/may-you-live-forth-and-prosper/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/may-you-live-forth-and-prosper/]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I built Timers & Alarms]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-timers-alarms.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-timers-alarms.html]]></guid>
     <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
