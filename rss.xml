@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 04 May 2026 22:25:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 00:46:23 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[GyazMail 1.8]]></title>
@@ -53,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[May You Live Forth and Prosper]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/may-you-live-forth-and-prosper/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/may-you-live-forth-and-prosper/]]></guid>
     <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -382,14 +390,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></guid>
     <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Coding Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/ai-coding-tools/]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
