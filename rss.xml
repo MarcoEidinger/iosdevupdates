@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 06 May 2026 16:38:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 18:41:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[iOS 27: Custom Wallet Passes]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/06/ios-27-custom-wallet-passes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/06/ios-27-custom-wallet-passes/]]></guid>
+    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Make a SwiftUI Toolbar Customizable]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/make-swiftui-toolbar-customizable/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/make-swiftui-toolbar-customizable/]]></guid>
+    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift ARC: From Zombie Objects to Side Tables]]></title>
@@ -22,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></guid>
     <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS Text Replacement Export/Import]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/05/macos-text-replacement-export-import/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/05/macos-text-replacement-export-import/]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.donnywals.com/how-i-use-flowdeck-to-let-my-ai-agent-build-and-run-my-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/how-i-use-flowdeck-to-let-my-ai-agent-build-and-run-my-apps/]]></guid>
     <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Post Quantum JWTs]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/post-quantum-jwtkit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/post-quantum-jwtkit]]></guid>
-    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
