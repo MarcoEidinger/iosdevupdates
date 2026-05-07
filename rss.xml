@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 07 May 2026 16:41:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 18:40:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Sendy 7]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/07/sendy-7/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/07/sendy-7/]]></guid>
+    <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ifgame - An Interactive Fiction game library for Clojure]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/ifgame/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/ifgame/]]></guid>
+    <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[TDD Is Not Test Coverage]]></title>
@@ -14,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://lazarevzubov.medium.com/tdd-is-not-test-coverage-dfe10205c198?source=rss-63310a0d2b01------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/tdd-is-not-test-coverage-dfe10205c198?source=rss-63310a0d2b01------2]]></guid>
     <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS 27: Custom Wallet Passes]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/06/ios-27-custom-wallet-passes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/06/ios-27-custom-wallet-passes/]]></guid>
-    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -46,6 +54,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></guid>
     <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sandboxing an AI Harness on macOS]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/sandboxing-an-ai-harness-on-macos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/sandboxing-an-ai-harness-on-macos]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -190,14 +206,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/indirect-keyword-swift-recursive-enums/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/indirect-keyword-swift-recursive-enums/]]></guid>
     <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Do We Even Need Multiple Tools?]]></title>
-    <description><![CDATA[https://alejandromp.com/development/]]></description>
-    <link><![CDATA[https://alejandromp.com/development/blog/do-we-even-need-multiple-tools]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/do-we-even-need-multiple-tools]]></guid>
-    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></link>
     <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/04/18/improve-in-app-guides-with-picture-in-picture]]></guid>
     <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Refactoring Legacy Apps With Agents: Practical Migration Stories]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/refactoring-legacy-apps-with-agents-practical-migration-stories/?utm_source=rss&utm_medium=rss&utm_campaign=refactoring-legacy-apps-with-agents-practical-migration-stories]]></guid>
-    <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
