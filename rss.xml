@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 May 2026 10:39:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 12:36:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Formatting Values in SwiftUI Text and TextField]]></title>
@@ -382,14 +390,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></guid>
     <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Microsoft accidentally told the truth about AI]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/microsoft-accidentally-told-the-truth-about-ai-2254/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/microsoft-accidentally-told-the-truth-about-ai-2254/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
