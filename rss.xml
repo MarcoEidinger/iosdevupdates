@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 May 2026 12:36:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 14:42:05 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
@@ -81,6 +81,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Developers Who Knew Nothing]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/05/06/developers-who-knew-nothing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/05/06/developers-who-knew-nothing]]></guid>
+    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Sandboxing an AI Harness on macOS]]></title>
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/sandboxing-an-ai-harness-on-macos]]></link>
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 319 - Roughly]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/38a6e5169066/319-roughly]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/38a6e5169066/319-roughly]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -473,11 +473,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hummingbird Routing]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/04/19/hummingbird-routing]]></guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Issue with SPM unable to resolve package update]]></title>
+    <description><![CDATA[http://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2026/fixing-spm-issue-with-missing-default-traits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/fixing-spm-issue-with-missing-default-traits/]]></guid>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
