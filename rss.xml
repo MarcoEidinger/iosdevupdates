@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 08 May 2026 22:25:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:50:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Getting the owner identity and name from CloudKit’s CKShare in iOS 26]]></title>
+    <description><![CDATA[https://contagious.dev/blog/category/ios/]]></description>
+    <link><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Reddit Pushes Web Visitors to App]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/fun-with-swift-numbers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/fun-with-swift-numbers/]]></guid>
-    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What One Week with GitHub Copilot Taught Me]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue71]]></guid>
     <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
