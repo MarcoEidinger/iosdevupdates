@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 09 May 2026 14:30:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 16:24:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Prevent cross-site tracking in Safari breaks Cloudflare challenges]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.egesucu.com.tr]]></description>
     <link><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ZeroVer is a (realistic) SemVer parody]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/til/zerover-is-a-realistic-semver-parody/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/til/zerover-is-a-realistic-semver-parody/]]></guid>
     <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -205,6 +213,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unexpected Task suspension points in Swift Concurrency]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/concurrency/unexpected-task-suspension-points-in-swift-concurrency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/unexpected-task-suspension-points-in-swift-concurrency/]]></guid>
     <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -409,14 +425,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Objective-C enums can be string-backed... sort of]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/til/objective-c-enums-can-be-string-backed-sort-of/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/til/objective-c-enums-can-be-string-backed-sort-of/]]></guid>
-    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The right instrument for the job]]></title>
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://medium.com/@victorbaro/dotted-background-effect-in-metal-8214673edc9d?source=rss-11fcfb2d5448------2]]></guid>
     <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[“Computer, create an adversary capable of defeating Data”]]></title>
-    <description><![CDATA[https://medium.com/@sofaracing]]></description>
-    <link><![CDATA[https://medium.com/@sofaracing/computer-create-an-adversary-capable-of-defeating-data-bbb2f6d09927?source=rss-4b21b6a314ea------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/@sofaracing/computer-create-an-adversary-capable-of-defeating-data-bbb2f6d09927?source=rss-4b21b6a314ea------2]]></guid>
-    <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
