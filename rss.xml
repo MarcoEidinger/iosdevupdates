@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 10 May 2026 16:24:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 18:25:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[A Practical Introduction to Bazel Persistent Workers]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/05/10/a-practical-introduction-to-bazel.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/05/10/a-practical-introduction-to-bazel.html]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why AGENTS.md Gets So Long]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Dont blindly trust your agent]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why My Xcode Extension Kept Asking for File Permissions]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/05/03/why-my-xcode-extension-kept.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/05/03/why-my-xcode-extension-kept.html]]></guid>
-    <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[On industrial relations]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/05/on-industrial-relations/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://benscheirman.com/2026/04/mise-the-one-tool-manager]]></link>
     <guid isPermaLink="true"><![CDATA[https://benscheirman.com/2026/04/mise-the-one-tool-manager]]></guid>
     <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Snacks & Cereals of 2025]]></title>
-    <description><![CDATA[https://cabel.com/]]></description>
-    <link><![CDATA[https://cabel.com/the-snacks-cereals-of-2025/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cabel.com/the-snacks-cereals-of-2025/]]></guid>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
