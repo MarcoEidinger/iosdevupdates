@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 10 May 2026 07:01:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 08:43:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why AGENTS.md Gets So Long]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/why-agents-md-gets-so-long]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/why-agents-md-gets-so-long]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Writing shell scripts for Xcode Cloud]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Prevent cross-site tracking in Safari breaks Cloudflare challenges]]></title>
@@ -41,18 +57,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Finally found a use case for .fixedSize 😅]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></guid>
-    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Accelerate Framework in Swift - Complete Guide to High-Performance Computing]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Finally found a use case for .fixedSize 😅]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></guid>
     <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[My Cloudflare Tunnel Config Is My Local Dev Directory]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/my-cloudflare-tunnel-config-is-my-local-dev-directory]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/my-cloudflare-tunnel-config-is-my-local-dev-directory]]></guid>
-    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Best Apple Music Settings for My Rivian R1T]]></title>
     <description><![CDATA[https://thatvirtualboy.com/]]></description>
     <link><![CDATA[https://thatvirtualboy.com/rivian-r1t-apple-music-settings/]]></link>
@@ -430,14 +438,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fline.dev/blog/my-top-5-ai-wishes-for-wwdc26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fline.dev/blog/my-top-5-ai-wishes-for-wwdc26/]]></guid>
     <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The right instrument for the job]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/04/24/instruments/]]></guid>
-    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
