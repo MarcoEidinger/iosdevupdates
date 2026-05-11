@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 May 2026 13:08:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 15:09:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[CocoaPods Is on Its Way Out, but SwiftPM’s Story Is Just Entering Chapter Two - Fatbobman's Swift Weekly #135]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-135/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-135/]]></guid>
+    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Teaching Computer]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></guid>
+    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Think About Performance in iOS]]></title>
@@ -29,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></guid>
+    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Pomodoro with Timers & Alarms]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/pomodoro-with-timers-alarms.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/pomodoro-with-timers-alarms.html]]></guid>
     <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why I built Timers & Alarms]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-timers-alarms.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-timers-alarms.html]]></guid>
-    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Deep Understanding while using LLMs]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></link>
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Built a Coding Agent From Scratch in Swift. Here's What I Missed Until I Read Koog.]]></title>
-    <description><![CDATA[https://ivanmagda.dev]]></description>
-    <link><![CDATA[https://ivanmagda.dev/posts/koog-s01-foundation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/koog-s01-foundation/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Phone Replaced a Brass Plug]]></title>
-    <description><![CDATA[https://drobinin.com/]]></description>
-    <link><![CDATA[https://drobinin.com/posts/my-phone-replaced-a-brass-plug/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://drobinin.com/posts/my-phone-replaced-a-brass-plug/]]></guid>
     <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
