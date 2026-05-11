@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 May 2026 09:20:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 11:09:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to Think About Performance in iOS]]></title>
@@ -70,6 +70,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Teaching Skills to an AI Harness]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/teaching-skills-to-an-ai-harness]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/teaching-skills-to-an-ai-harness]]></guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -217,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sandboxing an AI Harness on macOS]]></title>
-    <description><![CDATA[https://alejandromp.com/development/]]></description>
-    <link><![CDATA[https://alejandromp.com/development/blog/sandboxing-an-ai-harness-on-macos]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/sandboxing-an-ai-harness-on-macos]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[3 Key Strategies to Make SwiftUI Views More Reusable]]></title>
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
@@ -309,6 +309,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></guid>
+    <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to present a local HTML file in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-present-local-html-files]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-present-local-html-files]]></guid>
     <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,14 +446,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://brightdigit.com/tutorials/tuist-xcode-project-setup]]></link>
     <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/tuist-xcode-project-setup]]></guid>
     <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to implement pagination with SwiftUI's List view]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-list-pagination]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-list-pagination]]></guid>
-    <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
