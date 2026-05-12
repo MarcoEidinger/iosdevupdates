@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 11 May 2026 22:28:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 00:48:29 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS 26.5]]></title>
@@ -345,6 +345,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Best Apple Music Settings for My Rivian R1T]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/rivian-r1t-apple-music-settings/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/rivian-r1t-apple-music-settings/]]></guid>
+    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Small tools, shared with agents: a CloudWatch Insights example]]></title>
     <description><![CDATA[https://skagedal.tech/]]></description>
     <link><![CDATA[https://skagedal.tech/posts/2026-05-01-cloudwatch-insights-tool/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Built a Coding Agent From Scratch in Swift. Here's What I Missed Until I Read Koog.]]></title>
-    <description><![CDATA[https://ivanmagda.dev]]></description>
-    <link><![CDATA[https://ivanmagda.dev/posts/koog-s01-foundation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/koog-s01-foundation/]]></guid>
     <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
