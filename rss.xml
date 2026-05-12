@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 May 2026 20:38:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 22:31:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Xcode 26.5]]></title>
@@ -17,10 +17,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[App Intents Beta 1]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://editorscut.com/Blog/2026/05/12-AppIntentsBeta1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://editorscut.com/Blog/2026/05/12-AppIntentsBeta1.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></guid>
-    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pomodoro with Timers & Alarms]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/pomodoro-with-timers-alarms.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/pomodoro-with-timers-alarms.html]]></guid>
     <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -189,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://contagious.dev/blog/category/ios/]]></description>
     <link><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></guid>
-    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 163 - Customers]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/163Customers.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/163Customers.html]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
