@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 12 May 2026 16:50:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 18:42:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode 26.5]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/12/xcode-26-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/12/xcode-26-5/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
@@ -14,14 +22,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 26.5]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/11/macos-26-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/11/macos-26-5/]]></guid>
-    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -93,6 +93,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diamantidis.github.io]]></description>
     <link><![CDATA[https://diamantidis.github.io/2026/05/10/how-to-create-dynamic-quick-actions-ios-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/05/10/how-to-create-dynamic-quick-actions-ios-swift]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing UI Designer: Shapes &amp; Buttons]]></title>
+    <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
+    <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fline.dev/blog/my-top-5-ai-wishes-for-wwdc26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fline.dev/blog/my-top-5-ai-wishes-for-wwdc26/]]></guid>
     <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Customizing Claude Code Memory]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/04/23/customizing-claude-code-memory/]]></guid>
-    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
