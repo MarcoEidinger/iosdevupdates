@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 May 2026 07:10:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 09:04:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Cupertino v1.1.0: my Apple docs index was 30% lies and I didn't know]]></title>
@@ -153,18 +153,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Writing shell scripts for Xcode Cloud]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Dont blindly trust your agent]]></title>
     <description><![CDATA[https://ericsspace.com/]]></description>
     <link><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Writing shell scripts for Xcode Cloud]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,18 +201,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Accelerate Framework in Swift - Complete Guide to High-Performance Computing]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></guid>
-    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Finally found a use case for .fixedSize 😅]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swiftui/fixedsize-usecase]]></guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Accelerate Framework in Swift - Complete Guide to High-Performance Computing]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/accelerate-framework-swift-guide/]]></guid>
     <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
