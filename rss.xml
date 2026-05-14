@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 May 2026 16:47:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 18:44:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI: @State and the Attribute Graph]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/14/swiftui-state-and-the-attribute-graph/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/14/swiftui-state-and-the-attribute-graph/]]></guid>
+    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The 40 hour work week scam]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/cupertino-v1-1-0-poison-cleanup/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-1-0-poison-cleanup/]]></guid>
     <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OmniOutliner 6.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/13/omnioutliner-6-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/13/omnioutliner-6-1/]]></guid>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -81,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Using Xcode MCP with Claude Code]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/04/30/using-xcode-mcp-with-claude-code]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/04/30/using-xcode-mcp-with-claude-code]]></guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Agents, Idealism, And Capitalism]]></title>
     <description><![CDATA[https://elegantchaos.com/news/]]></description>
     <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.dzombak.com/blog/]]></description>
     <link><![CDATA[https://www.dzombak.com/blog/2026/04/a-vllm-docker-compose-recipe-for-running-qwen-3-6-27b-on-dual-rtx-3090s-opencode-configuration/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/04/a-vllm-docker-compose-recipe-for-running-qwen-3-6-27b-on-dual-rtx-3090s-opencode-configuration/]]></guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Optimizing social media for mental health]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2026/04/27/optimizing-social-media-for-mental-health/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/04/27/optimizing-social-media-for-mental-health/]]></guid>
     <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
