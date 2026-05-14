@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 13 May 2026 22:32:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 00:55:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Cupertino v1.1.0: my Apple docs index was 30% lies and I didn't know]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/cupertino-v1-1-0-poison-cleanup/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-1-0-poison-cleanup/]]></guid>
+    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OmniOutliner 6.1]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/5/2.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/5/2.html]]></guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[macOS Apprentice: 3rd Edition]]></title>
+    <description><![CDATA[https://troz.net/]]></description>
+    <link><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></guid>
     <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -57,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AGuideToMacOSToolbarStylesInSwiftUI]]></guid>
-    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cupertino v1.0.2: the duplicate that `LOWER(uri)` could not see]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/cupertino-v1-0-2/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-0-2/]]></guid>
     <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,6 +313,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Time Out 3.0.3 released]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://collin.blog/2026/04/27/optimizing-social-media-for-mental-health/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/04/27/optimizing-social-media-for-mental-health/]]></guid>
     <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Automating your Xcode Project]]></title>
-    <description><![CDATA[https://brightdigit.com/tutorials/]]></description>
-    <link><![CDATA[https://brightdigit.com/tutorials/tuist-xcode-project-setup]]></link>
-    <guid isPermaLink="true"><![CDATA[https://brightdigit.com/tutorials/tuist-xcode-project-setup]]></guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Concurrency Step-by-Step: Designing Protocols]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/step-by-step-designing-protocols/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/step-by-step-designing-protocols/]]></guid>
-    <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
