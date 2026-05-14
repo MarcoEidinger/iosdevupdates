@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 14 May 2026 10:54:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 12:46:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The 40 hour work week scam]]></title>
+    <description><![CDATA[https://dasdom.dev]]></description>
+    <link><![CDATA[https://dasdom.dev/40-hour-work-week]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/40-hour-work-week]]></guid>
+    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Cupertino v1.1.0: my Apple docs index was 30% lies and I didn't know]]></title>
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I Hate AI (And You Should Too)]]></title>
-    <description><![CDATA[https://dasdom.dev]]></description>
-    <link><![CDATA[https://dasdom.dev/why-i-still-dont-use-ai]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/why-i-still-dont-use-ai]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
