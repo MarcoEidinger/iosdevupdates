@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 15 May 2026 18:39:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 20:32:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Introducing Kickstart: the app that helps indie developers ship]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2026/164WhatTheHell.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/164WhatTheHell.html]]></guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Not Good For Training Machine Learning Models]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/05/15/swift-not-good-for-training-machine-learning-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/05/15/swift-not-good-for-training-machine-learning-models]]></guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -89,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -301,14 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></guid>
-    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Developers Who Knew Nothing]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/05/06/developers-who-knew-nothing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/05/06/developers-who-knew-nothing]]></guid>
     <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 </item>
 
