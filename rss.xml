@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 16 May 2026 06:54:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 08:40:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Developer App 11.0]]></title>
@@ -97,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,6 +321,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Time Out 3.0.3 released]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://lumley.io/blogs/]]></description>
     <link><![CDATA[https://lumley.io/blogs/swift-enums/]]></link>
     <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/swift-enums/]]></guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A vLLM Docker Compose recipe for running Qwen 3.6 27B on dual RTX 3090s (+OpenCode configuration)]]></title>
-    <description><![CDATA[https://www.dzombak.com/blog/]]></description>
-    <link><![CDATA[https://www.dzombak.com/blog/2026/04/a-vllm-docker-compose-recipe-for-running-qwen-3-6-27b-on-dual-rtx-3090s-opencode-configuration/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.dzombak.com/blog/2026/04/a-vllm-docker-compose-recipe-for-running-qwen-3-6-27b-on-dual-rtx-3090s-opencode-configuration/]]></guid>
     <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
