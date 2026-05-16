@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 16 May 2026 12:28:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 14:33:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[You Do Not Need Firebase and Supabase]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/you-do-not-need-firebase-and-supabase]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/you-do-not-need-firebase-and-supabase]]></guid>
+    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ContentUnavailableView in SwiftUI - Complete Guide With Examples]]></title>
@@ -105,18 +113,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why AGENTS.md Gets So Long]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/why-agents-md-gets-so-long]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/why-agents-md-gets-so-long]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
