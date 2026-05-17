@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 17 May 2026 10:35:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 12:28:16 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Mac App Store: What’s in a name?]]></title>
@@ -129,18 +129,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Time Out 3.0.3 released]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-3-released/]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></guid>
     <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Enums. Swift's Secret Superpower.]]></title>
+    <description><![CDATA[https://lumley.io/blogs/]]></description>
+    <link><![CDATA[https://lumley.io/blogs/swift-enums/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/swift-enums/]]></guid>
+    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
