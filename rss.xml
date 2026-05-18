@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 May 2026 17:04:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 18:43:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Gift Card Scheme]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/18/apple-gift-card-scheme/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/18/apple-gift-card-scheme/]]></guid>
+    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Limits I Encountered]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></guid>
+    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Vanishing WWDC Wishlists - Fatbobman's Swift Weekly #136]]></title>
@@ -33,6 +49,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Conditional Rendering Over Nil Coalescing]]></title>
+    <description><![CDATA[https://blog.eliperkins.me/]]></description>
+    <link><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></guid>
+    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Hot Reloading a Bazel-Based iOS App with InjectionNext]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/05/17/hot-reloading-a-bazelbased-ios.html]]></link>
@@ -54,6 +78,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/floating-safe-area-bar]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/floating-safe-area-bar]]></guid>
     <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Understanding basic animations in SwiftUI]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></guid>
+    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -105,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Developer App 11.0]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/15/apple-developer-app-11-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/15/apple-developer-app-11-0/]]></guid>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Introducing Kickstart: the app that helps indie developers ship]]></title>
     <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
     <link><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></link>
@@ -161,11 +185,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tools I Love: Secretive]]></title>
-    <description><![CDATA[https://blog.eliperkins.me/]]></description>
-    <link><![CDATA[https://blog.eliperkins.com/tools-i-love-secretive]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/tools-i-love-secretive]]></guid>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -173,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,14 +337,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Make a SwiftUI Toolbar Customizable]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/make-swiftui-toolbar-customizable/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/make-swiftui-toolbar-customizable/]]></guid>
-    <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Running a Local LLM Coding Server on MacBook Pro M5 Pro 48 GB]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/running-local-llm-coding-server/]]></link>
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></guid>
-    <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to present a local HTML file in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-present-local-html-files]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-present-local-html-files]]></guid>
     <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
 </item>
 
