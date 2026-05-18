@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 18 May 2026 11:25:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 13:23:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Recording a Physical iPhone for App Preview Videos]]></title>
@@ -281,6 +281,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Formatting Values in SwiftUI Text and TextField]]></title>
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/formatting-values-in-swiftui-text-and-textfield/]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/04/28/localization-with-llms]]></guid>
     <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Enums. Swift's Secret Superpower.]]></title>
-    <description><![CDATA[https://lumley.io/blogs/]]></description>
-    <link><![CDATA[https://lumley.io/blogs/swift-enums/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lumley.io/blogs/swift-enums/]]></guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
