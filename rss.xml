@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 May 2026 17:04:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 18:44:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple’s 2026 Accessibility Feature Preview]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/19/apples-2026-accessibility-feature-preview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/19/apples-2026-accessibility-feature-preview/]]></guid>
+    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode should be decoupled from Swift versions]]></title>
@@ -33,18 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Deprecating your own convenience API]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/05/19/deprecating-your-own-convenience-api]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/05/19/deprecating-your-own-convenience-api]]></guid>
+    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Hey! I’m a Vision Pro developer!]]></title>
     <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
     <link><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Gift Card Scheme]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/18/apple-gift-card-scheme/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/18/apple-gift-card-scheme/]]></guid>
     <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html]]></guid>
     <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Six Years Perfecting Maps on watchOS]]></title>
-    <description><![CDATA[https://www.david-smith.org/]]></description>
-    <link><![CDATA[http://david-smith.org/blog/2026/04/29/maps-on-watchos]]></link>
-    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/04/29/maps-on-watchos]]></guid>
-    <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
