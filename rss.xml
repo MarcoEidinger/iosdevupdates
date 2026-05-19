@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 19 May 2026 18:44:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 20:41:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple’s 2026 Accessibility Feature Preview]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/05/19/apples-2026-accessibility-feature-preview/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/19/apples-2026-accessibility-feature-preview/]]></guid>
+    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 321 - Room]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/fc9795a885e5/321-room]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/fc9795a885e5/321-room]]></guid>
     <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Two Thoughts Podcast 164 - What the Hell]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/164WhatTheHell.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/164WhatTheHell.html]]></guid>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The 40 hour work week scam]]></title>
     <description><![CDATA[https://dasdom.dev]]></description>
     <link><![CDATA[https://dasdom.dev/40-hour-work-week]]></link>
@@ -225,18 +225,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
