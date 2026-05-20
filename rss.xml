@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 20 May 2026 07:22:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 09:15:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to easily alert async errors in SwiftUI]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/05/20/how-to-easily-alert-async-errors-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/05/20/how-to-easily-alert-async-errors-in-swiftui]]></guid>
+    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I wanted async/await but I got a concurrency model]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></guid>
+    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The not so secret agents.md of Xcode]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></guid>
     <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,18 +249,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Writing shell scripts for Xcode Cloud]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/10/shell-scripts/]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://skagedal.tech/posts/2026-05-01-cloudwatch-insights-tool/]]></link>
     <guid isPermaLink="true"><![CDATA[https://skagedal.tech/posts/2026-05-01-cloudwatch-insights-tool/]]></guid>
     <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Xcode MCP with Claude Code]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/04/30/using-xcode-mcp-with-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/04/30/using-xcode-mcp-with-claude-code]]></guid>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
