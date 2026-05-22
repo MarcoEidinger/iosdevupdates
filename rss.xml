@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 May 2026 18:42:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 20:38:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Asks Supreme Court to Review Epic Ruling]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/05/22/apple-asks-supreme-court-to-review-epic-ruling/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/22/apple-asks-supreme-court-to-review-epic-ruling/]]></guid>
+    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Mythical App Store Reviewer Month]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/5/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/5/4.html]]></guid>
+    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Moral Struggles of AI Coding]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></guid>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Steve Jobs in Exile]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/05/21/steve-jobs-in-exile/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/21/steve-jobs-in-exile/]]></guid>
     <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></guid>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Mac App Store: What’s in a name?]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/5/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/5/3.html]]></guid>
     <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
 </item>
 
