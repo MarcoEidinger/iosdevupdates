@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 May 2026 20:38:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 22:27:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Asks Supreme Court to Review Epic Ruling]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/5/moral-struggles-of-ai-coding/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/5/moral-struggles-of-ai-coding/]]></guid>
+    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Automating Lighthouse CI for a static Blog]]></title>
+    <description><![CDATA[https://diamantidis.github.io]]></description>
+    <link><![CDATA[https://diamantidis.github.io/2026/05/22/automated-lighthouse-ci-static-blog]]></link>
+    <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/05/22/automated-lighthouse-ci-static-blog]]></guid>
     <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -318,14 +326,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></guid>
     <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Create Dynamic Quick Actions in iOS]]></title>
-    <description><![CDATA[https://diamantidis.github.io]]></description>
-    <link><![CDATA[https://diamantidis.github.io/2026/05/10/how-to-create-dynamic-quick-actions-ios-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/05/10/how-to-create-dynamic-quick-actions-ios-swift]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
