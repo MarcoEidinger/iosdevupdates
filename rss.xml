@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 22 May 2026 12:57:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 15:08:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Moral Struggles of AI Coding]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/5/moral-struggles-of-ai-coding/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/5/moral-struggles-of-ai-coding/]]></guid>
+    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I keep bouncing off the Scheme language]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/deep-understanding-while-using-llms]]></guid>
     <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Managing Personal Projects with Agents]]></title>
-    <description><![CDATA[https://krausefx.com/]]></description>
-    <link><![CDATA[https://krausefx.com/blog/managing-personal-projects-with-agents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://krausefx.com/blog/managing-personal-projects-with-agents]]></guid>
-    <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
