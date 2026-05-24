@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 24 May 2026 03:15:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 05:25:50 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Create and Style App Shortcuts in iOS Using AppShortcutsProvider]]></title>
     <description><![CDATA[https://shankarmadeshvaran.medium.com/]]></description>
     <link><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></guid>
+    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Integrating XcodebuildMCP in iOS Development]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/integrate-xcodebuildmcp-in-ios-development]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/integrate-xcodebuildmcp-in-ios-development]]></guid>
     <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,18 +345,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -365,14 +373,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dont blindly trust your agent]]></title>
-    <description><![CDATA[https://ericsspace.com/]]></description>
-    <link><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/dont-blindly-trust-your-agent]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
