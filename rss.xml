@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 24 May 2026 14:35:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 16:27:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Suppressing Warnings in External Swift Dependencies with Bazel]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/05/24/suppressing-warnings-in-external-swift.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/05/24/suppressing-warnings-in-external-swift.html]]></guid>
+    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Stripe Billing Setup for SaaS: The Parts Nobody Tells You]]></title>
@@ -254,14 +262,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></guid>
     <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hot Reloading a Bazel-Based iOS App with InjectionNext]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/05/17/hot-reloading-a-bazelbased-ios.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/05/17/hot-reloading-a-bazelbased-ios.html]]></guid>
-    <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
