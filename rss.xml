@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 24 May 2026 20:25:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 22:24:28 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Suppressing Warnings in External Swift Dependencies with Bazel]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/stripe-billing-setup-for-saas-the-parts-nobody-tells-you]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/stripe-billing-setup-for-saas-the-parts-nobody-tells-you]]></guid>
+    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Privacy]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/privacywms/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/privacywms/]]></guid>
     <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -345,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is coming soon]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></guid>
-    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue 092: Linux]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-92-linux/]]></guid>
     <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
