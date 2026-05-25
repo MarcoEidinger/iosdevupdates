@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 25 May 2026 05:39:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 07:44:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Refreshing and animating views using TimelineView in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/TimelineViewInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TimelineViewInSwiftUI]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[UniqueBox, Ref, and MutableRef in Swift 6.4]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swift/uniquebox-ref-and-mutableref-in-swift-6-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/uniquebox-ref-and-mutableref-in-swift-6-4/]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[You Can Publish Without Replit]]></title>
@@ -22,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></guid>
     <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Working with the Keychain in iOS]]></title>
+    <description><![CDATA[https://tanaschita.com/]]></description>
+    <link><![CDATA[https://tanaschita.com/ios-keychain-secure-data-storage]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-keychain-secure-data-storage]]></guid>
+    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -217,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Modern SwiftUI APIs for programmatic scrolling]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/ModernSwiftUIAPIsForProgrammaticScrolling]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ModernSwiftUIAPIsForProgrammaticScrolling]]></guid>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Deprecating your own convenience API]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/05/19/deprecating-your-own-convenience-api]]></link>
@@ -265,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Feature Flags System in Swift]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/a-feature-flags-system-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/a-feature-flags-system-in-swift/]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Conditional Rendering Over Nil Coalescing]]></title>
     <description><![CDATA[https://blog.eliperkins.me/]]></description>
     <link><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></link>
@@ -294,14 +302,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://codakuma.com/floating-safe-area-bar]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/floating-safe-area-bar]]></guid>
     <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Understanding basic animations in SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/swiftui-basic-animations]]></guid>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -361,18 +361,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sudoku is coming soon]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[100 Small Acts Of Love]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
