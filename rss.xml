@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 25 May 2026 00:57:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 03:16:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Developing Xcode apps in Zed: Make your life easier with xcede's profile switcher]]></title>
+    <description><![CDATA[https://luxmentis.org/blog/]]></description>
+    <link><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Suppressing Warnings in External Swift Dependencies with Bazel]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/shipped-without-me]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Moving Feed Discovery to /.well-known]]></title>
-    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
-    <link><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></link>
-    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></guid>
-    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
