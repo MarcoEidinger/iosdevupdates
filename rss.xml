@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 25 May 2026 09:28:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 11:27:45 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Recipe to Custom Instructions for GitHub Copilot]]></title>
@@ -37,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/you-can-publish-without-replit]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/you-can-publish-without-replit]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What’s new in Timers & Alarms 1.1]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-1.html]]></guid>
     <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Vanishing WWDC Wishlists - Fatbobman's Swift Weekly #136]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-136/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-136/]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Recording a Physical iPhone for App Preview Videos]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/xcode/record-iphone-app-preview-videos/]]></link>
@@ -366,14 +366,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></guid>
     <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sudoku is coming soon]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-coming-soon.html]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/shipped-without-me]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
