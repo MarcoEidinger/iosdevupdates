@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 May 2026 03:15:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 05:26:53 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Iris Rejected From the App Store]]></title>
@@ -361,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[macOS Apprentice: 3rd Edition]]></title>
-    <description><![CDATA[https://troz.net/]]></description>
-    <link><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/macos-apprentice-update-3/]]></guid>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[100 Small Acts Of Love]]></title>
     <description><![CDATA[https://fabisevi.ch]]></description>
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/shipped-without-me]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Moving Feed Discovery to /.well-known]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
