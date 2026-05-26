@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 May 2026 15:08:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 17:11:19 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[In Praise of SwiftUI]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/WWDC-2026-The-Pregame-Quiz]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/WWDC-2026-The-Pregame-Quiz]]></guid>
+    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC 2026 Watch List]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/wwdc-26-watchlist/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc-26-watchlist/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://matteomanferdini.com/blog/]]></description>
     <link><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></link>
     <guid isPermaLink="true"><![CDATA[https://matteomanferdini.com/swiftui-reusable-views/]]></guid>
-    <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I’ve spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me.]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/shipped-without-me]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/shipped-without-me]]></guid>
     <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 </item>
 
