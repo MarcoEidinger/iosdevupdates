@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 26 May 2026 17:11:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 18:54:25 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[In Praise of SwiftUI]]></title>
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></guid>
+    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Being A 1.5-10x Developer]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/5/26/being-a-1-5-10x-developer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/5/26/being-a-1-5-10x-developer/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -382,14 +390,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
     <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Teaching Computer]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/5/11/the-teaching-computer/]]></guid>
-    <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
