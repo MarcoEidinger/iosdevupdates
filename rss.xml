@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 May 2026 13:19:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 15:12:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Taming Row Height and Spacing Jumps in SwiftUI List with a Custom Layout]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/taming-row-height-and-spacing-jumps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/taming-row-height-and-spacing-jumps/]]></guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Understanding my newly recognized operating system]]></title>
+    <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
+    <link><![CDATA[https://www.joshholtz.com/blog/2026/05/27/understanding-my-newly-recognized-operating-system]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/05/27/understanding-my-newly-recognized-operating-system]]></guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[In Praise of SwiftUI]]></title>
@@ -201,6 +217,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Keep Two Thoughts Podcast 165 - All Request Weekend]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/165AllRequestWeekend.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/165AllRequestWeekend.html]]></guid>
+    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[The Moral Struggles of AI Coding]]></title>
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/5/moral-struggles-of-ai-coding/]]></link>
@@ -286,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></guid>
     <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 321 - Room]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/fc9795a885e5/321-room]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/fc9795a885e5/321-room]]></guid>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/formatting-values-in-swiftui-text-and-textfield/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/formatting-values-in-swiftui-text-and-textfield/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ifgame - An Interactive Fiction game library for Clojure]]></title>
-    <description><![CDATA[https://rodschmidt.com/]]></description>
-    <link><![CDATA[https://rodschmidt.com/posts/ifgame/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/ifgame/]]></guid>
-    <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[TDD Is Not Test Coverage]]></title>
-    <description><![CDATA[https://lazarevzubov.medium.com/]]></description>
-    <link><![CDATA[https://lazarevzubov.medium.com/tdd-is-not-test-coverage-dfe10205c198?source=rss-63310a0d2b01------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lazarevzubov.medium.com/tdd-is-not-test-coverage-dfe10205c198?source=rss-63310a0d2b01------2]]></guid>
-    <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
