@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 28 May 2026 00:52:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 03:17:22 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Iris 1.0]]></title>
@@ -217,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Task Lifecycle Management - Structured vs Unstructured Concurrency]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></guid>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Modern Isn't a Value. Fit Is.]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></guid>
+    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Task Lifecycle Management - Structured vs Unstructured Concurrency]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></guid>
     <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
