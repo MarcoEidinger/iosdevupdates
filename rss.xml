@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 27 May 2026 22:38:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 00:52:47 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Iris 1.0]]></title>
@@ -29,6 +29,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.joshholtz.com/blog/]]></description>
     <link><![CDATA[https://www.joshholtz.com/blog/2026/05/27/understanding-my-newly-recognized-operating-system]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/05/27/understanding-my-newly-recognized-operating-system]]></guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Won't Make Your Dev Team More Productive]]></title>
+    <description><![CDATA[https://rodschmidt.com/]]></description>
+    <link><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Am I a Bad Friend?]]></title>
+    <description><![CDATA[https://drobinin.com/]]></description>
+    <link><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></guid>
     <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,18 +217,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Modern Isn't a Value. Fit Is.]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></guid>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Task Lifecycle Management - Structured vs Unstructured Concurrency]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-task-lifecycle-management/]]></guid>
+    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Modern Isn't a Value. Fit Is.]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></guid>
     <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,22 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></guid>
-    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
-    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Formatting Values in SwiftUI Text and TextField]]></title>
-    <description><![CDATA[https://serialcoder.dev/]]></description>
-    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/formatting-values-in-swiftui-text-and-textfield/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/formatting-values-in-swiftui-text-and-textfield/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
