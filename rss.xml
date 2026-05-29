@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 May 2026 15:11:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 17:16:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 166 - Protection]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></guid>
+    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ARC Overhead in Swift Sorting]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></guid>
-    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
-    <description><![CDATA[https://dchakarov.com]]></description>
-    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
