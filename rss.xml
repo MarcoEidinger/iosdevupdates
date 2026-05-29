@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 May 2026 11:11:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 13:14:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ARC Overhead in Swift Sorting]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/05/28/arc-overhead-in-swift-sorting/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/05/28/arc-overhead-in-swift-sorting/]]></guid>
+    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stateless Actors]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/stateless-actors/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/stateless-actors/]]></guid>
     <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -65,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Newsletter 322 - Shout]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/777764c57518/322-shout]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/777764c57518/322-shout]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[In Praise of SwiftUI]]></title>
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
@@ -117,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/05/26/swift-defer-clean-up-before-you-leave]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/05/26/swift-defer-clean-up-before-you-leave]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2026 Watch List]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/wwdc-26-watchlist/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc-26-watchlist/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
