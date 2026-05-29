@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 29 May 2026 20:53:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 22:36:00 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[StopTheMadness Pro 26]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></guid>
+    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Cost Of Intelligence Isn’t Going Up, Your Expectations Are]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/5/29/the-cost-of-intelligence-isnt-going-up/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/5/29/the-cost-of-intelligence-isnt-going-up/]]></guid>
     <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Being A 1.5-10x Developer]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/5/26/being-a-1-5-10x-developer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/5/26/being-a-1-5-10x-developer/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
