@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 May 2026 12:33:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 14:37:06 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Clearing UserDefaults during macOS app development]]></title>
@@ -158,6 +158,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI should become Open-Source]]></title>
+    <description><![CDATA[https://macguru.dev/]]></description>
+    <link><![CDATA[https://macguru.dev/swiftui-should-become-open-source/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://macguru.dev/swiftui-should-become-open-source/]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://contagious.dev/blog/category/ios/]]></description>
     <link><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></link>
     <guid isPermaLink="true"><![CDATA[https://contagious.dev/blog/getting-the-owner-identity-and-name-from-cloudkits-ckshare-in-ios-26/]]></guid>
-    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Becoming an IEEE Senior Member: Application Guide]]></title>
-    <description><![CDATA[https://www.nsvasilev.com/]]></description>
-    <link><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
