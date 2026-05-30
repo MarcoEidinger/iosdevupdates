@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 30 May 2026 07:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 08:54:25 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Clearing UserDefaults during macOS app development]]></title>
@@ -281,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Weather Events 1.2 released: wind gusts, improved location search, and other improvements]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></guid>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Replacing Bash with Swift in an AI Harness]]></title>
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness]]></link>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/becoming-an-ieee-senior-member-application-guide/]]></guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[If you think your CTO is losing the fight on AI, get them to read this one.]]></title>
+    <description><![CDATA[https://dchakarov.com]]></description>
+    <link><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dchakarov.com/blog/the-ctos-incoming-storms-1126/]]></guid>
     <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
 </item>
 
