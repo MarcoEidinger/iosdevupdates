@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 31 May 2026 10:43:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 12:36:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[cupertino v1.3.0: The Big Refactor]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/cupertino-v1-3-0-platform-filtering/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-3-0-platform-filtering/]]></guid>
+    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Do You Build a Mutex That Works with async/await ?]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-do-you-build-a-mutex-that-works-with-async-await]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-do-you-build-a-mutex-that-works-with-async-await]]></guid>
     <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mutatingfunc.github.io]]></description>
     <link><![CDATA[https://mutatingfunc.github.io/blog/2026-05-23-ipados-2026-wishlist/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-05-23-ipados-2026-wishlist/]]></guid>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Modern Isn't a Value. Fit Is.]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/system-desgin/modern-isnot-a-value-fit-Is]]></guid>
     <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
