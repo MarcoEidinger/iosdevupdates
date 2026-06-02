@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jun 2026 11:36:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 13:25:38 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2026: My predictions and wishes]]></title>
@@ -134,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swift-sendable-compile-time-data-race-prevention/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-sendable-compile-time-data-race-prevention/]]></guid>
     <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 166 - Protection]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/166Protection.html]]></guid>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI at work: What I’ve learned from customer apps]]></title>
+    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
+    <link><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
