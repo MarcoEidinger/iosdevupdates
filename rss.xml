@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jun 2026 15:30:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 17:40:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Enabling Haptic Feedback with sensoryFeedback in SwiftUI]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Newsletter 323 - Meanwhile]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://mailchi.mp/ba6a4c3d2119/323-meanwhile]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/ba6a4c3d2119/323-meanwhile]]></guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Fitbit Air is interesting]]></title>
@@ -161,6 +177,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[ Inside Atlas: the operations platform we built for ourselves ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></guid>
+    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Misguided JavaScript API: Origin Private File System]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/5/5.html]]></link>
@@ -229,14 +253,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Scaling iOS application development with Tuist ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/customers/delivery-hero]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/customers/delivery-hero]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +401,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hey! I’m a Vision Pro developer!]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Limits I Encountered]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></link>
@@ -454,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://bitsplitting.org/2026/05/13/thirty-years/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/05/13/thirty-years/]]></guid>
     <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[100 Small Acts Of Love]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2024/03/04/100-small-acts-of-love/]]></guid>
-    <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing UI Designer: Shapes &amp; Buttons]]></title>
-    <description><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/]]></description>
-    <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
-    <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
