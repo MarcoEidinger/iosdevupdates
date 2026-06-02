@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jun 2026 07:47:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 09:35:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC 2026: My predictions and wishes]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/wwdc/wwdc-2026-my-predictions-and-wishes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/wwdc/wwdc-2026-my-predictions-and-wishes/]]></guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ready Time's on TinyLaunch]]></title>
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/06/01/ready-times-on-tinylaunch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/06/01/ready-times-on-tinylaunch/]]></guid>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Learning in the age of LLMs]]></title>
+    <description><![CDATA[https://chris.eidhof.nl/]]></description>
+    <link><![CDATA[http://chris.eidhof.nl/post/learning-in-the-age-of-llms]]></link>
+    <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/learning-in-the-age-of-llms]]></guid>
     <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Xcode Instruments to optimize Swift Concurrency Code]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/using-xcode-instruments-to-optimize-swift-concurrency-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/using-xcode-instruments-to-optimize-swift-concurrency-code/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI at work: What I’ve learned from customer apps]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
