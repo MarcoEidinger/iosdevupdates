@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 02 Jun 2026 13:25:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 15:30:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Fitbit Air is interesting]]></title>
+    <description><![CDATA[https://christianselig.com]]></description>
+    <link><![CDATA[https://christianselig.com/2026/06/fitbit-air/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/06/fitbit-air/]]></guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC 2026: My predictions and wishes]]></title>
@@ -153,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Inside Atlas: the operations platform we built for ourselves ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></guid>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Misguided JavaScript API: Origin Private File System]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/5/5.html]]></link>
@@ -229,6 +229,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.thermalcorner.net]]></description>
     <link><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></link>
     <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></guid>
+    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Scaling iOS application development with Tuist ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/customers/delivery-hero]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/customers/delivery-hero]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.drowsydays.com/Drowsy-Days-blog/Entries/2026/5/introducing-ui-designer-shapes--buttons.html]]></guid>
     <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI at work: What I’ve learned from customer apps]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/swiftui-at-work-what-ive-learned-from-customer-apps-3d31f520a3fd?source=rss-a279959eb187------2]]></guid>
-    <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
