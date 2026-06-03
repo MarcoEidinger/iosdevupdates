@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jun 2026 13:47:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 15:40:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Core Data + Observation: From Property-Level Reactivity to a Freer Mental Model]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/core-data-observation-freer-mental-model/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/core-data-observation-freer-mental-model/]]></guid>
+    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Notes]]></title>
@@ -61,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/live-activities-and-the-dynamic-island.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/live-activities-and-the-dynamic-island.html]]></guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[WWDC26 wishes]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/06/02/wwdc26-wishes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/06/02/wwdc26-wishes]]></guid>
     <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/05/26/building-a-custom-data-store-in-swiftdata]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/05/26/building-a-custom-data-store-in-swiftdata]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Defer. Clean up before you leave.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/05/26/swift-defer-clean-up-before-you-leave]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/05/26/swift-defer-clean-up-before-you-leave]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The 40 hour work week scam]]></title>
-    <description><![CDATA[https://dasdom.dev]]></description>
-    <link><![CDATA[https://dasdom.dev/40-hour-work-week]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/40-hour-work-week]]></guid>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
