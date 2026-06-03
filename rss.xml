@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 03 Jun 2026 07:52:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 09:45:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Bricking Microsoft Office 2019]]></title>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The 40 hour work week scam]]></title>
-    <description><![CDATA[https://dasdom.dev]]></description>
-    <link><![CDATA[https://dasdom.dev/40-hour-work-week]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dasdom.dev/40-hour-work-week]]></guid>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
