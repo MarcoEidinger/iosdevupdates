@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Jun 2026 17:09:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 18:53:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC 2026 Preview]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/06/04/wwdc-2026-preview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/04/wwdc-2026-preview/]]></guid>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Seattle Xcoders Presentation by Justin Miller Tonight]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/AnimationTimingInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AnimationTimingInSwiftUI]]></guid>
     <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2026 Wish Lists]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/06/03/wwdc-2026-wish-lists/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/03/wwdc-2026-wish-lists/]]></guid>
-    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
