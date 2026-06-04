@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 04 Jun 2026 03:17:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 05:42:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2026 Wish Lists]]></title>
@@ -417,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Hey! I’m a Vision Pro developer!]]></title>
-    <description><![CDATA[https://www.it-guy.com/wp-new/blog/]]></description>
-    <link><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.it-guy.com/wp-new/hey-im-a-vision-pro-developer/?utm_source=rss&utm_medium=rss&utm_campaign=hey-im-a-vision-pro-developer]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI Limits I Encountered]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></link>
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://onmyway133.com/posts/how-to-recognize-text-in-images-with-vision-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-recognize-text-in-images-with-vision-in-swift/]]></guid>
     <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing Kickstart: the app that helps indie developers ship]]></title>
+    <description><![CDATA[https://www.hackingwithswift.com/articles]]></description>
+    <link><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship]]></guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
