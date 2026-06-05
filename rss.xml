@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jun 2026 15:06:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 16:53:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 167 - Just for now]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/167JustForNow.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/167JustForNow.html]]></guid>
+    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to follow naming convention in Swift]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/swiftui-limits/]]></guid>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Conditional Rendering Over Nil Coalescing]]></title>
-    <description><![CDATA[https://blog.eliperkins.me/]]></description>
-    <link><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.eliperkins.com/conditional-rendering-over-nil-coalescing]]></guid>
     <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 </item>
 
