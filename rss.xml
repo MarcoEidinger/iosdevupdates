@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jun 2026 11:13:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 13:10:16 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to create a toggle control widget in iOS]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-create-a-toggle-control-widget-in-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-create-a-toggle-control-widget-in-ios/]]></guid>
+    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OpenAPIDoctor WebAssembly readiness]]></title>
@@ -77,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></guid>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 323 - Meanwhile]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/ba6a4c3d2119/323-meanwhile]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/ba6a4c3d2119/323-meanwhile]]></guid>
     <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
