@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 05 Jun 2026 03:16:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 05:38:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[OpenAPIDoctor WebAssembly readiness]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/openapi-doctor-webassembly-readiness/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/openapi-doctor-webassembly-readiness/]]></guid>
+    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC 2026 Preview]]></title>
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/05/31/running-multiple-bazel-targets-in.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/05/31/running-multiple-bazel-targets-in.html]]></guid>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[cupertino v1.3.0: The Big Refactor]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/cupertino-v1-3-0-platform-filtering/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-3-0-platform-filtering/]]></guid>
     <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
 </item>
 
