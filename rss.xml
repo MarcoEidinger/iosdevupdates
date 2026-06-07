@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 07 Jun 2026 07:32:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 09:11:00 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to use Apple signing certificates]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-use-apple-signing-certificates/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-apple-signing-certificates/]]></guid>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Styling measurement unit fonts in SwiftUI]]></title>
@@ -45,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://dimsumthinking.com]]></description>
     <link><![CDATA[https://dimsumthinking.com/Podcast/2026/167JustForNow.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/167JustForNow.html]]></guid>
-    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to follow naming convention in Swift]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-follow-naming-convention-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-follow-naming-convention-in-swift/]]></guid>
     <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
