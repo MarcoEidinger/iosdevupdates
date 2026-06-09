@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jun 2026 07:23:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 09:17:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SwiftUI’s @State is now a macro]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithTheStateMacroInXcode27]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/InitializingObservableClassesWithTheStateMacroInXcode27]]></guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What's New in Xcode 27 MCP Bridge]]></title>
+    <description><![CDATA[https://redalemeden.com/derived-data]]></description>
+    <link><![CDATA[https://redalemeden.com/derived-data/2026/what-new-in-xcode-27-mcp-bridge/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://redalemeden.com/derived-data/2026/what-new-in-xcode-27-mcp-bridge/]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftandmemes.com/]]></description>
     <link><![CDATA[http://swiftandmemes.com/how-to-refactor-rxswift-monolith-into-modular-swift-app/]]></link>
     <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/how-to-refactor-rxswift-monolith-into-modular-swift-app/]]></guid>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Live Activities & the Dynamic Island]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/live-activities-and-the-dynamic-island.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/live-activities-and-the-dynamic-island.html]]></guid>
     <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
