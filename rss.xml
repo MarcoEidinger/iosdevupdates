@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 09 Jun 2026 15:19:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 17:02:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI reorderable containers in iOS 27]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/swiftui-reorderable-containers-in-ios-27/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swiftui-reorderable-containers-in-ios-27/]]></guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Safari Technology Preview’s self-destructive macOS support policy]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/6/2.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/6/2.html]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swipe actions are no longer trapped inside List in SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/swipe-actions-are-no-longer-trapped-inside-list-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swipe-actions-are-no-longer-trapped-inside-list-in-swiftui/]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
