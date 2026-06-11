@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 11 Jun 2026 11:39:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 13:29:44 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[How does CORS work]]></title>
+    <title><![CDATA[How to present a SwiftUI scene from AppKit]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-does-cors-work/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-does-cors-work/]]></guid>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-present-a-swiftui-scene-from-appkit/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-present-a-swiftui-scene-from-appkit/]]></guid>
     <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
