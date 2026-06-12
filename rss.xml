@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jun 2026 20:51:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 22:38:10 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[App Store Personalized Recommendations and Keylogging]]></title>
@@ -89,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA["Swift Runs Everywhere. I Checked."]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/swift-runs-everywhere/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swift-runs-everywhere/]]></guid>
-    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[(Some) Unanswered Swift Group Questions]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></guid>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA["Swift Runs Everywhere. I Checked."]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/swift-runs-everywhere/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swift-runs-everywhere/]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
