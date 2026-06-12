@@ -6,14 +6,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jun 2026 07:48:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 09:33:07 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[How to present a SwiftUI scene from AppKit]]></title>
+    <title><![CDATA[How Gradle works in a Kotlin project]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-present-a-swiftui-scene-from-appkit/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-present-a-swiftui-scene-from-appkit/]]></guid>
-    <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    <link><![CDATA[http://onmyway133.com/posts/how-gradle-works-in-a-kotlin-project/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-gradle-works-in-a-kotlin-project/]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
