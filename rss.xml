@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jun 2026 15:10:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 17:08:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 168 - Travel Notes]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/168TravelNotes.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/168TravelNotes.html]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[An Agent Framework Hiding Inside a Session: Dynamic Profiles in Foundation Models]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></guid>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The not so secret agents.md of Xcode]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/05/20/not-secret-agents/]]></guid>
     <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
 </item>
 
