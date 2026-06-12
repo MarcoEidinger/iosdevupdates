@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 12 Jun 2026 18:48:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 20:51:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Personalized Recommendations and Keylogging]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/06/12/app-store-personalized-recommendations-and-keylogging/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/12/app-store-personalized-recommendations-and-keylogging/]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keep Two Thoughts Podcast 168 - Travel Notes]]></title>
@@ -41,6 +49,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Using Claude with Apple Foundation Models]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Whats New In Swiftdata]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Custom scroll layouts with swipe actions in SwiftUI on iOS 27]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/CustomScrollLayoutsWithSwipeActionsInSwiftUIOnIOS27]]></link>
@@ -61,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/codex-thread-handoff-skill]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/codex-thread-handoff-skill]]></guid>
-    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[No Siri AI in EU]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/06/10/no-siri-ai-in-eu/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/10/no-siri-ai-in-eu/]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -337,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Task Names in Swift Concurrency]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/task-names-in-swift-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/task-names-in-swift-concurrency]]></guid>
-    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Cost Of Intelligence Isn’t Going Up, Your Expectations Are]]></title>
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/notes/2026/5/29/the-cost-of-intelligence-isnt-going-up/]]></link>
@@ -397,14 +405,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building A Custom Data Store In Swiftdata]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/05/26/building-a-custom-data-store-in-swiftdata]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/05/26/building-a-custom-data-store-in-swiftdata]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
