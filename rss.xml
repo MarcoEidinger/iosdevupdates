@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 13 Jun 2026 05:38:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 07:27:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[App Store Personalized Recommendations and Keylogging]]></title>
@@ -465,11 +465,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[I wanted async/await but I got a concurrency model]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-wanted-async-await/]]></guid>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Weather Events 1.2 released: wind gusts, improved location search, and other improvements]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></guid>
+    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
