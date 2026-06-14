@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 14 Jun 2026 16:38:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 18:38:04 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[External Repo File Checks In Bazel 9]]></title>
