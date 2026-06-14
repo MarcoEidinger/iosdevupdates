@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 14 Jun 2026 11:04:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 12:48:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Demo Day Community]]></title>
@@ -81,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using Claude with Apple Foundation Models]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></guid>
-    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Whats New In Swiftdata]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Claude with Apple Foundation Models]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -131,8 +131,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[SwiftUI ContentBuilder: one builder name for different content]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/blog/swiftui-contentbuilder-one-builder-name-for-different-swiftui-content/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/swiftui-contentbuilder-one-builder-name-for-different-swiftui-content/]]></guid>
+    <link><![CDATA[https://livsycode.com/swiftui/swiftui-contentbuilder-one-builder-name-for-different-swiftui-content/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/swiftui-contentbuilder-one-builder-name-for-different-swiftui-content/]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Inside Atlas: the operations platform we built for ourselves ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/05/29/inside-atlas]]></guid>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Understanding my newly recognized operating system]]></title>
     <description><![CDATA[https://joshholtz.com/blog/]]></description>
     <link><![CDATA[https://www.joshholtz.com/blog/2026/05/27/understanding-my-newly-recognized-operating-system]]></link>
@@ -470,6 +462,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/]]></guid>
     <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Weather Events 1.2 released: wind gusts, improved location search, and other improvements]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/weather-events-1-2-released-wind-gusts-improved-location-search-and-other-improvements/]]></guid>
+    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
