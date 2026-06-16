@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 15 Jun 2026 22:47:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 01:12:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA["The rules my AI coding agent is not allowed to break"]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/rules-my-coding-agent-cannot-break/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/rules-my-coding-agent-cannot-break/]]></guid>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[NetNewsWire Status]]></title>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://shankarmadeshvaran.medium.com/]]></description>
     <link><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></guid>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iPadOS 2026 Wishlist]]></title>
-    <description><![CDATA[https://mutatingfunc.github.io]]></description>
-    <link><![CDATA[https://mutatingfunc.github.io/blog/2026-05-23-ipados-2026-wishlist/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mutatingfunc.github.io/blog/2026-05-23-ipados-2026-wishlist/]]></guid>
     <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
