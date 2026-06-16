@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jun 2026 08:08:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 11:51:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Best Practices, straight from Apple’s Xcode 27 Agent Skill]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/swiftui-best-practices-xcode-27-agent-skill/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swiftui-best-practices-xcode-27-agent-skill/]]></guid>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Adaptive TabView Layouts with .tabViewStyle(.sidebarAdaptable) in SwiftUI]]></title>
@@ -190,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Xcode 27’s Agent Skills in Claude, Codex, and Cursor]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/using-xcode-27s-agent-skills-in-claude-codex-and-cursor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/using-xcode-27s-agent-skills-in-claude-codex-and-cursor/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
