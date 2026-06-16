@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 16 Jun 2026 05:57:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 08:08:57 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Adaptive TabView Layouts with .tabViewStyle(.sidebarAdaptable) in SwiftUI]]></title>
@@ -457,19 +457,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[SwiftUI should become Open-Source]]></title>
+    <description><![CDATA[https://macguru.dev/]]></description>
+    <link><![CDATA[https://macguru.dev/swiftui-should-become-open-source/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://macguru.dev/swiftui-should-become-open-source/]]></guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Developing Xcode apps in Zed: Make your life easier with xcede's profile switcher]]></title>
     <description><![CDATA[https://luxmentis.org/blog/]]></description>
     <link><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></link>
     <guid isPermaLink="true"><![CDATA[https://luxmentis.org/blog/xcede-profile-switcher/]]></guid>
     <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Create and Style App Shortcuts in iOS Using AppShortcutsProvider]]></title>
-    <description><![CDATA[https://shankarmadeshvaran.medium.com/]]></description>
-    <link><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shankarmadeshvaran.medium.com/create-and-style-app-shortcuts-in-ios-using-appshortcutsprovider-4d903f302899?source=rss-443ff8fd11ff------2]]></guid>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
