@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 17 Jun 2026 18:58:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 20:50:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC 2026 Links]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/06/17/wwdc-2026-links/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/17/wwdc-2026-links/]]></guid>
+    <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[From Size Class to Available Space: Is horizontalSizeClass Still Reliable?]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></guid>
     <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SpaceX Acquires xAI, Goes Public, Acquires Cursor]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/06/16/spacex-acquires-xai-goes-public-acquires-cursor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/16/spacex-acquires-xai-goes-public-acquires-cursor/]]></guid>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -89,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swipe actions outside of List in SwiftUI]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/06/16/swipe-actions-outside-of-list-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/06/16/swipe-actions-outside-of-list-in-swiftui]]></guid>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA["The rules my AI coding agent is not allowed to break"]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/rules-my-coding-agent-cannot-break/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/rules-my-coding-agent-cannot-break/]]></guid>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swipe actions outside of List in SwiftUI]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/06/16/swipe-actions-outside-of-list-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/06/16/swipe-actions-outside-of-list-in-swiftui]]></guid>
     <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
