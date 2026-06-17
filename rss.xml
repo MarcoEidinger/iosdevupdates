@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 17 Jun 2026 15:11:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 17:09:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[From Size Class to Available Space: Is horizontalSizeClass Still Reliable?]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@dkvekariya]]></description>
     <link><![CDATA[https://dkvekariya.medium.com/claude-predicted-fifa-world-cup-2026-winner-how-5f082f049011?source=rss-6317b0b805bf------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/claude-predicted-fifa-world-cup-2026-winner-how-5f082f049011?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sudoku is now in the App Store]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></guid>
     <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mobilea11y.com]]></description>
     <link><![CDATA[https://mobilea11y.com/blog/ai-alt-text/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mobilea11y.com/blog/ai-alt-text/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[HIIT and workout intervals]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/hiit-and-workout-intervals.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/hiit-and-workout-intervals.html]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
