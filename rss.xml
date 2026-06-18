@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jun 2026 09:38:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 11:28:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[New SwiftUI APIs for reordering and drag and drop on iOS 27]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/NewSwiftUIAPIsForReorderingAndDragAndDropOniOS27]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/NewSwiftUIAPIsForReorderingAndDragAndDropOniOS27]]></guid>
+    <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC 2026 Links]]></title>
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://useyourloaf.com/blog/]]></description>
     <link><![CDATA[https://useyourloaf.com/blog/wwdc-2026-viewing-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://useyourloaf.com/blog/wwdc-2026-viewing-guide/]]></guid>
-    <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Navigation transition updates in SwiftUI on iOS 27]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/SwiftUINavigationTransitionUpdatesIniOS27]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUINavigationTransitionUpdatesIniOS27]]></guid>
     <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
