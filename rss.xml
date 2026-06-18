@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jun 2026 18:55:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 20:57:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS Touch]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/06/18/macos-touch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/18/macos-touch/]]></guid>
+    <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[New SwiftUI APIs for reordering and drag and drop on iOS 27]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></guid>
     <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2026 Links]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/06/17/wwdc-2026-links/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/17/wwdc-2026-links/]]></guid>
-    <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
