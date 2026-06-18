@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 18 Jun 2026 07:51:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 09:38:24 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[WWDC 2026 Links]]></title>
@@ -313,6 +313,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[SwiftUI: Observable macro under the hood]]></title>
+    <description><![CDATA[https://www.nsvasilev.com/]]></description>
+    <link><![CDATA[https://nsvasilev.com/posts/swiftui-observable-macro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/swiftui-observable-macro/]]></guid>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Introducing YouHQ]]></title>
     <description><![CDATA[https://www.ryantoken.com]]></description>
     <link><![CDATA[https://www.ryantoken.com/blog/introducing-youhq]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/swiftui_praise/]]></guid>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Timefall Beta]]></title>
-    <description><![CDATA[https://www.thermalcorner.net]]></description>
-    <link><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thermalcorner.net/post/timefall-beta/]]></guid>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
 </item>
 
