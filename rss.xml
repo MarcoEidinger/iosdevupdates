@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 19 Jun 2026 15:08:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 16:55:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Keep Two Thoughts Podcast 169 - Trying]]></title>
+    <description><![CDATA[https://dimsumthinking.com]]></description>
+    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/169Trying.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/169Trying.html]]></guid>
+    <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Touch]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rodschmidt.com/]]></description>
     <link><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></guid>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Am I a Bad Friend?]]></title>
-    <description><![CDATA[https://drobinin.com/]]></description>
-    <link><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></guid>
     <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 </item>
 
