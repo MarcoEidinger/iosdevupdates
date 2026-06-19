@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 19 Jun 2026 11:38:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 13:19:26 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[macOS Touch]]></title>
@@ -54,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/sudoku-launch.html]]></guid>
     <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter 325 - Privacy]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://mailchi.mp/6db587e7922f/325-privacy]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mailchi.mp/6db587e7922f/325-privacy]]></guid>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://rodschmidt.com/]]></description>
     <link><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rodschmidt.com/posts/ai-wont-make-your-dev-team-more-productive/]]></guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Am I a Bad Friend?]]></title>
+    <description><![CDATA[https://drobinin.com/]]></description>
+    <link><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://drobinin.com/posts/am-i-a-bad-friend/]]></guid>
     <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 </item>
 
