@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 21 Jun 2026 16:39:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 18:39:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Avoiding .DS_Store Cache Misses in Bazel]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/06/21/avoiding-dsstore-cache-misses-in.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/06/21/avoiding-dsstore-cache-misses-in.html]]></guid>
+    <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift 6.4: What’s New in Concurrency]]></title>
@@ -30,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/indistinguishable-from-an-attack/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/indistinguishable-from-an-attack/]]></guid>
     <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Hidden Furnaces of AI Agentic Products]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/hidden-furnaces-of-ai-agentic-products]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/hidden-furnaces-of-ai-agentic-products]]></guid>
+    <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -193,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[External Repo File Checks In Bazel 9]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/06/14/external-repo-file-checks-in.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/06/14/external-repo-file-checks-in.html]]></guid>
-    <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Async cleanup with defer in Swift]]></title>
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/swift-defer-async]]></link>
@@ -214,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://hesh.am/2026-06-13/demo-day-community]]></link>
     <guid isPermaLink="true"><![CDATA[https://hesh.am/2026-06-13/demo-day-community]]></guid>
     <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keeping Up With Swift Forums Using Codex]]></title>
-    <description><![CDATA[https://alejandromp.com/development/]]></description>
-    <link><![CDATA[https://alejandromp.com/development/blog/keeping-up-with-swift-forums-using-codex]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/keeping-up-with-swift-forums-using-codex]]></guid>
-    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
