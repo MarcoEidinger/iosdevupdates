@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 22 Jun 2026 19:13:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 21:07:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[CrashReportExtension]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/06/22/crashreportextension/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/22/crashreportextension/]]></guid>
+    <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Is Anyone Else Excited by Swift’s Progress as a Language? - Fatbobman's Swift Weekly #141]]></title>
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/pencil-notes-not-pencil-marks.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/pencil-notes-not-pencil-marks.html]]></guid>
+    <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Intents for SwiftUI Apps: Siri, Shortcuts, Spotlight, and Action Button]]></title>
+    <description><![CDATA[https://iosapptemplates.com/blog/]]></description>
+    <link><![CDATA[https://iosapptemplates.com/blog/app-intents-swiftui-siri-shortcuts-spotlight/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://iosapptemplates.com/blog/app-intents-swiftui-siri-shortcuts-spotlight/]]></guid>
     <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -117,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/the-admin-write-contract]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/the-admin-write-contract]]></guid>
-    <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI in appleOS 27]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/06/19/swiftui-in-appleos-27/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/06/19/swiftui-in-appleos-27/]]></guid>
     <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
