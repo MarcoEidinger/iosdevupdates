@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Jun 2026 03:15:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 05:29:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift 6.4 adds async support to Result]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swift/swift-6-4-adds-async-support-to-result-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/swift-6-4-adds-async-support-to-result-2/]]></guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[CrashReportExtension]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.thomasdurand.fr]]></description>
     <link><![CDATA[https://blog.thomasdurand.fr/story/2026-06-22-indie-diary-9/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2026-06-22-indie-diary-9/]]></guid>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[_UIPortalView: From Live Mirroring to Liquid Glass-Style Effects]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/uikit/exploring-_uiportalview-live-view-replication-without-copying-or-snapshots/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/uikit/exploring-_uiportalview-live-view-replication-without-copying-or-snapshots/]]></guid>
     <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -265,18 +265,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using Claude with Apple Foundation Models]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></guid>
-    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Whats New In Swiftdata]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/06/12/whats-new-in-swiftdata]]></guid>
+    <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Claude with Apple Foundation Models]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/using-claude-with-apple-foundation-models]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
