@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Jun 2026 11:10:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 13:06:52 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift 6.4 adds async support to Result]]></title>
@@ -141,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://troz.net/]]></description>
     <link><![CDATA[https://troz.net/post/2026/wwdc2026_first_thoughts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://troz.net/post/2026/wwdc2026_first_thoughts/]]></guid>
-    <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 169 - Trying]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/169Trying.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/169Trying.html]]></guid>
     <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/notes/2026/5/29/the-cost-of-intelligence-isnt-going-up/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/5/29/the-cost-of-intelligence-isnt-going-up/]]></guid>
+    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Coding Agent Skills vs Slash Commands, MCP, and CLI Tools]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/coding-agent-skills-vs-slash-commands-mcp-and-cli-tools]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/coding-agent-skills-vs-slash-commands-mcp-and-cli-tools]]></guid>
     <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
 </item>
 
