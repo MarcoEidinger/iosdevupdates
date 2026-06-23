@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 23 Jun 2026 13:06:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 15:08:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift 6.4 adds async support to Result]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swift/swift-6-4-adds-async-support-to-result-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swift/swift-6-4-adds-async-support-to-result-2/]]></guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Notes]]></title>
+    <description><![CDATA[https://alexandersandberg.com]]></description>
+    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -381,14 +389,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2026/06/03/apple-like]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/06/03/apple-like]]></guid>
-    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Notes]]></title>
-    <description><![CDATA[https://alexandersandberg.com]]></description>
-    <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
     <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
