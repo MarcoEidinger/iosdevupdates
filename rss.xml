@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 26 Jun 2026 09:15:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 11:08:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Using Cursor in Xcode 27]]></title>
+    <description><![CDATA[https://www.polpiella.dev]]></description>
+    <link><![CDATA[https://polpiella.dev/cursor-xcode-27/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://polpiella.dev/cursor-xcode-27/]]></guid>
+    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Hardware Price Hikes]]></title>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://serialcoder.dev/]]></description>
     <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/enabling-haptic-feedback-with-sensoryfeedback-in-swiftui/]]></guid>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Fitbit Air is interesting]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2026/06/fitbit-air/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/06/fitbit-air/]]></guid>
     <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
