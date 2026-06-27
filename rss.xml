@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 27 Jun 2026 12:36:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 14:39:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Navigation Transitions Got Better in iOS 27]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/swiftui-navigation-transitions-got-better-in-ios-27-118801f1d8b6?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swiftui-navigation-transitions-got-better-in-ios-27-118801f1d8b6?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to support multiple Slack workspaces on MCP for Claude Code]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></guid>
+    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Reordering Beyond List - SwiftUI iOS 27]]></title>
@@ -241,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Conditionals: if, switch, guard, and the Pattern Matching]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/swift-conditionals-if-switch-guard-pattern-matching-131e509d4d82?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-conditionals-if-switch-guard-pattern-matching-131e509d4d82?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ch 2: The Dreamlands Express]]></title>
     <description><![CDATA[https://silverhammermba.github.io/blog/]]></description>
     <link><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/swiftui-observable-macro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/swiftui-observable-macro/]]></guid>
-    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing YouHQ]]></title>
-    <description><![CDATA[https://www.ryantoken.com]]></description>
-    <link><![CDATA[https://www.ryantoken.com/blog/introducing-youhq]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ryantoken.com/blog/introducing-youhq]]></guid>
     <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
