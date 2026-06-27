@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 27 Jun 2026 14:39:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 16:31:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SwiftUI Navigation Transitions Got Better in iOS 27]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></guid>
+    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA["The SwiftUI Oracle: Measuring a Clean Room Against the Real Thing"]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/the-swiftui-oracle/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/the-swiftui-oracle/]]></guid>
     <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/cloudflare-tunnels-changed-how-i-test-local-integrations]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/cloudflare-tunnels-changed-how-i-test-local-integrations]]></guid>
-    <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Is One Graph, Over 40+ Years of Engineering]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/swiftui-is-one-graph/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-is-one-graph/]]></guid>
     <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
