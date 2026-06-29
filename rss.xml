@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 29 Jun 2026 13:38:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 15:17:42 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SPI Joins Apple, and Swift Moves Toward Self-Hosting - Fatbobman's Swift Weekly #142]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-142/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-142/]]></guid>
+    <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Memberwise Initializer in Swift explained with Code Examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift/memberwise-initializers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/memberwise-initializers/]]></guid>
+    <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Custom Pull-to-Refresh in SwiftUI]]></title>
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift 6.4: What’s New in Concurrency]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/concurrency/swift-6-4-whats-new-in-concurrency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/concurrency/swift-6-4-whats-new-in-concurrency/]]></guid>
-    <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ch 2.5: The Dreamlands Express]]></title>
     <description><![CDATA[https://silverhammermba.github.io/blog/]]></description>
     <link><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></link>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diamantidis.github.io]]></description>
     <link><![CDATA[https://diamantidis.github.io/2026/06/07/one-version-manager-to-rule-them-all]]></link>
     <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/06/07/one-version-manager-to-rule-them-all]]></guid>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Context engineering for AI agents]]></title>
-    <description><![CDATA[https://ericsspace.com/]]></description>
-    <link><![CDATA[https://ericsspace.com//articles/context-engineering]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/context-engineering]]></guid>
     <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
