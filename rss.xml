@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Jun 2026 11:07:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 12:50:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How to start any Sudoku]]></title>
@@ -125,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></guid>
-    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Two Thoughts Podcast 170 - Research]]></title>
-    <description><![CDATA[https://dimsumthinking.com]]></description>
-    <link><![CDATA[https://dimsumthinking.com/Podcast/2026/170Research.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dimsumthinking.com/Podcast/2026/170Research.html]]></guid>
     <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://diamantidis.github.io]]></description>
     <link><![CDATA[https://diamantidis.github.io/2026/06/07/one-version-manager-to-rule-them-all]]></link>
     <guid isPermaLink="true"><![CDATA[https://diamantidis.github.io/2026/06/07/one-version-manager-to-rule-them-all]]></guid>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Context engineering for AI agents]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/context-engineering]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/context-engineering]]></guid>
     <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
