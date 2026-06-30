@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 30 Jun 2026 07:27:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 09:15:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to start any Sudoku]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/how-to-start-a-sudoku.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/how-to-start-a-sudoku.html]]></guid>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What to Do With a Hot Mac]]></title>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AsyncImageImprovementsInSwiftUIOnIOS27]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AsyncImageImprovementsInSwiftUIOnIOS27]]></guid>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pencil notes, not pencil marks — a word that changed the app]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/pencil-notes-not-pencil-marks.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/pencil-notes-not-pencil-marks.html]]></guid>
     <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
