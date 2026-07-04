@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 Jul 2026 06:50:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 10:14:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Why I Built an Orchestration Tool for My Coding Agents]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/why-i-built-an-orchestration-tool-for-my-coding-agents]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/why-i-built-an-orchestration-tool-for-my-coding-agents]]></guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI .crossFade Navigation Transition in iOS 27]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-crossfade-navigation-transition/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-crossfade-navigation-transition/]]></guid>
     <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -173,14 +181,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></guid>
-    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reordering Beyond List - SwiftUI iOS 27]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-reorderable-lazy-layouts-ios-27/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-reorderable-lazy-layouts-ios-27/]]></guid>
     <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
