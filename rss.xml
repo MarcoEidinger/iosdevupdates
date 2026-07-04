@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 Jul 2026 13:30:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 15:09:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Loops: for-in, while, repeat-while, and What Senior Engineers Actually Use]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/swift-loops-for-in-while-repeat-while-and-what-senior-engineers-actually-use-750d27904ba9?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-loops-for-in-while-repeat-while-and-what-senior-engineers-actually-use-750d27904ba9?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why I Built an Orchestration Tool for My Coding Agents]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/why-i-built-an-orchestration-tool-for-my-coding-agents]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/why-i-built-an-orchestration-tool-for-my-coding-agents]]></guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI 3D is Flat]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/swiftui-3d-is-flat/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-3d-is-flat/]]></guid>
     <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deverman.org]]></description>
     <link><![CDATA[https://deverman.org/official-mcp-server-safari/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deverman.org/official-mcp-server-safari/]]></guid>
-    <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Humans Don't Work at GitHub]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/humans-dont-work-at-github/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/humans-dont-work-at-github/]]></guid>
     <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -166,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://alexanderweiss.dev/blog/2026-06-28-multi-version-multi-target-docc]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2026-06-28-multi-version-multi-target-docc]]></guid>
     <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Navigation Transitions Got Better in iOS 27]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/swiftui-navigation-transitions-got-better-in-ios-27-118801f1d8b6?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swiftui-navigation-transitions-got-better-in-ios-27-118801f1d8b6?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
