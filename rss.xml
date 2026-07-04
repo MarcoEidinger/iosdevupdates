@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 04 Jul 2026 19:17:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 21:01:49 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Swift Loops: for-in, while, repeat-while, and What Senior Engineers Actually Use]]></title>
@@ -461,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://redalemeden.com/derived-data]]></description>
     <link><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></link>
     <guid isPermaLink="true"><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Generating image description alt text with Foundation Models on iOS 27]]></title>
-    <description><![CDATA[https://mobilea11y.com]]></description>
-    <link><![CDATA[https://mobilea11y.com/blog/ai-alt-text/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mobilea11y.com/blog/ai-alt-text/]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
