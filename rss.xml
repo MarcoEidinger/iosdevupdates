@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 05 Jul 2026 21:05:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 23:04:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stamping iOS Builds with Bazel]]></title>
@@ -149,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://douglashill.co]]></description>
     <link><![CDATA[https://douglashill.co/2026/rustweek/]]></link>
     <guid isPermaLink="true"><![CDATA[https://douglashill.co/2026/rustweek/]]></guid>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to start any Sudoku]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/how-to-start-a-sudoku.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/how-to-start-a-sudoku.html]]></guid>
     <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://redalemeden.com/derived-data]]></description>
     <link><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></link>
     <guid isPermaLink="true"><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[10 Tips for Building iOS Apps That Handle Dynamic Type Well]]></title>
-    <description><![CDATA[https://mobilea11y.com]]></description>
-    <link><![CDATA[https://mobilea11y.com/blog/good-dynamic-type/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mobilea11y.com/blog/good-dynamic-type/]]></guid>
     <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
