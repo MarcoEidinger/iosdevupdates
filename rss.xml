@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 05 Jul 2026 15:17:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 17:14:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Stamping iOS Builds with Bazel]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/07/05/stamping-ios-builds-with-bazel.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/07/05/stamping-ios-builds-with-bazel.html]]></guid>
+    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Kamal Fits My Coding-Agent Workflow]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/ios-privacy-manifests]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/ios-privacy-manifests]]></guid>
-    <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making Developer Tools Available Through Bazel]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/06/28/making-developer-tools-available-through.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/06/28/making-developer-tools-available-through.html]]></guid>
     <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
