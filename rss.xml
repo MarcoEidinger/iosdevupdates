@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 05 Jul 2026 17:14:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 19:21:40 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Stamping iOS Builds with Bazel]]></title>
@@ -22,6 +22,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://hboon.com/how-kamal-fits-my-coding-agent-workflow]]></link>
     <guid isPermaLink="true"><![CDATA[https://hboon.com/how-kamal-fits-my-coding-agent-workflow]]></guid>
     <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Recaps, Another Hidden AI Furnace]]></title>
+    <description><![CDATA[https://alejandromp.com/development/]]></description>
+    <link><![CDATA[https://alejandromp.com/development/blog/recaps-are-another-hidden-furnace]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/recaps-are-another-hidden-furnace]]></guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -326,14 +334,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></guid>
     <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Hidden Furnaces of AI Agentic Products]]></title>
-    <description><![CDATA[https://alejandromp.com/development/]]></description>
-    <link><![CDATA[https://alejandromp.com/development/blog/hidden-furnaces-of-ai-agentic-products]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/hidden-furnaces-of-ai-agentic-products]]></guid>
-    <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
