@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jul 2026 16:55:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 20:01:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Castro’s Customer Support Lessons]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/06/castros-customer-support-lessons/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/06/castros-customer-support-lessons/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WWDC26: Reordering Items in SwiftUI Lists and Grids]]></title>
@@ -126,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-crossfade-navigation-transition/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-crossfade-navigation-transition/]]></guid>
     <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Finder’s Elite Eliding]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/03/finders-elite-eliding/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/03/finders-elite-eliding/]]></guid>
-    <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
