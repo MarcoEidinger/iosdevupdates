@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jul 2026 13:48:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 16:55:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WWDC26: Reordering Items in SwiftUI Lists and Grids]]></title>
+    <description><![CDATA[https://serialcoder.dev/]]></description>
+    <link><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/wwdc26-reordering-items-in-swiftui-lists-and-grids/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://serialcoder.dev/text-tutorials/swiftui/wwdc26-reordering-items-in-swiftui-lists-and-grids/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[When Linux Becomes "Air": Containers, Agents, and a "Desktop War" That No Longer Matters - Fatbobman's Swift Weekly #143]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-143/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-143/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Safari sidebar silently loads all your bookmarks]]></title>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.thealexanderlee.com/blog/vi-2026]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.thealexanderlee.com/blog/vi-2026]]></guid>
     <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[(Some) Unanswered Swift Group Questions]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></guid>
-    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Installing simulator runtimes from the command line]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/installing-simulator-runtimes-from-the-command-line/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/installing-simulator-runtimes-from-the-command-line/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
