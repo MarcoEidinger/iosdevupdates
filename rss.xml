@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 05 Jul 2026 23:04:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 03:41:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Issue 094: Killer Apps]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The SwiftUI Performance Skill]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/the-swiftui-performance-skill/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/the-swiftui-performance-skill/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Future proof]]></title>
+    <description><![CDATA[https://benjaminscholtysik.com/]]></description>
+    <link><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></guid>
+    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Stamping iOS Builds with Bazel]]></title>
@@ -133,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/noUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/noUI]]></guid>
-    <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Rotating Liquid Glass in SwiftUI without breaking the shape]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/liquid-glass-rotating/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/liquid-glass-rotating/]]></guid>
     <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/wwdc26-unanswered-qa/]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Installing simulator runtimes from the command line]]></title>
-    <description><![CDATA[https://www.donnywals.com]]></description>
-    <link><![CDATA[https://www.donnywals.com/installing-simulator-runtimes-from-the-command-line/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.donnywals.com/installing-simulator-runtimes-from-the-command-line/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to Use OpenCode in Xcode 27]]></title>
-    <description><![CDATA[https://redalemeden.com/derived-data]]></description>
-    <link><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://redalemeden.com/derived-data/2026/how-to-use-any-harness-with-xcode-27/]]></guid>
-    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
