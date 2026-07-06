@@ -6,21 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 06 Jul 2026 03:41:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 08:24:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Modern iOS Performance Myths: Episode 1]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/blog/modern-ios-performance-myths-episode-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/blog/modern-ios-performance-myths-episode-1/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Issue 094: Killer Apps]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></guid>
-    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The SwiftUI Performance Skill]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/the-swiftui-performance-skill/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/the-swiftui-performance-skill/]]></guid>
     <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
