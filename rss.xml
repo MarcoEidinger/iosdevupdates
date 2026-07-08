@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 08 Jul 2026 17:41:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 19:30:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Disk Not Ejected Properly]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/08/disk-not-ejected-properly/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/08/disk-not-ejected-properly/]]></guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Image Playground Sheet in SwiftUI]]></title>
@@ -22,14 +30,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2026/07/08/pursuit/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/07/08/pursuit/]]></guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A New Firefox Look]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/07/a-new-firefox-look/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/07/a-new-firefox-look/]]></guid>
-    <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -57,10 +57,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why every AI guardrail shouldn't be just about cost, privacy and security]]></title>
+    <title><![CDATA[A personal take on why AI’s biggest cost may not be financial, but human]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/ai/why-every-ai-guardrail-shouldnt-be-just-about-cost-privacy-and-security/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/why-every-ai-guardrail-shouldnt-be-just-about-cost-privacy-and-security/]]></guid>
+    <link><![CDATA[https://mfaani.com/posts/ai/a-personal-take-on-why-ais-biggest-cost-may-not-be-financial-but-human/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/a-personal-take-on-why-ais-biggest-cost-may-not-be-financial-but-human/]]></guid>
     <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
