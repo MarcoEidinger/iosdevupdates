@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 09 Jul 2026 07:45:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 11:07:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Disk Not Ejected Properly]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/swiftui/image-playground-sheet-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/image-playground-sheet-in-swiftui/]]></guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Robbin: AR Archery Game - Learn About the Game and Features]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/archery/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/archery/]]></guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -222,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></guid>
     <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple's MCP Server for Safari]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/official-mcp-server-safari/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/official-mcp-server-safari/]]></guid>
-    <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
