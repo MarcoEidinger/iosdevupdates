@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 10 Jul 2026 17:51:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 19:31:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Multinational Apple Accounts]]></title>
+    <description><![CDATA[https://bitsplitting.org/]]></description>
+    <link><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></guid>
+    <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ChatGPT Work and ChatGPT Classic]]></title>
@@ -89,7 +97,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How the mental cost of AI can be reduced over time and type of usage]]></title>
+    <title><![CDATA[How the mental cost of AI can be reduced over time and type of usage?]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/ai/how-the-emotional-and-human-cost-of-ai-varies-based-on-time-and-type-of-usage/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/how-the-emotional-and-human-cost-of-ai-varies-based-on-time-and-type-of-usage/]]></guid>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ohmyswift.com/blog/2026/06/15/wwdc26-platforms-state-of-the-union-highlights]]></link>
     <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2026/06/15/wwdc26-platforms-state-of-the-union-highlights]]></guid>
     <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Demo Day Community]]></title>
-    <description><![CDATA[https://hesh.am]]></description>
-    <link><![CDATA[https://hesh.am/2026-06-13/demo-day-community]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hesh.am/2026-06-13/demo-day-community]]></guid>
-    <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
