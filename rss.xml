@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Jul 2026 02:46:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 06:17:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Developers Are the New Middle Management]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/07/11/developers-are-the-new-middle-management/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/07/11/developers-are-the-new-middle-management/]]></guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Multinational Apple Accounts]]></title>
@@ -281,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to support multiple Slack workspaces on MCP for Claude Code]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/]]></guid>
-    <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Acorn 8.6 Is Out, and Some Geeky Info on the New Brush Tool]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></link>
@@ -353,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Creating Marketing Resources with ButterKit]]></title>
-    <description><![CDATA[https://cubefreecoder.com/categories/code/]]></description>
-    <link><![CDATA[https://cubefreecoder.com/posts/butterkit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cubefreecoder.com/posts/butterkit/]]></guid>
-    <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Notes]]></title>
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating Marketing Resources with ButterKit]]></title>
+    <description><![CDATA[https://cubefreecoder.com/categories/code/]]></description>
+    <link><![CDATA[https://cubefreecoder.com/posts/butterkit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cubefreecoder.com/posts/butterkit/]]></guid>
     <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
