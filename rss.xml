@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 11 Jul 2026 19:06:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 20:53:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[xcodebuild for AI]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Analyzing Apple financial statements: products vs. services]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2026/07/iphone-air-review/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/07/iphone-air-review/]]></guid>
-    <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How the mental cost of AI can be reduced over time and type of usage?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/ai/how-the-emotional-and-human-cost-of-ai-varies-based-on-time-and-type-of-usage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/how-the-emotional-and-human-cost-of-ai-varies-based-on-time-and-type-of-usage/]]></guid>
     <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
