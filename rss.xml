@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 13 Jul 2026 23:00:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 02:36:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Liquid Glass obscures macOS volume changes]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/4.html]]></guid>
+    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Hello World!]]></title>
@@ -93,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></guid>
-    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Analyzing Apple financial statements: products vs. services]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/3.html]]></guid>
     <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
