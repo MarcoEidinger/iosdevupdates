@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 Jul 2026 13:48:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 15:29:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to hide an update in the Mac App Store]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/5.html]]></guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Licensing a Mac App with RevenueCat]]></title>
+    <description><![CDATA[https://jsorge.net/]]></description>
+    <link><![CDATA[https://jsorge.net/2026/07/15/revenuecat-mac-licensing]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/07/15/revenuecat-mac-licensing]]></guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 27 Public Beta]]></title>
@@ -70,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftui-garden.com/Articles/Public-asset-symbol-constants-in-Swift-packages]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftui-garden.com/Articles/Public-asset-symbol-constants-in-Swift-packages]]></guid>
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Liquid Glass obscures macOS volume changes]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/4.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/4.html]]></guid>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></guid>
     <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Actors in Swift: The Problem They Solve and How it Works]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></guid>
-    <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
