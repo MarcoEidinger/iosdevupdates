@@ -6,13 +6,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 15 Jul 2026 15:29:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 17:22:29 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[How to hide an update in the Mac App Store]]></title>
+    <title><![CDATA[Apple again black-holed my App Store Connect bug report]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/5.html]]></guid>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/7/6.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/7/6.html]]></guid>
     <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -249,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Issue 094: Killer Apps]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></guid>
-    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Beachfront Property in Camarina]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/beachfront-property-in-camarina/]]></link>
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></link>
     <guid isPermaLink="true"><![CDATA[https://silverhammermba.github.io/blog/2026/06/21/the-dreamlands-express]]></guid>
     <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Actors in Swift: The Problem They Solve and How it Works]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work]]></guid>
+    <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
