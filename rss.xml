@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 16 Jul 2026 19:16:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 21:02:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Golden Gate Squircle Jail]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/16/golden-gate-squircle-jail/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/16/golden-gate-squircle-jail/]]></guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My Notes on Three Years of Coding with AI]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sicpers.info/2026/07/end-of-line-replacing-mcp-with-standard-filesystem-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/07/end-of-line-replacing-mcp-with-standard-filesystem-tools/]]></guid>
     <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SpamSieve 3.3.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/15/spamsieve-3-3-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/15/spamsieve-3-3-1/]]></guid>
-    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -401,14 +401,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Where Should Loading State Live In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/06/24/where-should-loading-state-live-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/06/24/where-should-loading-state-live-in-swiftui]]></guid>
-    <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[iOS 27 SDK: 3 Major Requirements That Might Break Your App]]></title>
     <description><![CDATA[https://blog.makwanbk.com]]></description>
     <link><![CDATA[https://blog.makwanbk.com/ios-27-sdk-3-major-requirements-that-migh-break-your-app]]></link>
@@ -429,6 +421,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alexandersandberg.com]]></description>
     <link><![CDATA[https://alexandersandberg.com/notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://alexandersandberg.com/notes/]]></guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Where Should Loading State Live In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/06/23/where-should-loading-state-live-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/06/23/where-should-loading-state-live-in-swiftui]]></guid>
     <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
