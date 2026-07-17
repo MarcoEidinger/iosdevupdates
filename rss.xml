@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Jul 2026 11:28:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 13:42:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What I'd do differently]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/what-id-do-differently]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/what-id-do-differently]]></guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I tried to record music onto a cassette tape using modern tech]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech]]></guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Geometry, compositing and drawing groups in SwiftUI]]></title>
@@ -221,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bitsplitting.org/]]></description>
     <link><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></guid>
-    <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Three markdown pipelines and a theme toggle]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/three-markdown-pipelines-and-a-theme-toggle]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/three-markdown-pipelines-and-a-theme-toggle]]></guid>
     <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftpackageindex.com/blog/swift-package-index-joins-apple]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/swift-package-index-joins-apple]]></guid>
     <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Indie Diary #9 — What do we do now?]]></title>
-    <description><![CDATA[https://blog.thomasdurand.fr]]></description>
-    <link><![CDATA[https://blog.thomasdurand.fr/story/2026-06-22-indie-diary-9/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.thomasdurand.fr/story/2026-06-22-indie-diary-9/]]></guid>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
