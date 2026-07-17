@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 17 Jul 2026 06:22:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 10:01:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Geometry, compositing and drawing groups in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/GeometryCompositingAndDrawingGroupsInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/GeometryCompositingAndDrawingGroupsInSwiftUI]]></guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Golden Gate Squircle Jail]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/7/three-years-coding-with-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/7/three-years-coding-with-ai/]]></guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Farewell to DFS in Hong Kong and Macau]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/dfs-death/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/dfs-death/]]></guid>
     <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -97,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA["The SwiftUI Way" book update: expanded guidance on data flow and performance]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/TheSwiftUIWayUpdateJuly2026]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TheSwiftUIWayUpdateJuly2026]]></guid>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Previews and MCP]]></title>
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/07/14/previews-and-mcp/]]></link>
@@ -141,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2026/07/13/social-comments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2026/07/13/social-comments/]]></guid>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Developer Academy Branding Exercise: Participate Now]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/branding-exercise-what-others-know-about-me/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/branding-exercise-what-others-know-about-me/]]></guid>
     <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
