@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 20 Jul 2026 18:06:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 21:16:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[ATProto in Practice #1: Identity]]></title>
+    <description><![CDATA[https://mackuba.eu]]></description>
+    <link><![CDATA[https://mackuba.eu/2026/07/20/atproto-in-practice-identity/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2026/07/20/atproto-in-practice-identity/]]></guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Licensing a Mac App With RevenueCat]]></title>
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://freelance-mad-science.com/tag/swift/]]></description>
     <link><![CDATA[https://freelance-mad-science.com/2026/07/13/hello-world/]]></link>
     <guid isPermaLink="true"><![CDATA[https://freelance-mad-science.com/2026/07/13/hello-world/]]></guid>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Social comments on my blog]]></title>
-    <description><![CDATA[https://mackuba.eu]]></description>
-    <link><![CDATA[https://mackuba.eu/2026/07/13/social-comments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2026/07/13/social-comments/]]></guid>
     <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
