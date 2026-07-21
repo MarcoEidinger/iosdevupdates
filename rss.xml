@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 21 Jul 2026 10:29:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 13:56:51 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[ATProto in Practice #1: Identity]]></title>
     <description><![CDATA[https://mackuba.eu]]></description>
     <link><![CDATA[https://mackuba.eu/2026/07/20/atproto-in-practice-identity/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mackuba.eu/2026/07/20/atproto-in-practice-identity/]]></guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Elgato Stream Deck Safe Disk Ejection Plug-in]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/safe-eject-stream-deck/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/safe-eject-stream-deck/]]></guid>
     <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://tanaschita.com/]]></description>
     <link><![CDATA[https://tanaschita.com/widgetkit-building-widgets-with-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://tanaschita.com/widgetkit-building-widgets-with-swiftui]]></guid>
-    <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What company have you referred the most to people?]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/what-company-have-you-referred-most-people/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/what-company-have-you-referred-most-people/]]></guid>
     <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
