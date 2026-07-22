@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 22 Jul 2026 19:23:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 21:12:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Whisper and SpeechAnalyzer]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/22/whisper-and-speechanalyzer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/22/whisper-and-speechanalyzer/]]></guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Guarding Against AI Drift: My Automated Elixir Quality Checks]]></title>
@@ -19,8 +27,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[How I Learned to Copy and Paste, and Why I Never Do]]></title>
     <description><![CDATA[https://www.andrewcbancroft.com]]></description>
-    <link><![CDATA[https://www.andrewcbancroft.com/blog/musings/how-i-learned-to-copy-and-paste/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.andrewcbancroft.com/blog/musings/how-i-learned-to-copy-and-paste/]]></guid>
+    <link><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></guid>
     <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human]]></guid>
     <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Park: Designed to Isolate]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/21/apple-park-designed-to-isolate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/21/apple-park-designed-to-isolate/]]></guid>
-    <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
