@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 Jul 2026 15:29:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 17:41:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shimming Your Way Off a Dead Elixir Dependency]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Background App Refresh in iOS: Busting the Myths (Part 1 of 2)]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/2026-07-23_i-stopped-reading-every-ai-diff/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-07-23_i-stopped-reading-every-ai-diff/]]></guid>
     <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Guarding Against AI Drift: My Automated Elixir Quality Checks]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/7/guarding-against-ai-drift/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/7/guarding-against-ai-drift/]]></guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
