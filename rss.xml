@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 24 Jul 2026 17:41:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 19:28:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Advertising Cognitive Dissonance]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/24/advertising-cognitive-dissonance/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/24/advertising-cognitive-dissonance/]]></guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Shimming Your Way Off a Dead Elixir Dependency]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/BlendModesInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BlendModesInSwiftUI]]></guid>
     <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Anthropic Book Training Settlement]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/23/anthropic-book-training-settlement/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/23/anthropic-book-training-settlement/]]></guid>
-    <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
