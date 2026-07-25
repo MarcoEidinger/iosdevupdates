@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 25 Jul 2026 06:21:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 09:50:31 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Blog Had a Shrug Where Its Focus Should Have Been]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/07/25/my-blog-had-a-shrug-where-its-focus-should-have-been/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/07/25/my-blog-had-a-shrug-where-its-focus-should-have-been/]]></guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI @ContentBuilder - Faster Type Checking in Xcode 27]]></title>
@@ -49,18 +57,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Codex App Lied to Me About /clear]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/]]></guid>
-    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Aside That Built a Test Suite]]></title>
     <description><![CDATA[https://racecondition.software/]]></description>
     <link><![CDATA[https://racecondition.software/blog/the-aside-that-built-a-test-suite]]></link>
     <guid isPermaLink="true"><![CDATA[https://racecondition.software/blog/the-aside-that-built-a-test-suite]]></guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Broke Code Review. Here’s How to Rebuild It]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/ai-broke-code-review-heres-how-to-rebuild-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/ai-broke-code-review-heres-how-to-rebuild-it/]]></guid>
     <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></guid>
-    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your Agent Deserves Logs]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/6/26/your-agent-deserves-logs/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/6/26/your-agent-deserves-logs/]]></guid>
     <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
