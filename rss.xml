@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 26 Jul 2026 10:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 11:31:16 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Sixty-One Percent More Thought, Five Percent More Prose]]></title>
@@ -198,14 +198,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.avanderlee.com/xcode/ios-time-zone-testing-physical-iphone/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/xcode/ios-time-zone-testing-physical-iphone/]]></guid>
     <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building widgets with WidgetKit and SwiftUI]]></title>
-    <description><![CDATA[https://tanaschita.com/]]></description>
-    <link><![CDATA[https://tanaschita.com/widgetkit-building-widgets-with-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tanaschita.com/widgetkit-building-widgets-with-swiftui]]></guid>
-    <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/6/acorn_8.6_brushes.html]]></guid>
+    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Your Agent Deserves Logs]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/6/26/your-agent-deserves-logs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/6/26/your-agent-deserves-logs/]]></guid>
     <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 
