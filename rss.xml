@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Jul 2026 17:46:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:30:56 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Changing the shape of glass buttons in SwiftUI]]></title>
@@ -51,8 +51,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[How-to: Run Ren'Py-based visual novels on macOS]]></title>
     <description><![CDATA[https://recoursive.com/tag/ios/]]></description>
-    <link><![CDATA[http://localhost:4000/2026/07/27/run_renpy_visual_novels_on_macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://localhost:4000/2026/07/27/run_renpy_visual_novels_on_macos/]]></guid>
+    <link><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></guid>
     <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
