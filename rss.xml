@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Jul 2026 19:30:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 21:13:58 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[EagleFiler 1.9.21]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/27/eaglefiler-1-9-21/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/27/eaglefiler-1-9-21/]]></guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Changing the shape of glass buttons in SwiftUI]]></title>
@@ -94,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-contentbuilder-xcode-27/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-contentbuilder-xcode-27/]]></guid>
     <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Advertising Cognitive Dissonance]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/24/advertising-cognitive-dissonance/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/24/advertising-cognitive-dissonance/]]></guid>
-    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
