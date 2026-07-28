@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Jul 2026 10:39:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 14:11:01 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to stream SSE with URLSession in Swift]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-stream-sse-with-urlsession-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-stream-sse-with-urlsession-in-swift/]]></guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keeping canvas interactions responsive with frame reprojection]]></title>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></guid>
     <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I do not feel like a programmer anymore]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/i-do-not-feel-like-a-programmer-anymore/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-do-not-feel-like-a-programmer-anymore/]]></guid>
-    <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
