@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 27 Jul 2026 23:06:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 02:39:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Time Out 3.0.4 released]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/time-out-3-0-4-released/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-4-released/]]></guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[EagleFiler 1.9.21]]></title>
@@ -374,14 +382,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fabisevi.ch/2026/07/08/pursuit/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/07/08/pursuit/]]></guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[RIP my Inbox]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/rip-my-inbox/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/rip-my-inbox/]]></guid>
-    <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
