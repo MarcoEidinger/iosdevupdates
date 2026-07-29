@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 29 Jul 2026 19:21:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 21:00:27 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Chrome Browser Default at the Top of the Mac App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/07/29/chrome-browser-default-at-the-top-of-the-mac-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/29/chrome-browser-default-at-the-top-of-the-mac-app-store/]]></guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop Choosing One: A Better AI Coding Workflow with GLM-5.2 and Claude Opus 5]]></title>
+    <description><![CDATA[https://novinfard.medium.com]]></description>
+    <link><![CDATA[https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss-6bca32d7b400------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss-6bca32d7b400------2]]></guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Arborist 1.1 is out]]></title>
@@ -65,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Upgrade]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/07/28/apple-upgrade/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/28/apple-upgrade/]]></guid>
-    <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How to stream SSE with URLSession in Swift]]></title>
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-stream-sse-with-urlsession-in-swift/]]></link>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/time-out-3-0-4-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/time-out-3-0-4-released/]]></guid>
-    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The AI Race Is Becoming a Sovereignty Problem]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/the-ai-race-is-becoming-a-sovereignty-problem-fa6b41c27d93?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/the-ai-race-is-becoming-a-sovereignty-problem-fa6b41c27d93?source=rss-6bca32d7b400------2]]></guid>
     <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
