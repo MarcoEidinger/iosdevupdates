@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 28 Jul 2026 23:02:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 02:45:28 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Upgrade]]></title>
@@ -157,6 +157,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/the-tools-that-keep-me-out-of-the-admin]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/the-tools-that-keep-me-out-of-the-admin]]></guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Broke Code Review. Here’s How to Rebuild It]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/ai-broke-code-review-heres-how-to-rebuild-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/ai-broke-code-review-heres-how-to-rebuild-it/]]></guid>
     <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.dribin.org/dave/blog/archives/2026/07/03/secrets-to-curl]]></guid>
     <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I do not feel like a programmer anymore]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/i-do-not-feel-like-a-programmer-anymore/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/i-do-not-feel-like-a-programmer-anymore/]]></guid>
-    <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
