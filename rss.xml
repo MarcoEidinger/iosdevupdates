@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 30 Jul 2026 14:07:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 17:31:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Background App Refresh in iOS: Implementation, Debugging & Pitfalls (Part 2 of 2)]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-implementation-debugging-pitfalls-part-2-of-2-01ed202f0824?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-implementation-debugging-pitfalls-part-2-of-2-01ed202f0824?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Is the Terminal Too Accessible for Me?]]></title>
+    <description><![CDATA[https://joshholtz.com/blog/]]></description>
+    <link><![CDATA[https://www.joshholtz.com/blog/2026/07/30/is-the-terminal-too-accessible-for-me]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/07/30/is-the-terminal-too-accessible-for-me]]></guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Demystifying Thread Hopping with Swift 6.2 Approachable Concurrency]]></title>
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></guid>
-    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Background App Refresh in iOS: Busting the Myths (Part 1 of 2)]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-busting-the-myths-part-1-of-2-0bd58ab3bcca?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-busting-the-myths-part-1-of-2-0bd58ab3bcca?source=rss-6317b0b805bf------2]]></guid>
     <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://benjaminscholtysik.com/]]></description>
     <link><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></link>
     <guid isPermaLink="true"><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></guid>
-    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Kamal Fits My Coding-Agent Workflow]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/how-kamal-fits-my-coding-agent-workflow]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/how-kamal-fits-my-coding-agent-workflow]]></guid>
     <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
