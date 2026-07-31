@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 31 Jul 2026 10:43:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 14:11:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift protocols and the main actor]]></title>
+    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
+    <link><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Acorn 8.6]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/07/30/acorn-8-6/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/07/30/acorn-8-6/]]></guid>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Discover Swift tools for browser-based development.]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></guid>
     <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Elgato Stream Deck Safe Disk Ejection Plug-in]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/safe-eject-stream-deck/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/safe-eject-stream-deck/]]></guid>
-    <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Copywriting with Agents and…Apple Designers?]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/Copywriting-with-Agents-and-Apple-Designers]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/beachfront-property-in-camarina/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/beachfront-property-in-camarina/]]></guid>
     <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Future proof]]></title>
-    <description><![CDATA[https://benjaminscholtysik.com/]]></description>
-    <link><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></guid>
-    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
