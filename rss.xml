@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 01 Aug 2026 06:33:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 10:03:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Shipping a SwiftData App with iCloud Sync]]></title>
+    <description><![CDATA[https://thorsten-stark.de/]]></description>
+    <link><![CDATA[https://thorsten-stark.de/posts/2026-08-13-Shipping-A-SwiftData-App-With-iCloud-Sync-Part-3]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thorsten-stark.de/posts/2026-08-13-Shipping-A-SwiftData-App-With-iCloud-Sync-Part-3]]></guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AsyncImage Finally Gets Caching in SwiftUI]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/asyncimage-caching-wwdc-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncimage-caching-wwdc-2026/]]></guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple’s Q3 2026 Results]]></title>
@@ -45,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deverman.org]]></description>
     <link><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></guid>
-    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Background App Refresh in iOS: Implementation, Debugging & Pitfalls (Part 2 of 2)]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-implementation-debugging-pitfalls-part-2-of-2-01ed202f0824?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/background-app-refresh-in-ios-implementation-debugging-pitfalls-part-2-of-2-01ed202f0824?source=rss-6317b0b805bf------2]]></guid>
     <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -217,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI @ContentBuilder - Faster Type Checking in Xcode 27]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-contentbuilder-xcode-27/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-contentbuilder-xcode-27/]]></guid>
-    <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shimming Your Way Off a Dead Elixir Dependency]]></title>
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></link>
@@ -261,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/07/23/ios-27-nnw-crash.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/07/23/ios-27-nnw-crash.html]]></guid>
-    <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[When your CI is green but the linter actually failed]]></title>
-    <description><![CDATA[https://medium.com/@aymen.rebouh]]></description>
-    <link><![CDATA[https://medium.com/eureka-engineering/when-your-ci-is-green-but-the-linter-actually-failed-dc64d6625ae5?source=rss-82ceb7481588------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://medium.com/eureka-engineering/when-your-ci-is-green-but-the-linter-actually-failed-dc64d6625ae5?source=rss-82ceb7481588------2]]></guid>
     <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -365,14 +357,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/07/15/revisiting-the-jet-ios-modular-architecture-in-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/07/15/revisiting-the-jet-ios-modular-architecture-in-2026/]]></guid>
-    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What does Apple suggest for iOS developers in 2026]]></title>
-    <description><![CDATA[https://blog.egesucu.com.tr]]></description>
-    <link><![CDATA[https://egesucu.medium.com/what-does-apple-suggest-for-ios-developers-in-2026-3164a245be69?source=rss-a279959eb187------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://egesucu.medium.com/what-does-apple-suggest-for-ios-developers-in-2026-3164a245be69?source=rss-a279959eb187------2]]></guid>
     <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +462,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-94-killer-apps/]]></guid>
     <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Beachfront Property in Camarina]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/beachfront-property-in-camarina/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/beachfront-property-in-camarina/]]></guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Future proof]]></title>
+    <description><![CDATA[https://benjaminscholtysik.com/]]></description>
+    <link><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://benjaminscholtysik.com/2026/07/05/future-proof/]]></guid>
+    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
