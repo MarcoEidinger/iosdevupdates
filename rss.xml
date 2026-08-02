@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 02 Aug 2026 15:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 17:02:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Less Boilerplate for Bazel Transitions]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/08/02/less-boilerplate-for-bazel-transitions.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/02/less-boilerplate-for-bazel-transitions.html]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Brent Deverman's Subreddits: A List]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/favorite-subreddits-swift-apple-zelda/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/favorite-subreddits-swift-apple-zelda/]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[@MainActor in Swift explained with code examples]]></title>
@@ -30,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SaaS businesses that  gave themselves constraints]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/saas-inspiration-differentiation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/saas-inspiration-differentiation/]]></guid>
-    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://pilotcoder.com]]></description>
     <link><![CDATA[https://pilotcoder.com/conditional-expressions-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/conditional-expressions-in-swift/]]></guid>
-    <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pruning Unused Action Inputs in Bazel]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/07/26/pruning-unused-action-inputs-in.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/07/26/pruning-unused-action-inputs-in.html]]></guid>
     <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
