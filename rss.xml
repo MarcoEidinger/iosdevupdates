@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 02 Aug 2026 10:00:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 11:22:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Everything about my smart home and homelab setup]]></title>
+    <description><![CDATA[https://swiftrocks.com/]]></description>
+    <link><![CDATA[https://swiftrocks.com/everything-about-my-smart-home-and-homelab-setup]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/everything-about-my-smart-home-and-homelab-setup]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Don't fear the SEO]]></title>
@@ -14,6 +22,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SaaS businesses that  gave themselves constraints]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/saas-inspiration-differentiation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/saas-inspiration-differentiation/]]></guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -70,14 +86,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></link>
     <guid isPermaLink="true"><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></guid>
     <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Discover Swift tools for browser-based development.]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/run-swift-code-snippets-regex-browser/]]></guid>
-    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.andrewcbancroft.com]]></description>
     <link><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A system prompt to get AI to stop pretending to be human]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human]]></guid>
     <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
