@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 03 Aug 2026 17:54:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 19:40:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Previewing SF Symbols with Apple's own renderer]]></title>
+    <description><![CDATA[https://www.amyworrall.com]]></description>
+    <link><![CDATA[https://www.amyworrall.com/blog/previewing-sf-symbols-with-apples-own-renderer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/previewing-sf-symbols-with-apples-own-renderer]]></guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Recal, calendar tools for busy people]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/xcodebuild-for-ai/]]></guid>
     <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Multinational Apple Accounts]]></title>
-    <description><![CDATA[https://bitsplitting.org/]]></description>
-    <link><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/07/10/multinational-apple-accounts/]]></guid>
-    <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
