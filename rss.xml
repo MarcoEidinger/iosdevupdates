@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Aug 2026 21:11:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 23:02:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fitbit Now Syncs With Apple Health]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/05/fitbit-now-syncs-with-apple-health/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/05/fitbit-now-syncs-with-apple-health/]]></guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[DejalNews #91: introducing Recal: calendar tools for busy people… and more updates]]></title>
@@ -46,14 +54,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/previewing-swiftui-states-with-preview-arguments]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/previewing-swiftui-states-with-preview-arguments]]></guid>
     <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[OpenAI Open Letter Responds to Apple Lawsuit]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/04/openai-open-letter-responds-to-apple-lawsuit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/04/openai-open-letter-responds-to-apple-lawsuit/]]></guid>
-    <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -161,18 +161,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Don't fear the SEO]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Testable Swiftdata Apps]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Don't fear the SEO]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
