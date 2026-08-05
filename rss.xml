@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 05 Aug 2026 10:39:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 14:13:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Alignment guides in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/AlignmentGuidesInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AlignmentGuidesInSwiftUI]]></guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[My TV tacking app, TV Next is done]]></title>
@@ -81,14 +89,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tracking value sources to prevent recursive SwiftUI updates]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/TrackingValueSourcesToPreventRecursiveSwiftUIUpdates]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TrackingValueSourcesToPreventRecursiveSwiftUIUpdates]]></guid>
-    <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The iOS Perceived Performance Agent Skill]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/the-ios-perceived-performance-agent-skill/]]></link>
@@ -153,18 +153,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Don't fear the SEO]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Testable Swiftdata Apps]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Don't fear the SEO]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
