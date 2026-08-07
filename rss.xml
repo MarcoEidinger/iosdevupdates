@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 07 Aug 2026 20:44:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:38:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Dark Hours Rejected From the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/]]></guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Closures: The Concept That Unlocks Everything Else]]></title>
@@ -37,14 +45,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/ai/when-to-use-agents-override/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/when-to-use-agents-override/]]></guid>
-    <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Snow Leopard Lore]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/06/snow-leopard-lore/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/06/snow-leopard-lore/]]></guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
