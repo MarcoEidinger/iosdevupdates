@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 06 Aug 2026 14:14:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 00:05:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Running Track Themes]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[When to Use Agents Override?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/ai/when-to-use-agents-override/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/when-to-use-agents-override/]]></guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Snow Leopard Lore]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/06/snow-leopard-lore/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/06/snow-leopard-lore/]]></guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Controlling Orphans in SwiftUI Text: Uncovering the Undocumented avoidsOrphans]]></title>
@@ -14,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://fatbobman.com/en/posts/controlling-orphans-in-swiftui-text/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/controlling-orphans-in-swiftui-text/]]></guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fitbit Now Syncs With Apple Health]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/05/fitbit-now-syncs-with-apple-health/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/05/fitbit-now-syncs-with-apple-health/]]></guid>
-    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -161,18 +177,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Testable Swiftdata Apps]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Don't fear the SEO]]></title>
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Testable Swiftdata Apps]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://qualitycoding.org/]]></description>
     <link><![CDATA[https://qualitycoding.org/swiftui-tdd-fake-it-till-you-make-it-part-2/]]></link>
     <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/swiftui-tdd-fake-it-till-you-make-it-part-2/]]></guid>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Agents, SwiftUI & Better Tooling]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue75]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue75]]></guid>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Public asset symbol constants in Swift packages]]></title>
-    <description><![CDATA[https://swiftui-garden.com/]]></description>
-    <link><![CDATA[https://swiftui-garden.com/Articles/Public-asset-symbol-constants-in-Swift-packages]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftui-garden.com/Articles/Public-asset-symbol-constants-in-Swift-packages]]></guid>
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
