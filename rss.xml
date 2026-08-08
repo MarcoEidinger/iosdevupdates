@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 08 Aug 2026 06:56:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 08:44:13 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Document APIs in 2027 Releases - Everything You Need to Know]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-document-apis-2027-whats-new/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-document-apis-2027-whats-new/]]></guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Dark Hours Rejected From the App Store]]></title>
@@ -193,18 +201,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Testable Swiftdata Apps]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Don't fear the SEO]]></title>
     <description><![CDATA[https://cuteios.dev/]]></description>
     <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Testable Swiftdata Apps]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,14 +229,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/apple-ui-insider/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/apple-ui-insider/]]></guid>
-    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AsyncImage Finally Gets Caching in SwiftUI]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/asyncimage-caching-wwdc-2026/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/asyncimage-caching-wwdc-2026/]]></guid>
     <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
