@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 09 Aug 2026 22:35:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 01:54:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Wrote It in Capital Letters. The AI Agent Did It Anyway.]]></title>
+    <description><![CDATA[https://novinfard.medium.com]]></description>
+    <link><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to Use Git Worktree? And How It's used by AI Agents?]]></title>
@@ -302,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/]]></guid>
     <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Stop Choosing One: A Better AI Coding Workflow with GLM-5.2 and Claude Opus 5]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss-6bca32d7b400------2]]></guid>
-    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
