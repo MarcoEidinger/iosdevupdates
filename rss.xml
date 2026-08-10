@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Aug 2026 19:01:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 20:46:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[WebKit IP and DNS Leaks Affecting Proxies and Private Relay]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/10/webkit-ip-and-dns-leaks-affecting-proxies-and-private-relay/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/10/webkit-ip-and-dns-leaks-affecting-proxies-and-private-relay/]]></guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using Top Functions Mode in Instruments to Quickly Find the Slowest Code]]></title>
@@ -134,14 +142,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-document-apis-2027-whats-new/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-document-apis-2027-whats-new/]]></guid>
     <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dark Hours Rejected From the App Store]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/]]></guid>
-    <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
