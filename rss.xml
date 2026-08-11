@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 10 Aug 2026 22:40:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 01:50:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reading Concentric Corner Radii with GeometryProxy in SwiftUI]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/reading-concentric-corner-radii-with-geometryproxy-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/reading-concentric-corner-radii-with-geometryproxy-in-swiftui/]]></guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Agents Can Multitask. I Shouldn't.]]></title>
+    <description><![CDATA[https://ericsspace.com/]]></description>
+    <link><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[WebKit IP and DNS Leaks Affecting Proxies and Private Relay]]></title>
@@ -49,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Xcode 27 Agent Skills]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/the-xcode-27-agent-skills/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/the-xcode-27-agent-skills/]]></guid>
-    <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Recording VoiceOver on iOS &amp; macOS]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/recording-voiceover]]></link>
@@ -75,8 +83,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <item>
     <title><![CDATA[How to Use Git Worktree? And How It's used by AI Agents?]]></title>
     <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/devtools/how-to-use-git-worktree-and-how-its-used-by-ai-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/devtools/how-to-use-git-worktree-and-how-its-used-by-ai-agents/]]></guid>
+    <link><![CDATA[https://mfaani.com/posts/ai/how-to-use-git-worktree-and-how-its-used-by-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/ai/how-to-use-git-worktree-and-how-its-used-by-ai-agents/]]></guid>
     <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
