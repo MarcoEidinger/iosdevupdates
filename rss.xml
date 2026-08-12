@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 11 Aug 2026 22:44:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 02:02:18 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[How Claude Marks AI-Generated Content]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/08/11/how-claude-marks-ai-generated-content/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/11/how-claude-marks-ai-generated-content/]]></guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Brent Deverman's Fdoo App Walkthrough]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/fdoo-app-walkthrough/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/fdoo-app-walkthrough/]]></guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Locally AI & LM Link]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/8/11/locally-ai-and-lm-link/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/8/11/locally-ai-and-lm-link/]]></guid>
     <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Brent Deverman's Subreddits: A List]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/favorite-subreddits-swift-apple-zelda/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/favorite-subreddits-swift-apple-zelda/]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Stop Burning Tokens on “Fix my iOS app performance”]]></title>
     <description><![CDATA[https://ohmyswift.com/blog/]]></description>
     <link><![CDATA[https://ohmyswift.com/blog/2026/08/02/stop-burning-tokens-on-fix-my-ios-app-performance]]></link>
@@ -289,18 +297,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Don't fear the SEO]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Testable Swiftdata Apps]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Don't fear the SEO]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/2026-07-23_i-stopped-reading-every-ai-diff/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-07-23_i-stopped-reading-every-ai-diff/]]></guid>
     <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I Learned to Copy and Paste, and Why I Never Do]]></title>
-    <description><![CDATA[https://www.andrewcbancroft.com]]></description>
-    <link><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/]]></guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
