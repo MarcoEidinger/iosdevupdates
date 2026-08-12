@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 12 Aug 2026 09:15:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 11:04:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I Cut My AGENTS.md Files by 50% Using an Eval]]></title>
+    <description><![CDATA[https://hboon.com/]]></description>
+    <link><![CDATA[https://hboon.com/i-cut-my-agents-md-files-by-50-using-an-eval]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hboon.com/i-cut-my-agents-md-files-by-50-using-an-eval]]></guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Running Umami analytics for free on Vercel and Supabase]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/career/a-framework-to-make-decisions-faster-as-a-lead-software-engineer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/a-framework-to-make-decisions-faster-as-a-lead-software-engineer/]]></guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Have the LLM call you]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/08/12/call-me-any-time/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/12/call-me-any-time/]]></guid>
     <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/3.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/3.html]]></guid>
-    <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Intelligence Has Passed Chinese Government Review and Is Coming to China - Fatbobman's Swift Weekly #148]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-148/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-148/]]></guid>
     <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -309,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/02/building-testable-swiftdata-apps]]></guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Don't fear the SEO]]></title>
-    <description><![CDATA[https://cuteios.dev/]]></description>
-    <link><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/02/fear-of-seo/]]></guid>
     <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
