@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Aug 2026 07:27:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 09:10:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to render markdown in SwiftUI]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-render-markdown-in-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-render-markdown-in-swiftui/]]></guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Jeremy Mann Relink]]></title>
@@ -41,18 +49,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -414,14 +422,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></guid>
     <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to stream SSE with URLSession in Swift]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-stream-sse-with-urlsession-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-stream-sse-with-urlsession-in-swift/]]></guid>
-    <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
