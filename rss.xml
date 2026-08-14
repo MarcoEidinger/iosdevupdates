@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 14 Aug 2026 13:09:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 14:55:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[hdiutil is deprecated in macOS 27 Golden Gate]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/7.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/7.html]]></guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Structs: Why Apple Chooses Value Types Over Classes]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/swift-structs-why-apple-chooses-value-types-over-classes-f60b79aa3659?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-structs-why-apple-chooses-value-types-over-classes-f60b79aa3659?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Unforgetful]]></title>
@@ -33,18 +49,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SuperDuper 4]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/13/superduper-4/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/13/superduper-4/]]></guid>
+    <title><![CDATA[An Agent Skill for Updating Elixir Dependencies]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/8/elixir-dependency-update-skill/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/elixir-dependency-update-skill/]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Not Raising the Gates]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/6.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/6.html]]></guid>
+    <title><![CDATA[SuperDuper 4]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/13/superduper-4/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/13/superduper-4/]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Closures: The Concept That Unlocks Everything Else]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/swift-closures-the-concept-that-unlocks-everything-else-91d441e21f24?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-closures-the-concept-that-unlocks-everything-else-91d441e21f24?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How an iPhone app redacts a document without a server]]></title>
     <description><![CDATA[https://reza-bina.com]]></description>
     <link><![CDATA[https://reza-bina.com/writing/how-veil-redacts-a-document-on-device/]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://racecondition.software/blog/thought-and-prose]]></link>
     <guid isPermaLink="true"><![CDATA[https://racecondition.software/blog/thought-and-prose]]></guid>
     <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Shimming Your Way Off a Dead Elixir Dependency]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/7/shim-off-a-dead-elixir-dependency/]]></guid>
-    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
