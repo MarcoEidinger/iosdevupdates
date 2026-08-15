@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 15 Aug 2026 20:25:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:24:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Software Engineering fundamentals matter more than ever]]></title>
+    <description><![CDATA[https://rhonabwy.com/]]></description>
+    <link><![CDATA[https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/]]></guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iOS Dev Weekly Issue 763 is a game changer]]></title>
@@ -89,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://pilotcoder.com/conditional-expressions-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://pilotcoder.com/conditional-expressions-in-swift/]]></guid>
     <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sixty-One Percent More Thought, Five Percent More Prose]]></title>
-    <description><![CDATA[https://racecondition.software/]]></description>
-    <link><![CDATA[https://racecondition.software/blog/thought-and-prose]]></link>
-    <guid isPermaLink="true"><![CDATA[https://racecondition.software/blog/thought-and-prose]]></guid>
-    <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
