@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Aug 2026 08:32:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 10:27:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Curious Case of the missing SwiftUI Clicks]]></title>
+    <description><![CDATA[https://damian.fyi]]></description>
+    <link><![CDATA[https://damian.fyi/swift/2026/08/16/curious-case-of-missing-click]]></link>
+    <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2026/08/16/curious-case-of-missing-click]]></guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Software Engineering fundamentals matter more than ever]]></title>
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://trevorturk.github.io]]></description>
     <link><![CDATA[https://trevorturk.github.io/four-answers-to-one-question]]></link>
     <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/four-answers-to-one-question]]></guid>
-    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My TV tacking app, TV Next is done]]></title>
-    <description><![CDATA[https://damian.fyi]]></description>
-    <link><![CDATA[https://damian.fyi/2026/08/05/tv-next-done]]></link>
-    <guid isPermaLink="true"><![CDATA[https://damian.fyi/2026/08/05/tv-next-done]]></guid>
     <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
