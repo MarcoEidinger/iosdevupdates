@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Aug 2026 18:33:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 20:25:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Celebrating New Journaling Habits]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/8/celebrating-new-journaling-habits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/celebrating-new-journaling-habits/]]></guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Profiling Starlark Memory Usage in Bazel]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/8/jeremy_mann_relink.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/8/jeremy_mann_relink.html]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[An Agent Skill for Updating Elixir Dependencies]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/8/elixir-dependency-update-skill/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/elixir-dependency-update-skill/]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
