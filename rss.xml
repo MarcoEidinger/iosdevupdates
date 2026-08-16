@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 16 Aug 2026 14:26:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 16:28:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Profiling Starlark Memory Usage in Bazel]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/08/16/profiling-starlark-memory-usage-in.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/16/profiling-starlark-memory-usage-in.html]]></guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Parsing CSV natively in Swift]]></title>
+    <description><![CDATA[https://ko9.org/]]></description>
+    <link><![CDATA[https://ko9.org/posts/parsing-csv/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/parsing-csv/]]></guid>
+    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ Building scalable backend apps in Swift ]]></title>
@@ -273,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Testing Bazel Remote Build Execution Locally with actiond]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/08/09/testing-bazel-remote-build-execution.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/09/testing-bazel-remote-build-execution.html]]></guid>
-    <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sendable and @Sendable closures explained with code examples]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift/sendable-protocol-closures/]]></link>
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></guid>
     <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How-to: Run Ren'Py-based visual novels on macOS]]></title>
-    <description><![CDATA[https://recoursive.com/tag/ios/]]></description>
-    <link><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></guid>
-    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
