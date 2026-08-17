@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Aug 2026 01:19:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 03:03:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[NSTextTable in Swift]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/uikit/nstexttable-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/uikit/nstexttable-in-swift/]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Celebrating New Journaling Habits]]></title>
@@ -241,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Reading Concentric Corner Radii with GeometryProxy in SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/reading-concentric-corner-radii-with-geometryproxy-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/reading-concentric-corner-radii-with-geometryproxy-in-swiftui/]]></guid>
-    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI Agents Can Multitask. I Shouldn't.]]></title>
     <description><![CDATA[https://ericsspace.com/]]></description>
     <link><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></link>
@@ -342,6 +342,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[DejalNews #91: introducing Recal: calendar tools for busy people… and more updates]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/dejalnews-91-introducing-recal-calendar-tools-for-busy-people-and-more-updates/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-91-introducing-recal-calendar-tools-for-busy-people-and-more-updates/]]></guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></guid>
     <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How-to: Run Ren'Py-based visual novels on macOS]]></title>
-    <description><![CDATA[https://recoursive.com/tag/ios/]]></description>
-    <link><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://recoursive.com/2026/07/27/run_renpy_visual_novels_on_macos/]]></guid>
-    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
