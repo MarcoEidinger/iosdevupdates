@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Aug 2026 08:46:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:35:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building My First On-Device AI Feature with Foundation Models]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift Testing explained with code examples]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Responding to geometry changes in SwiftUI]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/RespondingToGeometryChangesInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/RespondingToGeometryChangesInSwiftUI]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[NSTextTable in Swift]]></title>
@@ -133,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/8/jeremy_mann_relink.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/8/jeremy_mann_relink.html]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating multi-step animations with PhaseAnimator in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/PhaseAnimationsInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PhaseAnimationsInSwiftUI]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,14 +301,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://novinfard.medium.com]]></description>
     <link><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></guid>
-    <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Sendable and @Sendable closures explained with code examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift/sendable-protocol-closures/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift/sendable-protocol-closures/]]></guid>
     <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,14 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/stop-using-unchecked-sendable-2e00bd6cb122?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/stop-using-unchecked-sendable-2e00bd6cb122?source=rss-41d824adb39d------2]]></guid>
-    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The coolest use for the Vision Pro]]></title>
-    <description><![CDATA[https://christianselig.com]]></description>
-    <link><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/07/vision-pro-house/]]></guid>
     <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
