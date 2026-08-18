@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Aug 2026 06:46:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 08:40:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Foundation Models: Hybrid AI with Dynamic Profiles]]></title>
+    <description><![CDATA[https://peterfriese.dev]]></description>
+    <link><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing a TestFlight of Time Out version 3.1]]></title>
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/]]></guid>
     <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Arborist 1.1 is out]]></title>
-    <description><![CDATA[https://jsorge.net/]]></description>
-    <link><![CDATA[https://jsorge.net/2026/07/29/arborist-1.1]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/07/29/arborist-1.1]]></guid>
-    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
