@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Aug 2026 20:26:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:26:43 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Another TestFlight of Time Out version 3.1: now with Option menu and Make Due In options]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-version-3-1-now-with-option-menu-and-make-due-in-options/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/another-testflight-of-time-out-version-3-1-now-with-option-menu-and-make-due-in-options/]]></guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[New EU App Store Terms to Comply With DMA]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/18/new-eu-app-store-terms-to-comply-with-dma/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/18/new-eu-app-store-terms-to-comply-with-dma/]]></guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Who Fills the Sprint? My 45/45/10 Split]]></title>
@@ -30,22 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/statistics-without-the-pressure.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/statistics-without-the-pressure.html]]></guid>
     <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing a TestFlight of Time Out version 3.1]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-1/]]></guid>
-    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Proposes 15% External Purchase Fee]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/17/apple-proposes-15-external-purchase-fee/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/17/apple-proposes-15-external-purchase-fee/]]></guid>
-    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -209,18 +209,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
