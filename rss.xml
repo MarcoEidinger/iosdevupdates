@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 17 Aug 2026 22:28:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 01:19:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introducing a TestFlight of Time Out version 3.1]]></title>
+    <description><![CDATA[http://dejal.com/blog/]]></description>
+    <link><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-1/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/introducing-a-testflight-of-time-out-version-3-1/]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Proposes 15% External Purchase Fee]]></title>
@@ -358,14 +366,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[DejalNews #91: introducing Recal: calendar tools for busy people… and more updates]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/dejalnews-91-introducing-recal-calendar-tools-for-busy-people-and-more-updates/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/dejalnews-91-introducing-recal-calendar-tools-for-busy-people-and-more-updates/]]></guid>
-    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
