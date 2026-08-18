@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 18 Aug 2026 12:50:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 14:36:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Who Fills the Sprint? My 45/45/10 Split]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/8/who-fills-the-sprint/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/who-fills-the-sprint/]]></guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Foundation Models: Hybrid AI with Dynamic Profiles]]></title>
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Statistics without the pressure — what the app counts, and why]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/statistics-without-the-pressure.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/statistics-without-the-pressure.html]]></guid>
     <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -94,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Celebrating New Journaling Habits]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/8/celebrating-new-journaling-habits/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/celebrating-new-journaling-habits/]]></guid>
-    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -213,14 +221,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What’s new in Timers & Alarms 1.3]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-3.html]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
