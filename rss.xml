@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 21 Aug 2026 04:41:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 06:51:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Building adaptive SwiftUI layouts with containerRelativeFrame()]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/BuildingAdaptiveSwiftUILayoutsWithContainerRelativeFrame]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingAdaptiveSwiftUILayoutsWithContainerRelativeFrame]]></guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Debugging Little Memory 2.0 Diary View Scrolling]]></title>
@@ -109,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></guid>
-    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Responding to geometry changes in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/RespondingToGeometryChangesInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/RespondingToGeometryChangesInSwiftUI]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
