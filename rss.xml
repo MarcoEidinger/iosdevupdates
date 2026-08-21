@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 20 Aug 2026 22:31:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 01:22:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Debugging Little Memory 2.0 Diary View Scrolling]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/08/20/debugging-little-memory-2.0-diary-view-scrolling/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/08/20/debugging-little-memory-2.0-diary-view-scrolling/]]></guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The End of EWS in Mail and AppleScript in Outlook]]></title>
@@ -174,14 +182,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-concentriccornerradii-ios-27/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-concentriccornerradii-ios-27/]]></guid>
     <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS Dev Weekly Issue 763 is a game changer]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/08/14/ios-dev-weekly-issue-763-is-a-game-changer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/08/14/ios-dev-weekly-issue-763-is-a-game-changer/]]></guid>
-    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
