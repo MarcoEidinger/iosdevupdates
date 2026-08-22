@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 22 Aug 2026 16:27:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 18:33:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[SwiftUI geometryGroup() - Isolate View Geometry for Smooth Animations]]></title>
@@ -233,18 +233,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Unit Testing Navigation Logic In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/13/unit-testing-navigation-logic-in-swiftui]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
