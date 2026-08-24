@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Aug 2026 04:48:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 07:01:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Preorder Fdoo iOS App: Help Boost Rankings!]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/preorder-menu-translation-ios-app-fdoo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/preorder-menu-translation-ios-app-fdoo/]]></guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Maverick Engine Updates]]></title>
+    <description><![CDATA[https://jsorge.net/]]></description>
+    <link><![CDATA[https://jsorge.net/2026/08/23/maverick-engine-updates]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/08/23/maverick-engine-updates]]></guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Preventing Transitive Swift Imports with Bazel]]></title>
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Toy Story 3 story writing process]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/story-telling-writing-toy-story-3/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/story-telling-writing-toy-story-3/]]></guid>
-    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Cut My AGENTS.md Files by 50% Using an Eval]]></title>
     <description><![CDATA[https://hboon.com/]]></description>
     <link><![CDATA[https://hboon.com/i-cut-my-agents-md-files-by-50-using-an-eval]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></guid>
-    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Built a Shared Pin Board So I'd Stop Losing Things in iMessage]]></title>
-    <description><![CDATA[https://corybohon.com/categories/software-development/]]></description>
-    <link><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></guid>
     <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
