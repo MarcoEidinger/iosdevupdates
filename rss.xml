@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 24 Aug 2026 13:00:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:45:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I beg the news media to talk to me before publishing stories about my blog posts]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/10.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/10.html]]></guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[@StateObject vs. @ObservedObject: The differences explained]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/stateobject-observedobject-differences/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/stateobject-observedobject-differences/]]></guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI Wanted to Give Up. The Human Didn’t. - Fatbobman's Swift Weekly #150]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-150/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-150/]]></guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Classes: Reference Types, Inheritance, and When to Use Them]]></title>
@@ -113,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[More incredible tales of App Store curation]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/9.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/9.html]]></guid>
-    <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Looking for Maintainers!]]></title>
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/looking-for-maintainers/]]></link>
@@ -173,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></guid>
-    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Testing explained with code examples]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swift-testing/modern-unit-test/]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></guid>
-    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Built a Shared Pin Board So I'd Stop Losing Things in iMessage]]></title>
-    <description><![CDATA[https://corybohon.com/categories/software-development/]]></description>
-    <link><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://corybohon.com/20260731-together-board-launch/]]></guid>
     <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
