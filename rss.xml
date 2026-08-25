@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Aug 2026 06:51:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 08:46:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Charts Beyond the Basics: creating clear and beautiful data visualizations]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/SwiftChartsBeyondTheBasicsReleaseAnnouncement]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftChartsBeyondTheBasicsReleaseAnnouncement]]></guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tech Choices]]></title>
@@ -118,14 +126,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-geometrygroup/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-geometrygroup/]]></guid>
     <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building adaptive SwiftUI layouts with containerRelativeFrame()]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/BuildingAdaptiveSwiftUILayoutsWithContainerRelativeFrame]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingAdaptiveSwiftUILayoutsWithContainerRelativeFrame]]></guid>
-    <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
