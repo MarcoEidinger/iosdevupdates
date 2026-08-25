@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 25 Aug 2026 10:36:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 12:52:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[VideoToolbox emits keyframes early, and my HLS segments came out twice as long]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/videotoolbox-early-keyframes-hls-segments/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/videotoolbox-early-keyframes-hls-segments/]]></guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Charts Beyond the Basics: creating clear and beautiful data visualizations]]></title>
@@ -101,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mfaani.com]]></description>
     <link><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></guid>
-    <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I put 5,000 invisible characters in a text field so backspace would work]]></title>
-    <description><![CDATA[https://getxtend.com/blog/]]></description>
-    <link><![CDATA[https://getxtend.com/blog/five-thousand-invisible-characters.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://getxtend.com/blog/five-thousand-invisible-characters.html]]></guid>
     <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Your tvOS Top Shelf tile is cached, and reinstalling won't clear it]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/tvos-top-shelf-stale-cache/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/tvos-top-shelf-stale-cache/]]></guid>
-    <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Issue 095: Fortran]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-95-fortran/]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/apple-ui-insider/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/apple-ui-insider/]]></guid>
     <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift protocols and the main actor]]></title>
+    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
+    <link><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/swift-protocols-and-the-main-actor]]></guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
