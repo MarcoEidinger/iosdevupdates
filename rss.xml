@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 26 Aug 2026 12:56:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 14:47:59 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[undefined]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deverman.org]]></description>
     <link><![CDATA[https://deverman.org/behind-scenes-video-fdoo-new-app-expats-travelers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deverman.org/behind-scenes-video-fdoo-new-app-expats-travelers/]]></guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Public Stuff Sends Signals]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/public-stuff-sends-signals/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/public-stuff-sends-signals/]]></guid>
     <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -45,6 +53,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-08-25-polish-for-less/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-08-25-polish-for-less/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Never Touch the Human’s Checkout: Worktrees, DerivedData, and the QA Handoff for Agents Sharing a Repo]]></title>
+    <description><![CDATA[https://trevorturk.github.io]]></description>
+    <link><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></link>
+    <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://inessential.com/]]></description>
     <link><![CDATA[https://inessential.com/2026/08/24/tech-choices.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/08/24/tech-choices.html]]></guid>
-    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Designing for the Narrowest Slot: Character Budgets, Native Hour Counters, and a 390-Point Gate]]></title>
-    <description><![CDATA[https://trevorturk.github.io]]></description>
-    <link><![CDATA[https://trevorturk.github.io/designing-for-the-narrowest-slot]]></link>
-    <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/designing-for-the-narrowest-slot]]></guid>
     <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -206,14 +214,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/08/20/wally-7]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/08/20/wally-7]]></guid>
     <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Looking for Maintainers!]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/looking-for-maintainers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/looking-for-maintainers/]]></guid>
-    <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
