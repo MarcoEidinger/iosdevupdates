@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 28 Aug 2026 18:21:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 02:48:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Indie Podcast Apps Not Growing]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/08/28/indie-podcast-apps-not-growing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/28/indie-podcast-apps-not-growing/]]></guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Enums: Associated Values, Raw Values, and Pattern Matching]]></title>
@@ -14,14 +22,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://dkvekariya.medium.com/swift-enums-associated-values-raw-values-and-pattern-matching-a5844461beb1?source=rss-6317b0b805bf------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-enums-associated-values-raw-values-and-pattern-matching-a5844461beb1?source=rss-6317b0b805bf------2]]></guid>
     <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Testing Tip: Make Your Keyboard Fast]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/08/27/testing-tip-make-your-keyboard-fast/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/08/27/testing-tip-make-your-keyboard-fast/]]></guid>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
