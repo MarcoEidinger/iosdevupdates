@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Aug 2026 04:12:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 11:29:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI data dependencies and their effect on view updates]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/SwiftUIDataDependenciesAndTheirEffectOnViewUpdates]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUIDataDependenciesAndTheirEffectOnViewUpdates]]></guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[OpenBudget Dev Log - Part 2]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://joshholtz.com/blog/]]></description>
     <link><![CDATA[https://www.joshholtz.com/blog/2026/08/27/how-are-you]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/08/27/how-are-you]]></guid>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building an accessible calendar chart with Swift Charts]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/BuildingAnAccessibleCalendarInSwiftCharts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingAnAccessibleCalendarInSwiftCharts]]></guid>
     <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
