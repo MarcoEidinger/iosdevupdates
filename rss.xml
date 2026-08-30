@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 29 Aug 2026 23:58:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 04:12:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[OpenBudget Dev Log - Part 2]]></title>
+    <description><![CDATA[https://khanwinter.com]]></description>
+    <link><![CDATA[https://khanwinter.com/2026-08-29-OpenBudget-DevLog-02]]></link>
+    <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-08-29-OpenBudget-DevLog-02]]></guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building A Reusable Http Client In Swift]]></title>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.timc.dev/posts/update-about-sss-conf-2026]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/update-about-sss-conf-2026]]></guid>
     <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Previewing SF Symbols with Apple's own renderer]]></title>
-    <description><![CDATA[https://www.amyworrall.com]]></description>
-    <link><![CDATA[https://www.amyworrall.com/blog/previewing-sf-symbols-with-apples-own-renderer]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/previewing-sf-symbols-with-apples-own-renderer]]></guid>
-    <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
