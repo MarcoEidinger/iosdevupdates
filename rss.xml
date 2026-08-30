@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Aug 2026 11:29:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 16:15:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Copycats in Apple Books]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/11.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/11.html]]></guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why Swift is introducing a warning for weak captures within nested closures]]></title>
+    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
+    <link><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI data dependencies and their effect on view updates]]></title>
@@ -174,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2026/08/25/the-physics-of-build-systems]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/08/25/the-physics-of-build-systems]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I beg the news media to talk to me before publishing stories about my blog posts]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/10.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/10.html]]></guid>
-    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/new-running-track-themes-2026/]]></guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[An Update on ServerSide.swift 2026 Conference]]></title>
-    <description><![CDATA[https://www.timc.dev]]></description>
-    <link><![CDATA[https://www.timc.dev/posts/update-about-sss-conf-2026]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.timc.dev/posts/update-about-sss-conf-2026]]></guid>
-    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
