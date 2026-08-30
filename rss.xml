@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 30 Aug 2026 16:15:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 20:44:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to Reduce Bazel Disk Space Usage Across Git Worktrees]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/08/30/how-to-reduce-bazel-disk.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/30/how-to-reduce-bazel-disk.html]]></guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Copycats in Apple Books]]></title>
@@ -230,14 +238,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftjectivec.com/Introducing-Indie-Walks]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Introducing-Indie-Walks]]></guid>
     <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preventing Transitive Swift Imports with Bazel]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/08/23/preventing-transitive-swift-imports-with.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/23/preventing-transitive-swift-imports-with.html]]></guid>
-    <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
