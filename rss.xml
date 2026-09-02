@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Sep 2026 03:22:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 08:32:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Selling software worldwide from Europe]]></title>
+    <description><![CDATA[https://holtwick.de/blog/]]></description>
+    <link><![CDATA[https://holtwick.de/blog/sell-from-europe]]></link>
+    <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/sell-from-europe]]></guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why Pi is my AI coding harness]]></title>
+    <description><![CDATA[https://blog.kulman.sk]]></description>
+    <link><![CDATA[https://blog.kulman.sk/pi-is-now-my-ai-harness/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/pi-is-now-my-ai-harness/]]></guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Warehouse of Closed PRs]]></title>
+    <description><![CDATA[https://trevorturk.github.io]]></description>
+    <link><![CDATA[https://trevorturk.github.io/the-warehouse-of-closed-prs]]></link>
+    <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/the-warehouse-of-closed-prs]]></guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[TipKit for the Real World]]></title>
@@ -37,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Developer Skills After AI: Survival of the Valuable]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -177,7 +209,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Comuncation between main app and extension using Drawin Notification]]></title>
+    <title><![CDATA[Communication between main app and extension using Darwin Notification]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></guid>
@@ -277,22 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-08-25-polish-for-less/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-08-25-polish-for-less/?utm_source=rss&utm_medium=feed]]></guid>
-    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Never Touch the Human’s Checkout]]></title>
-    <description><![CDATA[https://trevorturk.github.io]]></description>
-    <link><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></link>
-    <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></guid>
-    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WebRTC on iOS in 2026, without building a video call]]></title>
-    <description><![CDATA[https://getxtend.com/blog/]]></description>
-    <link><![CDATA[https://getxtend.com/blog/webrtc-ios-without-video-call.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://getxtend.com/blog/webrtc-ios-without-video-call.html]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -425,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Running Umami analytics for free on Vercel and Supabase]]></title>
-    <description><![CDATA[https://blog.kulman.sk]]></description>
-    <link><![CDATA[https://blog.kulman.sk/running-umami-for-free/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.kulman.sk/running-umami-for-free/]]></guid>
-    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What is a package registry?]]></title>
     <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
     <link><![CDATA[https://swiftpackageindex.com/blog/what-is-a-package-registry]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></link>
     <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></guid>
     <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Top Functions Mode in Instruments to Quickly Find the Slowest Code]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/top-functions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/top-functions/]]></guid>
-    <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
