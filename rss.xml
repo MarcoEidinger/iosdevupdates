@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 01 Sep 2026 22:30:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 03:22:01 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[TipKit for the Real World]]></title>
@@ -17,10 +17,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Vampire: The Hard Part Isn't Keeping the Mac Awake]]></title>
+    <description><![CDATA[https://grantisom.com]]></description>
+    <link><![CDATA[https://grantisom.com/2026/09/01/vampire.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/09/01/vampire.html]]></guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Simon 5.2 released]]></title>
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Claude Code rules, hooks and skills, and how I set mine up]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -54,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2026/09/01/building-ai-features-using-foundation-models-multimodal-input]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/01/building-ai-features-using-foundation-models-multimodal-input]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What changed my mind about building with AI]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/what-changed-my-mind-about-building-with-ai]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/what-changed-my-mind-about-building-with-ai]]></guid>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -273,7 +281,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Never Touch the Human’s Checkout: Worktrees, DerivedData, and the QA Handoff for Agents Sharing a Repo]]></title>
+    <title><![CDATA[Never Touch the Human’s Checkout]]></title>
     <description><![CDATA[https://trevorturk.github.io]]></description>
     <link><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></link>
     <guid isPermaLink="true"><![CDATA[https://trevorturk.github.io/never-touch-the-humans-checkout]]></guid>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftdevjournal.com/posts/top-functions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/top-functions/]]></guid>
     <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Wrote It in Capital Letters. The AI Agent Did It Anyway.]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/i-wrote-it-in-capital-letters-the-ai-agent-did-it-anyway-82a312d45034?source=rss-6bca32d7b400------2]]></guid>
-    <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
