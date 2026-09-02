@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Sep 2026 14:12:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:17:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple’s New Evidence in OpenAI Lawsuit]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/02/apples-new-evidence-in-openai-lawsuit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/02/apples-new-evidence-in-openai-lawsuit/]]></guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftData: Optimization Starts with Modeling]]></title>
@@ -41,14 +49,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[TipKit for the Real World]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/01/tipkit-for-the-real-world/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/01/tipkit-for-the-real-world/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Vampire: The Hard Part Isn't Keeping the Mac Awake]]></title>
     <description><![CDATA[https://grantisom.com]]></description>
     <link><![CDATA[https://grantisom.com/2026/09/01/vampire.html]]></link>
@@ -69,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Developer Skills After AI: Survival of the Valuable]]></title>
+    <description><![CDATA[https://swiftandmemes.com/]]></description>
+    <link><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2026/08/11/the-foundations-of-a-mobile-platform/]]></link>
     <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/08/11/the-foundations-of-a-mobile-platform/]]></guid>
-    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Agents Can Multitask. I Shouldn't.]]></title>
-    <description><![CDATA[https://ericsspace.com/]]></description>
-    <link><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ericsspace.com//articles/ai-agents-can-multitask-i-shouldnt]]></guid>
     <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
