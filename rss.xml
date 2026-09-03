@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 03 Sep 2026 08:41:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 14:15:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Coming Soon to Arborist and Baseplate]]></title>
+    <description><![CDATA[https://jsorge.net/]]></description>
+    <link><![CDATA[https://jsorge.net/2026/09/03/coming-soon-to-arborist-and-baseplate]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/03/coming-soon-to-arborist-and-baseplate]]></guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building a sunburst diagram in Swift Charts]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple’s New Evidence in OpenAI Lawsuit]]></title>
@@ -201,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI data dependencies and their effect on view updates]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/SwiftUIDataDependenciesAndTheirEffectOnViewUpdates]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/SwiftUIDataDependenciesAndTheirEffectOnViewUpdates]]></guid>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Communication between main app and extension using Darwin Notification]]></title>
     <description><![CDATA[https://www.swiftdifferently.com]]></description>
     <link><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></link>
@@ -334,14 +342,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://tuist.dev/blog/2026/08/25/the-physics-of-build-systems]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/08/25/the-physics-of-build-systems]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Maverick Engine Updates]]></title>
-    <description><![CDATA[https://jsorge.net/]]></description>
-    <link><![CDATA[https://jsorge.net/2026/08/23/maverick-engine-updates]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/08/23/maverick-engine-updates]]></guid>
-    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
