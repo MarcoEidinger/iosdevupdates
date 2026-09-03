@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 02 Sep 2026 22:28:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 03:25:12 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple’s New Evidence in OpenAI Lawsuit]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/swiftdata-optimization-starts-with-modeling/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftdata-optimization-starts-with-modeling/]]></guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The model will hand you a confident plan for anything]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/the-model-will-hand-you-a-confident-plan-for-anything]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/the-model-will-hand-you-a-confident-plan-for-anything]]></guid>
     <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://dejal.com/blog/]]></description>
     <link><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claude Code rules, hooks and skills, and how I set mine up]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-rules-hooks-and-skills-and-how-i-set-mine-up]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
