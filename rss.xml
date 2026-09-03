@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 03 Sep 2026 14:15:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 19:13:04 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Preparing to Update to Golden Gate]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/03/preparing-to-update-to-golden-gate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/03/preparing-to-update-to-golden-gate/]]></guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[One Pipe, One User Story: The Case for phoenix_test]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Everything the model forgets between sessions]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/everything-the-model-forgets-between-sessions]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/everything-the-model-forgets-between-sessions]]></guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Coming Soon to Arborist and Baseplate]]></title>
@@ -25,26 +49,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple’s New Evidence in OpenAI Lawsuit]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/02/apples-new-evidence-in-openai-lawsuit/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/02/apples-new-evidence-in-openai-lawsuit/]]></guid>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftData: Optimization Starts with Modeling]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/swiftdata-optimization-starts-with-modeling/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/swiftdata-optimization-starts-with-modeling/]]></guid>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The model will hand you a confident plan for anything]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/the-model-will-hand-you-a-confident-plan-for-anything]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/the-model-will-hand-you-a-confident-plan-for-anything]]></guid>
     <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -133,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2026/08/31/tipkit-for-the-real-world/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/08/31/tipkit-for-the-real-world/]]></guid>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building LocalCents: A Local-first Expense Tracker with Automerge CRDTs]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/8/local-cents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/8/local-cents/]]></guid>
     <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
