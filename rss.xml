@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Sep 2026 08:35:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 14:06:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to configure AgentCore Gateway to target a private API Gateway in AWS]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using LicenseKit to Protect Closed Software With Commercial Licenses]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Preparing to Update to Golden Gate]]></title>
@@ -273,11 +289,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Some things are never truly lost - How git recovered two weeks of deleted work]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/08/27/some-things-are-never-truly-lost]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/08/27/some-things-are-never-truly-lost]]></guid>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[How On-Device Sensitive Photo Scanning Works]]></title>
+    <description><![CDATA[https://sensitivityscan.com/learn]]></description>
+    <link><![CDATA[https://sensitivityscan.com/learn/how-on-device-photo-scanning-works]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sensitivityscan.com/learn/how-on-device-photo-scanning-works]]></guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -425,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to render markdown in SwiftUI]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-render-markdown-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-render-markdown-in-swiftui/]]></guid>
-    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://gioscalzo.com/blog/]]></description>
     <link><![CDATA[https://gioscalzo.com/blog/antescher-how-ant-attack-works/]]></link>
     <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/antescher-how-ant-attack-works/]]></guid>
-    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The foundations of a mobile platform]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2026/08/11/the-foundations-of-a-mobile-platform/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/08/11/the-foundations-of-a-mobile-platform/]]></guid>
     <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
