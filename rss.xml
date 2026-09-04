@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 04 Sep 2026 18:55:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:13:20 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ready Time 3.6: Routines and App Clips]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/09/04/ready-time-3.6-routines-and-app-clips/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/04/ready-time-3.6-routines-and-app-clips/]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bob and Van]]></title>
+    <description><![CDATA[https://marco.org/]]></description>
+    <link><![CDATA[https://marco.org/2026/09/04/bob-and-van]]></link>
+    <guid isPermaLink="true"><![CDATA[https://marco.org/2026/09/04/bob-and-van]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[.name Termination]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/04/name-termination/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/04/name-termination/]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI-Accelerated Mobile Development: Lessons from My NSLondon Talk]]></title>
+    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
+    <link><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Thank You Swift Talk]]></title>
@@ -38,14 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preparing to Update to Golden Gate]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/03/preparing-to-update-to-golden-gate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/03/preparing-to-update-to-golden-gate/]]></guid>
-    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -305,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[undefined]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/08/25/revisiting-using-cursor-for-trying-out-more-non-claude/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/08/25/revisiting-using-cursor-for-trying-out-more-non-claude/]]></guid>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Behind the scenes video of Fdoo]]></title>
     <description><![CDATA[https://deverman.org]]></description>
     <link><![CDATA[https://deverman.org/behind-scenes-video-fdoo-new-app-expats-travelers/]]></link>
@@ -433,14 +449,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unforgetful]]></title>
-    <description><![CDATA[https://marco.org/]]></description>
-    <link><![CDATA[https://marco.org/2026/08/14/unforgetful]]></link>
-    <guid isPermaLink="true"><![CDATA[https://marco.org/2026/08/14/unforgetful]]></guid>
-    <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Headless Xcode: From Prompt to Simulator with MCP]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/notes/2026/8/11/locally-ai-and-lm-link/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/8/11/locally-ai-and-lm-link/]]></guid>
-    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Antescher: How Ant Attack Works]]></title>
-    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
-    <link><![CDATA[https://gioscalzo.com/blog/antescher-how-ant-attack-works/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/antescher-how-ant-attack-works/]]></guid>
     <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
