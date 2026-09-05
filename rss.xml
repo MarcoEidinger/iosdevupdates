@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 05 Sep 2026 03:25:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 08:12:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Conditional Breakpoints in Xcode - Debug Specific States Faster]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/xcode-conditional-breakpoints/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xcode-conditional-breakpoints/]]></guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ready Time 3.6: Routines and App Clips]]></title>
@@ -81,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[One Pipe, One User Story: The Case for phoenix_test]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></guid>
-    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building a sunburst diagram in Swift Charts]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[One Pipe, One User Story: The Case for phoenix_test]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></guid>
     <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/08/29/building-a-reusable-http-client-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/08/29/building-a-reusable-http-client-in-swift]]></guid>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fix Sluggish SwiftUI Previews Instantly With Static Mock Data]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/fix-sluggish-xcode-swiftui-previews-mock-data/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/fix-sluggish-xcode-swiftui-previews-mock-data/]]></guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
