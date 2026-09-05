@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 05 Sep 2026 13:20:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 16:37:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Chrome again exempts Google from user site data settings]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/1.html]]></guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Finding Your Broken Glass: A Flaky Test Prompt for GitHub Actions]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/9/finding-flaky-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/finding-flaky-tests/]]></guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Conditional Breakpoints in Xcode - Debug Specific States Faster]]></title>
@@ -94,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[One Pipe, One User Story: The Case for phoenix_test]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/phoenix-test/]]></guid>
-    <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/08/30/how-to-reduce-bazel-disk.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/08/30/how-to-reduce-bazel-disk.html]]></guid>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Copycats in Apple Books]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/8/11.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/8/11.html]]></guid>
     <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
