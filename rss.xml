@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 08 Sep 2026 08:42:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 14:15:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Your teardown is queue.async { [weak self] }, so it might never run]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/weak-self-teardown-never-runs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/weak-self-teardown-never-runs/]]></guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[In-House Over-the-Air Localizations in a Modular iOS App]]></title>
+    <description><![CDATA[https://albertodebortoli.com/]]></description>
+    <link><![CDATA[https://albertodebortoli.com/2026/09/08/inover-the-air-localizations-in-a-modular-ios-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/08/inover-the-air-localizations-in-a-modular-ios-app/]]></guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I built PhotoView]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[McKinley 1.0]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/07/mckinley-1-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/07/mckinley-1-0/]]></guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[When the Mac mini’s Price Is No Longer Mini - Fatbobman's Swift Weekly #152]]></title>
@@ -209,26 +241,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Watertight, on the bed, and the wrong shape]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/watertight-mesh-wrong-shape/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/watertight-mesh-wrong-shape/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[You have 40 interview tabs open and still don't know what to study.]]></title>
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/40-interview-tabs-dont-know-what-to-study/]]></link>
     <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/40-interview-tabs-dont-know-what-to-study/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The right size for the Sudoku cells]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/the-right-size-for-the-sudoku-cells.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/the-right-size-for-the-sudoku-cells.html]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,22 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp]]></guid>
     <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Cut My AGENTS.md Files by 50% Using an Eval]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/i-cut-my-agents-md-files-by-50-using-an-eval]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/i-cut-my-agents-md-files-by-50-using-an-eval]]></guid>
-    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is a package registry?]]></title>
-    <description><![CDATA[https://swiftpackageindex.com/blog]]></description>
-    <link><![CDATA[https://swiftpackageindex.com/blog/what-is-a-package-registry]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftpackageindex.com/blog/what-is-a-package-registry]]></guid>
-    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
