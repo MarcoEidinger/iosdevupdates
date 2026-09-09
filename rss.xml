@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 08 Sep 2026 22:28:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 03:35:15 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Arborist 1.2]]></title>
+    <description><![CDATA[https://jsorge.net/]]></description>
+    <link><![CDATA[https://jsorge.net/2026/09/08/arborist-1-2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/08/arborist-1-2]]></guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[TestFlight Sort Order]]></title>
@@ -157,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://gioscalzo.com/blog/]]></description>
     <link><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></link>
     <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Thank You Swift Talk]]></title>
-    <description><![CDATA[https://jsorge.net/]]></description>
-    <link><![CDATA[https://jsorge.net/2026/09/04/thank-you-swift-talk]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/04/thank-you-swift-talk]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
