@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 10 Sep 2026 14:16:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 19:01:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS Tahoe silently sabotaged the login keychain]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/4.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/4.html]]></guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS 26.6.2 and iPadOS 26.6.2]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/10/ios-26-6-2-and-ipados-26-6-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/10/ios-26-6-2-and-ipados-26-6-2/]]></guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Building iPhone Duo Layouts with ArrangementView]]></title>
@@ -17,10 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iPhone Duo]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/09/iphone-duo/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/09/iphone-duo/]]></guid>
+    <title><![CDATA[What is x402? How I charged a weather API in stablecoins so an AI agent could pay]]></title>
+    <description><![CDATA[https://kristaps.me]]></description>
+    <link><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
     <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -45,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Liquid Glass disfigured the Safari status bar]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/2.html]]></guid>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@dkvekariya]]></description>
     <link><![CDATA[https://dkvekariya.medium.com/swift-optionals-nil-unwrapping-and-the-safety-system-behind-the-24d48687694f?source=rss-6317b0b805bf------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-optionals-nil-unwrapping-and-the-safety-system-behind-the-24d48687694f?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to configure AgentCore Gateway to target a private API Gateway in AWS]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://damian.fyi/swift/2026/08/16/curious-case-of-missing-click]]></link>
     <guid isPermaLink="true"><![CDATA[https://damian.fyi/swift/2026/08/16/curious-case-of-missing-click]]></guid>
     <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Software Engineering fundamentals matter more than ever]]></title>
-    <description><![CDATA[https://rhonabwy.com/]]></description>
-    <link><![CDATA[https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/]]></guid>
-    <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
