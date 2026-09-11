@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 11 Sep 2026 08:44:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 14:08:56 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reading the answer is not the same as giving it.]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/reading-the-answer-is-not-the-same-as-giving-it/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/reading-the-answer-is-not-the-same-as-giving-it/]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Protocols: Contracts, Conformance, and Protocol-Oriented Programming]]></title>
@@ -70,6 +78,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -289,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[You have 40 interview tabs open and still don't know what to study.]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/40-interview-tabs-dont-know-what-to-study/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/40-interview-tabs-dont-know-what-to-study/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building AI features using Foundation Models. Multimodal input.]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/09/01/building-ai-features-using-foundation-models-multimodal-input]]></link>
@@ -462,14 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Parsing CSV natively in Swift]]></title>
-    <description><![CDATA[https://ko9.org/]]></description>
-    <link><![CDATA[https://ko9.org/posts/parsing-csv/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/parsing-csv/]]></guid>
-    <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
