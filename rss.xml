@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Sep 2026 13:27:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 16:51:37 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Designing for iPhone Duo - HIG Guide in 5 Minutes]]></title>
@@ -41,18 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
     <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -94,14 +94,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -157,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holtwick.de/blog/]]></description>
     <link><![CDATA[https://holtwick.de/blog/bx]]></link>
     <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/bx]]></guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I built PhotoView]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></guid>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
