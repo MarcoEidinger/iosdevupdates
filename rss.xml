@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 12 Sep 2026 08:28:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 13:27:13 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Designing for iPhone Duo - HIG Guide in 5 Minutes]]></title>
@@ -157,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holtwick.de/blog/]]></description>
     <link><![CDATA[https://holtwick.de/blog/bx]]></link>
     <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/bx]]></guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I built PhotoView]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></guid>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Translation sub-agents go brrrrrrrr]]></title>
+    <description><![CDATA[https://cuteios.dev/]]></description>
+    <link><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/08/17/localizations-translations/]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
