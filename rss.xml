@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 13 Sep 2026 18:38:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 22:14:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Exploring map_directory in Bazel 9]]></title>
@@ -57,18 +57,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
     <description><![CDATA[https://en.kou-works.jp]]></description>
     <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
     <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -110,14 +110,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bitsplitting.org/]]></description>
     <link><![CDATA[https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/]]></guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building My First On-Device AI Feature with Foundation Models]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue76]]></guid>
     <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
