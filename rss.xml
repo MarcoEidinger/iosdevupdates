@@ -6,7 +6,47 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 14 Sep 2026 09:42:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 16:15:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Happy MacOS Release Day Number 27]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2026/9/happy_macos_release_day_number_27.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/9/happy_macos_release_day_number_27.html]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Opportunities and Challenges of iPhone Duo - Fatbobman's Swift Weekly #153]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-153/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-153/]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ElixirConf US 2026 Recap]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/9/elixir-conf-us-2026-recap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/elixir-conf-us-2026-recap/]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ten Years of Vapor]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/ten-years-of-vapor/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/ten-years-of-vapor/]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Agent Skill: Install and use with AI coding tools]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Much Should Developers Invest in iPhone Duo?]]></title>
@@ -25,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Belkin's Nintendo Switch 2 Grip Charging Case Is an Easy Upgrade]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/belkin-nintendo-switch-2-grip-charging-case/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/belkin-nintendo-switch-2-grip-charging-case/]]></guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Exploring map_directory in Bazel 9]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/09/13/exploring-mapdirectory-in-bazel.html]]></link>
@@ -37,6 +85,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kylesethgray.com/]]></description>
     <link><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Please Don't Rain Press Kit]]></title>
+    <description><![CDATA[https://chriswu.com/categories/development/]]></description>
+    <link><![CDATA[https://chriswu.com/pdr_press/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://chriswu.com/pdr_press/]]></guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -185,22 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[When the Mac mini’s Price Is No Longer Mini - Fatbobman's Swift Weekly #152]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-152/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-152/]]></guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The iOS Simulator Inside Cursor, Claude Code, and Codex]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/the-ios-simulator-inside-cursor-claude-code-and-codex/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/the-ios-simulator-inside-cursor-claude-code-and-codex/]]></guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Issue 096: Software Factories]]></title>
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-96-software-factories/]]></link>
@@ -230,14 +270,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://azamsharp.com/2026/09/06/working-with-images-using-foundation-models]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/09/06/working-with-images-using-foundation-models]]></guid>
     <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Finding Your Broken Glass: A Flaky Test Prompt for GitHub Actions]]></title>
-    <description><![CDATA[https://mikezornek.com/]]></description>
-    <link><![CDATA[https://mikezornek.com/posts/2026/9/finding-flaky-tests/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/finding-flaky-tests/]]></guid>
-    <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -353,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Making Weird Art]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2026/8/keep_making_weird_art.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/8/keep_making_weird_art.html]]></guid>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Four Ways to Shake]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/four-ways-to-shake]]></link>
@@ -454,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></guid>
     <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Foundation Models: Hybrid AI with Dynamic Profiles]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/hybrid-ai-apple-foundation-models-gemini/]]></guid>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI Can’t Adulterate its Own Writing]]></title>
-    <description><![CDATA[https://bitsplitting.org/]]></description>
-    <link><![CDATA[https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/]]></guid>
-    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
