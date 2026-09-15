@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Sep 2026 13:16:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 18:01:57 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Picture in Picture kept freezing, and it was the audio session]]></title>
+    <title><![CDATA[Vapor 5 Beta]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/vapor-5-beta/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/vapor-5-beta/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Authentication and Authorization: A Comprehensive Guide]]></title>
+    <description><![CDATA[https://albertodebortoli.com/]]></description>
+    <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I fixed the inset in one caller, and the other one printed the bug]]></title>
     <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/pip-freezing-audio-session/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/pip-freezing-audio-session/]]></guid>
+    <link><![CDATA[https://mcmizzle.com/blog/inset-fix-one-caller/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/inset-fix-one-caller/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[On the way to the App Store]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/on-the-way-to-the-app-store.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/on-the-way-to-the-app-store.html]]></guid>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -225,26 +249,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[In-House Over-the-Air Localizations in a Modular iOS App]]></title>
-    <description><![CDATA[https://albertodebortoli.com/]]></description>
-    <link><![CDATA[https://albertodebortoli.com/2026/09/08/inover-the-air-localizations-in-a-modular-ios-app/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/08/inover-the-air-localizations-in-a-modular-ios-app/]]></guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What happens when you lock Claude in a macOS sandbox?]]></title>
     <description><![CDATA[https://holtwick.de/blog/]]></description>
     <link><![CDATA[https://holtwick.de/blog/bx]]></link>
     <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/bx]]></guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I built PhotoView]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/why-i-built-photoview.html]]></guid>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Does a Database Migration Mean?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></guid>
-    <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
