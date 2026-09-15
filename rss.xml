@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Sep 2026 18:01:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 21:15:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Diagnosing ForEach performance issues in SwiftUI lazy containers]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/DiagnosingForEachPerformanceIssuesInSwiftUILazyContainers]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DiagnosingForEachPerformanceIssuesInSwiftUILazyContainers]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Opting Into Training Siri AI and Apple Foundation Models]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/15/opting-into-training-siri-ai-and-apple-foundation-models/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/15/opting-into-training-siri-ai-and-apple-foundation-models/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Vapor 5 Beta]]></title>
@@ -33,19 +49,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Compressing images and PDFs from the Finder context menu]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/09/15/using-automator-workflows-to-compress-images-and-pdfs]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/09/15/using-automator-workflows-to-compress-images-and-pdfs]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[On the way to the App Store]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/on-the-way-to-the-app-store.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/on-the-way-to-the-app-store.html]]></guid>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 27 Golden Gate]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/14/macos-27-golden-gate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/14/macos-27-golden-gate/]]></guid>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -169,18 +185,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
     <description><![CDATA[https://masilotti.com/]]></description>
     <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
     <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -214,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -301,22 +309,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-configure-agentcore-gateway-to-target-a-private-api-gateway-in-aws/]]></guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using LicenseKit to Protect Closed Software With Commercial Licenses]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/09/04/using-licensekit-to-protect-your-software]]></guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Building a sunburst diagram in Swift Charts]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/BuildingASunburstDiagramInSwiftCharts]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Does a Database Migration Mean?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></guid>
+    <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
