@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 15 Sep 2026 21:15:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 00:03:09 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Action Runner iOS Architecture]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/09/15/action-runner-ios-architecture/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/15/action-runner-ios-architecture/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Diagnosing ForEach performance issues in SwiftUI lazy containers]]></title>
@@ -65,11 +73,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Shopify is moving from React Native to native Swift/Kotlin]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/09/14/shopify-is-moving-from-react-native-to-native-swift/kotlin/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/14/shopify-is-moving-from-react-native-to-native-swift/kotlin/]]></guid>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[iPhone Duo: It's complicated]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -129,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Belkin's Nintendo Switch 2 Grip Charging Case Is an Easy Upgrade]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/belkin-nintendo-switch-2-grip-charging-case/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/belkin-nintendo-switch-2-grip-charging-case/]]></guid>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Kura: a distributed build cache for Xcode, Bazel, and Gradle ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/09/14/kura]]></link>
@@ -185,18 +185,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Whisper won't transcribe the words you want to delete]]></title>
     <description><![CDATA[https://en.kou-works.jp]]></description>
     <link><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/whisper-wont-transcribe-fillers/]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
     <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -230,6 +230,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/multiple-custom-contents]]></guid>
     <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Does a Database Migration Mean?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/server/what-does-a-database-migration-mean/]]></guid>
-    <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
