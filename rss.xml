@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 17 Sep 2026 18:01:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:16:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What's New in Vapor 5 Beta]]></title>
+    <description><![CDATA[https://blog.vapor.codes]]></description>
+    <link><![CDATA[https://blog.vapor.codes/posts/whats-new-in-vapor-5-beta/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/whats-new-in-vapor-5-beta/]]></guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode’s New .xcproj Files Are JSON]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/]]></guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[From pbxproj to xcproj: Xcode Project Configuration Gets a JSON Format]]></title>
@@ -25,26 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[UIApplicationMain can choose an app delegate at runtime]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/til/uiapplicationmain-can-choose-an-app-delegate-at-runtime/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/til/uiapplicationmain-can-choose-an-app-delegate-at-runtime/]]></guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Animations in the SwiftUI Field Guide]]></title>
     <description><![CDATA[https://chris.eidhof.nl/]]></description>
     <link><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Reference Image]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/16/apple-reference-image/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/16/apple-reference-image/]]></guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Documentation For All]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/documentation-for-all/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/documentation-for-all/]]></guid>
     <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -238,14 +246,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
