@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 20 Sep 2026 04:06:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 10:50:41 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Words instead of characters: collaborative rich text without Yjs]]></title>
+    <description><![CDATA[https://holtwick.de/blog/]]></description>
+    <link><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></link>
+    <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Brief Primer to Version Control]]></title>
@@ -309,14 +317,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What happens when you lock Claude in a macOS sandbox?]]></title>
-    <description><![CDATA[https://holtwick.de/blog/]]></description>
-    <link><![CDATA[https://holtwick.de/blog/bx]]></link>
-    <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/bx]]></guid>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
