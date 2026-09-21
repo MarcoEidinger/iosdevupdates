@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 20 Sep 2026 22:17:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 03:48:47 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Why Your Bus Factor Strategy Does Not Work]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/why-your-bus-factor-strategy-does-not-work/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/why-your-bus-factor-strategy-does-not-work/]]></guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Baseplate 2.0 is Out]]></title>
+    <description><![CDATA[https://jsorge.net/]]></description>
+    <link><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></link>
+    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Launch day, and the numbers I'll share]]></title>
+    <description><![CDATA[https://hearhear.agency/blog]]></description>
+    <link><![CDATA[https://hearhear.agency/blog/launch-day-the-numbers-i-will-share]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/launch-day-the-numbers-i-will-share]]></guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Tree Artifacts Over ZIP Files in Bazel]]></title>
@@ -21,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://holtwick.de/blog/]]></description>
     <link><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></link>
     <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Radiating Intent]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/radiating-intent/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/radiating-intent/]]></guid>
     <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -93,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-4.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-4.html]]></guid>
-    <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why I built a chess clock that keeps score]]></title>
-    <description><![CDATA[https://hearhear.agency/blog]]></description>
-    <link><![CDATA[https://hearhear.agency/blog/why-i-built-a-chess-clock-that-keeps-score]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/why-i-built-a-chess-clock-that-keeps-score]]></guid>
     <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Reusable SwiftUI Previews with PreviewModifier]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/reusable-swiftui-previews-with-previewmodifier/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/reusable-swiftui-previews-with-previewmodifier/]]></guid>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Kura: a distributed cache for the Tuist module cache, Xcode, Bazel, and Gradle ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/09/14/kura]]></link>
@@ -297,18 +313,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[iPhone Duo: First Developer Good-to-Knows]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/iPhone-Duo-First-Developer-Good-to-Knows]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/iPhone-Duo-First-Developer-Good-to-Knows]]></guid>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
     <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Arborist 1.2]]></title>
-    <description><![CDATA[https://jsorge.net/]]></description>
-    <link><![CDATA[https://jsorge.net/2026/09/08/arborist-1-2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/08/arborist-1-2]]></guid>
+    <title><![CDATA[iPhone Duo: First Developer Good-to-Knows]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/iPhone-Duo-First-Developer-Good-to-Knows]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/iPhone-Duo-First-Developer-Good-to-Knows]]></guid>
     <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://sensitivityscan.com/learn]]></description>
     <link><![CDATA[https://sensitivityscan.com/learn/how-on-device-photo-scanning-works]]></link>
     <guid isPermaLink="true"><![CDATA[https://sensitivityscan.com/learn/how-on-device-photo-scanning-works]]></guid>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[After Fixin’ the Bugs]]></title>
-    <description><![CDATA[https://inessential.com/]]></description>
-    <link><![CDATA[https://inessential.com/2026/08/26/after-fixin-the-bugs.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/08/26/after-fixin-the-bugs.html]]></guid>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Behind the scenes video of Fdoo]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/behind-scenes-video-fdoo-new-app-expats-travelers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/behind-scenes-video-fdoo-new-app-expats-travelers/]]></guid>
     <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
