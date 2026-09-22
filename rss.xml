@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Sep 2026 18:03:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:15:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Two-Tier Encryption in the UK]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/22/two-tier-encryption-in-the-uk/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/22/two-tier-encryption-in-the-uk/]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[That About Wraps It Up for Stock Mac UI]]></title>
+    <description><![CDATA[https://inessential.com/]]></description>
+    <link><![CDATA[https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Little Memory 2.0: Moving 15 years of memories off my servers]]></title>
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I tried to clean up my LinkedIn and doubled the problem]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/linkedin-cleanup-doubled-the-problem/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/linkedin-cleanup-doubled-the-problem/]]></guid>
     <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -41,11 +65,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Shop Different]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/21/shop-different/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/21/shop-different/]]></guid>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Backporting SwiftUI APIs]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/09/22/backporting-swiftui-apis]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/22/backporting-swiftui-apis]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -198,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://en.kou-works.jp/blog/vntrackobjectrequest-memory-leak/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/vntrackobjectrequest-memory-leak/]]></guid>
     <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your SwiftUI App Works. Production Is Where It Starts Lying to You.]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/swiftui-production-failures/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/swiftui-production-failures/]]></guid>
-    <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -441,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building AI features using Foundation Models. Multimodal input.]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/09/01/building-ai-features-using-foundation-models-multimodal-input]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/01/building-ai-features-using-foundation-models-multimodal-input]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[TipKit for the Real World]]></title>
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2026/08/31/tipkit-for-the-real-world/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></guid>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Communication between main app and extension using Darwin Notification]]></title>
-    <description><![CDATA[https://www.swiftdifferently.com]]></description>
-    <link><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></guid>
     <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
