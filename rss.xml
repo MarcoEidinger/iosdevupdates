@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 21 Sep 2026 21:49:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 00:41:30 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reading the clock instead of counting ticks]]></title>
+    <description><![CDATA[https://hearhear.agency/blog]]></description>
+    <link><![CDATA[https://hearhear.agency/blog/reading-the-clock-instead-of-counting-ticks]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/reading-the-clock-instead-of-counting-ticks]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Shop Different]]></title>
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jsorge.net/]]></description>
     <link><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></link>
     <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></guid>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Launch day, and the numbers I'll share]]></title>
-    <description><![CDATA[https://hearhear.agency/blog]]></description>
-    <link><![CDATA[https://hearhear.agency/blog/launch-day-the-numbers-i-will-share]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/launch-day-the-numbers-i-will-share]]></guid>
     <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -321,6 +321,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[iPhone Duo: First Developer Good-to-Knows]]></title>
     <description><![CDATA[https://www.swiftjectivec.com/]]></description>
     <link><![CDATA[https://swiftjectivec.com/iPhone-Duo-First-Developer-Good-to-Knows]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://khanwinter.com/2026-08-29-OpenBudget-DevLog-02]]></link>
     <guid isPermaLink="true"><![CDATA[https://khanwinter.com/2026-08-29-OpenBudget-DevLog-02]]></guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Are You?]]></title>
-    <description><![CDATA[https://joshholtz.com/blog/]]></description>
-    <link><![CDATA[https://www.joshholtz.com/blog/2026/08/27/how-are-you]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/08/27/how-are-you]]></guid>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
