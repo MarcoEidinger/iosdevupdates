@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 23 Sep 2026 00:08:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 07:30:11 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Two-Tier Encryption in the UK]]></title>
@@ -93,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/9/phillycocoa-local-first-podcast/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/9/phillycocoa-local-first-podcast/]]></guid>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A “Native” Debate Over SwiftUI Animation - Fatbobman's Swift Weekly #154]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-154/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-154/]]></guid>
     <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/warning-for-nested-weak-self-closure-captures]]></guid>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Communication between main app and extension using Darwin Notification]]></title>
+    <description><![CDATA[https://www.swiftdifferently.com]]></description>
+    <link><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/drawin-notification]]></guid>
     <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
