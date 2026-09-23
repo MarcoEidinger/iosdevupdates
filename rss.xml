@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 22 Sep 2026 21:15:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 00:08:31 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Two-Tier Encryption in the UK]]></title>
@@ -29,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[isPictureInPicturePossible was true and PiP still wouldn't start]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/pip-wont-start-avkit-1001/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/pip-wont-start-avkit-1001/]]></guid>
     <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -253,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Picture in Picture kept freezing, and it was the audio session]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/pip-freezing-audio-session/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/pip-freezing-audio-session/]]></guid>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
