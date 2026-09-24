@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Sep 2026 14:44:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:55:14 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Locked Down Passkey and Keychain Backups]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/24/locked-down-passkey-and-keychain-backups/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/24/locked-down-passkey-and-keychain-backups/]]></guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Project in Xcode 27]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/xcode27-create-project/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/xcode27-create-project/]]></guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[I Built a Run in iOS Simulator Button for Pull Requests]]></title>
+    <description><![CDATA[https://digitalbunker.dev/]]></description>
+    <link><![CDATA[https://digitalbunker.dev/run-in-ios-simulator-button-for-pull-requests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://digitalbunker.dev/run-in-ios-simulator-button-for-pull-requests/]]></guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How Does Your Small Business Do Its Accounting?]]></title>
@@ -33,11 +57,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Siri AI Ships (But Still Beta)]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/23/siri-ai-ships-but-still-beta/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/23/siri-ai-ships-but-still-beta/]]></guid>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Call For Mentors]]></title>
+    <description><![CDATA[https://fabisevi.ch]]></description>
+    <link><![CDATA[https://fabisevi.ch/2026/09/24/call-for-mentors/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/09/24/call-for-mentors/]]></guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -49,18 +73,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ArrangementView: Think Before You Arrange]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></guid>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WWDC 2027 Wishlist]]></title>
     <description><![CDATA[https://harshil.net/]]></description>
     <link><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></link>
     <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ArrangementView: Think Before You Arrange]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></guid>
     <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -369,14 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Elecom Bitra initial review]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Developer Skills After AI: Survival of the Valuable]]></title>
-    <description><![CDATA[https://swiftandmemes.com/]]></description>
-    <link><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://swiftandmemes.com/developer-skills-after-ai-survival-of-the-valuable/]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[TipKit for the Real World]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2026/08/31/tipkit-for-the-real-world/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/08/31/tipkit-for-the-real-world/]]></guid>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
