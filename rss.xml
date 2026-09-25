@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 24 Sep 2026 23:07:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 03:54:17 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Robbin App Indie booth at IGDX]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/robbin-game-expo-idgx-acceptance/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/robbin-game-expo-idgx-acceptance/]]></guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Files access bug in iOS]]></title>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://grantisom.com]]></description>
     <link><![CDATA[https://grantisom.com/2026/09/01/vampire.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://grantisom.com/2026/09/01/vampire.html]]></guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Simon 5.2 released]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/simon-5-2-released/]]></guid>
     <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
