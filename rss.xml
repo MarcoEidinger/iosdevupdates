@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 26 Sep 2026 03:59:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 09:17:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Zane Lowe interview Mike D]]></title>
+    <description><![CDATA[https://deverman.org]]></description>
+    <link><![CDATA[https://deverman.org/zane-lowe-mike-d-interview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deverman.org/zane-lowe-mike-d-interview/]]></guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Adjusting the hinge angle in the iPhone Duo simulator]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/AdjustingTheHingeAngleInTheIPhoneDuoSimulator]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/AdjustingTheHingeAngleInTheIPhoneDuoSimulator]]></guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The lag was the debugger]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/debug-build-performance-trap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/debug-build-performance-trap/]]></guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Swift's New if let Syntax - Cleaner Optional Unwrapping]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swift-optional-binding-shorthand/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-optional-binding-shorthand/]]></guid>
     <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -53,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/senior-android-interview-follow-up-questions/]]></link>
     <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-android-interview-follow-up-questions/]]></guid>
-    <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Robbin App Indie booth at IGDX]]></title>
-    <description><![CDATA[https://deverman.org]]></description>
-    <link><![CDATA[https://deverman.org/robbin-game-expo-idgx-acceptance/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deverman.org/robbin-game-expo-idgx-acceptance/]]></guid>
     <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -137,18 +153,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ArrangementView: Think Before You Arrange]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></guid>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[WWDC 2027 Wishlist]]></title>
     <description><![CDATA[https://harshil.net/]]></description>
     <link><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></link>
     <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></guid>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ArrangementView: Think Before You Arrange]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/arrangementview-think-before-you-arrange/]]></guid>
     <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift @discardableResult - Silence Unused Result Warnings]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swift-discardableresult-attribute/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-discardableresult-attribute/]]></guid>
-    <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Users of Vapor]]></title>
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/the-users-of-vapor/]]></link>
@@ -317,14 +325,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-4.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-4.html]]></guid>
-    <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Vision's object tracker leaks 10 MB per call]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/vntrackobjectrequest-memory-leak/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/vntrackobjectrequest-memory-leak/]]></guid>
     <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
-    <description><![CDATA[https://ashishkakkad.com/]]></description>
-    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Elecom Bitra initial review]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/elecom-bitra-initial-review]]></link>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://marco.org/]]></description>
     <link><![CDATA[https://marco.org/2026/09/04/bob-and-van]]></link>
     <guid isPermaLink="true"><![CDATA[https://marco.org/2026/09/04/bob-and-van]]></guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What I still had to do when AI built the app]]></title>
+    <description><![CDATA[https://gioscalzo.com/blog/]]></description>
+    <link><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/]]></guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
