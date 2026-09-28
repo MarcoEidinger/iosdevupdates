@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 28 Sep 2026 18:03:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:15:26 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Not Muse in the App Store]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/28/not-muse-in-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/28/not-muse-in-the-app-store/]]></guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Store: a few bad apples or one bad Apple?]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/9.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/9.html]]></guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to add swipe actions outside List in SwiftUI]]></title>
@@ -49,27 +65,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Redesigned Dejal website]]></title>
-    <description><![CDATA[http://dejal.com/blog/]]></description>
-    <link><![CDATA[https://dejal.com/blog/new-site/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dejal.com/blog/new-site/]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Field Report: macOS VMs in 2026]]></title>
     <description><![CDATA[https://rizwan.dev]]></description>
     <link><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store review allowed a Meta Muse copycat]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/8.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/8.html]]></guid>
-    <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -145,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[FruitMenu Redux]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/25/fruitmenu-redux/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/25/fruitmenu-redux/]]></guid>
-    <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Error Handling: throw, try, catch, and Result]]></title>
     <description><![CDATA[https://medium.com/@dkvekariya]]></description>
     <link><![CDATA[https://dkvekariya.medium.com/swift-error-handling-throw-try-catch-and-result-897fb535f805?source=rss-6317b0b805bf------2]]></link>
@@ -178,7 +170,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 <item>
     <title><![CDATA[ComponentsKit Templates are free]]></title>
-    <description><![CDATA[https://componentskit.io/]]></description>
+    <description><![CDATA[https://componentskit.dev/]]></description>
     <link><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></link>
     <guid isPermaLink="true"><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></guid>
     <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://kristaps.me]]></description>
     <link><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Experimenting with Godot]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
