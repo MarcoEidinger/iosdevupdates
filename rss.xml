@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Sep 2026 19:13:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 23:34:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[undefined]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/09/29/brett-simmons-the-stock-mac-ui-is-designed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/29/brett-simmons-the-stock-mac-ui-is-designed/]]></guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple Loses Haptics Patent Case to Taction]]></title>
@@ -37,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://en.kou-works.jp]]></description>
     <link><![CDATA[https://en.kou-works.jp/blog/iphone-video-two-audio-tracks/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/iphone-video-two-audio-tracks/]]></guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Iterative data loading in Swift]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -85,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue78]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue78]]></guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Supply Chain Security in iOS Development]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/supply-chain-security-in-ios-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/supply-chain-security-in-ios-development/]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Little Memory 2.0: Moving 15 years of memories off my servers]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/22/little-memory-2.0-moving-15-years-of-memories-off-my-servers/]]></guid>
-    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[isPictureInPicturePossible was true and PiP still wouldn't start]]></title>
     <description><![CDATA[https://mcmizzle.com/blog/]]></description>
     <link><![CDATA[https://mcmizzle.com/blog/pip-wont-start-avkit-1001/]]></link>
@@ -294,22 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-state-property-wrapper?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-state-property-wrapper]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-state-property-wrapper?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-state-property-wrapper]]></guid>
     <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Backporting SwiftUI APIs]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/09/22/backporting-swiftui-apis]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/22/backporting-swiftui-apis]]></guid>
-    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Your Bus Factor Strategy Does Not Work]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/why-your-bus-factor-strategy-does-not-work/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/why-your-bus-factor-strategy-does-not-work/]]></guid>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
