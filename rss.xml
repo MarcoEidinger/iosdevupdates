@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Sep 2026 12:07:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 18:55:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Web browsers phoning home on launch]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/10.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/10.html]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Letting AI See SwiftUI: Xcode Preview MCP in Practice — Pitfalls and Hopes]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/posts/letting-ai-see-swiftui/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/letting-ai-see-swiftui/]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Using Swift’s ‘some’ keyword beyond SwiftUI]]></title>
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting started with System One models in Swift]]></title>
+    <description><![CDATA[https://peterfriese.dev]]></description>
+    <link><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -37,6 +61,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://hearhear.agency/blog]]></description>
     <link><![CDATA[https://hearhear.agency/blog/fischer-increment-us-delay-bronstein]]></link>
     <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/fischer-increment-us-delay-bronstein]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Cognitive Forces]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/cognitve-forces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/cognitve-forces/]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -86,14 +118,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store: a few bad apples or one bad Apple?]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/9.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/9.html]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,30 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
     <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
     <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Is the iPhone Duo Worth Your Money?]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/iphone-duo-worth-it/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/iphone-duo-worth-it/]]></guid>
-    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What is x402? How I charged a weather API in stablecoins so an AI agent could pay]]></title>
-    <description><![CDATA[https://kristaps.me]]></description>
-    <link><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/]]></guid>
-    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Experimenting with Godot]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
-    <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
