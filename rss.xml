@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 30 Sep 2026 18:55:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 23:34:24 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[App Store Scam: “Update My Phone”]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/09/30/app-store-scam-update-my-phone/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/30/app-store-scam-update-my-phone/]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to make AI agent harness in Swift]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Web browsers phoning home on launch]]></title>
@@ -49,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[10k MRR in the Most Boring Way Possible]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Using the same hostnames at home and over Tailscale]]></title>
     <description><![CDATA[https://blog.kulman.sk]]></description>
     <link><![CDATA[https://blog.kulman.sk/same-hostnames-at-home-and-over-tailscale/]]></link>
@@ -77,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/09/29/brent-simmons-the-stock-mac-ui-is-designed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/09/29/brent-simmons-the-stock-mac-ui-is-designed/]]></guid>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Loses Haptics Patent Case to Taction]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/29/apple-loses-haptics-patent-case-to-taction/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/29/apple-loses-haptics-patent-case-to-taction/]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to add swipe actions outside List in SwiftUI]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-add-swipe-actions-outside-list-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-add-swipe-actions-outside-list-in-swiftui/]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deverman.org]]></description>
     <link><![CDATA[https://deverman.org/zane-lowe-mike-d-interview/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deverman.org/zane-lowe-mike-d-interview/]]></guid>
-    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[It’s Over]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/Its-Over]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Its-Over]]></guid>
     <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
