@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 29 Sep 2026 23:34:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 04:29:45 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Fischer increment vs US delay vs Bronstein delay at 0:04]]></title>
+    <description><![CDATA[https://hearhear.agency/blog]]></description>
+    <link><![CDATA[https://hearhear.agency/blog/fischer-increment-us-delay-bronstein]]></link>
+    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/fischer-increment-us-delay-bronstein]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[undefined]]></title>
@@ -25,18 +33,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[PhotoView is now on the App Store]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></guid>
+    <title><![CDATA[An hourly HealthKit query returned all zeros, and the Health app had the data]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/healthkit-collection-query-returns-zero/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/healthkit-collection-query-returns-zero/]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Week one of Chess Clock, in numbers]]></title>
-    <description><![CDATA[https://hearhear.agency/blog]]></description>
-    <link><![CDATA[https://hearhear.agency/blog/week-one-numbers]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/week-one-numbers]]></guid>
+    <title><![CDATA[PhotoView is now on the App Store]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -69,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-add-swipe-actions-outside-list-in-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-add-swipe-actions-outside-list-in-swiftui/]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Month iPhone Duo Gives Developers - Fatbobman's Swift Weekly #155]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-155/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-155/]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[isPictureInPicturePossible was true and PiP still wouldn't start]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/pip-wont-start-avkit-1001/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/pip-wont-start-avkit-1001/]]></guid>
-    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What is @State actually doing in SwiftUI]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-state-property-wrapper?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-state-property-wrapper]]></link>
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/experimenting-with-godot/]]></guid>
     <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Event 2026: iPhone Duo, iPhone 18 Pro & Pro Max, Apple Watch Series 12, Ultra 4 & AirPods 5]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/09/apple-event-2026-iphone-duo-iphone-18-pro-airpods-5/]]></guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
