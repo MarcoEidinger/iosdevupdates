@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Oct 2026 12:40:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:22:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[I’m leaving Reddit because of RSS]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/1.html]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Re-Developing Perspective]]></title>
+    <description><![CDATA[https://www.david-smith.org/]]></description>
+    <link><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></link>
+    <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Do iOS 2026: Dates, NEMO, and the Lineup]]></title>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Web browsers phoning home on launch]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/9/10.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/9/10.html]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -129,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Your iPhone video has two audio tracks]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/iphone-video-two-audio-tracks/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/iphone-video-two-audio-tracks/]]></guid>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Iterative data loading in Swift]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
@@ -149,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[We unfolded our iPhone app. Six things broke!]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
+    <description><![CDATA[https://masilotti.com/]]></description>
+    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
+    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
