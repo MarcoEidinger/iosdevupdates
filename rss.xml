@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Oct 2026 04:39:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 12:40:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Do iOS 2026: Dates, NEMO, and the Lineup]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/do-ios-2026-update]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/do-ios-2026-update]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I reduced my DocC documentation web output size with 95%]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[App Store Scam: “Update My Phone”]]></title>
@@ -53,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Optimizing Claude Code’s Xcode build token usage]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/09/30/optimizing-claude-code-s-xcode-build-token-usage]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/09/30/optimizing-claude-code-s-xcode-build-token-usage]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
