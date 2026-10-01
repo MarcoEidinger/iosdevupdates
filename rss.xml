@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 01 Oct 2026 19:22:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 23:47:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[EagleFiler 1.9.22]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/01/eaglefiler-1-9-22/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/01/eaglefiler-1-9-22/]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[I’m leaving Reddit because of RSS]]></title>
@@ -38,14 +46,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store Scam: “Update My Phone”]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/09/30/app-store-scam-update-my-phone/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/09/30/app-store-scam-update-my-phone/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -149,6 +149,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[We unfolded our iPhone app. Six things broke!]]></title>
+    <description><![CDATA[https://novinfard.medium.com]]></description>
+    <link><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></link>
     <guid isPermaLink="true"><![CDATA[https://kylesethgray.com/digital-clutter-is-hard/]]></guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ruby Native apps are running on 100,000+ devices]]></title>
-    <description><![CDATA[https://masilotti.com/]]></description>
-    <link><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></link>
-    <guid isPermaLink="true"><![CDATA[https://masilotti.com/100k-devices-running-ruby-native]]></guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
