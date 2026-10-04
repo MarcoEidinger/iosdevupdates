@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 04 Oct 2026 04:46:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 11:57:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Presenting SwiftUI sheets on iPhone Duo]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/PresentingSwiftUISheetsOnIPhoneDuo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PresentingSwiftUISheetsOnIPhoneDuo]]></guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[undefined]]></title>
@@ -237,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/09/27/running-bazel-targets-under-another.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/09/27/running-bazel-targets-under-another.html]]></guid>
-    <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Visualising data with a hexagonal heatmap in Swift Charts]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/VisualisingDataWithAHexagonalHeatmapInSwiftCharts]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/VisualisingDataWithAHexagonalHeatmapInSwiftCharts]]></guid>
     <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
