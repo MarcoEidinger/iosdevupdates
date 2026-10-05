@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Oct 2026 00:31:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 08:35:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introducing RocketTrace: Using Xcode Instruments with AI Agents]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Issue 097: File Systems]]></title>
+    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
+    <link><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Configuring Bazel Module Extensions with tag_class]]></title>
@@ -214,14 +230,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to reduce token usage in Claude Code, Codex, and Cursor]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iPhone Duo: It's complicated]]></title>
-    <description><![CDATA[https://thatvirtualboy.com/]]></description>
-    <link><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></guid>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
