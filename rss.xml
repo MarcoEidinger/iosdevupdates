@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 05 Oct 2026 08:35:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 19:09:51 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Server Has Another Google - Fatbobman's Swift Weekly #156]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-156/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-156/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Ship the Fallback First]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/ship-the-fallback-first]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/ship-the-fallback-first]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[TLS certificate validation on iOS]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/tls-certificate-validation-on-ios/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/tls-certificate-validation-on-ios/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing RocketTrace: Using Xcode Instruments with AI Agents]]></title>
@@ -21,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
     <link><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></link>
     <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Revisiting "Split Isolation"]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/revisiting-split-isolation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/revisiting-split-isolation/]]></guid>
     <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -105,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Green tests that measured the wrong thing]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/green-tests-wrong-thing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/green-tests-wrong-thing/]]></guid>
-    <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ How we run Tuist with AI agents, Kubernetes, and Elixir ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/10/02/the-languages-agents-speak]]></link>
@@ -129,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Do iOS 2026: Dates, NEMO, and the Lineup]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/do-ios-2026-update]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/do-ios-2026-update]]></guid>
-    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[How I reduced my DocC documentation web output size with 95%]]></title>
     <description><![CDATA[https://danielsaidi.com/blog/]]></description>
     <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
@@ -149,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Letting AI See SwiftUI: Xcode Preview MCP in Practice — Pitfalls and Hopes]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/letting-ai-see-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/letting-ai-see-swiftui/]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -201,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Cognitive Forces]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/cognitve-forces/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/cognitve-forces/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[An hourly HealthKit query returned all zeros, and the Health app had the data]]></title>
     <description><![CDATA[https://mcmizzle.com/blog/]]></description>
     <link><![CDATA[https://mcmizzle.com/blog/healthkit-collection-query-returns-zero/]]></link>
@@ -245,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue78]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue78]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Supply Chain Security in iOS Development]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/supply-chain-security-in-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/supply-chain-security-in-ios-development/]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -469,6 +461,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://albertodebortoli.com/]]></description>
     <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
     <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iPhone Duo: It's complicated]]></title>
+    <description><![CDATA[https://thatvirtualboy.com/]]></description>
+    <link><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://thatvirtualboy.com/iphone-duo-its-complicated/]]></guid>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
