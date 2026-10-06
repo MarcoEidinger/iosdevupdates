@@ -6,13 +6,61 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Oct 2026 08:43:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 16:36:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[More details about how macOS 26.4 changed the login keychain]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Reasons to dislike AI coding]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The CloudKit default zone can't list its records, and can't be reset]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/cloudkit-default-zone-limits/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/cloudkit-default-zone-limits/]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The STAR method for senior mobile engineers: what the interviewer scores after the R]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/star-method-senior-mobile-engineer-interview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/star-method-senior-mobile-engineer-interview/]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keeping Project Memory Shared Between Claude Code and Codex]]></title>
+    <description><![CDATA[https://ivanmagda.dev]]></description>
+    <link><![CDATA[https://ivanmagda.dev/posts/project-memory-in-the-repository/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/project-memory-in-the-repository/]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Simple, Consistent, and a Little Repetitive]]></title>
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/simple-consistent-code?utm_source=rss&utm_medium=rss&utm_campaign=simple-consistent-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/simple-consistent-code?utm_source=rss&utm_medium=rss&utm_campaign=simple-consistent-code]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Try before you buy, buy once, yours forever]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -57,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Introducing RocketTrace: Using Xcode Instruments with AI Agents]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why big companies are bad platform citizens]]></title>
     <description><![CDATA[https://www.scottberrevoets.com/]]></description>
     <link><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></link>
@@ -97,22 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Meta Muse Mac first run experience]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/2.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/2.html]]></guid>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Add Native Progress UI to Your Telegram AI Agent]]></title>
-    <description><![CDATA[https://ivanmagda.dev]]></description>
-    <link><![CDATA[https://ivanmagda.dev/posts/telegram-native-agent-progress/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/telegram-native-agent-progress/]]></guid>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Presenting SwiftUI sheets on iPhone Duo]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/PresentingSwiftUISheetsOnIPhoneDuo]]></link>
@@ -125,14 +149,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/10/03/theres-a-visual-bug-with-little-memory-on/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/03/theres-a-visual-bug-with-little-memory-on/]]></guid>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Eventual consistency in mobile apps, per field]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/eventual-consistency-in-mobile-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/eventual-consistency-in-mobile-apps/]]></guid>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,22 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An hourly HealthKit query returned all zeros, and the Health app had the data]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/healthkit-collection-query-returns-zero/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/healthkit-collection-query-returns-zero/]]></guid>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[PhotoView is now on the App Store]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/photoview-on-the-app-store.html]]></guid>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Iterative data loading in Swift]]></title>
     <description><![CDATA[http://swiftwithmajid.com/]]></description>
     <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
@@ -310,14 +310,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/with-task-cancellation-shield]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftdifferently.com/blog/swift/concurrency/with-task-cancellation-shield]]></guid>
     <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[AI adoption, engineering process, and documentation consultancy]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2026/09/ai-adoption-engineering-process-and-documentation-consultancy/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/09/ai-adoption-engineering-process-and-documentation-consultancy/]]></guid>
-    <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></guid>
     <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Authentication and Authorization: A Comprehensive Guide]]></title>
+    <description><![CDATA[https://albertodebortoli.com/]]></description>
+    <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
