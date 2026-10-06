@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 06 Oct 2026 16:36:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 22:29:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Reddit to Remove RSS]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/06/reddit-to-remove-rss/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/06/reddit-to-remove-rss/]]></guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[More details about how macOS 26.4 changed the login keychain]]></title>
@@ -73,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unspecified Full Disk Access Screw Tightening]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/05/unspecified-full-disk-access-screw-tightening/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/05/unspecified-full-disk-access-screw-tightening/]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Swift Server Has Another Google - Fatbobman's Swift Weekly #156]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-156/]]></link>
@@ -101,6 +101,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/tls-certificate-validation-on-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/tls-certificate-validation-on-ios/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Introducing RocketTrace: Using Xcode Instruments with AI Agents]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/]]></guid>
     <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></link>
     <guid isPermaLink="true"><![CDATA[http://chris.eidhof.nl/post/animations-in-the-field-guide]]></guid>
     <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Authentication and Authorization: A Comprehensive Guide]]></title>
-    <description><![CDATA[https://albertodebortoli.com/]]></description>
-    <link><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/]]></guid>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
