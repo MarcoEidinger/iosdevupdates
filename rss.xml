@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 08 Oct 2026 17:19:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:05:54 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Using Xcode 27’s localization skills over MCP]]></title>
@@ -37,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/sendable-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=sendable-swift-concurrency]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/sendable-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=sendable-swift-concurrency]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -313,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[We unfolded our iPhone app. Six things broke!]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sending Long Issues Through Private Cloud Compute]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue78]]></link>
@@ -462,6 +446,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></link>
     <guid isPermaLink="true"><![CDATA[https://holtwick.de/blog/collaborative-rich-text]]></guid>
     <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Radiating Intent]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/radiating-intent/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/radiating-intent/]]></guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A Brief Primer to Version Control]]></title>
+    <description><![CDATA[https://adamwulf.me/]]></description>
+    <link><![CDATA[https://adamwulf.me/2026/09/version-control-primer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adamwulf.me/2026/09/version-control-primer/]]></guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
