@@ -6,13 +6,29 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 09 Oct 2026 12:47:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 19:20:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Generics: Write Once, Work With Any Type]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/swift-generics-write-once-work-with-any-type-d6640afccdc9?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-generics-write-once-work-with-any-type-d6640afccdc9?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Inter-process communication in a sandboxed Mac app]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/10/inter-process-communication-in-a-sandboxed-mac-app/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/10/inter-process-communication-in-a-sandboxed-mac-app/]]></guid>
+    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Zero-phase filters can't undo someone else's lag]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/zero-phase-dead-zone-lag/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/zero-phase-dead-zone-lag/]]></guid>
     <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -97,6 +113,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[About]]></title>
+    <description><![CDATA[https://petermolnar.dev]]></description>
+    <link><![CDATA[https://petermolnar.dev/about/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://petermolnar.dev/about/]]></guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[AI-Friendly Frameworks: As Abstraction Moves Up, How Can Verification Keep Pace?]]></title>
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/posts/ai-friendly-framework/]]></link>
@@ -149,14 +173,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The error message that gave impossible advice]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/error-message-impossible-advice/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/error-message-impossible-advice/]]></guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -230,14 +246,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/replacing-closures-with-key-paths-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/replacing-closures-with-key-paths-swift/]]></guid>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ARC and Memory Management: How Swift Keeps Your App From Leaking]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/arc-and-memory-management-how-swift-keeps-your-app-from-leaking-2e9af2ea677f?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/arc-and-memory-management-how-swift-keeps-your-app-from-leaking-2e9af2ea677f?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html]]></guid>
     <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Baseplate 2.0 is Out]]></title>
-    <description><![CDATA[https://jsorge.net/]]></description>
-    <link><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></link>
-    <guid isPermaLink="true"><![CDATA[https://jsorge.net/2026/09/20/baseplate-2-0-is-out]]></guid>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
