@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 12 Oct 2026 04:49:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 14:43:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[When Build in Public Goes Back Underground - Fatbobman's Swift Weekly #157]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-157/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-157/]]></guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Trusting Swift macros on Xcode Cloud]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/trusting-swift-macros-on-xcode-cloud]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/trusting-swift-macros-on-xcode-cloud]]></guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Escaping the Cohabiting Trap]]></title>
+    <description><![CDATA[https://williamboles.com/]]></description>
+    <link><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[next.app devCon 2026]]></title>
+    <description><![CDATA[https://douglashill.co]]></description>
+    <link><![CDATA[https://douglashill.co/2026/nextapp-devcon/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://douglashill.co/2026/nextapp-devcon/]]></guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fine-Grained Swift Warning Control with Bazel Features]]></title>
@@ -145,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[AI-Friendly Frameworks: As Abstraction Moves Up, How Can Verification Keep Pace?]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/posts/ai-friendly-framework/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/posts/ai-friendly-framework/]]></guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[More details about how macOS 26.4 changed the login keychain]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></link>
@@ -198,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Ship the Fallback First]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/ship-the-fallback-first]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/ship-the-fallback-first]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.joshholtz.com/blog/2026/09/24/i-reread-my-neuropsych-evaluation-four-months-later]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/09/24/i-reread-my-neuropsych-evaluation-four-months-later]]></guid>
     <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Call For Mentors]]></title>
-    <description><![CDATA[https://fabisevi.ch]]></description>
-    <link><![CDATA[https://fabisevi.ch/2026/09/24/call-for-mentors/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fabisevi.ch/2026/09/24/call-for-mentors/]]></guid>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[WWDC 2027 Wishlist]]></title>
-    <description><![CDATA[https://harshil.net/]]></description>
-    <link><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></link>
-    <guid isPermaLink="true"><![CDATA[https://harshil.net/blog/wwdc-2027-wishlist]]></guid>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
