@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 13 Oct 2026 13:47:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 20:08:28 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Home Collection]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/13/apple-home-collection/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/13/apple-home-collection/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Exploring _UILiquidLensView]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/swiftui/exploring-_uiliquidlensview/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/exploring-_uiliquidlensview/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Localization-first development]]></title>
+    <description><![CDATA[https://macguru.dev/]]></description>
+    <link><![CDATA[https://macguru.dev/localization-first-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://macguru.dev/localization-first-development/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A tvOS ScrollView with one focusable view won't scroll]]></title>
@@ -17,10 +41,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Chrome Supports JPEG XL]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/12/chrome-supports-jpeg-xl/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/12/chrome-supports-jpeg-xl/]]></guid>
+    <title><![CDATA[Ready Time 3.11: iPhone Duo and iPad]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/10/12/ready-time-3.11-iphone-duo-and-ipad/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/12/ready-time-3.11-iphone-duo-and-ipad/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
+    <description><![CDATA[https://www.basbroek.nl/]]></description>
+    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -73,7 +105,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Escaping the Cohabiting Trap]]></title>
+    <title><![CDATA[Escaping the Cohabiting Trap in Shared Components]]></title>
     <description><![CDATA[https://williamboles.com/]]></description>
     <link><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></link>
     <guid isPermaLink="true"><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></guid>
@@ -161,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Using Xcode 27’s localization skills over MCP]]></title>
-    <description><![CDATA[https://macguru.dev/]]></description>
-    <link><![CDATA[https://macguru.dev/using-xcode-27s-localization-skills-over-mcp/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://macguru.dev/using-xcode-27s-localization-skills-over-mcp/]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Decompose Run-On Tests (In Swift Testing)]]></title>
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
@@ -201,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Little Memory 2.1: Fixes from 2.0 Feedback]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/10/07/little-memory-2.1-fixes-from-2.0-feedback/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/07/little-memory-2.1-fixes-from-2.0-feedback/]]></guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[More details about how macOS 26.4 changed the login keychain]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></link>
@@ -229,14 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanmagda.dev]]></description>
     <link><![CDATA[https://ivanmagda.dev/posts/project-memory-in-the-repository/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/project-memory-in-the-repository/]]></guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Configuring UIKit Navigation Bars from SwiftUI]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/swiftui/configuring-uikit-navigation-bars-from-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/swiftui/configuring-uikit-navigation-bars-from-swiftui/]]></guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jevgenitig.github.io/my-apps/writing/]]></description>
     <link><![CDATA[https://jevgenitig.github.io/my-apps/writing/on-device-llm-vs-rules.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://jevgenitig.github.io/my-apps/writing/on-device-llm-vs-rules.html]]></guid>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[I Reread My Neuropsych Evaluation Four Months Later]]></title>
-    <description><![CDATA[https://joshholtz.com/blog/]]></description>
-    <link><![CDATA[https://www.joshholtz.com/blog/2026/09/24/i-reread-my-neuropsych-evaluation-four-months-later]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/09/24/i-reread-my-neuropsych-evaluation-four-months-later]]></guid>
     <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
