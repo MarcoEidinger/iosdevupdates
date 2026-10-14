@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Oct 2026 18:30:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:04:03 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Resetting Local Network Privacy]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/14/resetting-local-network-privacy/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/14/resetting-local-network-privacy/]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Five and a half years of Being a Lead Software Developer]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/lead-developer-2026]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/lead-developer-2026]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS Golden Gate is a buggy mess]]></title>
@@ -33,6 +49,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Content Margins in OS 27.1]]></title>
+    <description><![CDATA[https://alexanderweiss.dev/blog]]></description>
+    <link><![CDATA[https://alexanderweiss.dev/blog/2026-10-14-os27-content-margins]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexanderweiss.dev/blog/2026-10-14-os27-content-margins]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[One Year at Wealthsimple]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/one-year-at-wealthsimple/]]></link>
@@ -41,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Adapting your app for iPhone Duo]]></title>
+    <description><![CDATA[http://swiftwithmajid.com/]]></description>
+    <link><![CDATA[https://swiftwithmajid.com/2026/10/14/adapting-your-app-for-iPhone-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/10/14/adapting-your-app-for-iPhone-duo]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Why my Swift debouncer got 50× faster and what the Swift Runtime has to do with it]]></title>
     <description><![CDATA[https://ivanmagda.dev]]></description>
     <link><![CDATA[https://ivanmagda.dev/posts/swift-debounce-runtime-investigation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/swift-debounce-runtime-investigation/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple Home Collection]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/13/apple-home-collection/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/13/apple-home-collection/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-157/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-157/]]></guid>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Trusting Swift macros on Xcode Cloud]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/trusting-swift-macros-on-xcode-cloud]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/trusting-swift-macros-on-xcode-cloud]]></guid>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -245,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,22 +409,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Iterative data loading in Swift]]></title>
-    <description><![CDATA[http://swiftwithmajid.com/]]></description>
-    <link><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift]]></guid>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[We unfolded our iPhone app. Six things broke!]]></title>
-    <description><![CDATA[https://novinfard.medium.com]]></description>
-    <link><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></guid>
-    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Field Report: macOS VMs in 2026]]></title>
     <description><![CDATA[https://rizwan.dev]]></description>
     <link><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></link>
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></link>
     <guid isPermaLink="true"><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></guid>
     <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Little stories on my journey to making Xarra as accessible as possible (Part 1)]]></title>
+    <description><![CDATA[https://accessibilityupto11.com/blog/]]></description>
+    <link><![CDATA[https://accessibilityupto11.com/post/2026-09-24-01]]></link>
+    <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-09-24-01]]></guid>
+    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
