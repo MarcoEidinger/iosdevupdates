@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 14 Oct 2026 13:26:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:30:46 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS Golden Gate is a buggy mess]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/5.html]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Background Processing on Apple Watch]]></title>
+    <description><![CDATA[https://gdcl.co.uk/posts/]]></description>
+    <link><![CDATA[https://gdcl.co.uk/posts/2026/10/14/background-processing-on-apple-watch/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://gdcl.co.uk/posts/2026/10/14/background-processing-on-apple-watch/]]></guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[For App Intents and Purposes]]></title>
@@ -257,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[More details about how macOS 26.4 changed the login keychain]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/3.html]]></guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The STAR method for senior mobile engineers: what the interviewer scores after the R]]></title>
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/star-method-senior-mobile-engineer-interview/]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></link>
     <guid isPermaLink="true"><![CDATA[https://componentskit.dev/blog/componentskit-templates]]></guid>
     <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Little stories on my journey to making Xarra as accessible as possible (Part 1)]]></title>
-    <description><![CDATA[https://accessibilityupto11.com/blog/]]></description>
-    <link><![CDATA[https://accessibilityupto11.com/post/2026-09-24-01]]></link>
-    <guid isPermaLink="true"><![CDATA[https://accessibilityupto11.com/post/2026-09-24-01]]></guid>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
