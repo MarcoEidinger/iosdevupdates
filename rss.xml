@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 Oct 2026 19:47:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:59:21 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ready Time 3.12: Siri]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/10/15/ready-time-3.12-siri/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/15/ready-time-3.12-siri/]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Passkeys Attestation Trap]]></title>
@@ -25,14 +33,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[undefined]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/10/15/this-finally-a-way-to-delete-derived-data/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/15/this-finally-a-way-to-delete-derived-data/]]></guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ArrangementView in SwiftUI: split and overlay layouts for iPhone Duo]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/ArrangementViewInSwiftUISplitAndOverlayLayoutsForIPhoneDuo]]></link>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Implementing Server Side Filtering In Swiftui]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/10/15/implementing-server-side-filtering-in-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/15/implementing-server-side-filtering-in-swiftui]]></guid>
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -125,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Server Side Sorting In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/10/13/implementing-server-side-sorting-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/13/implementing-server-side-sorting-in-swiftui]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
