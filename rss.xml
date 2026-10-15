@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 15 Oct 2026 14:46:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 19:47:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Passkeys Attestation Trap]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I still shun passkeys]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/6.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/6.html]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[undefined]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/10/15/this-finally-a-way-to-delete-derived-data/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/15/this-finally-a-way-to-delete-derived-data/]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[ArrangementView in SwiftUI: split and overlay layouts for iPhone Duo]]></title>
@@ -17,19 +41,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Coinbase is going mobile native too]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/10/14/coinbase-is-going-mobile-native-too/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/14/coinbase-is-going-mobile-native-too/]]></guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Resetting Local Network Privacy]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/14/resetting-local-network-privacy/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/14/resetting-local-network-privacy/]]></guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Xcode Projects for the Command Line and Coding Agents]]></title>
+    <description><![CDATA[https://artemnovichkov.com/]]></description>
+    <link><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></link>
+    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -37,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/lead-developer-2026]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/lead-developer-2026]]></guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS Golden Gate is a buggy mess]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/5.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/5.html]]></guid>
     <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -430,14 +438,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SF Symbols from the Command Line and AI Agents]]></title>
-    <description><![CDATA[https://artemnovichkov.com/]]></description>
-    <link><![CDATA[https://artemnovichkov.com/blog/sf-symbols-from-the-command-line-and-ai-agents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/sf-symbols-from-the-command-line-and-ai-agents]]></guid>
-    <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
