@@ -6,7 +6,47 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 16 Oct 2026 08:50:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 14:40:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Functional Programming in Swift: map, filter, reduce, and Beyond]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/functional-programming-in-swift-map-filter-reduce-and-beyond-a3ad4bb2ce26?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/functional-programming-in-swift-map-filter-reduce-and-beyond-a3ad4bb2ce26?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Mac app Help Books.]]></title>
+    <description><![CDATA[https://www.amyworrall.com]]></description>
+    <link><![CDATA[https://www.amyworrall.com/blog/building-mac-app-help-books]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.amyworrall.com/blog/building-mac-app-help-books]]></guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Is a View Model in SwiftUI MVVM, Really]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-mvvm?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-mvvm]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-mvvm?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-mvvm]]></guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Implementing Infinite Scrolling In Swiftui Expressjs]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/10/16/implementing-infinite-scrolling-in-swiftui-expressjs]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/16/implementing-infinite-scrolling-in-swiftui-expressjs]]></guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How to Download a Video from Google Drive (Android, iPhone and PC)]]></title>
+    <description><![CDATA[https://mzeeshan.me/blog]]></description>
+    <link><![CDATA[https://mzeeshan.me/blog/download-video-from-google-drive]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mzeeshan.me/blog/download-video-from-google-drive]]></guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ready Time 3.12: Siri]]></title>
@@ -45,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></link>
     <guid isPermaLink="true"><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Server Side Filtering In Swiftui]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/10/15/implementing-server-side-filtering-in-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/15/implementing-server-side-filtering-in-swiftui]]></guid>
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -217,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Bypassing the App Group Trap: Writing Directly to iOS App's Documents Directory from an Action Extension]]></title>
-    <description><![CDATA[https://mzeeshan.me/blog]]></description>
-    <link><![CDATA[https://mzeeshan.me/blog/ios-app-extension-write-files-to-documents-directory]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mzeeshan.me/blog/ios-app-extension-write-files-to-documents-directory]]></guid>
-    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI .task vs .onAppear - Async Work Done Right]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-task-vs-onappear/]]></link>
@@ -238,22 +262,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elkraneo.com/lygia-metal-viewer/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/lygia-metal-viewer/]]></guid>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I Architect SwiftUI Apps for Swift Concurrency – So the Compiler Stays Quiet]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-architecture-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-architecture-swift-concurrency]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-architecture-swift-concurrency?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-architecture-swift-concurrency]]></guid>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Swift Generics: Write Once, Work With Any Type]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/swift-generics-write-once-work-with-any-type-d6640afccdc9?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-generics-write-once-work-with-any-type-d6640afccdc9?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -277,14 +285,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
