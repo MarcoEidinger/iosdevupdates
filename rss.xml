@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 17 Oct 2026 13:33:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 16:57:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[How to make your apps stand out on the App Store]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Calming Down Claude's Code Reviews]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Fail the build when a translation goes stale]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/fail-the-build-when-a-translation-goes-stale]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/fail-the-build-when-a-translation-goes-stale]]></guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Simplifying Sorting Filtering And Pagination In Swiftui Using Hotelquery]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/10/17/simplifying-sorting-filtering-and-pagination-in-swiftui-using-hotelquery]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/17/simplifying-sorting-filtering-and-pagination-in-swiftui-using-hotelquery]]></guid>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/swiftui-mvvm?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-mvvm]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/swiftui-mvvm?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-mvvm]]></guid>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Implementing Infinite Scrolling In Swiftui Expressjs]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/10/16/implementing-infinite-scrolling-in-swiftui-expressjs]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/16/implementing-infinite-scrolling-in-swiftui-expressjs]]></guid>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,14 +417,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to make AI agent harness in Swift]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-ai-agent-harness-in-swift/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Using Swift’s ‘some’ keyword beyond SwiftUI]]></title>
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></link>
@@ -449,19 +457,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Field Report: macOS VMs in 2026]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-09-28_macos-vm-field-report/]]></guid>
+    <title><![CDATA[We unfolded our iPhone app. Six things broke!]]></title>
+    <description><![CDATA[https://novinfard.medium.com]]></description>
+    <link><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://novinfard.medium.com/we-unfolded-our-iphone-app-six-things-broke-05238ac13077?source=rss-6bca32d7b400------2]]></guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Caching and downsampling images in Swift]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/caching-and-downsampling-images-in-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/caching-and-downsampling-images-in-swift]]></guid>
-    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
