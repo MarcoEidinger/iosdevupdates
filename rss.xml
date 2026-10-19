@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 19 Oct 2026 12:27:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 19:46:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[VMPal]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2026/10/vmpal.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/10/vmpal.html]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Getting your app ready for iPhone Duo: what actually broke]]></title>
+    <description><![CDATA[https://skarol.dev]]></description>
+    <link><![CDATA[https://skarol.dev/posts/getting-your-app-ready-for-iphone-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://skarol.dev/posts/getting-your-app-ready-for-iphone-duo]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Who Is the Real Threat to AI-Relay Apps? - Fatbobman's Swift Weekly #158]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[SwiftUI Performance: Find Redraws in Xcode Instruments]]></title>
@@ -17,10 +41,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[My Codex Harness: Project Overrides and Environment Setup]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Claude Code for iOS development]]></title>
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-for-ios-development]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-for-ios-development]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[AI, Agents & Human Judgment]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue80]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue80]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -153,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Designed in California Podcast]]></title>
-    <description><![CDATA[http://shapeof.com/]]></description>
-    <link><![CDATA[https://shapeof.com/archives/2026/10/designed_in_california_podcast.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/10/designed_in_california_podcast.html]]></guid>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Mac app Help Books.]]></title>
     <description><![CDATA[https://www.amyworrall.com]]></description>
     <link><![CDATA[https://www.amyworrall.com/blog/building-mac-app-help-books]]></link>
@@ -257,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Codex Now Has 500K Context (Depends on the Model)]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
@@ -273,26 +297,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Where did my disk go? Xcode, worktrees and AI agents]]></title>
-    <description><![CDATA[https://skarol.dev]]></description>
-    <link><![CDATA[https://skarol.dev/posts/where-did-my-disk-go]]></link>
-    <guid isPermaLink="true"><![CDATA[https://skarol.dev/posts/where-did-my-disk-go]]></guid>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Escaping the Cohabiting Trap in Shared Components]]></title>
     <description><![CDATA[https://williamboles.com/]]></description>
     <link><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></link>
     <guid isPermaLink="true"><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></guid>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Comparing On-Device and Private Cloud Compute Summaries]]></title>
-    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
-    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue79]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue79]]></guid>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -333,14 +341,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
