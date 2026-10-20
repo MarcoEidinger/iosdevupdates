@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Oct 2026 14:50:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:55:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Selection and Focus in Golden Gate]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/20/selection-and-focus-in-golden-gate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/20/selection-and-focus-in-golden-gate/]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Claude Code and the iOS Simulator: what breaks]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[fosforo on the App Store: a Terminal With a Shell of Its Own]]></title>
+    <description><![CDATA[https://crg.eti.br]]></description>
+    <link><![CDATA[https://crg.eti.br/pub/fosforo-on-the-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://crg.eti.br/pub/fosforo-on-the-app-store/]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Practical Guide to Migrating from RxSwift to AsyncSequence and Observable]]></title>
@@ -49,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Carson Oliver and Apple’s Gaming Push]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/19/carson-oliver-and-apples-gaming-push/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/19/carson-oliver-and-apples-gaming-push/]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[VMPal]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/10/vmpal.html]]></link>
@@ -81,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[SwiftUI Performance: Find Redraws in Xcode Instruments]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></guid>
+    <title><![CDATA[Gemini Nano 4 Is in Preview. Your Prompt Budget Still Has to Fit.]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Claude Code for iOS development]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-for-ios-development]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-for-ios-development]]></guid>
+    <title><![CDATA[SwiftUI Performance: Find Redraws in Xcode Instruments]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -345,14 +361,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Testing Async Code in Swift: Stop Using Task.yield() in Your Tests]]></title>
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/testing-swift-tasks-with-itaskfactory/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[10k MRR in the Most Boring Way Possible]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
