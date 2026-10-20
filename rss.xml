@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Oct 2026 09:16:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 14:50:25 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Practical Guide to Migrating from RxSwift to AsyncSequence and Observable]]></title>
@@ -17,10 +17,34 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[I Shipped an iPhone Duo App Before I Had the Phone. Thanks, App Reviewer.]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Apple App Attest in iOS Development]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Fix misaligned paging in SwiftUI scroll views]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/FixMisalignedPagingInSwiftUIScrollViews]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FixMisalignedPagingInSwiftUIScrollViews]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Failures that don't crash never reach you]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/copy-details-button/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/copy-details-button/]]></guid>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Codex Harness: Project Overrides and Environment Setup]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -206,22 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ashfurrow.com/blog/llms-are-tools/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/llms-are-tools/]]></guid>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A low-confidence face hijacked my tracker]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/low-confidence-face-hijacked-tracker/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/low-confidence-face-hijacked-tracker/]]></guid>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ArrangementView in SwiftUI: split and overlay layouts for iPhone Duo]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/ArrangementViewInSwiftUISplitAndOverlayLayoutsForIPhoneDuo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ArrangementViewInSwiftUISplitAndOverlayLayoutsForIPhoneDuo]]></guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
