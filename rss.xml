@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Oct 2026 09:14:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:03:18 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Selection Effects for RealityKit]]></title>
+    <description><![CDATA[https://elkraneo.com/]]></description>
+    <link><![CDATA[https://elkraneo.com/selection-effects-realitykit/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/selection-effects-realitykit/]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Check fan speed if your Mac mini UI becomes super slow]]></title>
+    <description><![CDATA[https://aplus.rs/categories/iosdev/]]></description>
+    <link><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Positioning SwiftUI views around the fold on iPhone Duo]]></title>
@@ -337,14 +353,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[LYGIA Metal Viewer]]></title>
-    <description><![CDATA[https://elkraneo.com/]]></description>
-    <link><![CDATA[https://elkraneo.com/lygia-metal-viewer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/lygia-metal-viewer/]]></guid>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Inter-process communication in a sandboxed Mac app]]></title>
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/10/inter-process-communication-in-a-sandboxed-mac-app/]]></link>
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></guid>
-    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I reduced my DocC documentation web output size with 95%]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
