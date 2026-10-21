@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Oct 2026 15:03:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:01:32 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[PHP2Shell]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/21/php2shell/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/21/php2shell/]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Selection Effects for RealityKit]]></title>
@@ -30,14 +38,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Selection and Focus in Golden Gate]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/20/selection-and-focus-in-golden-gate/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/20/selection-and-focus-in-golden-gate/]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -205,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Fail the build when a translation goes stale]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/fail-the-build-when-a-translation-goes-stale]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/fail-the-build-when-a-translation-goes-stale]]></guid>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,6 +453,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.david-smith.org/]]></description>
     <link><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How I reduced my DocC documentation web output size with 95%]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
