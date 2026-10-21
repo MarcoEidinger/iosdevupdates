@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 20 Oct 2026 23:02:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 03:42:41 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Selection and Focus in Golden Gate]]></title>
@@ -21,6 +21,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[NWConnection reports a refused connection as waiting, not failed]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/nwconnection-connection-refused-waiting/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/nwconnection-connection-refused-waiting/]]></guid>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A tvOS ScrollView with one focusable view won't scroll]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/tvos-scrollview-wont-scroll/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/tvos-scrollview-wont-scroll/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
@@ -349,6 +349,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://jaimzuber.com/]]></description>
     <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
     <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
+    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
+    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -453,14 +461,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://peterfriese.dev]]></description>
     <link><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></link>
     <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[10k MRR in the Most Boring Way Possible]]></title>
-    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
-    <link><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/10k-MRR-in-the-Most-Boring-Way-Possible]]></guid>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
