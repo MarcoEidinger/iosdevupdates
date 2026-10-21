@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Oct 2026 03:42:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 09:14:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Positioning SwiftUI views around the fold on iPhone Duo]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Selection and Focus in Golden Gate]]></title>
@@ -65,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Fix misaligned paging in SwiftUI scroll views]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/FixMisalignedPagingInSwiftUIScrollViews]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/FixMisalignedPagingInSwiftUIScrollViews]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Failures that don't crash never reach you]]></title>
     <description><![CDATA[https://en.kou-works.jp]]></description>
     <link><![CDATA[https://en.kou-works.jp/blog/copy-details-button/]]></link>
@@ -105,6 +105,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Gemini Nano 4 Is in Preview. Your Prompt Budget Still Has to Fit.]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI Performance: Find Redraws in Xcode Instruments]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></link>
@@ -125,6 +133,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-view-model-use-case?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-view-model-use-case]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-view-model-use-case?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-view-model-use-case]]></guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[From ASCII to Emoji: The Story of String Encoding in Swift]]></title>
+    <description><![CDATA[https://ahmedkomsan.com/posts/]]></description>
+    <link><![CDATA[https://ahmedkomsan.com/posts/2026-10-19-string-encoding-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ahmedkomsan.com/posts/2026-10-19-string-encoding-in-swift/]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Swift’s ‘some’ keyword beyond SwiftUI]]></title>
-    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
-    <link><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting started with System One models in Swift]]></title>
-    <description><![CDATA[https://peterfriese.dev]]></description>
-    <link><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://peterfriese.dev/blog/2026/system-one-models-intro/]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
