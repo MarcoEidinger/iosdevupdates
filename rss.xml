@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Oct 2026 03:41:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 09:16:49 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introducing Whio: a reader built for technical books]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Happens When You Tap "Sign in with Google" or a Passkey]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/what-happens-when-you-tap-sign-in-with-google-or-a-passkey]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/what-happens-when-you-tap-sign-in-with-google-or-a-passkey]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What’s new in Timers & Alarms 1.5]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-5.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-5.html]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[PHP2Shell]]></title>
@@ -37,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Positioning SwiftUI views around the fold on iPhone Duo]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -117,14 +133,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://fatbobman.com/en/]]></description>
     <link><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></link>
     <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Gemini Nano 4 Is in Preview. Your Prompt Budget Still Has to Fit.]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/gemini-nano-4-is-in-preview-your-prompt-budget-still-has-to-fit]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,26 +393,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[About]]></title>
-    <description><![CDATA[https://petermolnar.dev]]></description>
-    <link><![CDATA[https://petermolnar.dev/about/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://petermolnar.dev/about/]]></guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The STAR method for senior mobile engineers: what the interviewer scores after the R]]></title>
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/star-method-senior-mobile-engineer-interview/]]></link>
     <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/star-method-senior-mobile-engineer-interview/]]></guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Try before you buy, buy once, yours forever]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/try-before-you-buy.html]]></guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,6 +454,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Using Swift’s ‘some’ keyword beyond SwiftUI]]></title>
+    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
+    <link><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
