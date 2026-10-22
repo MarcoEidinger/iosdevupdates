@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Oct 2026 19:50:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 23:05:30 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[iPhone Duo Reviews]]></title>
@@ -353,6 +353,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The same mess, now able to talk back]]></title>
+    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
+    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/swiftui-modifier-order/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-modifier-order/]]></guid>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ How we run Tuist with AI agents, Kubernetes, and Elixir ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/10/02/the-languages-agents-speak]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/10/02/the-languages-agents-speak]]></guid>
-    <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
