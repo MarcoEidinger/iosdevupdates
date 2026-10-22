@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Oct 2026 09:16:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 14:59:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Problem With Waterfall]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Introducing Whio: a reader built for technical books]]></title>
@@ -30,6 +38,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-5.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-new-in-timers-alarms-1-5.html]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Get your app working on iPhone Duo]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/get-your-app-working-on-iphone-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/get-your-app-working-on-iphone-duo]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -446,22 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></link>
     <guid isPermaLink="true"><![CDATA[http://david-smith.org/blog/2026/10/01/re-developing-perspective]]></guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How I reduced my DocC documentation web output size with 95%]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/01/how-i-reduced-the-size-of-my-docc-documentation-with-95]]></guid>
-    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Using Swift’s ‘some’ keyword beyond SwiftUI]]></title>
-    <description><![CDATA[https://www.swiftbysundell.com/]]></description>
-    <link><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/using-swifts-some-keyword-beyond-swiftui]]></guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
