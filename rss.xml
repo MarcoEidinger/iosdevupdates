@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 21 Oct 2026 23:10:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 03:41:42 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[PHP2Shell]]></title>
@@ -33,19 +33,19 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[iOS testing with Claude Code]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Positioning SwiftUI views around the fold on iPhone Duo]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/PositioningSwiftUIViewsAroundTheFoldOnIPhoneDuo]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Claude Code and the iOS Simulator: what breaks]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/claude-code-and-the-ios-simulator-what-breaks]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -197,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Calming Down Claude's Code Reviews]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/17/calming-down-claudes-code-reviews/]]></guid>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -390,6 +382,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[About]]></title>
+    <description><![CDATA[https://petermolnar.dev]]></description>
+    <link><![CDATA[https://petermolnar.dev/about/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://petermolnar.dev/about/]]></guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
