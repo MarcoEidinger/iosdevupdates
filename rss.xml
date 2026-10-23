@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 22 Oct 2026 23:05:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 03:47:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Ready Time 3.13: Done Early, Running Late]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/10/22/ready-time-3.13-done-early-running-late/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/22/ready-time-3.13-done-early-running-late/]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Testing code when you don’t know the right answer]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/testing-code-when-you-dont-know-the-right-answer]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/testing-code-when-you-dont-know-the-right-answer]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[iPhone Duo Reviews]]></title>
@@ -85,14 +101,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS testing with Claude Code]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/ios-testing-with-claude-code]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -270,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.sagarunagar.com/blog/swift-oslog-instead-of-print/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-oslog-instead-of-print/]]></guid>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[undefined]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/10/16/netnewswire-on-how-they-added-iphone-duo-support/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/16/netnewswire-on-how-they-added-iphone-duo-support/]]></guid>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
