@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Oct 2026 03:47:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 09:11:38 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Your Phone Summarizes Notifications. Here's the Path One Takes Before You See It.]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/your-phone-summarizes-notifications-here-s-the-path-one-takes-before-you-see-it]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-phone-summarizes-notifications-here-s-the-path-one-takes-before-you-see-it]]></guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Ready Time 3.13: Done Early, Running Late]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></guid>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Happens When You Tap "Sign in with Google" or a Passkey]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/what-happens-when-you-tap-sign-in-with-google-or-a-passkey]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/what-happens-when-you-tap-sign-in-with-google-or-a-passkey]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -353,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The same mess, now able to talk back]]></title>
-    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
-    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The same mess, now able to talk back]]></title>
+    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
+    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
