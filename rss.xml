@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 23 Oct 2026 14:45:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 19:53:53 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[YarnBuddy 2.4 is Now Available!]]></title>
+    <description><![CDATA[https://www.beckyhansmeyer.com/]]></description>
+    <link><![CDATA[https://www.beckyhansmeyer.com/2026/10/23/yarnbuddy-2-4-is-now-available/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.beckyhansmeyer.com/2026/10/23/yarnbuddy-2-4-is-now-available/]]></guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Async Await: Modern Concurrency Without the Callback Chaos]]></title>
@@ -61,14 +69,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/10/22/iphone-duo-reviews/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/22/iphone-duo-reviews/]]></guid>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[*Taps Mic* Is This Thing On?]]></title>
-    <description><![CDATA[https://www.beckyhansmeyer.com/]]></description>
-    <link><![CDATA[https://www.beckyhansmeyer.com/2026/10/22/taps-mic-is-this-thing-on/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.beckyhansmeyer.com/2026/10/22/taps-mic-is-this-thing-on/]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
