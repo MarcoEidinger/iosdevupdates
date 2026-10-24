@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 24 Oct 2026 03:40:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:44:11 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Dynamic Type for Custom Fonts in SwiftUI - A 4-Line Fix]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-custom-fonts-dynamic-type/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-custom-fonts-dynamic-type/]]></guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[RealitySDFPhysics]]></title>
@@ -273,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Logging - Use OSLog Instead of print()]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swift-oslog-instead-of-print/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swift-oslog-instead-of-print/]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Mac app Help Books.]]></title>
     <description><![CDATA[https://www.amyworrall.com]]></description>
     <link><![CDATA[https://www.amyworrall.com/blog/building-mac-app-help-books]]></link>
@@ -401,6 +401,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
+    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
+    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Testing Async Code in Swift: Stop Using Task.yield() in Your Tests]]></title>
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/testing-swift-tasks-with-itaskfactory/]]></link>
@@ -454,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/swiftui-modifier-order/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-modifier-order/]]></guid>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ How we run Tuist with AI agents, Kubernetes, and Elixir ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/10/02/the-languages-agents-speak]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/10/02/the-languages-agents-speak]]></guid>
-    <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
