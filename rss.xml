@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 24 Oct 2026 20:26:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:04:55 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Safari annoyingly announces reader and translation]]></title>
@@ -369,18 +369,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The same mess, now able to talk back]]></title>
-    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
-    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The same mess, now able to talk back]]></title>
+    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
+    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
