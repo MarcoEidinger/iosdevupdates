@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Oct 2026 09:53:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 16:43:54 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[When Apps Are No Longer Tied to a Specific Operating System - Fatbobman's Swift Weekly #159]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How the Xcode 27 MCP can lead to higher token costs when navigating the Simulator]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What Should Go in a View Model in SwiftUI?]]></title>
@@ -121,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Metrics should filter, not rank]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/metrics-filter-not-rank/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/metrics-filter-not-rank/]]></guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Ready Time 3.13: Done Early, Running Late]]></title>
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/10/22/ready-time-3.13-done-early-running-late/]]></link>
@@ -157,6 +173,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Tic Tac Toe in SwiftUI, Done Properly: Value-Type Game State, Win Detection and an Unbeatable Minimax Opponent]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/tic-tac-toe-in-swiftui-done-properly/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/tic-tac-toe-in-swiftui-done-properly/]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -221,22 +245,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://skarol.dev]]></description>
     <link><![CDATA[https://skarol.dev/posts/getting-your-app-ready-for-iphone-duo]]></link>
     <guid isPermaLink="true"><![CDATA[https://skarol.dev/posts/getting-your-app-ready-for-iphone-duo]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Who Is the Real Threat to AI-Relay Apps? - Fatbobman's Swift Weekly #158]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-158/]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SwiftUI Performance: Find Redraws in Xcode Instruments]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
