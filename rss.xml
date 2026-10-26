@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 26 Oct 2026 03:40:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 09:53:44 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[What Should Go in a View Model in SwiftUI?]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Your On-Device AI Doesn't Crash in Minute One. It Crashes at Minute Sixty.]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/your-on-device-ai-doesn-t-crash-in-minute-one-it-crashes-at-minute-sixty]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-on-device-ai-doesn-t-crash-in-minute-one-it-crashes-at-minute-sixty]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What Bazel Thinks Has Changed]]></title>
@@ -17,7 +33,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Pocket Casts Unfolded]]></title>
+    <title><![CDATA[Pocket Casts on iPhone Duo]]></title>
     <description><![CDATA[https://kean.blog/]]></description>
     <link><![CDATA[https://kean.blog/post/pocket-casts-iphone-duo]]></link>
     <guid isPermaLink="true"><![CDATA[https://kean.blog/post/pocket-casts-iphone-duo]]></guid>
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@dkvekariya]]></description>
     <link><![CDATA[https://dkvekariya.medium.com/swift-async-await-modern-concurrency-without-the-callback-chaos-9832bc47fb53?source=rss-6317b0b805bf------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-async-await-modern-concurrency-without-the-callback-chaos-9832bc47fb53?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your Phone Summarizes Notifications. Here's the Path One Takes Before You See It.]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/your-phone-summarizes-notifications-here-s-the-path-one-takes-before-you-see-it]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-phone-summarizes-notifications-here-s-the-path-one-takes-before-you-see-it]]></guid>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -241,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[When to Use a View Model in SwiftUI (and When It’s Overkill)]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-view-model-use-case?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-view-model-use-case]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-view-model-use-case?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-view-model-use-case]]></guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[From ASCII to Emoji: The Story of String Encoding in Swift]]></title>
     <description><![CDATA[https://ahmedkomsan.com/posts/]]></description>
     <link><![CDATA[https://ahmedkomsan.com/posts/2026-10-19-string-encoding-in-swift/]]></link>
@@ -377,18 +377,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
-    <description><![CDATA[https://www.basbroek.nl/]]></description>
-    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The same mess, now able to talk back]]></title>
     <description><![CDATA[https://appsdonewright.com/posts/]]></description>
     <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
+    <description><![CDATA[https://www.basbroek.nl/]]></description>
+    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
