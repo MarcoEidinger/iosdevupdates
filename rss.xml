@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Oct 2026 11:46:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:40:22 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[macOS 27.2 fixed 263 CVE, credited 262. Who was uncredited? Me, I think.]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/9.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/9.html]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[tvOS has no Local Network permission prompt]]></title>
+    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
+    <link><![CDATA[https://mcmizzle.com/blog/tvos-no-local-network-permission/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/tvos-no-local-network-permission/]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Your Phone Is Telling Your AI App It's in Trouble. Here's How to Listen.]]></title>
@@ -73,18 +89,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Building Cockpit: A Zero-Cloud macOS & iPad Productivity HUD]]></title>
-    <description><![CDATA[https://yorben.me]]></description>
-    <link><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Staff Android engineer is not senior plus]]></title>
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
     <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building Cockpit: A Zero-Cloud macOS & iPad Productivity HUD]]></title>
+    <description><![CDATA[https://yorben.me]]></description>
+    <link><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -118,14 +134,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://roland.leth.ro/blog/tech/ab-testing-app-store-screenshots-on-a-small-app]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/ab-testing-app-store-screenshots-on-a-small-app]]></guid>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Safari annoyingly announces reader and translation]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/8.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/8.html]]></guid>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -201,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Tic Tac Toe in SwiftUI, Done Properly: Value-Type Game State, Win Detection and an Unbeatable Minimax Opponent]]></title>
-    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
-    <link><![CDATA[https://bestlatestapps.com/blog/tic-tac-toe-in-swiftui-done-properly/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/tic-tac-toe-in-swiftui-done-properly/]]></guid>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Get your app working on iPhone Duo]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/get-your-app-working-on-iphone-duo]]></link>
@@ -222,14 +222,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[NWConnection reports a refused connection as waiting, not failed]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/nwconnection-connection-refused-waiting/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/nwconnection-connection-refused-waiting/]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -409,18 +401,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
-    <description><![CDATA[https://www.basbroek.nl/]]></description>
-    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The same mess, now able to talk back]]></title>
     <description><![CDATA[https://appsdonewright.com/posts/]]></description>
     <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
     <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
+    <description><![CDATA[https://www.basbroek.nl/]]></description>
+    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,6 +470,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why big companies are bad platform citizens]]></title>
+    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
+    <link><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
