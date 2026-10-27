@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Oct 2026 04:04:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 11:46:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Your Phone Is Telling Your AI App It's in Trouble. Here's How to Listen.]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/your-phone-is-telling-your-ai-app-it-s-in-trouble-here-s-how-to-listen]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-phone-is-telling-your-ai-app-it-s-in-trouble-here-s-how-to-listen]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Driving SwiftUI animations with the hinge angle on iPhone Duo]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/DrivingSwiftUIAnimationsWithTheHingeAngleOnIPhoneDuo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/DrivingSwiftUIAnimationsWithTheHingeAngleOnIPhoneDuo]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Hidden Pair, plainly explained]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Hit targets you can't see aren't affordances]]></title>
@@ -41,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Staff Android engineer is not senior plus]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
@@ -57,18 +73,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What Should Go in a View Model in SwiftUI?]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></guid>
+    <title><![CDATA[Building Cockpit: A Zero-Cloud macOS & iPad Productivity HUD]]></title>
+    <description><![CDATA[https://yorben.me]]></description>
+    <link><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Your On-Device AI Doesn't Crash in Minute One. It Crashes at Minute Sixty.]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/your-on-device-ai-doesn-t-crash-in-minute-one-it-crashes-at-minute-sixty]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-on-device-ai-doesn-t-crash-in-minute-one-it-crashes-at-minute-sixty]]></guid>
+    <title><![CDATA[Staff Android engineer is not senior plus]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Should Go in a View Model in SwiftUI?]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -117,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://christianselig.com]]></description>
     <link><![CDATA[https://christianselig.com/2026/10/ios-27-dynamic-island-bug/]]></link>
     <guid isPermaLink="true"><![CDATA[https://christianselig.com/2026/10/ios-27-dynamic-island-bug/]]></guid>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Quick timers and presets: a running timer in seconds]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/quick-timers-and-presets.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/quick-timers-and-presets.html]]></guid>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -181,14 +197,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></guid>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Whio: a reader built for technical books]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/IntroducingWhio]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -401,18 +409,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The same mess, now able to talk back]]></title>
-    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
-    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
     <description><![CDATA[https://www.basbroek.nl/]]></description>
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The same mess, now able to talk back]]></title>
+    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
+    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -449,6 +457,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
+    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
+    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Testing Async Code in Swift: Stop Using Task.yield() in Your Tests]]></title>
     <description><![CDATA[https://www.nsvasilev.com/]]></description>
     <link><![CDATA[https://nsvasilev.com/posts/testing-swift-tasks-with-itaskfactory/]]></link>
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why big companies are bad platform citizens]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue 097: File Systems]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-97-file-systems/]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
