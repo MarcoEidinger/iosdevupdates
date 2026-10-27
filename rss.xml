@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Oct 2026 17:40:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 21:57:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[MacBook Pro (M6, 2026)]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/27/macbook-pro-m6-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/27/macbook-pro-m6-2026/]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS 27.2 fixed 263 CVE, credited 262. Who was uncredited? Me, I think.]]></title>
@@ -41,6 +49,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Don’t Launch to an Empty Room]]></title>
+    <description><![CDATA[https://www.swiftjectivec.com/]]></description>
+    <link><![CDATA[https://swiftjectivec.com/Dont-Launch-to-an-Empty-Room]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftjectivec.com/Dont-Launch-to-an-Empty-Room]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Writing PrivacyInfo.xcprivacy Without Guesswork: How My Browser-Based Privacy Manifest Generator Models Apple's Rules]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/writing-privacyinfo-xcprivacy-without-guesswork/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/writing-privacyinfo-xcprivacy-without-guesswork/]]></guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Hidden Pair, plainly explained]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></link>
@@ -54,14 +78,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://en.kou-works.jp/blog/invisible-hit-targets/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/invisible-hit-targets/]]></guid>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iPad mini (8th Generation)]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/26/ipad-mini-8th-generation/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/26/ipad-mini-8th-generation/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -81,18 +97,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
-    <description><![CDATA[https://www.stphndxn.com/]]></description>
-    <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Staff Android engineer is not senior plus]]></title>
     <description><![CDATA[https://salari.dev]]></description>
     <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
     <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -109,6 +125,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Running Async Work Early Without Losing Execution Order]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -237,14 +261,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Apple App Attest in iOS Development]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></guid>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -470,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></link>
     <guid isPermaLink="true"><![CDATA[https://cuteios.dev/2026/10/08/evaluations-chat/]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why big companies are bad platform citizens]]></title>
-    <description><![CDATA[https://www.scottberrevoets.com/]]></description>
-    <link><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://scottberrevoets.com/2026/10/05/why-big-companies-are-bad-platform-citizens/]]></guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
