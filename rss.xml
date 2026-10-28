@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 27 Oct 2026 21:57:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:04:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[MacBook Pro (M6, 2026)]]></title>
@@ -125,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftyplace.com/]]></description>
     <link><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/mvvm-what-in-viewmodel?utm_source=rss&utm_medium=rss&utm_campaign=mvvm-what-in-viewmodel]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Running Async Work Early Without Losing Execution Order]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -261,6 +253,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple App Attest in iOS Development]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></guid>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
