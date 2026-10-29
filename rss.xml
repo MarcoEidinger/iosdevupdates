@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Oct 2026 08:11:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 16:44:29 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Same Task, Three Models: Your First Call to Apple's, Google's and an External AI]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/same-task-three-models-your-first-call-to-apple-s-google-s-and-an-external-ai]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/same-task-three-models-your-first-call-to-apple-s-google-s-and-an-external-ai]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[A Health Update]]></title>
@@ -29,14 +37,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></guid>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Your App's AI Can Run in Three Places. Each One Sends Your Data Somewhere Else.]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/your-app-s-ai-can-run-in-three-places-each-one-sends-your-data-somewhere-else]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-app-s-ai-can-run-in-three-places-each-one-sends-your-data-somewhere-else]]></guid>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
