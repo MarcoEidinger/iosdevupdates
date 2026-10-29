@@ -6,13 +6,69 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Oct 2026 16:44:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:33:59 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[eMudhra Intermediate CA Compromise]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/29/emudhra-intermediate-ca-compromise/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/29/emudhra-intermediate-ca-compromise/]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A surge of Do iOS newsletter signups]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/a-surge-of-newsletter-signups]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/a-surge-of-newsletter-signups]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Design the interface for functionality not familiarity]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/10.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/10.html]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Same Task, Three Models: Your First Call to Apple's, Google's and an External AI]]></title>
     <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
     <link><![CDATA[https://sairamkotha.hashnode.dev/same-task-three-models-your-first-call-to-apple-s-google-s-and-an-external-ai]]></link>
     <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/same-task-three-models-your-first-call-to-apple-s-google-s-and-an-external-ai]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[PR Reviews Are for Humans]]></title>
+    <description><![CDATA[https://kean.blog/]]></description>
+    <link><![CDATA[https://kean.blog/post/pr-reviews-are-for-humans]]></link>
+    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/pr-reviews-are-for-humans]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A UIKit scene migration can launch and still lose its first link]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Closing Up: Why I’m making some of my projects closed-source]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/10/29/closing-up-why-i-m-making-some-of-my-projects-closed-source]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/29/closing-up-why-i-m-making-some-of-my-projects-closed-source]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I returned my iPhone Duo]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -25,27 +81,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Developing Mac Apps for Touch]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/28/developing-macos-apps-for-touch/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/28/developing-macos-apps-for-touch/]]></guid>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[JWTKit 5.8.0 Security Fixes]]></title>
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></link>
     <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></guid>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[macOS 27.2 fixed 263 CVE, credited 262. Who was uncredited? Me, I think.]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/9.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/9.html]]></guid>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -121,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Staff Android engineer is not senior plus]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
@@ -157,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/10/25/what-bazel-thinks-has-changed.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/10/25/what-bazel-thinks-has-changed.html]]></guid>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Pocket Casts on iPhone Duo]]></title>
-    <description><![CDATA[https://kean.blog/]]></description>
-    <link><![CDATA[https://kean.blog/post/pocket-casts-iphone-duo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/pocket-casts-iphone-duo]]></guid>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -238,14 +262,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Get your app working on iPhone Duo]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/get-your-app-working-on-iphone-duo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/get-your-app-working-on-iphone-duo]]></guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,22 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://alejandromp.com/development/]]></description>
     <link><![CDATA[https://alejandromp.com/development/blog/using-jev-to-help-a-human-decide]]></link>
     <guid isPermaLink="true"><![CDATA[https://alejandromp.com/development/blog/using-jev-to-help-a-human-decide]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Decompose Run-On Tests (In Swift Testing)]]></title>
-    <description><![CDATA[https://jaimzuber.com/]]></description>
-    <link><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></link>
-    <guid isPermaLink="true"><![CDATA[http://jaimzuber.com/testing/decompose-run-on-tests]]></guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
-    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
-    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
