@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 29 Oct 2026 01:40:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:11:33 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[A Health Update]]></title>
@@ -481,10 +481,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Testing Async Code in Swift: Stop Using Task.yield() in Your Tests]]></title>
-    <description><![CDATA[https://www.nsvasilev.com/]]></description>
-    <link><![CDATA[https://nsvasilev.com/posts/testing-swift-tasks-with-itaskfactory/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nsvasilev.com/posts/testing-swift-tasks-with-itaskfactory/]]></guid>
+    <title><![CDATA[Making UIKit app ready for iPhone Duo with two small changes]]></title>
+    <description><![CDATA[https://rdovhaliuk.medium.com/]]></description>
+    <link><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rdovhaliuk.medium.com/making-uikit-app-ready-for-iphone-duo-with-two-small-changes-e6420698b117?source=rss-eb30806e2170------2]]></guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
