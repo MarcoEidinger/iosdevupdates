@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 Oct 2026 19:04:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:34:12 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode 27.2]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/10/30/xcode-27-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/30/xcode-27-2/]]></guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Swift Actors: Safe Shared State in Concurrent Code]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/interesting-ways-of-using-swift-optionals]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/interesting-ways-of-using-swift-optionals]]></guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[No, AI Doesn't Give You The Average Answer]]></title>
+    <description><![CDATA[https://build.ms]]></description>
+    <link><![CDATA[https://build.ms/notes/2026/10/30/no-ai-doesnt-give-you-the-average-answer/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/10/30/no-ai-doesnt-give-you-the-average-answer/]]></guid>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -46,14 +62,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://sairamkotha.hashnode.dev/what-the-phone-s-built-in-ai-can-and-cannot-do-limits-typed-output-tools-and-images]]></link>
     <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/what-the-phone-s-built-in-ai-can-and-cannot-do-limits-typed-output-tools-and-images]]></guid>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[eMudhra Intermediate CA Compromise]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/10/29/emudhra-intermediate-ca-compromise/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/10/29/emudhra-intermediate-ca-compromise/]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -285,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.sicpers.info/]]></description>
     <link><![CDATA[https://www.sicpers.info/2026/10/announcing-axminster-visual-software-design/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/10/announcing-axminster-visual-software-design/]]></guid>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[The Problem With Waterfall]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/2026/10/22/the-problem-with-waterfall/]]></guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
