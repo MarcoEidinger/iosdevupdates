@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 Oct 2026 04:48:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 12:20:57 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Introducing a brand new OnboardingKit]]></title>
+    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
+    <link><![CDATA[https://danielsaidi.com/blog/2026/10/30/introducing-a-brand-new-onboardingkit]]></link>
+    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/30/introducing-a-brand-new-onboardingkit]]></guid>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[LinkBunny — Autonomous Backlink Exchanges for Coding Agents]]></title>
@@ -57,18 +65,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A UIKit scene migration can launch and still lose its first link]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></guid>
+    <title><![CDATA[How to use communication pattern in Swift]]></title>
+    <description><![CDATA[https://onmyway133.com/]]></description>
+    <link><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></link>
+    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Closing Up: Why I’m making some of my projects closed-source]]></title>
-    <description><![CDATA[https://danielsaidi.com/blog/]]></description>
-    <link><![CDATA[https://danielsaidi.com/blog/2026/10/29/closing-up-why-i-m-making-some-of-my-projects-closed-source]]></link>
-    <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/10/29/closing-up-why-i-m-making-some-of-my-projects-closed-source]]></guid>
+    <title><![CDATA[A UIKit scene migration can launch and still lose its first link]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -193,6 +201,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Running Async Work Early Without Losing Execution Order]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[What Bazel Thinks Has Changed]]></title>
     <description><![CDATA[https://adincebic.com]]></description>
     <link><![CDATA[https://adincebic.com/2026/10/25/what-bazel-thinks-has-changed.html]]></link>
@@ -297,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple App Attest in iOS Development]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/apple-app-attest-in-ios-development/]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[VMPal]]></title>
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/10/vmpal.html]]></link>
@@ -350,14 +358,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://ko9.org/posts/new-site-generator/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/new-site-generator/]]></guid>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How to make your apps stand out on the App Store]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-make-your-apps-stand-out-on-the-app-store/]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
