@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 31 Oct 2026 04:32:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 11:52:36 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Hybrid AI Routing: Try the Phone First, Fall Back to the Cloud Without Surprising the User]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/hybrid-ai-routing-on-device-first-cloud-fallback]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/hybrid-ai-routing-on-device-first-cloud-fallback]]></guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[State of Universal Links and App Links 2026: Top 10,000 Sites]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/state-of-universal-links-and-app-links-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/state-of-universal-links-and-app-links-2026/]]></guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode Code Snippets - Automate Boilerplate with Placeholders]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/xcode-code-snippets-boilerplate/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xcode-code-snippets-boilerplate/]]></guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Xcode 27.2]]></title>
@@ -57,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What the Phone's Built-In AI Can and Cannot Do: Limits, Typed Output, Tools and Images]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/what-the-phone-s-built-in-ai-can-and-cannot-do-limits-typed-output-tools-and-images]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/what-the-phone-s-built-in-ai-can-and-cannot-do-limits-typed-output-tools-and-images]]></guid>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[A surge of Do iOS newsletter signups]]></title>
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/a-surge-of-newsletter-signups]]></link>
@@ -93,6 +109,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[A UIKit scene migration can launch and still lose its first link]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -153,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Writing PrivacyInfo.xcprivacy: Modelling Apple's Rules]]></title>
-    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
-    <link><![CDATA[https://bestlatestapps.com/blog/writing-privacyinfo-xcprivacy-without-guesswork/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/writing-privacyinfo-xcprivacy-without-guesswork/]]></guid>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Hidden Pair, plainly explained]]></title>
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></link>
@@ -189,14 +205,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Staff Android engineer is not senior plus]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -257,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Dynamic Type for Custom Fonts in SwiftUI - A 4-Line Fix]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-custom-fonts-dynamic-type/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-custom-fonts-dynamic-type/]]></guid>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[RealitySDFPhysics]]></title>
     <description><![CDATA[https://elkraneo.com/]]></description>
     <link><![CDATA[https://elkraneo.com/realitysdfphysics/]]></link>
@@ -301,6 +301,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://aplus.rs/categories/iosdev/]]></description>
     <link><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aplus.rs/2026/mac-mini-sluggish-ui-fix/]]></guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Bringing Tuist to Elixir ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/10/21/elixir-support]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/10/21/elixir-support]]></guid>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -478,14 +486,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Escaping the Cohabiting Trap in Shared Components]]></title>
-    <description><![CDATA[https://williamboles.com/]]></description>
-    <link><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://williamboles.com/escaping-the-cohabiting-trap/]]></guid>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
