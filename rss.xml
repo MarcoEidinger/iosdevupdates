@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 30 Oct 2026 23:34:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 04:32:35 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Xcode 27.2]]></title>
@@ -93,14 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://onmyway133.com/]]></description>
     <link><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></link>
     <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-use-communication-pattern-in-swift/]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A UIKit scene migration can launch and still lose its first link]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/uikit-scene-migration-cold-warm-routing/]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -197,6 +189,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Staff Android engineer is not senior plus]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/staff-android-engineer-is-not-senior-plus/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
