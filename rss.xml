@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Nov 2026 16:41:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:50:55 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Plans for WoW: Forever]]></title>
+    <description><![CDATA[https://mikezornek.com/]]></description>
+    <link><![CDATA[https://mikezornek.com/posts/2026/11/my-plans-for-wow-forever/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/11/my-plans-for-wow-forever/]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[On-Device vs Cloud AI: Build a Mobile Agent That Knows When to Ask]]></title>
@@ -29,6 +37,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-11-01-sir-patrick-stewart-dies-at-86/?utm_source=rss&utm_medium=feed]]></link>
     <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-11-01-sir-patrick-stewart-dies-at-86/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Slow Return to a Swift Career]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></guid>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -425,14 +441,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[LLMs Are Tools]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/llms-are-tools/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/llms-are-tools/]]></guid>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Xcode Projects for the Command Line and Coding Agents]]></title>
     <description><![CDATA[https://artemnovichkov.com/]]></description>
     <link><![CDATA[https://artemnovichkov.com/blog/xcode-projects-for-the-command-line-and-coding-agents]]></link>
@@ -477,14 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://ivanmagda.dev]]></description>
     <link><![CDATA[https://ivanmagda.dev/posts/swift-debounce-runtime-investigation/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/swift-debounce-runtime-investigation/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Localization-first development]]></title>
-    <description><![CDATA[https://macguru.dev/]]></description>
-    <link><![CDATA[https://macguru.dev/localization-first-development/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://macguru.dev/localization-first-development/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
