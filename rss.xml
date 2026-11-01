@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 31 Oct 2026 21:10:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:48:36 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[undefined]]></title>
@@ -481,10 +481,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The same mess, now able to talk back]]></title>
-    <description><![CDATA[https://appsdonewright.com/posts/]]></description>
-    <link><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appsdonewright.com/posts/the_wrong_kind_of_experience/]]></guid>
+    <title><![CDATA[Find SwiftUI Views in Unit Tests, the Robust Way]]></title>
+    <description><![CDATA[https://qualitycoding.org/]]></description>
+    <link><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
