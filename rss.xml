@@ -6,13 +6,37 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Nov 2026 00:48:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 08:54:06 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[The Dimensions of One or More Screenshots Are Wrong: Fix]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Every corner of a 9:16 video is taken]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/watermark-placement-vertical-video/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/watermark-placement-vertical-video/]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[undefined]]></title>
     <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
     <link><![CDATA[https://ivanthinking.net/2026/10/31/simulate-shake-is-back-in-device-hub-in/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/10/31/simulate-shake-is-back-in-device-hub-in/]]></guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftData rollback after a failed save]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/swiftdata-rollback-after-a-failed-save]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/swiftdata-rollback-after-a-failed-save]]></guid>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -33,10 +57,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[State of Universal Links and App Links 2026: Top 10,000 Sites]]></title>
-    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
-    <link><![CDATA[https://bestlatestapps.com/blog/state-of-universal-links-and-app-links-2026/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/state-of-universal-links-and-app-links-2026/]]></guid>
+    <title><![CDATA[Typing Is Not Typing Typing Is Understanding]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/10/31/typing-is-not-typing-typing-is-understanding]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/31/typing-is-not-typing-typing-is-understanding]]></guid>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[CSRF in Next.js route handlers, without tokens]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/csrf-in-next-js-route-handlers-without-tokens]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/csrf-in-next-js-route-handlers-without-tokens]]></guid>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Driving SwiftUI animations with the hinge angle on iPhone Duo]]></title>
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/DrivingSwiftUIAnimationsWithTheHingeAngleOnIPhoneDuo]]></link>
@@ -198,22 +214,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/hidden-pair-plainly-explained.html]]></guid>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hit targets you can't see aren't affordances]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/invisible-hit-targets/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/invisible-hit-targets/]]></guid>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[When Apps Are No Longer Tied to a Specific Operating System - Fatbobman's Swift Weekly #159]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -385,14 +385,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Simplifying Sorting Filtering And Pagination In Swiftui Using Hotelquery]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/10/17/simplifying-sorting-filtering-and-pagination-in-swiftui-using-hotelquery]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/10/17/simplifying-sorting-filtering-and-pagination-in-swiftui-using-hotelquery]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why Italian politics is “a bit of a mess”]]></title>
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2026/10/17/italian_politics_is_a_bit_of_a_mess]]></link>
@@ -485,6 +477,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://qualitycoding.org/]]></description>
     <link><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></link>
     <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
+    <description><![CDATA[https://www.basbroek.nl/]]></description>
+    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
