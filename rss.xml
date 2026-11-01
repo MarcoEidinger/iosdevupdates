@@ -6,7 +6,31 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 01 Nov 2026 08:54:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 16:41:08 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[On-Device vs Cloud AI: Build a Mobile Agent That Knows When to Ask]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/on-device-vs-cloud-ai-build-a-mobile-agent-that-knows-when-to-ask]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/on-device-vs-cloud-ai-build-a-mobile-agent-that-knows-when-to-ask]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Validating Bazel Rule Attributes]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/11/01/validating-bazel-rule-attributes.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/01/validating-bazel-rule-attributes.html]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sir Patrick Stewart Dies at 86]]></title>
+    <description><![CDATA[https://stuartbreckenridge.net/]]></description>
+    <link><![CDATA[https://stuartbreckenridge.net/2026-11-01-sir-patrick-stewart-dies-at-86/?utm_source=rss&utm_medium=feed]]></link>
+    <guid isPermaLink="true"><![CDATA[https://stuartbreckenridge.net/2026-11-01-sir-patrick-stewart-dies-at-86/?utm_source=rss&utm_medium=feed]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The Dimensions of One or More Screenshots Are Wrong: Fix]]></title>
@@ -37,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/swiftdata-rollback-after-a-failed-save]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/swiftdata-rollback-after-a-failed-save]]></guid>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Hybrid AI Routing: Try the Phone First, Fall Back to the Cloud Without Surprising the User]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/hybrid-ai-routing-on-device-first-cloud-fallback]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/hybrid-ai-routing-on-device-first-cloud-fallback]]></guid>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -217,6 +233,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[When Apps Are No Longer Tied to a Specific Operating System - Fatbobman's Swift Weekly #159]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-159/]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[How the Xcode 27 MCP can lead to higher token costs when navigating the Simulator]]></title>
     <description><![CDATA[https://www.avanderlee.com]]></description>
     <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-simulator-token-costs/]]></link>
@@ -254,14 +278,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></link>
     <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[What Bazel Thinks Has Changed]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/10/25/what-bazel-thinks-has-changed.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/10/25/what-bazel-thinks-has-changed.html]]></guid>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -469,22 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://macguru.dev/]]></description>
     <link><![CDATA[https://macguru.dev/localization-first-development/]]></link>
     <guid isPermaLink="true"><![CDATA[https://macguru.dev/localization-first-development/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Find SwiftUI Views in Unit Tests, the Robust Way]]></title>
-    <description><![CDATA[https://qualitycoding.org/]]></description>
-    <link><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://qualitycoding.org/find-swiftui-views-unit-tests/]]></guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Assistive Access — iOS Easy Mode, Revisited]]></title>
-    <description><![CDATA[https://www.basbroek.nl/]]></description>
-    <link><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.basbroek.nl/assistive-access-revisited]]></guid>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
