@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Tue, 03 Nov 2026 11:45:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 19:15:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[UIKit from SwiftUI on the iPhone Duo]]></title>
+    <description><![CDATA[https://furbo.org]]></description>
+    <link><![CDATA[https://furbo.org/2026/11/03/uikit-from-swiftui-on-the-iphone-duo/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/11/03/uikit-from-swiftui-on-the-iphone-duo/]]></guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why Your App Looks Right but Feels Wrong]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/why-your-app-looks-right-but-feels-wrong/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/why-your-app-looks-right-but-feels-wrong/]]></guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple’s Q4 2026 Results]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/03/apples-q4-2026-results/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/03/apples-q4-2026-results/]]></guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Store Scams in Education]]></title>
+    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
+    <link><![CDATA[https://lapcatsoftware.com/articles/2026/11/1.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/11/1.html]]></guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[The role of layout priority in SwiftUI containers]]></title>
@@ -29,14 +61,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Golden Gate Does Not Actually Support CoreStorage]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/02/golden-gate-does-not-actually-support-corestorage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/02/golden-gate-does-not-actually-support-corestorage/]]></guid>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -233,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Design the interface for functionality not familiarity]]></title>
-    <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
-    <link><![CDATA[https://lapcatsoftware.com/articles/2026/10/10.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://lapcatsoftware.com/articles/2026/10/10.html]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Bring Receipts]]></title>
     <description><![CDATA[https://kean.blog/]]></description>
     <link><![CDATA[https://kean.blog/post/pr-reviews-are-for-humans]]></link>
@@ -281,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A Health Update]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2026/10/28/a-health-update/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/10/28/a-health-update/]]></guid>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[JWTKit 5.8.0 Security Fixes]]></title>
     <description><![CDATA[https://blog.vapor.codes]]></description>
     <link><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></link>
@@ -325,14 +333,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://yorben.me]]></description>
     <link><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Running Async Work Early Without Losing Execution Order]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/running-async-work-early-without-losing-execution-order/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
