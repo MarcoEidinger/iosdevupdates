@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 05 Nov 2026 05:33:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 14:13:02 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Retention Messaging in App Store Subscriptions]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/retention-messaging-in-app-store-subscriptions/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/retention-messaging-in-app-store-subscriptions/]]></guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Preserve Clear Actions In Codable Updates]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/preserve-clear-actions-in-codable-updates/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/preserve-clear-actions-in-codable-updates/]]></guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Karri Saarinen: Someone Behind the Software]]></title>
@@ -49,6 +65,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Opening a panel right under the text caret on macOS]]></title>
+    <description><![CDATA[https://dev.to/berkay_gke_074ece66c73f]]></description>
+    <link><![CDATA[https://dev.to/berkay_gke_074ece66c73f/opening-a-panel-right-under-the-text-caret-on-macos-17af]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dev.to/berkay_gke_074ece66c73f/opening-a-panel-right-under-the-text-caret-on-macos-17af]]></guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[iPhone Duo Discovery and Guidelines]]></title>
     <description><![CDATA[https://dino-bozic.medium.com/]]></description>
     <link><![CDATA[https://medium.com/azikus/iphone-duo-discovery-and-guidelines-bf21af250451?source=rss-e26c12d2644------2]]></link>
@@ -81,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Keep Search Highlights Attached To The Original Text]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/keep-search-highlights-attached-to-the-original-text/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/keep-search-highlights-attached-to-the-original-text/]]></guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Shelf Life of Knowledge]]></title>
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/11/03/the-shelf-life-of-knowledge/]]></link>
@@ -101,14 +117,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2026/11/03/uikit-from-swiftui-on-the-iphone-duo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/11/03/uikit-from-swiftui-on-the-iphone-duo/]]></guid>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Why Your App Looks Right but Feels Wrong]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/why-your-app-looks-right-but-feels-wrong/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/why-your-app-looks-right-but-feels-wrong/]]></guid>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -329,18 +337,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Carving a pumpkin out of math.]]></title>
-    <description><![CDATA[https://boyucheng.me/blog]]></description>
-    <link><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></link>
-    <guid isPermaLink="true"><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why I returned my iPhone Duo]]></title>
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Carving a pumpkin out of math.]]></title>
+    <description><![CDATA[https://boyucheng.me/blog]]></description>
+    <link><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></link>
+    <guid isPermaLink="true"><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -361,18 +369,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
-    <description><![CDATA[https://www.stphndxn.com/]]></description>
-    <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Building Cockpit: A Zero-Cloud macOS & iPad Productivity HUD]]></title>
     <description><![CDATA[https://yorben.me]]></description>
     <link><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://yorben.me/articles/building-cockpit-macos-hud.html]]></guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Designing Apps for iPhone Duo: Lessons From Adapting Three Apps]]></title>
+    <description><![CDATA[https://www.stphndxn.com/]]></description>
+    <link><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/designing-apps-for-iphone-duo-lessons-from-adapting-three-apps/]]></guid>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,14 +485,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://cdf1982.com/blog]]></description>
     <link><![CDATA[https://cdf1982.com/2026/10/17/italian_politics_is_a_bit_of_a_mess]]></link>
     <guid isPermaLink="true"><![CDATA[https://cdf1982.com/2026/10/17/italian_politics_is_a_bit_of_a_mess]]></guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Can you use your phone as a chess clock?]]></title>
-    <description><![CDATA[https://hearhear.agency/blog]]></description>
-    <link><![CDATA[https://hearhear.agency/blog/phone-as-chess-clock]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hearhear.agency/blog/phone-as-chess-clock]]></guid>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
