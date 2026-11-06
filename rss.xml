@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Nov 2026 09:19:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 17:23:39 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Swift Property Wrappers: State, Binding, Published, and Building Your Own]]></title>
+    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
+    <link><![CDATA[https://dkvekariya.medium.com/swift-property-wrappers-state-binding-published-and-building-your-own-56cb9c9f34a3?source=rss-6317b0b805bf------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-property-wrappers-state-binding-published-and-building-your-own-56cb9c9f34a3?source=rss-6317b0b805bf------2]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Skip, Day, and Rust: Why I'd Still Choose Swift and Kotlin]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/11/06/ai-changes-what-is-worth-sharing/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/06/ai-changes-what-is-worth-sharing/]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Keyframes go after the filter, not into it]]></title>
@@ -21,6 +37,22 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://obelisk.club/blog]]></description>
     <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
     <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Send Query Values Without Losing Plus Signs]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/send-query-values-without-losing-plus-signs/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/send-query-values-without-losing-plus-signs/]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[XCTUnwrap in Swift - Stop Force Unwrapping in Unit Tests]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></guid>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -77,14 +109,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://azamsharp.com/]]></description>
     <link><![CDATA[https://azamsharp.com/2026/11/05/learning-to-learn-in-the-age-of-ai]]></link>
     <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/11/05/learning-to-learn-in-the-age-of-ai]]></guid>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Preserve Clear Actions In Codable Updates]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/preserve-clear-actions-in-codable-updates/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/preserve-clear-actions-in-codable-updates/]]></guid>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -281,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Swift Actors: Safe Shared State in Concurrent Code]]></title>
-    <description><![CDATA[https://medium.com/@dkvekariya]]></description>
-    <link><![CDATA[https://dkvekariya.medium.com/swift-actors-safe-shared-state-in-concurrent-code-eb335ee63375?source=rss-6317b0b805bf------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swift-actors-safe-shared-state-in-concurrent-code-eb335ee63375?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Interesting ways of using Swift optionals]]></title>
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/interesting-ways-of-using-swift-optionals]]></link>
@@ -337,18 +353,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Why I returned my iPhone Duo]]></title>
-    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
-    <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
-    <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Carving a pumpkin out of math.]]></title>
     <description><![CDATA[https://boyucheng.me/blog]]></description>
     <link><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></link>
     <guid isPermaLink="true"><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I returned my iPhone Duo]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,14 +457,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[I Shipped an iPhone Duo App Before I Had the Phone. Thanks, App Reviewer.]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/]]></guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[AI, Agents & Human Judgment]]></title>
     <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
     <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue80]]></link>
@@ -470,14 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://mzeeshan.me/blog/ios-action-extension-icon-xcode]]></link>
     <guid isPermaLink="true"><![CDATA[https://mzeeshan.me/blog/ios-action-extension-icon-xcode]]></guid>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Creating a Static Site Generator]]></title>
-    <description><![CDATA[https://ko9.org/]]></description>
-    <link><![CDATA[https://ko9.org/posts/new-site-generator/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/new-site-generator/]]></guid>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
