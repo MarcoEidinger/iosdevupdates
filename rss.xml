@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 06 Nov 2026 22:50:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 05:02:35 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Safari’s Autofill Feature May Be Distorting Time]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/06/safaris-autofill-feature-may-be-distorting-time/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/06/safaris-autofill-feature-may-be-distorting-time/]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What’s the deal with screenshots on macOS Golden Gate?]]></title>
@@ -65,11 +73,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Unable to Export Mac Passwords]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/05/unable-to-export-mac-passwords/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/05/unable-to-export-mac-passwords/]]></guid>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[ Continuous localization with L10N.md ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -181,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-behind-your-photo-metadata.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-behind-your-photo-metadata.html]]></guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[ Tuist Runners: Going down to the bare metal on macOS and Linux ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/11/04/runners]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/11/04/runners]]></guid>
     <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
