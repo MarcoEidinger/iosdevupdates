@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 07 Nov 2026 23:34:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 04:55:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple's Free Cloud AI for Developers: How the Daily Quota Really Works]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/apple-private-cloud-compute-free-tier-daily-quota]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/apple-private-cloud-compute-free-tier-daily-quota]]></guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI not restoring the window size on macOS]]></title>
+    <description><![CDATA[https://roland.leth.ro/]]></description>
+    <link><![CDATA[https://roland.leth.ro/blog/tech/swiftui-not-restoring-the-window-size-on-macos]]></link>
+    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/swiftui-not-restoring-the-window-size-on-macos]]></guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to style and animate SF Symbols in SwiftUI]]></title>
@@ -57,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Store 2026 in numbers]]></title>
-    <description><![CDATA[https://obelisk.club/blog]]></description>
-    <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
-    <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Send Query Values Without Losing Plus Signs]]></title>
     <description><![CDATA[https://www.theswift.dev]]></description>
     <link><![CDATA[https://www.theswift.dev/posts/send-query-values-without-losing-plus-signs/]]></link>
@@ -73,18 +81,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[XCTUnwrap in Swift - Stop Force Unwrapping in Unit Tests]]></title>
-    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
-    <link><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[ Continuous localization with L10N.md ]]></title>
     <description><![CDATA[https://tuist.dev/]]></description>
     <link><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></link>
     <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[App Store 2026 in numbers]]></title>
+    <description><![CDATA[https://obelisk.club/blog]]></description>
+    <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
+    <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[XCTUnwrap in Swift - Stop Force Unwrapping in Unit Tests]]></title>
+    <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
+    <link><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></guid>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -145,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Ship Hybrid AI: Eligibility, Rollout and Monitoring]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/ship-hybrid-ai-eligibility-rollout-monitoring]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/ship-hybrid-ai-eligibility-rollout-monitoring]]></guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The simulator is crackling again: what changed with Device Hub and how to fix it]]></title>
     <description><![CDATA[https://skarol.dev]]></description>
     <link><![CDATA[https://skarol.dev/posts/simulator-audio-crackle]]></link>
@@ -205,14 +213,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/11/03/the-shelf-life-of-knowledge/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/11/03/the-shelf-life-of-knowledge/]]></guid>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Unsaved changes in the Next.js App Router]]></title>
-    <description><![CDATA[https://roland.leth.ro/]]></description>
-    <link><![CDATA[https://roland.leth.ro/blog/tech/unsaved-changes-in-the-next-js-app-router]]></link>
-    <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/unsaved-changes-in-the-next-js-app-router]]></guid>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,18 +289,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[My Slow Return to a Swift Career]]></title>
-    <description><![CDATA[https://ashfurrow.com/]]></description>
-    <link><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></guid>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[The Dimensions of One or More Screenshots Are Wrong: Fix]]></title>
     <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
     <link><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[My Slow Return to a Swift Career]]></title>
+    <description><![CDATA[https://ashfurrow.com/]]></description>
+    <link><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></guid>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
