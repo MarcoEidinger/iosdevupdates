@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 08 Nov 2026 04:55:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 12:57:34 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bazel genquery]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/11/08/bazel-genquery.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/08/bazel-genquery.html]]></guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Apple's Free Cloud AI for Developers: How the Daily Quota Really Works]]></title>
@@ -21,6 +29,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://roland.leth.ro/]]></description>
     <link><![CDATA[https://roland.leth.ro/blog/tech/swiftui-not-restoring-the-window-size-on-macos]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/swiftui-not-restoring-the-window-size-on-macos]]></guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[MVC, MVP, MVVM, VIPER Which Ones Matter for SwiftUI?]]></title>
+    <description><![CDATA[https://www.swiftyplace.com/]]></description>
+    <link><![CDATA[https://www.swiftyplace.com/blog/architecture-comparison-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=architecture-comparison-swiftui]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/architecture-comparison-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=architecture-comparison-swiftui]]></guid>
     <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -73,6 +89,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[App Store 2026 in numbers]]></title>
+    <description><![CDATA[https://obelisk.club/blog]]></description>
+    <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
+    <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Send Query Values Without Losing Plus Signs]]></title>
     <description><![CDATA[https://www.theswift.dev]]></description>
     <link><![CDATA[https://www.theswift.dev/posts/send-query-values-without-losing-plus-signs/]]></link>
@@ -89,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[App Store 2026 in numbers]]></title>
-    <description><![CDATA[https://obelisk.club/blog]]></description>
-    <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
-    <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[XCTUnwrap in Swift - Stop Force Unwrapping in Unit Tests]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/]]></link>
@@ -109,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://furbo.org]]></description>
     <link><![CDATA[https://furbo.org/2026/11/05/simbuddy-2-a-better-bff/]]></link>
     <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/11/05/simbuddy-2-a-better-bff/]]></guid>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Dependency Injection in SwiftUI: Initializer, Environment, or Container]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/dependency-injection-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=dependency-injection-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/dependency-injection-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=dependency-injection-swiftui]]></guid>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -273,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Validating Bazel Rule Attributes]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/11/01/validating-bazel-rule-attributes.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/01/validating-bazel-rule-attributes.html]]></guid>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Sir Patrick Stewart Dies at 86]]></title>
     <description><![CDATA[https://stuartbreckenridge.net/]]></description>
     <link><![CDATA[https://stuartbreckenridge.net/2026-11-01-sir-patrick-stewart-dies-at-86/?utm_source=rss&utm_medium=feed]]></link>
@@ -289,18 +289,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The Dimensions of One or More Screenshots Are Wrong: Fix]]></title>
-    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
-    <link><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></guid>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[My Slow Return to a Swift Career]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/my-slow-return-to-a-swift-career/]]></guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The Dimensions of One or More Screenshots Are Wrong: Fix]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/the-dimensions-of-one-or-more-screenshots-are-wrong/]]></guid>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
