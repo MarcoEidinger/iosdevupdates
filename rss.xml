@@ -6,7 +6,55 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 11 Nov 2026 13:44:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:09:23 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Apple Closing Community Support Forum]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[undefined]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/11/11/seems-like-theres-a-bug-in-little-memory/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/11/11/seems-like-theres-a-bug-in-little-memory/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[SwiftUI Accessibility - Changing Layouts For Large Text Sizes]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/a11y-dynamic-type-change-layout/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/a11y-dynamic-type-change-layout/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[On applying ethics to the LLMs and coding assistants situation]]></title>
+    <description><![CDATA[https://www.sicpers.info/]]></description>
+    <link><![CDATA[https://www.sicpers.info/2026/11/on-applying-ethics-to-the-llms-and-coding-assistants-situation/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/11/on-applying-ethics-to-the-llms-and-coding-assistants-situation/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[What Am I Going to Do With Deep Dish Swift?]]></title>
+    <description><![CDATA[https://joshholtz.com/blog/]]></description>
+    <link><![CDATA[https://www.joshholtz.com/blog/2026/11/11/what-am-i-going-to-do-with-deep-dish-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.joshholtz.com/blog/2026/11/11/what-am-i-going-to-do-with-deep-dish-swift]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Stop paying tokens for grep: compiler-accurate call graphs for AI agents]]></title>
+    <description><![CDATA[https://arturgruchala.com/]]></description>
+    <link><![CDATA[https://arturgruchala.com/map-not-grep/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/map-not-grep/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[RealityBox3D]]></title>
@@ -21,6 +69,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
     <link><![CDATA[https://sairamkotha.hashnode.dev/apple-core-ai-vs-core-ml-iphone-app]]></link>
     <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/apple-core-ai-vs-core-ml-iphone-app]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[How Much More Expensive Has Life Become Since 2020?]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/personal-finance/how-much-more-expensive-has-life-become-since-2020/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/personal-finance/how-much-more-expensive-has-life-become-since-2020/]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -41,6 +97,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[The stopwatch: laps, the Lock Screen and Apple Watch]]></title>
+    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
+    <link><![CDATA[https://apps.advoss.de/en/blog/2026/stopwatch-laps-and-apple-watch.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/stopwatch-laps-and-apple-watch.html]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Keep SwiftUI Delete Confirmations Tied To The Right Revision]]></title>
     <description><![CDATA[https://www.theswift.dev]]></description>
     <link><![CDATA[https://www.theswift.dev/posts/keep-swiftui-delete-confirmations-tied-to-the-right-revision/]]></link>
@@ -49,26 +113,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Ready Time 3.14: Catch Your Flight]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/11/10/ready-time-3.14-catch-your-flight/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/11/10/ready-time-3.14-catch-your-flight/]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Showing a Bundled Help Guide in Your SwiftUI App]]></title>
     <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
     <link><![CDATA[https://swiftdevjournal.com/posts/show-help-guide-swiftui/]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/show-help-guide-swiftui/]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[BBEdit 16.1]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/10/bbedit-16-1/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/10/bbedit-16-1/]]></guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -97,18 +145,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Use Your Android Phone as a Microphone for a Bluetooth Speaker (2026)]]></title>
-    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
-    <link><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[LinkedIn for AI]]></title>
     <description><![CDATA[https://ashfurrow.com/]]></description>
     <link><![CDATA[https://ashfurrow.com/blog/linkedin-for-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://ashfurrow.com/blog/linkedin-for-ai/]]></guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Use Your Android Phone as a Microphone for a Bluetooth Speaker (2026)]]></title>
+    <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
+    <link><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -126,14 +174,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://aleahim.com/blog/cupertino-v1-5-0-five-months-diffed/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-5-0-five-months-diffed/]]></guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[On taking developments in software engineering personally]]></title>
-    <description><![CDATA[https://www.sicpers.info/]]></description>
-    <link><![CDATA[https://www.sicpers.info/2026/11/on-taking-developments-in-software-engineering-personally/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.sicpers.info/2026/11/on-taking-developments-in-software-engineering-personally/]]></guid>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -361,26 +401,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[EXIF, IPTC, XMP: what’s behind the metadata in your photos]]></title>
-    <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
-    <link><![CDATA[https://apps.advoss.de/en/blog/2026/whats-behind-your-photo-metadata.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/whats-behind-your-photo-metadata.html]]></guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Got out and voted]]></title>
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Too Many Choices - A little web tool to help make decisions]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/tmc-web-tool/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/tmc-web-tool/]]></guid>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -441,35 +465,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Carving a pumpkin out of math.]]></title>
-    <description><![CDATA[https://boyucheng.me/blog]]></description>
-    <link><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></link>
-    <guid isPermaLink="true"><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Why I returned my iPhone Duo]]></title>
     <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
     <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
     <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[JWTKit 5.8.0 Security Fixes]]></title>
-    <description><![CDATA[https://blog.vapor.codes]]></description>
-    <link><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://blog.vapor.codes/posts/jwt-kit-5-8-0/]]></guid>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[tvOS has no Local Network permission prompt]]></title>
-    <description><![CDATA[https://mcmizzle.com/blog/]]></description>
-    <link><![CDATA[https://mcmizzle.com/blog/tvos-no-local-network-permission/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mcmizzle.com/blog/tvos-no-local-network-permission/]]></guid>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
