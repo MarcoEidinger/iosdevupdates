@@ -6,13 +6,21 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 12 Nov 2026 12:19:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 21:23:55 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Agentic Engineering: How Development With AI Agents Works]]></title>
+    <title><![CDATA[From requirements to implementation: designing tasks for AI agents]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/agentic-engineering-how-development-with-ai-agents-works/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/agentic-engineering-how-development-with-ai-agents-works/]]></guid>
+    <link><![CDATA[https://livsycode.com/best-practices/from-requirements-to-implementation-designing-tasks-for-ai-agents/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/from-requirements-to-implementation-designing-tasks-for-ai-agents/]]></guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Do iOS 2026 in review]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/do-ios-2026-in-review]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/do-ios-2026-in-review]]></guid>
     <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -25,6 +33,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Working With Agents Md What I Learned]]></title>
+    <description><![CDATA[https://azamsharp.com/]]></description>
+    <link><![CDATA[https://azamsharp.com/2026/11/12/working-with-agents-md-what-i-learned]]></link>
+    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/11/12/working-with-agents-md-what-i-learned]]></guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[OneGraph and XRay Viewer: Two Mac Betas for Seeing Inside Your App]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/onegraph-and-xray-viewer-beta/]]></link>
@@ -33,11 +49,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple Closing Community Support Forum]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Stop Unexpected Redirects Before They Become API Errors]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/stop-unexpected-redirects-before-they-become-api-errors/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/stop-unexpected-redirects-before-they-become-api-errors/]]></guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -125,14 +141,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/stopwatch-laps-and-apple-watch.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/stopwatch-laps-and-apple-watch.html]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep SwiftUI Delete Confirmations Tied To The Right Revision]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/keep-swiftui-delete-confirmations-tied-to-the-right-revision/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/keep-swiftui-delete-confirmations-tied-to-the-right-revision/]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -289,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[How to style and animate SF Symbols in SwiftUI]]></title>
-    <description><![CDATA[https://onmyway133.com/]]></description>
-    <link><![CDATA[http://onmyway133.com/posts/how-to-style-and-animate-sf-symbols-in-swiftui/]]></link>
-    <guid isPermaLink="true"><![CDATA[http://onmyway133.com/posts/how-to-style-and-animate-sf-symbols-in-swiftui/]]></guid>
-    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[What’s the deal with screenshots on macOS Golden Gate?]]></title>
     <description><![CDATA[http://lapcatsoftware.com/articles/index.html]]></description>
     <link><![CDATA[https://lapcatsoftware.com/articles/2026/11/3.html]]></link>
@@ -349,14 +349,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://benscheirman.com/]]></description>
     <link><![CDATA[https://benscheirman.com/2026/11/hurry-up-and-wait]]></link>
     <guid isPermaLink="true"><![CDATA[https://benscheirman.com/2026/11/hurry-up-and-wait]]></guid>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Learning To Learn In The Age Of Ai]]></title>
-    <description><![CDATA[https://azamsharp.com/]]></description>
-    <link><![CDATA[https://azamsharp.com/2026/11/05/learning-to-learn-in-the-age-of-ai]]></link>
-    <guid isPermaLink="true"><![CDATA[https://azamsharp.com/2026/11/05/learning-to-learn-in-the-age-of-ai]]></guid>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -465,10 +457,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[A surge of Do iOS newsletter signups]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/a-surge-of-newsletter-signups]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/a-surge-of-newsletter-signups]]></guid>
+    <title><![CDATA[Carving a pumpkin out of math.]]></title>
+    <description><![CDATA[https://boyucheng.me/blog]]></description>
+    <link><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></link>
+    <guid isPermaLink="true"><![CDATA[https://boyucheng.me/blog/carving-a-pumpkin-out-of-math]]></guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why I returned my iPhone Duo]]></title>
+    <description><![CDATA[https://codakuma.com/ios-blog/]]></description>
+    <link><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></link>
+    <guid isPermaLink="true"><![CDATA[https://codakuma.com/why-i-returned-my-duo]]></guid>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
