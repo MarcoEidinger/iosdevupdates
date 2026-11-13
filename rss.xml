@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Fri, 13 Nov 2026 02:30:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 11:58:40 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Visual Verification: Giving AI Agents a Way to Check iOS Interfaces]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/visual-verification-giving-ai-agents-a-way-to-check-ios-interfaces/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/visual-verification-giving-ai-agents-a-way-to-check-ios-interfaces/]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[undefined]]></title>
+    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
+    <link><![CDATA[https://ivanthinking.net/2026/11/13/another-thought-about-touch-on-mac-i-find/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/11/13/another-thought-about-touch-on-mac-i-find/]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[PR Screenshots Don't Eat Your GitHub Repo's 10 GB]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Removing Image Backgrounds with the Vision Framework: A Mask-Based Approach]]></title>
+    <description><![CDATA[https://mzeeshan.me/blog]]></description>
+    <link><![CDATA[https://mzeeshan.me/blog/remove-image-background-vision-framework-swift]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mzeeshan.me/blog/remove-image-background-vision-framework-swift]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[How to master ScrollView in SwiftUI]]></title>
@@ -21,14 +53,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
     <link><![CDATA[https://mjtsai.com/blog/2026/11/12/tim-peters-rip/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/12/tim-peters-rip/]]></guid>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[From requirements to implementation: designing tasks for AI agents]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/from-requirements-to-implementation-designing-tasks-for-ai-agents/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/from-requirements-to-implementation-designing-tasks-for-ai-agents/]]></guid>
     <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -78,14 +102,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://www.theswift.dev/posts/stop-unexpected-redirects-before-they-become-api-errors/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/stop-unexpected-redirects-before-they-become-api-errors/]]></guid>
     <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[undefined]]></title>
-    <description><![CDATA[https://ivanthinking.net/tags/ios-development/]]></description>
-    <link><![CDATA[https://ivanthinking.net/2026/11/11/seems-like-theres-a-bug-in-little-memory/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanthinking.net/2026/11/11/seems-like-theres-a-bug-in-little-memory/]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -149,14 +165,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://swiftrocks.com/]]></description>
     <link><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></link>
     <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Claude Code Harness: Swap the Project CLAUDE.md for My Own]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/11/11/claude-code-override-project-claude-md/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/11/claude-code-override-project-claude-md/]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,14 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.swiftbysundell.com/]]></description>
     <link><![CDATA[https://www.swiftbysundell.com/articles/interesting-ways-of-using-swift-optionals]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.swiftbysundell.com/articles/interesting-ways-of-using-swift-optionals]]></guid>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[No, AI Doesn't Give You The Average Answer]]></title>
-    <description><![CDATA[https://build.ms]]></description>
-    <link><![CDATA[https://build.ms/notes/2026/10/30/no-ai-doesnt-give-you-the-average-answer/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/10/30/no-ai-doesnt-give-you-the-average-answer/]]></guid>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 
