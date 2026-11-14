@@ -6,7 +6,7 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 14 Nov 2026 00:46:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 08:45:34 +0000</lastBuildDate>
 
 <item>
     <title><![CDATA[Apple Creator Studio .keyx and AI Features]]></title>
@@ -45,6 +45,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The prompts that kept my coding agent honest]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/prompts-that-kept-agent-honest/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/prompts-that-kept-agent-honest/]]></guid>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -229,14 +237,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
     <link><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></link>
     <guid isPermaLink="true"><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Script the steps of manual QA, not the verdict]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/scripted-manual-qa-simulator/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/scripted-manual-qa-simulator/]]></guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
