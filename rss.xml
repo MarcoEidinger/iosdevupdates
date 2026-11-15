@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 15 Nov 2026 13:38:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 19:40:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[My Opinion on Bazel Target Naming]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/11/15/my-opinion-on-bazel-target.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/15/my-opinion-on-bazel-target.html]]></guid>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Bit Fields and the Optimiser]]></title>
+    <description><![CDATA[https://ko9.org/]]></description>
+    <link><![CDATA[https://ko9.org/posts/optimised-bitfield/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ko9.org/posts/optimised-bitfield/]]></guid>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Multi-Agent Development: When Parallel Work Helps and How to Keep It Under Control]]></title>
@@ -78,6 +94,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/2026-11-14_blacksmith-testbox-for-ios/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-14_blacksmith-testbox-for-ios/]]></guid>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Apple Creator Studio .keyx and AI Features]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/13/apple-creator-studio-keyx-and-ai-features/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/13/apple-creator-studio-keyx-and-ai-features/]]></guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -321,14 +345,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Bazel genquery]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/11/08/bazel-genquery.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/08/bazel-genquery.html]]></guid>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Something Rather Than Nothing]]></title>
     <description><![CDATA[https://racecondition.software/]]></description>
     <link><![CDATA[https://racecondition.software/blog/site-search]]></link>
@@ -453,22 +469,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://collin.blog/]]></description>
     <link><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></link>
     <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[16 short prompts I type to my coding agents]]></title>
-    <description><![CDATA[https://hboon.com/]]></description>
-    <link><![CDATA[https://hboon.com/16-short-prompts-i-type-to-my-coding-agents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://hboon.com/16-short-prompts-i-type-to-my-coding-agents]]></guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Issue 098: Apple]]></title>
-    <description><![CDATA[https://deprogrammaticaipsum.com/]]></description>
-    <link><![CDATA[https://deprogrammaticaipsum.com/issue-98-apple/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://deprogrammaticaipsum.com/issue-98-apple/]]></guid>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
