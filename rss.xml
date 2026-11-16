@@ -6,7 +6,39 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 16 Nov 2026 05:16:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 15:05:48 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Xcode Instruments usage to improve app performance]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/]]></guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Putting “Better” Before “Faster” - Fatbobman's Swift Weekly #162]]></title>
+    <description><![CDATA[https://fatbobman.com/en/]]></description>
+    <link><![CDATA[https://fatbobman.com/en/weekly/issue-162/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-162/]]></guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Agentic Engineering in Teams: Building Practices People Can Trust]]></title>
+    <description><![CDATA[https://livsycode.com/]]></description>
+    <link><![CDATA[https://livsycode.com/best-practices/agentic-engineering-in-teams-building-practices-people-can-trust/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/agentic-engineering-in-teams-building-practices-people-can-trust/]]></guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Sort Document Names Naturally And Keep Ties Predictable]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/sort-document-names-naturally-and-keep-ties-predictable/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/sort-document-names-naturally-and-keep-ties-predictable/]]></guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Google Maps for Claude]]></title>
@@ -45,14 +77,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://appforce1.net/blog/]]></description>
     <link><![CDATA[https://appforce1.net/blog/a-location-push-is-not-a-background-task]]></link>
     <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/a-location-push-is-not-a-background-task]]></guid>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Multi-Agent Development: When Parallel Work Helps and How to Keep It Under Control]]></title>
-    <description><![CDATA[https://livsycode.com/]]></description>
-    <link><![CDATA[https://livsycode.com/best-practices/multi-agent-development-when-parallel-work-helps-and-how-to-keep-it-under-control/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://livsycode.com/best-practices/multi-agent-development-when-parallel-work-helps-and-how-to-keep-it-under-control/]]></guid>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -165,14 +189,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mzeeshan.me/blog]]></description>
     <link><![CDATA[https://mzeeshan.me/blog/remove-image-background-vision-framework-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://mzeeshan.me/blog/remove-image-background-vision-framework-swift]]></guid>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Keep Resources With The Swift Package That Owns Them]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/keep-resources-with-the-swift-package-that-owns-them/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/keep-resources-with-the-swift-package-that-owns-them/]]></guid>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -313,26 +329,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Reflections on Judging a Student Mobile App Competition - Fatbobman's Swift Weekly #161]]></title>
-    <description><![CDATA[https://fatbobman.com/en/]]></description>
-    <link><![CDATA[https://fatbobman.com/en/weekly/issue-161/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://fatbobman.com/en/weekly/issue-161/]]></guid>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Needle: What's Playing, Beside the Dock]]></title>
     <description><![CDATA[https://yorben.me]]></description>
     <link><![CDATA[https://yorben.me/#needle]]></link>
     <guid isPermaLink="true"><![CDATA[https://yorben.me/#needle]]></guid>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Agentic engineering: why I built the AI Fundamentals course]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/ai-development/agentic-engineering-ai-fundamentals-course/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/agentic-engineering-ai-fundamentals-course/]]></guid>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -385,18 +385,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[ Continuous localization with L10N.md ]]></title>
-    <description><![CDATA[https://tuist.dev/]]></description>
-    <link><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></link>
-    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[App Store 2026 in numbers]]></title>
     <description><![CDATA[https://obelisk.club/blog]]></description>
     <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
     <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[ Continuous localization with L10N.md ]]></title>
+    <description><![CDATA[https://tuist.dev/]]></description>
+    <link><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></link>
+    <guid isPermaLink="true"><![CDATA[https://tuist.dev/blog/2026/11/06/continuous-localization]]></guid>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,14 +462,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://danielsaidi.com/blog/2026/11/04/creating-lightweight-web-based-videos-with-ai-and-remotion]]></link>
     <guid isPermaLink="true"><![CDATA[https://danielsaidi.com/blog/2026/11/04/creating-lightweight-web-based-videos-with-ai-and-remotion]]></guid>
     <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Got out and voted]]></title>
-    <description><![CDATA[https://collin.blog/]]></description>
-    <link><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://collin.blog/2026/11/02/got-out-and-voted/]]></guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
