@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 19 Nov 2026 01:47:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 10:02:10 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bound the Work Before the Model Runs: Gating On-Device Inference in TikTok's Android Client]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/bound-the-work-before-the-model-runs-gating-on-device-inference-in-tiktok-s-android-client]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/bound-the-work-before-the-model-runs-gating-on-device-inference-in-tiktok-s-android-client]]></guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Scroll-driven effects in SwiftUI: phases, geometry and scroll state]]></title>
+    <description><![CDATA[https://nilcoalescing.com]]></description>
+    <link><![CDATA[https://nilcoalescing.com/blog/ScrollDrivenEffectsInSwiftUI]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ScrollDrivenEffectsInSwiftUI]]></guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[EU Trader Status PSA]]></title>
@@ -17,10 +33,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[I Accidentally Got Claude Code and Codex Talking]]></title>
+    <description><![CDATA[https://samwize.com]]></description>
+    <link><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Build server-driven UI targeting]]></title>
     <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
     <link><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Why You Shouldn't Miss Antigravity app]]></title>
+    <description><![CDATA[https://wezzard.com/]]></description>
+    <link><![CDATA[https://wezzard.com/post/2026/11/making-antigravity-gui-usable-86d9/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://wezzard.com/post/2026/11/making-antigravity-gui-usable-86d9/]]></guid>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -49,18 +81,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shipping Solo]]></title>
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://dxn.studio/blog/shipping-solo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/shipping-solo/]]></guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -169,14 +201,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[9 Tips to Make Antigravity CLI Less Painful]]></title>
-    <description><![CDATA[https://wezzard.com/]]></description>
-    <link><![CDATA[https://wezzard.com/post/2026/11/making-antigravity-cli-usable-7276/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://wezzard.com/post/2026/11/making-antigravity-cli-usable-7276/]]></guid>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Google Maps for Claude]]></title>
     <description><![CDATA[https://adamwulf.me/]]></description>
     <link><![CDATA[https://adamwulf.me/2026/11/google-maps-claude-connector/]]></link>
@@ -225,18 +249,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[An Agent Framework Hiding Inside a Session: Dynamic Profiles in Foundation Models]]></title>
-    <description><![CDATA[https://ivanmagda.dev]]></description>
-    <link><![CDATA[https://ivanmagda.dev/posts/foundation-models-dynamic-profiles/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/foundation-models-dynamic-profiles/]]></guid>
+    <title><![CDATA[Touch on Mac: How to Support It in Your App (macOS 27)]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/11/touch-on-mac-support-in-your-app/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/11/touch-on-mac-support-in-your-app/]]></guid>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title><![CDATA[Your AI Agent Timed Out. Did It Still Do the Work?]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/your-ai-agent-timed-out-did-it-still-do-the-work]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/your-ai-agent-timed-out-did-it-still-do-the-work]]></guid>
+    <title><![CDATA[An Agent Framework Hiding Inside a Session: Dynamic Profiles in Foundation Models]]></title>
+    <description><![CDATA[https://ivanmagda.dev]]></description>
+    <link><![CDATA[https://ivanmagda.dev/posts/foundation-models-dynamic-profiles/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ivanmagda.dev/posts/foundation-models-dynamic-profiles/]]></guid>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +293,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://medium.com/@dkvekariya]]></description>
     <link><![CDATA[https://dkvekariya.medium.com/swiftui-views-and-modifiers-how-the-rendering-system-actually-works-4a415c81b08e?source=rss-6317b0b805bf------2]]></link>
     <guid isPermaLink="true"><![CDATA[https://dkvekariya.medium.com/swiftui-views-and-modifiers-how-the-rendering-system-actually-works-4a415c81b08e?source=rss-6317b0b805bf------2]]></guid>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[PR Screenshots Don't Eat Your GitHub Repo's 10 GB]]></title>
-    <description><![CDATA[https://samwize.com]]></description>
-    <link><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/]]></guid>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -377,14 +393,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[The effect of fixedSize() on view sizing and layout in SwiftUI]]></title>
-    <description><![CDATA[https://nilcoalescing.com]]></description>
-    <link><![CDATA[https://nilcoalescing.com/blog/TheEffectOfFixedSizeOnViewSizingAndLayoutInSwiftUI]]></link>
-    <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/TheEffectOfFixedSizeOnViewSizingAndLayoutInSwiftUI]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Use Your Android Phone as a Microphone for a Bluetooth Speaker (2026)]]></title>
     <description><![CDATA[https://bestlatestapps.com/blog/]]></description>
     <link><![CDATA[https://bestlatestapps.com/blog/android-phone-as-microphone-for-bluetooth-speaker/]]></link>
@@ -469,14 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://skarol.dev]]></description>
     <link><![CDATA[https://skarol.dev/posts/simulator-audio-crackle]]></link>
     <guid isPermaLink="true"><![CDATA[https://skarol.dev/posts/simulator-audio-crackle]]></guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Opening a panel right under the text caret on macOS]]></title>
-    <description><![CDATA[https://dev.to/berkay_gke_074ece66c73f]]></description>
-    <link><![CDATA[https://dev.to/berkay_gke_074ece66c73f/opening-a-panel-right-under-the-text-caret-on-macos-17af]]></link>
-    <guid isPermaLink="true"><![CDATA[https://dev.to/berkay_gke_074ece66c73f/opening-a-panel-right-under-the-text-caret-on-macos-17af]]></guid>
     <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
