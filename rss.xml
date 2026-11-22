@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 22 Nov 2026 05:34:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 14:17:33 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Bazel 10: Automatic Output Base Cleanup]]></title>
+    <description><![CDATA[https://adincebic.com]]></description>
+    <link><![CDATA[https://adincebic.com/2026/11/22/bazel-automatic-output-base-cleanup.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/22/bazel-automatic-output-base-cleanup.html]]></guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[What happens in a Cryo lease]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></guid>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Build server-driven UI targeting]]></title>
-    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
-    <link><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></link>
-    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -269,14 +269,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://mikezornek.com/]]></description>
     <link><![CDATA[https://mikezornek.com/posts/2026/11/exmex-notes/]]></link>
     <guid isPermaLink="true"><![CDATA[https://mikezornek.com/posts/2026/11/exmex-notes/]]></guid>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[My Opinion on Bazel Target Naming]]></title>
-    <description><![CDATA[https://adincebic.com]]></description>
-    <link><![CDATA[https://adincebic.com/2026/11/15/my-opinion-on-bazel-target.html]]></link>
-    <guid isPermaLink="true"><![CDATA[https://adincebic.com/2026/11/15/my-opinion-on-bazel-target.html]]></guid>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -477,6 +469,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[http://shapeof.com/]]></description>
     <link><![CDATA[https://shapeof.com/archives/2026/11/karri_saarinen_someone_behind_the_software.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/11/karri_saarinen_someone_behind_the_software.html]]></guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[The simulator is crackling again: what changed with Device Hub and how to fix it]]></title>
+    <description><![CDATA[https://skarol.dev]]></description>
+    <link><![CDATA[https://skarol.dev/posts/simulator-audio-crackle]]></link>
+    <guid isPermaLink="true"><![CDATA[https://skarol.dev/posts/simulator-audio-crackle]]></guid>
     <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
