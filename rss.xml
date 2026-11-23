@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sun, 22 Nov 2026 21:39:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 02:25:05 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[SwiftUI Doesn't Have a List. It Wraps Someone Else's.]]></title>
+    <description><![CDATA[https://aleahim.com]]></description>
+    <link><![CDATA[https://aleahim.com/blog/swiftui-has-no-list/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-has-no-list/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Why Bloomberg gift links don’t work in Safari on macOS Sequoia]]></title>
@@ -117,14 +125,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://nilcoalescing.com]]></description>
     <link><![CDATA[https://nilcoalescing.com/blog/ScrollDrivenEffectsInSwiftUI]]></link>
     <guid isPermaLink="true"><![CDATA[https://nilcoalescing.com/blog/ScrollDrivenEffectsInSwiftUI]]></guid>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Cupertino 1.6: Platform Filters, Apple's Tutorials, and One Search Engine]]></title>
-    <description><![CDATA[https://aleahim.com]]></description>
-    <link><![CDATA[https://aleahim.com/blog/cupertino-v1-6-5-tutorials-filters-one-engine/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/cupertino-v1-6-5-tutorials-filters-one-engine/]]></guid>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
