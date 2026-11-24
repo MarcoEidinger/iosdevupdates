@@ -6,7 +6,55 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Mon, 23 Nov 2026 14:11:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 02:50:07 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[External purchases on the EU App Store]]></title>
+    <description><![CDATA[https://alexpaul.dev/]]></description>
+    <link><![CDATA[https://alexpaul.dev/2026/11/23/external-purchases-on-the-eu-app-store/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2026/11/23/external-purchases-on-the-eu-app-store/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Running Track - Black Friday Deal]]></title>
+    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
+    <link><![CDATA[https://www.neilmacy.co.uk/blog/running-track-black-friday-2026/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/running-track-black-friday-2026/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[NVIDIA Board Reinstates Jensen Huang]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/23/nvidia-board-reinstates-jensen-huang/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/23/nvidia-board-reinstates-jensen-huang/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Open a SwiftUI View in a New Window]]></title>
+    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
+    <link><![CDATA[https://swiftdevjournal.com/posts/open-swiftui-view-in-new-window/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/open-swiftui-view-in-new-window/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Run History]]></title>
+    <description><![CDATA[https://www.thomashanning.com]]></description>
+    <link><![CDATA[https://www.thomashanning.com/run-history-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.thomashanning.com/run-history-2/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Xcode MCP vs xcodebuild: build and test speed compared]]></title>
+    <description><![CDATA[https://www.avanderlee.com]]></description>
+    <link><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-vs-xcodebuild/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/ai-development/xcode-mcp-vs-xcodebuild/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[macOS for the Masses, or macOS for Developers? - Fatbobman's Swift Weekly #163]]></title>
@@ -41,10 +89,42 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[AI, Understanding & Accountability]]></title>
+    <description><![CDATA[https://www.ioscoffeebreak.com/]]></description>
+    <link><![CDATA[https://www.ioscoffeebreak.com/issue/issue81]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.ioscoffeebreak.com/issue/issue81]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[cron & Calendar.RecurrenceRule]]></title>
+    <description><![CDATA[https://nshipster.com]]></description>
+    <link><![CDATA[https://nshipster.com/cron-and-calendar-recurrencerule]]></link>
+    <guid isPermaLink="true"><![CDATA[https://nshipster.com/cron-and-calendar-recurrencerule]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI Doesn't Have a List. It Wraps Someone Else's.]]></title>
     <description><![CDATA[https://aleahim.com]]></description>
     <link><![CDATA[https://aleahim.com/blog/swiftui-has-no-list/]]></link>
     <guid isPermaLink="true"><![CDATA[https://aleahim.com/blog/swiftui-has-no-list/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Cryo: builds that start warm]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/2026-11-23_cryo-builds-that-start-warm/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-23_cryo-builds-that-start-warm/]]></guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Frames is deprecated]]></title>
+    <description><![CDATA[https://blog.studiolanes.com/spatial]]></description>
+    <link><![CDATA[https://blog.studiolanes.com/frames]]></link>
+    <guid isPermaLink="true"><![CDATA[https://blog.studiolanes.com/frames]]></guid>
     <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -73,27 +153,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[What happens in a Cryo lease]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/2026-11-21_what-happens-in-a-cryo-lease/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-21_what-happens-in-a-cryo-lease/]]></guid>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[SwiftUI @State Is Now a Macro in Xcode 27 - Lazy Initialization and Migration]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-state-macro-xcode-27/]]></link>
     <guid isPermaLink="true"><![CDATA[https://www.sagarunagar.com/blog/swiftui-state-macro-xcode-27/]]></guid>
     <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Black Friday 2026]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/20/black-friday-2026/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/20/black-friday-2026/]]></guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -126,14 +190,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://en.kou-works.jp/blog/music-understanding-beats-in-silence/]]></link>
     <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/music-understanding-beats-in-silence/]]></guid>
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[First DNS for me. IRONMAN Cozumel]]></title>
-    <description><![CDATA[https://alexpaul.dev/]]></description>
-    <link><![CDATA[https://alexpaul.dev/2026/11/19/first-dns-for-me-ironman-cozumel/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://alexpaul.dev/2026/11/19/first-dns-for-me-ironman-cozumel/]]></guid>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -257,30 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Growing the Running Track Website]]></title>
-    <description><![CDATA[https://www.neilmacy.co.uk/]]></description>
-    <link><![CDATA[https://www.neilmacy.co.uk/blog/growing-the-running-track-website/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.neilmacy.co.uk/blog/growing-the-running-track-website/]]></guid>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Getting the Name of a SwiftUI Document]]></title>
-    <description><![CDATA[https://www.swiftdevjournal.com/]]></description>
-    <link><![CDATA[https://swiftdevjournal.com/posts/get-swiftui-document-name/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftdevjournal.com/posts/get-swiftui-document-name/]]></guid>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Xcode Instruments: Profile, Fix, and Verify Performance]]></title>
-    <description><![CDATA[https://www.avanderlee.com]]></description>
-    <link><![CDATA[https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/]]></guid>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Agentic Engineering in Teams: Building Practices People Can Trust]]></title>
     <description><![CDATA[https://livsycode.com/]]></description>
     <link><![CDATA[https://livsycode.com/best-practices/agentic-engineering-in-teams-building-practices-people-can-trust/]]></link>
@@ -393,6 +425,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Discovery Is Not Delivery]]></title>
+    <description><![CDATA[https://mfaani.com]]></description>
+    <link><![CDATA[https://mfaani.com/posts/career/discovery-is-not-delivery/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/career/discovery-is-not-delivery/]]></guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[Stop paying tokens for grep: compiler-accurate call graphs for AI agents]]></title>
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/map-not-grep/]]></link>
@@ -405,14 +445,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://elkraneo.com/]]></description>
     <link><![CDATA[https://elkraneo.com/realitybox3d/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/realitybox3d/]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[How Much More Expensive Has Life Become Since 2020?]]></title>
-    <description><![CDATA[https://mfaani.com]]></description>
-    <link><![CDATA[https://mfaani.com/posts/personal-finance/how-much-more-expensive-has-life-become-since-2020/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mfaani.com/posts/personal-finance/how-much-more-expensive-has-life-become-since-2020/]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -438,46 +470,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://roland.leth.ro/blog/tech/parsing-a-past-time-from-text-in-swift]]></link>
     <guid isPermaLink="true"><![CDATA[https://roland.leth.ro/blog/tech/parsing-a-past-time-from-text-in-swift]]></guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Find me on archive.org]]></title>
-    <description><![CDATA[https://www.fivestars.blog/]]></description>
-    <link><![CDATA[https://www.fivestars.blog/articles/find-me-on-archive-org]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.fivestars.blog/articles/find-me-on-archive-org]]></guid>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[MVC, MVP, MVVM, VIPER Which Ones Matter for SwiftUI?]]></title>
-    <description><![CDATA[https://www.swiftyplace.com/]]></description>
-    <link><![CDATA[https://www.swiftyplace.com/blog/architecture-comparison-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=architecture-comparison-swiftui]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.swiftyplace.com/blog/architecture-comparison-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=architecture-comparison-swiftui]]></guid>
-    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[IndeHub Hackathon 2026: Less Chaos, Better Apps, Harder Question]]></title>
-    <description><![CDATA[https://ohmyswift.com/blog/]]></description>
-    <link><![CDATA[https://ohmyswift.com/blog/2026/11/07/indehub-hackathon-2026-less-chaos-better-apps-harder-question]]></link>
-    <guid isPermaLink="true"><![CDATA[https://ohmyswift.com/blog/2026/11/07/indehub-hackathon-2026-less-chaos-better-apps-harder-question]]></guid>
-    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[App Store 2026 in numbers]]></title>
-    <description><![CDATA[https://obelisk.club/blog]]></description>
-    <link><![CDATA[https://obelisk.club/research/app-store-2026]]></link>
-    <guid isPermaLink="true"><![CDATA[https://obelisk.club/research/app-store-2026]]></guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[SimBuddy 2 – A Better BFF]]></title>
-    <description><![CDATA[https://furbo.org]]></description>
-    <link><![CDATA[https://furbo.org/2026/11/05/simbuddy-2-a-better-bff/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://furbo.org/2026/11/05/simbuddy-2-a-better-bff/]]></guid>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
