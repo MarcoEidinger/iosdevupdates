@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Wed, 25 Nov 2026 11:00:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:16:19 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Jetty Pro 1.0]]></title>
+    <description><![CDATA[https://mjtsai.com/blog/]]></description>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/25/jetty-pro-1-0/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/25/jetty-pro-1-0/]]></guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Acorn and Retrobatch 50% Off]]></title>
+    <description><![CDATA[http://shapeof.com/]]></description>
+    <link><![CDATA[https://shapeof.com/archives/2026/11/acorn_retrobatch_holiday_sale.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shapeof.com/archives/2026/11/acorn_retrobatch_holiday_sale.html]]></guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Physician, go back to med school]]></title>
@@ -25,11 +41,27 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Anatomy of Apple’s Personal Knowledge Graph]]></title>
-    <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/24/anatomy-of-apples-personal-knowledge-graph/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/24/anatomy-of-apples-personal-knowledge-graph/]]></guid>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <title><![CDATA[Making a Godot Plugin]]></title>
+    <description><![CDATA[https://www.massicotte.org/]]></description>
+    <link><![CDATA[https://massicotte.org/blog/making-a-godot-plugin/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/making-a-godot-plugin/]]></guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[iOS CI on your own Mac minis]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Let Readers Select Text Without Making It Editable]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/let-readers-select-text-without-making-it-editable/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/let-readers-select-text-without-making-it-editable/]]></guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -61,22 +93,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://apps.advoss.de/en/blog.html]]></description>
     <link><![CDATA[https://apps.advoss.de/en/blog/2026/interval-timers-done-right.html]]></link>
     <guid isPermaLink="true"><![CDATA[https://apps.advoss.de/en/blog/2026/interval-timers-done-right.html]]></guid>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Give your agent a Mac over MCP]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/2026-11-24_give-your-agent-a-mac-over-mcp/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-24_give-your-agent-a-mac-over-mcp/]]></guid>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Export Long Text To PDF Without Cutting It Off]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/export-long-text-to-pdf-without-cutting-it-off/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/export-long-text-to-pdf-without-cutting-it-off/]]></guid>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -141,14 +157,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://yorben.me]]></description>
     <link><![CDATA[https://yorben.me/cockpit/]]></link>
     <guid isPermaLink="true"><![CDATA[https://yorben.me/cockpit/]]></guid>
-    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[A Music Journal]]></title>
-    <description><![CDATA[https://otavio.cc]]></description>
-    <link><![CDATA[https://otavio.cc/a-music-journal/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://otavio.cc/a-music-journal/]]></guid>
     <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -389,14 +397,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://build.ms]]></description>
     <link><![CDATA[https://build.ms/notes/2026/11/14/2027-is-going-to-be-a-bonkers-year-for-ai/]]></link>
     <guid isPermaLink="true"><![CDATA[https://build.ms/notes/2026/11/14/2027-is-going-to-be-a-bonkers-year-for-ai/]]></guid>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Trust and Authorship]]></title>
-    <description><![CDATA[https://www.massicotte.org/]]></description>
-    <link><![CDATA[https://massicotte.org/blog/trust-and-authorship/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/trust-and-authorship/]]></guid>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
