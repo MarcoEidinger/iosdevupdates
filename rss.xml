@@ -6,7 +6,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 26 Nov 2026 13:54:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 22:56:50 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[Do iOS 2026: What People Said About Do iOS 2026 in Amsterdam]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/do-ios-2026-positive-vibes]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/do-ios-2026-positive-vibes]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Super Mario Bros. in a QR Code]]></title>
@@ -17,10 +25,26 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Protecting Your Developer Setup After the 1Password Security Incident]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/protecting-your-developer-setup]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/protecting-your-developer-setup]]></guid>
+    <title><![CDATA[Mobile app audit checklist]]></title>
+    <description><![CDATA[https://shahidhussain.dev/blog/]]></description>
+    <link><![CDATA[https://shahidhussain.dev/blog/mobile-app-audit-checklist/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://shahidhussain.dev/blog/mobile-app-audit-checklist/]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Building a zero-wakeup macOS capture app and cutting Core ML OCR memory by 4×]]></title>
+    <description><![CDATA[https://moraxcheng.me/blog]]></description>
+    <link><![CDATA[https://moraxcheng.me/blog/ohmyshot-zero-wakeup-coreml-ocr-ram]]></link>
+    <guid isPermaLink="true"><![CDATA[https://moraxcheng.me/blog/ohmyshot-zero-wakeup-coreml-ocr-ram]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Two VMs per Mac]]></title>
+    <description><![CDATA[https://rizwan.dev]]></description>
+    <link><![CDATA[https://rizwan.dev/blog/2026-11-26_two-vms-per-mac/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-26_two-vms-per-mac/]]></guid>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -61,14 +85,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://www.massicotte.org/]]></description>
     <link><![CDATA[https://massicotte.org/blog/making-a-godot-plugin/]]></link>
     <guid isPermaLink="true"><![CDATA[https://massicotte.org/blog/making-a-godot-plugin/]]></guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[iOS CI on your own Mac minis]]></title>
-    <description><![CDATA[https://rizwan.dev]]></description>
-    <link><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></guid>
     <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -297,18 +313,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shipping Solo]]></title>
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://dxn.studio/blog/shipping-solo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/shipping-solo/]]></guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -462,22 +478,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://elkraneo.com/realitybox3d/]]></link>
     <guid isPermaLink="true"><![CDATA[https://elkraneo.com/realitybox3d/]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reckless vibe-coding is on the rise in tech companies and needs to stop]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Release Testing with Agents]]></title>
-    <description><![CDATA[https://kean.blog/]]></description>
-    <link><![CDATA[https://kean.blog/post/release-testing-with-agents]]></link>
-    <guid isPermaLink="true"><![CDATA[https://kean.blog/post/release-testing-with-agents]]></guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
