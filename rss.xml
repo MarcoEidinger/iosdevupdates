@@ -6,14 +6,30 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Thu, 26 Nov 2026 04:01:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 13:54:01 +0000</lastBuildDate>
 
 <item>
-    <title><![CDATA[Jetty Pro 1.0]]></title>
+    <title><![CDATA[Super Mario Bros. in a QR Code]]></title>
     <description><![CDATA[https://mjtsai.com/blog/]]></description>
-    <link><![CDATA[https://mjtsai.com/blog/2026/11/25/jetty-pro-1-0/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/25/jetty-pro-1-0/]]></guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <link><![CDATA[https://mjtsai.com/blog/2026/11/26/super-mario-bros-in-a-qr-code/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://mjtsai.com/blog/2026/11/26/super-mario-bros-in-a-qr-code/]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Protecting Your Developer Setup After the 1Password Security Incident]]></title>
+    <description><![CDATA[https://appforce1.net/blog/]]></description>
+    <link><![CDATA[https://appforce1.net/blog/protecting-your-developer-setup]]></link>
+    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/protecting-your-developer-setup]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Keep One Bad JSON Row From Emptying A Swift Feed]]></title>
+    <description><![CDATA[https://www.theswift.dev]]></description>
+    <link><![CDATA[https://www.theswift.dev/posts/keep-one-bad-json-row-from-emptying-a-swift-feed/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/keep-one-bad-json-row-from-emptying-a-swift-feed/]]></guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -54,22 +70,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <link><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></link>
     <guid isPermaLink="true"><![CDATA[https://rizwan.dev/blog/2026-11-25_ios-ci-on-your-own-mac-minis/]]></guid>
     <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Let Readers Select Text Without Making It Editable]]></title>
-    <description><![CDATA[https://www.theswift.dev]]></description>
-    <link><![CDATA[https://www.theswift.dev/posts/let-readers-select-text-without-making-it-editable/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://www.theswift.dev/posts/let-readers-select-text-without-making-it-editable/]]></guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Auditing AI-Generated Swift: What 20+ Years of Experience Catches That LLMs Miss]]></title>
-    <description><![CDATA[https://appforce1.net/blog/]]></description>
-    <link><![CDATA[https://appforce1.net/blog/auditing-ai-generated-swift]]></link>
-    <guid isPermaLink="true"><![CDATA[https://appforce1.net/blog/auditing-ai-generated-swift]]></guid>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
 <item>
