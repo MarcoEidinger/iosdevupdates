@@ -6,7 +6,23 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <title><![CDATA[iOSDevUpdates]]></title>
 <description><![CDATA[The slightly different feed aggregator powered by the iOS Dev Directory]]></description>
 <link>https://www.iosdevupdates.com/</link>
-<lastBuildDate>Sat, 28 Nov 2026 01:16:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 09:55:37 +0000</lastBuildDate>
+
+<item>
+    <title><![CDATA[7 On-Device AI Patterns Worth Copying, From Reading TikTok's Android App]]></title>
+    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
+    <link><![CDATA[https://sairamkotha.hashnode.dev/7-on-device-ai-patterns-worth-copying-from-reading-tiktok-s-android-app]]></link>
+    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/7-on-device-ai-patterns-worth-copying-from-reading-tiktok-s-android-app]]></guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Vision's maximumAspectRatio does nothing above 1.0]]></title>
+    <description><![CDATA[https://en.kou-works.jp]]></description>
+    <link><![CDATA[https://en.kou-works.jp/blog/vision-maximum-aspect-ratio/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/vision-maximum-aspect-ratio/]]></guid>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 
 <item>
     <title><![CDATA[Everything that's new in Running Track 2026.3.0]]></title>
@@ -225,6 +241,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
+    <title><![CDATA[Swift Bharat 2026 Mumbai: Day 2 Highlights, Sessions & My Experience]]></title>
+    <description><![CDATA[https://ashishkakkad.com/]]></description>
+    <link><![CDATA[https://ashishkakkad.com/2026/11/swift-bharat-2026-mumbai-day-2/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://ashishkakkad.com/2026/11/swift-bharat-2026-mumbai-day-2/]]></guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
     <title><![CDATA[SwiftUI @State Is Now a Macro in Xcode 27 - Lazy Initialization and Migration]]></title>
     <description><![CDATA[https://www.sagarunagar.com/blog/tags/all/]]></description>
     <link><![CDATA[https://www.sagarunagar.com/blog/swiftui-state-macro-xcode-27/]]></link>
@@ -249,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Apple's beat detector finds 40 beats in silence]]></title>
-    <description><![CDATA[https://en.kou-works.jp]]></description>
-    <link><![CDATA[https://en.kou-works.jp/blog/music-understanding-beats-in-silence/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://en.kou-works.jp/blog/music-understanding-beats-in-silence/]]></guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Super 909 is here. This one’s free!]]></title>
     <description><![CDATA[https://audiokitpro.com/blog-2/]]></description>
     <link><![CDATA[https://audiokitpro.com/releasedsuper909/]]></link>
@@ -265,18 +281,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Bound the Work Before the Model Runs: Gating On-Device Inference in TikTok's Android Client]]></title>
-    <description><![CDATA[https://sairamkotha.hashnode.dev]]></description>
-    <link><![CDATA[https://sairamkotha.hashnode.dev/bound-the-work-before-the-model-runs-gating-on-device-inference-in-tiktok-s-android-client]]></link>
-    <guid isPermaLink="true"><![CDATA[https://sairamkotha.hashnode.dev/bound-the-work-before-the-model-runs-gating-on-device-inference-in-tiktok-s-android-client]]></guid>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[I Accidentally Got Claude Code and Codex Talking]]></title>
     <description><![CDATA[https://samwize.com]]></description>
     <link><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></link>
     <guid isPermaLink="true"><![CDATA[https://samwize.com/2026/11/19/i-accidentally-got-claude-code-and-codex-talking/]]></guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Build server-driven UI targeting]]></title>
+    <description><![CDATA[https://soumyamahunt.medium.com/]]></description>
+    <link><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></link>
+    <guid isPermaLink="true"><![CDATA[https://soumyamahunt.medium.com/build-server-driven-ui-targeting-cdf4a0c6ccfb?source=rss-41d824adb39d------2]]></guid>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -305,18 +321,18 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 </item>
 
 <item>
-    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
-    <description><![CDATA[https://salari.dev]]></description>
-    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
     <title><![CDATA[Shipping Solo]]></title>
     <description><![CDATA[https://www.stphndxn.com/]]></description>
     <link><![CDATA[https://dxn.studio/blog/shipping-solo/]]></link>
     <guid isPermaLink="true"><![CDATA[https://dxn.studio/blog/shipping-solo/]]></guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title><![CDATA[Senior iOS developer interview questions and answers (2026): 15 scenarios]]></title>
+    <description><![CDATA[https://salari.dev]]></description>
+    <link><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></link>
+    <guid isPermaLink="true"><![CDATA[https://salari.dev/writing/senior-ios-developer-interview-questions-answers/]]></guid>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
@@ -461,22 +477,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <description><![CDATA[https://arturgruchala.com/]]></description>
     <link><![CDATA[https://arturgruchala.com/map-not-grep/]]></link>
     <guid isPermaLink="true"><![CDATA[https://arturgruchala.com/map-not-grep/]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[RealityBox3D]]></title>
-    <description><![CDATA[https://elkraneo.com/]]></description>
-    <link><![CDATA[https://elkraneo.com/realitybox3d/]]></link>
-    <guid isPermaLink="true"><![CDATA[https://elkraneo.com/realitybox3d/]]></guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-
-<item>
-    <title><![CDATA[Reckless vibe-coding is on the rise in tech companies and needs to stop]]></title>
-    <description><![CDATA[https://swiftrocks.com/]]></description>
-    <link><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></link>
-    <guid isPermaLink="true"><![CDATA[https://swiftrocks.com/reckless-vibe-coding-is-on-the-rise-in-tech-companies-and-needs-to-be-stopped]]></guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 
